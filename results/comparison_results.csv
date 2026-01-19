@@ -1,0 +1,2 @@
+page,llm,townland,sum_land_val,total_land_val,sum_total_val,total_total_val,is_correct
+IRE_GRIFF_004_065.jpg,openai,DEEPSTOWN,"(84, 12, 0)",19800,"(88, 11, 0)",1620,False

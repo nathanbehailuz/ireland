@@ -9,66 +9,158 @@ import time
 import re
 import logging
 import pandas as pd
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
+# API configuration
+# Note: Configure API keys as environment variables before using each model
 API_URL = {
-    "claude": "https://api.anthropic.com/v1/messages"
+    "claude": "https://api.anthropic.com/v1/messages",
+    "openai": "https://api.openai.com/v1/chat/completions",  # TODO: Configure before use
+    "gemini": "https://generativelanguage.googleapis.com/v1beta/models",  # TODO: Configure before use
 }
 
+LLM_HEADERS = {
+    "claude": {
+        "x-api-key": os.getenv("claude_api_key"),
+        "anthropic-version": "2023-06-01",
+        "content-type": "application/json"
+    },
+    "openai": {
+        "Authorization": f"Bearer {os.getenv('openai_api_key')}",
+        "Content-Type": "application/json"
+    },
+    "gemini": {
+        "Content-Type": "application/json"
+        # Gemini uses API key as query parameter, not header
+    }
+}
+
+LLM_MODELS = {
+    "claude": "claude-sonnet-4-20250514",
+    "openai": "gpt-4o",
+    "gemini": "gemini-2.0-flash-exp"  # Using experimental 2.0 flash model
+}
 
 def encode_image_to_base64(image_path):
     """Convert an image to base64 encoding."""
     with open(image_path, "rb") as image_file:
         return base64.b64encode(image_file.read()).decode('utf-8')
 
-def query_claude(image_path, prompt):
-    """Send an image to Claude API and get a structured response."""
+def query_model(model, image_path, prompt):
+    """Send an image to model's API and get a structured response."""
     try:
         # Encode image
         base64_image = encode_image_to_base64(image_path)
         
-        headers = {
-            "x-api-key": ANTHROPIC_API_KEY,
-            "anthropic-version": "2023-06-01",
-            "content-type": "application/json"
-        }
+        headers = LLM_HEADERS[model]
         
-        payload = {
-            "model": "claude-sonnet-4-20250514",
-            "max_tokens": 20000,
-            "temperature": 0.0,
-            "messages": [
-                {
-                    "role": "user",
-                    "content": [
-                        {
-                            "type": "image",
-                            "source": {
-                                "type": "base64",
-                                "media_type": "image/jpeg",
-                                "data": base64_image
+        # Build payload based on model
+        if model == "claude":
+            payload = {
+                "model": LLM_MODELS[model],
+                "max_tokens": 20000,
+                "temperature": 0.0,
+                "messages": [
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "image",
+                                "source": {
+                                    "type": "base64",
+                                    "media_type": "image/jpeg",
+                                    "data": base64_image
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": prompt
                             }
-                        },
-                        {
-                            "type": "text",
-                            "text": prompt
-                        }
-                    ]
+                        ]
+                    }
+                ]
+            }
+            api_url = API_URL[model]
+            
+        elif model == "openai":
+            payload = {
+                "model": LLM_MODELS[model],
+                "max_tokens": 16000,  # OpenAI max is 16384
+                "temperature": 0.0,
+                "messages": [
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": f"data:image/jpeg;base64,{base64_image}"
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": prompt
+                            }
+                        ]
+                    }
+                ]
+            }
+            api_url = API_URL[model]
+            
+        elif model == "gemini":
+            payload = {
+                "contents": [
+                    {
+                        "parts": [
+                            {
+                                "inline_data": {
+                                    "mime_type": "image/jpeg",
+                                    "data": base64_image
+                                }
+                            },
+                            {
+                                "text": prompt
+                            }
+                        ]
+                    }
+                ],
+                "generationConfig": {
+                    "temperature": 0.0,
+                    "maxOutputTokens": 20000
                 }
-            ]
-        }
+            }
+            # Construct full Gemini URL with API key
+            api_url = f"{API_URL[model]}/{LLM_MODELS[model]}:generateContent?key={os.getenv('gemini_api_key')}"
         
-        response = requests.post(CLAUDE_API_URL, headers=headers, json=payload)
-        
+        else:
+            raise ValueError(f"Unsupported model: {model}")
+
+        response = requests.post(api_url, headers=headers, json=payload)
+
         if response.status_code == 200:
             response_data = response.json()
             
-            # Display token usage
-            input_tokens = response_data.get('usage', {}).get('input_tokens', 0)
-            output_tokens = response_data.get('usage', {}).get('output_tokens', 0)
-            logging.info(f"Token usage - Input: {input_tokens}, Output: {output_tokens}, Total: {input_tokens + output_tokens}")
+            # Display token usage (format varies by model)
+            if model == "claude":
+                input_tokens = response_data.get('usage', {}).get('input_tokens', 0)
+                output_tokens = response_data.get('usage', {}).get('output_tokens', 0)
+                logging.info(f"Token usage - Input: {input_tokens}, Output: {output_tokens}, Total: {input_tokens + output_tokens}")
+            elif model == "openai":
+                input_tokens = response_data.get('usage', {}).get('prompt_tokens', 0)
+                output_tokens = response_data.get('usage', {}).get('completion_tokens', 0)
+                logging.info(f"Token usage - Input: {input_tokens}, Output: {output_tokens}, Total: {input_tokens + output_tokens}")
+            elif model == "gemini":
+                # Gemini has different token usage structure
+                usage = response_data.get('usageMetadata', {})
+                input_tokens = usage.get('promptTokenCount', 0)
+                output_tokens = usage.get('candidatesTokenCount', 0)
+                logging.info(f"Token usage - Input: {input_tokens}, Output: {output_tokens}, Total: {input_tokens + output_tokens}")
             
             return response_data
         else:
@@ -77,22 +169,48 @@ def query_claude(image_path, prompt):
             return None
             
     except Exception as e:
-        logging.error(f"Error in Claude API request: {e}")
+        logging.error(f"Error in {model} API request: {e}")
         return None
 
 def extract_json_from_content(content):
-    """Extract JSON from Claude's response content, trying multiple approaches."""
-    # Try to find JSON within markdown code blocks
-
+    """Extract JSON from model's response content, trying multiple approaches."""
+    # Fix common issues
     content = content.replace('""sublocation_2"', '"sublocation_2"')
-
+    
+    # Try to find JSON within markdown code blocks (with or without closing backticks)
+    # First try with closing backticks (complete response)
     json_match = re.search(r'```(?:json)?\s*([\s\S]*?)\s*```', content)
+    if not json_match:
+        # Try without closing backticks (truncated response)
+        json_match = re.search(r'```(?:json)?\s*([\s\S]*)$', content, re.MULTILINE)
+    
     if json_match:
-        json_str = json_match.group(1)
-        try:
-            return json.loads(json_str)
-        except:
-            pass
+        json_str = json_match.group(1).strip()
+        # Try to find the last complete JSON object
+        start_idx = json_str.find('{')
+        end_idx = json_str.rfind('}')
+        if start_idx != -1 and end_idx != -1:
+            json_str = json_str[start_idx:end_idx+1]
+            try:
+                return json.loads(json_str)
+            except json.JSONDecodeError as e:
+                # If JSON is incomplete at the end, try to fix it
+                logging.warning(f"JSON parse error in code block: {e}")
+                # Find the last complete entry by looking for the last complete object
+                # Count opening and closing braces to find where to truncate
+                truncated_str = json_str[:e.pos]
+                # Find the last complete entry (last },)
+                last_complete = truncated_str.rfind('},')
+                if last_complete != -1:
+                    # Take everything up to and including the last complete entry
+                    truncated_str = truncated_str[:last_complete+1]
+                    # Now close the arrays and objects properly
+                    # We need to close: entries array, parish object, parishes array, main object
+                    truncated_str += '\n            ]\n        }\n    ]\n}'
+                    try:
+                        return json.loads(truncated_str)
+                    except Exception as e2:
+                        logging.warning(f"Failed to fix truncated JSON: {e2}")
     
     # Try to find a JSON object directly using regex pattern matching
     json_match = re.search(r'(\{[\s\S]*\})', content)
@@ -100,8 +218,8 @@ def extract_json_from_content(content):
         json_str = json_match.group(1)
         try:
             return json.loads(json_str)
-        except:
-            pass
+        except Exception as e:
+            logging.warning(f"JSON parse error in direct match: {e}")
     
     # Try to find the first occurrence of '{' and the last occurrence of '}'
     start_idx = content.find('{')
@@ -111,8 +229,8 @@ def extract_json_from_content(content):
         json_str = content[start_idx:end_idx+1]
         try:
             return json.loads(json_str)
-        except:
-            pass
+        except Exception as e:
+            logging.warning(f"JSON parse error with brace extraction: {e}")
     
     # Try cleaning up the content and loading as JSON directly
     try:
@@ -134,7 +252,7 @@ def extract_json_from_content(content):
     except:
         return None
 
-def extract_table_data(image_path):
+def extract_table_data(image_path, model):
     """Extract data from a valuation table image."""
     extraction_prompt = """
     Extract data from this historical valuation table image. 
@@ -229,14 +347,25 @@ def extract_table_data(image_path):
     Return only the JSON object and no other text.
     """
     
-    response = query_claude(image_path, extraction_prompt)
+    response = query_model(model, image_path, extraction_prompt)
     
     if not response:
         return None
     
-    # Extract the JSON content from the response
+    # Extract the JSON content from the response (format varies by model)
     try:
-        content = response['content'][0]['text']
+        content = None
+        
+        if model == "claude":
+            content = response['content'][0]['text']
+        elif model == "openai":
+            content = response['choices'][0]['message']['content']
+        elif model == "gemini":
+            content = response['candidates'][0]['content']['parts'][0]['text']
+        
+        if not content:
+            logging.error(f"No content extracted from {model} response")
+            return None
         
         # Try various approaches to extract the JSON
         data = extract_json_from_content(content)
@@ -256,8 +385,8 @@ def extract_table_data(image_path):
             return None
     
     except Exception as e:
-        logging.error(f"Error processing Claude response: {e}")
-        logging.error(f"Response content: {response['content'][0]['text'] if response and 'content' in response else 'No content'}")
+        logging.error(f"Error processing {model} response: {e}")
+        logging.error(f"Response structure: {response if response else 'No response'}")
         return None
 
 def save_to_csv(data, output_file):
@@ -356,7 +485,7 @@ def save_to_csv(data, output_file):
         logging.error(f"Error saving to CSV: {e}")
         return False
 
-def process_valuation_image(image_path, output_folder):
+def process_valuation_image(image_path, output_folder, model):
     """Process a specific valuation image file and save results to CSV."""
     # Create output folder if it doesn't exist
     os.makedirs(output_folder, exist_ok=True)
@@ -382,7 +511,7 @@ def process_valuation_image(image_path, output_folder):
             logging.error(f"Error using provided JSON file: {e}")
     
     # Extract data
-    data = extract_table_data(image_path)
+    data = extract_table_data(image_path, model)
     
     if data:
         # Create output filename
@@ -396,17 +525,17 @@ def process_valuation_image(image_path, output_folder):
         logging.error(f"Failed to extract data from {image_path}")
         return None
 
-def process_batch_from_csv():
+def process_batch_from_csv(model):
     """
     Process a batch of images based on a CSV file containing image details.
-    - Reads "claude_to_extract.csv" with columns "folder" and "target_filename"
+    - Reads "[model]_to_extract.csv" with columns "folder" and "target_filename"
     - Forms input path as "Nanonets/analysis/[folder]/[target_filename]"
     - Ensures [folder] has 3 characters with leading zeros (e.g., "001" for folder=1)
-    - Saves output to "Nanonets/claude_output/[target_filename].csv" (replacing .jpg with .csv)
+    - Saves output to "Nanonets/[model]_output/[target_filename].csv" (replacing .jpg with .csv)
     - Skips already processed images
     """
-    input_csv = "Nanonets/claude_to_extract.csv"
-    output_folder = "Nanonets/claude_output"
+    input_csv = f"Nanonets/{model}_to_extract.csv"
+    output_folder = f"Nanonets/{model}_output"
     
     # Create output directory if it doesn't exist
     os.makedirs(output_folder, exist_ok=True)
@@ -420,9 +549,6 @@ def process_batch_from_csv():
     try:
         # Read the CSV file
         batch_data = pd.read_csv(input_csv)
-        
-        #batch_data = batch_data[batch_data['folder'] == 182] # FIXME REMOVE THIS - LIMITED EXTRACTIONS
-        batch_data = batch_data[batch_data['folder'].between(298,299)] 
 
         logging.info(f"Found {len(batch_data)} images to process in {input_csv}")
         
@@ -449,7 +575,7 @@ def process_batch_from_csv():
             logging.info(f"Processing image {idx+1}/{len(batch_data)}: {input_path}")
             
             if os.path.exists(input_path):
-                result = process_valuation_image(input_path, output_folder)
+                result = process_valuation_image(input_path, output_folder, model)
                 
                 if result:
                     logging.info(f"Successfully processed: {target_filename}")
@@ -471,4 +597,3 @@ def process_batch_from_csv():
         logging.error(f"Error processing batch: {e}")
         return 0, 0, 0
 
-process_batch_from_csv()

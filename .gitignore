@@ -4,3 +4,4 @@ ideas.md
 .env.*
 config/secrets.*
 __pycache__/
+Nanonets/analysis/
