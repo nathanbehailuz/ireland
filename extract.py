@@ -14,8 +14,8 @@ from dotenv import load_dotenv
 # Load environment variables from .env file
 load_dotenv()
 
-# Set up logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+# Note: Logging is configured by the calling script (e.g., compare_llms.py)
+# Library modules should not configure logging themselves
 
 # API configuration
 # Note: Configure API keys as environment variables before using each model
@@ -43,8 +43,8 @@ LLM_HEADERS = {
 
 LLM_MODELS = {
     "claude": "claude-sonnet-4-20250514",
-    "openai": "gpt-4o",
-    "gemini": "gemini-2.0-flash-exp"  # Using experimental 2.0 flash model
+    "openai": "gpt-5.2",
+    "gemini": "gemini-3-pro-image-preview"  
 }
 
 def encode_image_to_base64(image_path):
@@ -91,7 +91,7 @@ def query_model(model, image_path, prompt):
         elif model == "openai":
             payload = {
                 "model": LLM_MODELS[model],
-                "max_tokens": 16000,  # OpenAI max is 16384
+                "max_completion_tokens": 16000,  
                 "temperature": 0.0,
                 "messages": [
                     {
@@ -146,21 +146,37 @@ def query_model(model, image_path, prompt):
         if response.status_code == 200:
             response_data = response.json()
             
+            # #region agent log
+            import json as json_lib
+            # #endregion
+            
             # Display token usage (format varies by model)
             if model == "claude":
                 input_tokens = response_data.get('usage', {}).get('input_tokens', 0)
                 output_tokens = response_data.get('usage', {}).get('output_tokens', 0)
+                max_tokens = 20000
                 logging.info(f"Token usage - Input: {input_tokens}, Output: {output_tokens}, Total: {input_tokens + output_tokens}")
+                # #region agent log
+                with open('/Users/nathanbehailu/Desktop/projects/ireland/.cursor/debug.log', 'a') as f: f.write(json_lib.dumps({"sessionId":"debug-session","runId":"initial","hypothesisId":"A,E","location":"extract.py:153","message":"token usage check","data":{"model":model,"output_tokens":output_tokens,"max_tokens":max_tokens,"utilization_pct":round(output_tokens/max_tokens*100,2),"is_near_limit":output_tokens > max_tokens * 0.9},"timestamp":__import__('time').time()*1000})+'\n')
+                # #endregion
             elif model == "openai":
                 input_tokens = response_data.get('usage', {}).get('prompt_tokens', 0)
                 output_tokens = response_data.get('usage', {}).get('completion_tokens', 0)
+                max_tokens = 16000
                 logging.info(f"Token usage - Input: {input_tokens}, Output: {output_tokens}, Total: {input_tokens + output_tokens}")
+                # #region agent log
+                with open('/Users/nathanbehailu/Desktop/projects/ireland/.cursor/debug.log', 'a') as f: f.write(json_lib.dumps({"sessionId":"debug-session","runId":"initial","hypothesisId":"A,E","location":"extract.py:163","message":"token usage check","data":{"model":model,"output_tokens":output_tokens,"max_tokens":max_tokens,"utilization_pct":round(output_tokens/max_tokens*100,2),"is_near_limit":output_tokens > max_tokens * 0.9},"timestamp":__import__('time').time()*1000})+'\n')
+                # #endregion
             elif model == "gemini":
                 # Gemini has different token usage structure
                 usage = response_data.get('usageMetadata', {})
                 input_tokens = usage.get('promptTokenCount', 0)
                 output_tokens = usage.get('candidatesTokenCount', 0)
+                max_tokens = 20000
                 logging.info(f"Token usage - Input: {input_tokens}, Output: {output_tokens}, Total: {input_tokens + output_tokens}")
+                # #region agent log
+                with open('/Users/nathanbehailu/Desktop/projects/ireland/.cursor/debug.log', 'a') as f: f.write(json_lib.dumps({"sessionId":"debug-session","runId":"initial","hypothesisId":"A,E","location":"extract.py:173","message":"token usage check","data":{"model":model,"output_tokens":output_tokens,"max_tokens":max_tokens,"utilization_pct":round(output_tokens/max_tokens*100,2),"is_near_limit":output_tokens > max_tokens * 0.9},"timestamp":__import__('time').time()*1000})+'\n')
+                # #endregion
             
             return response_data
         else:
@@ -173,7 +189,9 @@ def query_model(model, image_path, prompt):
         return None
 
 def extract_json_from_content(content):
-    """Extract JSON from model's response content, trying multiple approaches."""
+    """Extract JSON from model's response content, trying multiple approaches.
+    Returns: tuple (data, was_recovered) where was_recovered indicates if data was truncated/recovered
+    """
     # Fix common issues
     content = content.replace('""sublocation_2"', '"sublocation_2"')
     
@@ -192,10 +210,11 @@ def extract_json_from_content(content):
         if start_idx != -1 and end_idx != -1:
             json_str = json_str[start_idx:end_idx+1]
             try:
-                return json.loads(json_str)
+                return (json.loads(json_str), False)  # Success, not recovered
             except json.JSONDecodeError as e:
                 # If JSON is incomplete at the end, try to fix it
-                logging.warning(f"JSON parse error in code block: {e}")
+                logging.error(f"JSON parse error in code block: {e}")
+                logging.error(f"⚠️  ATTEMPTING DATA RECOVERY - Some entries may be lost!")
                 # Find the last complete entry by looking for the last complete object
                 # Count opening and closing braces to find where to truncate
                 truncated_str = json_str[:e.pos]
@@ -208,16 +227,20 @@ def extract_json_from_content(content):
                     # We need to close: entries array, parish object, parishes array, main object
                     truncated_str += '\n            ]\n        }\n    ]\n}'
                     try:
-                        return json.loads(truncated_str)
+                        recovered_data = json.loads(truncated_str)
+                        chars_lost = len(json_str) - e.pos
+                        logging.error(f"⚠️  DATA RECOVERY SUCCEEDED but {chars_lost} characters were truncated")
+                        logging.error(f"⚠️  Extracted data is INCOMPLETE - verify townland/entry counts!")
+                        return (recovered_data, True)  # Recovered, flag as incomplete
                     except Exception as e2:
-                        logging.warning(f"Failed to fix truncated JSON: {e2}")
+                        logging.error(f"Failed to fix truncated JSON: {e2}")
     
     # Try to find a JSON object directly using regex pattern matching
     json_match = re.search(r'(\{[\s\S]*\})', content)
     if json_match:
         json_str = json_match.group(1)
         try:
-            return json.loads(json_str)
+            return (json.loads(json_str), False)
         except Exception as e:
             logging.warning(f"JSON parse error in direct match: {e}")
     
@@ -228,13 +251,13 @@ def extract_json_from_content(content):
     if start_idx != -1 and end_idx != -1 and start_idx < end_idx:
         json_str = content[start_idx:end_idx+1]
         try:
-            return json.loads(json_str)
+            return (json.loads(json_str), False)
         except Exception as e:
             logging.warning(f"JSON parse error with brace extraction: {e}")
     
     # Try cleaning up the content and loading as JSON directly
     try:
-        return json.loads(content)
+        return (json.loads(content), False)
     except:
         pass
     
@@ -248,9 +271,9 @@ def extract_json_from_content(content):
         if '}' in content:
             content = content[:content.rfind('}')+1]
             
-        return json.loads(content)
+        return (json.loads(content), False)
     except:
-        return None
+        return (None, False)
 
 def extract_table_data(image_path, model):
     """Extract data from a valuation table image."""
@@ -368,9 +391,41 @@ def extract_table_data(image_path, model):
             return None
         
         # Try various approaches to extract the JSON
-        data = extract_json_from_content(content)
+        data, was_recovered = extract_json_from_content(content)
         
         if data:
+            # Handle case where Gemini with response_mime_type returns a flat array instead of nested structure
+            if isinstance(data, list):
+                logging.warning(f"[{model}] Received flat array instead of nested structure, wrapping in expected format")
+                data = {
+                    "parishes": [
+                        {
+                            "parish": "UNKNOWN",
+                            "entries": data
+                        }
+                    ]
+                }
+            elif isinstance(data, dict) and 'parishes' not in data:
+                logging.error(f"[{model}] Response is missing 'parishes' key. Keys found: {list(data.keys())}")
+                return None
+            
+            # #region agent log
+            import json as json_lib
+            num_parishes = len(data.get('parishes', []))
+            total_entries = sum(len(p.get('entries', [])) for p in data.get('parishes', []))
+            townlands = []
+            for p in data.get('parishes', []):
+                for e in p.get('entries', []):
+                    if e.get('townland', ''):
+                        townlands.append(e.get('townland', ''))
+            unique_townlands = list(set(townlands))
+            with open('/Users/nathanbehailu/Desktop/projects/ireland/.cursor/debug.log', 'a') as f: f.write(json_lib.dumps({"sessionId":"debug-session","runId":"initial","hypothesisId":"C,D","location":"extract.py:384","message":"JSON extracted successfully","data":{"model":model,"num_parishes":num_parishes,"total_entries":total_entries,"unique_townlands_with_names":len(unique_townlands),"unique_townland_list":unique_townlands,"content_length":len(content),"content_ends_with_closing_brace":content.rstrip().endswith('}'),"content_ends_with_backticks":content.rstrip().endswith('```'),"was_recovered":was_recovered},"timestamp":__import__('time').time()*1000})+'\n')
+            # #endregion
+            
+            if was_recovered:
+                logging.warning(f"⚠️  [{model}] Extracted {total_entries} entries from {num_parishes} parish(es)")
+                logging.warning(f"⚠️  [{model}] Data may be INCOMPLETE - recovery was needed due to malformed JSON")
+            
             return data
         else:
             logging.error("Couldn't extract valid JSON from the response")
@@ -588,7 +643,7 @@ def process_batch_from_csv(model):
                 failed_count += 1
             
             # Add a delay to avoid API rate limits
-            time.sleep(1)
+            time.sleep(0.5)
         
         logging.info(f"Batch processing complete: {processed_count} processed, {skipped_count} skipped, {failed_count} failed")
         return processed_count, skipped_count, failed_count

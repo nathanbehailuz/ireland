@@ -1,0 +1,288 @@
+2026-01-26 01:50:47,090 - INFO - Checking page IRE_GRIFF_204_112.jpg
+2026-01-26 01:50:47,090 - INFO - using claude
+2026-01-26 01:52:14,828 - INFO - Token usage - Input: 3326, Output: 8766, Total: 12092
+2026-01-26 01:52:14,889 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 01:52:14,892 - INFO - using openai
+2026-01-26 01:55:44,026 - INFO - Token usage - Input: 3360, Output: 7791, Total: 11151
+2026-01-26 01:55:44,080 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 01:55:44,082 - INFO - using gemini
+2026-01-26 01:58:05,977 - INFO - Token usage - Input: 1917, Output: 9053, Total: 10970
+2026-01-26 01:58:06,040 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 01:58:06,042 - INFO - Checking page IRE_GRIFF_134_029.jpg
+2026-01-26 01:58:06,042 - INFO - using claude
+2026-01-26 01:59:39,967 - INFO - Token usage - Input: 3311, Output: 10159, Total: 13470
+2026-01-26 01:59:40,034 - ERROR - Number of townlands in df_llm (1) is not equal to the number of townlands in df (2) for IRE_GRIFF_134_029.jpg and claude
+2026-01-26 01:59:40,034 - ERROR - df_llm: ['KILCOCK']
+2026-01-26 01:59:40,034 - ERROR - df: ['CONNAUGHT STREET', 'KILCOCK']
+2026-01-26 01:59:40,035 - ERROR - Failed to fuzzy match 'CONNAUGHT STREET' to any of the available townlands
+2026-01-26 01:59:40,035 - ERROR - df_llm: ['KILCOCK']
+2026-01-26 01:59:40,036 - ERROR - df: ['CONNAUGHT STREET', 'KILCOCK']
+2026-01-26 01:59:40,036 - WARNING - Skipping townland 'KILCOCK' for IRE_GRIFF_134_029.jpg (claude): No total row (is_total=1) found for townland 'KILCOCK'
+2026-01-26 01:59:40,036 - INFO - using openai
+2026-01-26 02:03:35,634 - INFO - Token usage - Input: 3398, Output: 8130, Total: 11528
+2026-01-26 02:03:35,699 - ERROR - Number of townlands in df_llm (1) is not equal to the number of townlands in df (2) for IRE_GRIFF_134_029.jpg and openai
+2026-01-26 02:03:35,700 - ERROR - df_llm: ['KILCOCK']
+2026-01-26 02:03:35,700 - ERROR - df: ['CONNAUGHT STREET', 'KILCOCK']
+2026-01-26 02:03:35,701 - ERROR - Failed to fuzzy match 'CONNAUGHT STREET' to any of the available townlands
+2026-01-26 02:03:35,701 - ERROR - df_llm: ['KILCOCK']
+2026-01-26 02:03:35,701 - ERROR - df: ['CONNAUGHT STREET', 'KILCOCK']
+2026-01-26 02:03:35,703 - INFO - using gemini
+2026-01-26 02:06:00,231 - INFO - Token usage - Input: 1917, Output: 9249, Total: 11166
+2026-01-26 02:06:00,297 - ERROR - Number of townlands in df_llm (1) is not equal to the number of townlands in df (2) for IRE_GRIFF_134_029.jpg and gemini
+2026-01-26 02:06:00,297 - ERROR - df_llm: ['KILCOCK']
+2026-01-26 02:06:00,297 - ERROR - df: ['CONNAUGHT STREET', 'KILCOCK']
+2026-01-26 02:06:00,298 - ERROR - Failed to fuzzy match 'CONNAUGHT STREET' to any of the available townlands
+2026-01-26 02:06:00,298 - ERROR - df_llm: ['KILCOCK']
+2026-01-26 02:06:00,299 - ERROR - df: ['CONNAUGHT STREET', 'KILCOCK']
+2026-01-26 02:06:00,299 - WARNING - Skipping townland 'KILCOCK' for IRE_GRIFF_134_029.jpg (gemini): No total row (is_total=1) found for townland 'KILCOCK'
+2026-01-26 02:06:00,299 - INFO - Checking page IRE_GRIFF_236_018.jpg
+2026-01-26 02:06:00,299 - INFO - using claude
+2026-01-26 02:07:45,985 - INFO - Token usage - Input: 3326, Output: 10768, Total: 14094
+2026-01-26 02:07:46,053 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 02:07:46,055 - WARNING - Skipping townland 'KNOCKNAMOE' for IRE_GRIFF_236_018.jpg (claude): No total row (is_total=1) found for townland 'KNOCKNAMOE'
+2026-01-26 02:07:46,055 - INFO - Fuzzy matched 'TOWN OF ABBEYLEIX MAINSTREET' to 'TOWN OF ABBEYLEIX, MAIN STREET' (similarity: 98.0%)
+2026-01-26 02:07:46,055 - WARNING - Skipping townland 'TOWN OF ABBEYLEIX MAINSTREET' for IRE_GRIFF_236_018.jpg (claude): No total row (is_total=1) found for townland 'TOWN OF ABBEYLEIX MAINSTREET'
+2026-01-26 02:07:46,056 - INFO - using openai
+2026-01-26 02:11:18,289 - INFO - Token usage - Input: 3360, Output: 8839, Total: 12199
+2026-01-26 02:11:18,348 - ERROR - Number of townlands in df_llm (1) is not equal to the number of townlands in df (2) for IRE_GRIFF_236_018.jpg and openai
+2026-01-26 02:11:18,348 - ERROR - df_llm: ['KNOCKNAMOE']
+2026-01-26 02:11:18,349 - ERROR - df: ['KNOCKNAMOE', 'TOWN OF ABBEYLEIX MAINSTREET']
+2026-01-26 02:11:18,350 - WARNING - Skipping townland 'KNOCKNAMOE' for IRE_GRIFF_236_018.jpg (openai): No total row (is_total=1) found for townland 'KNOCKNAMOE'
+2026-01-26 02:11:18,350 - ERROR - Failed to fuzzy match 'TOWN OF ABBEYLEIX MAINSTREET' to any of the available townlands
+2026-01-26 02:11:18,350 - ERROR - df_llm: ['KNOCKNAMOE']
+2026-01-26 02:11:18,351 - ERROR - df: ['KNOCKNAMOE', 'TOWN OF ABBEYLEIX MAINSTREET']
+2026-01-26 02:11:18,351 - INFO - using gemini
+2026-01-26 02:12:59,837 - INFO - Token usage - Input: 1917, Output: 6045, Total: 7962
+2026-01-26 02:12:59,854 - ERROR - Failed to process table data for IRE_GRIFF_236_018.jpg and gemini: 'parish'
+2026-01-26 02:12:59,855 - ERROR - Table structure: <class 'dict'> - ['parishes']
+2026-01-26 02:12:59,855 - INFO - Checking page IRE_GRIFF_196_008.jpg
+2026-01-26 02:12:59,855 - INFO - using claude
+2026-01-26 02:14:10,821 - INFO - Token usage - Input: 3326, Output: 7197, Total: 10523
+2026-01-26 02:14:10,866 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 02:14:10,867 - WARNING - Skipping townland 'COALPITPARKS' for IRE_GRIFF_196_008.jpg (claude): No total row (is_total=1) found for townland 'COALPITPARKS'
+2026-01-26 02:14:10,868 - WARNING - Skipping townland 'CONDONSTOWN' for IRE_GRIFF_196_008.jpg (claude): No total row (is_total=1) found for townland 'CONDONSTOWN'
+2026-01-26 02:14:10,868 - INFO - using openai
+2026-01-26 02:16:17,395 - INFO - Token usage - Input: 3398, Output: 5225, Total: 8623
+2026-01-26 02:16:17,445 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 02:16:17,446 - WARNING - Skipping townland 'COALPITPARKS' for IRE_GRIFF_196_008.jpg (openai): No total row (is_total=1) found for townland 'COALPITPARKS'
+2026-01-26 02:16:17,447 - WARNING - Skipping townland 'CONDONSTOWN' for IRE_GRIFF_196_008.jpg (openai): No total row (is_total=1) found for townland 'CONDONSTOWN'
+2026-01-26 02:16:17,447 - INFO - using gemini
+2026-01-26 02:17:51,862 - INFO - Token usage - Input: 1917, Output: 6372, Total: 8289
+2026-01-26 02:17:51,911 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 02:17:51,912 - WARNING - Skipping townland 'COALPITPARKS' for IRE_GRIFF_196_008.jpg (gemini): No total row (is_total=1) found for townland 'COALPITPARKS'
+2026-01-26 02:17:51,913 - WARNING - Skipping townland 'CONDONSTOWN' for IRE_GRIFF_196_008.jpg (gemini): No total row (is_total=1) found for townland 'CONDONSTOWN'
+2026-01-26 02:17:51,913 - INFO - Checking page IRE_GRIFF_231_134.jpg
+2026-01-26 02:17:51,913 - INFO - using claude
+2026-01-26 02:19:24,244 - INFO - Token usage - Input: 3339, Output: 9208, Total: 12547
+2026-01-26 02:19:24,302 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 02:19:24,303 - INFO - Fuzzy matched 'CARNBANE' to 'GARNBANE' (similarity: 87.5%)
+2026-01-26 02:19:24,305 - INFO - using openai
+2026-01-26 02:22:24,018 - INFO - Token usage - Input: 3375, Output: 7825, Total: 11200
+2026-01-26 02:22:24,172 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 02:22:24,175 - INFO - using gemini
+2026-01-26 02:24:45,793 - INFO - Token usage - Input: 1917, Output: 8984, Total: 10901
+2026-01-26 02:24:45,848 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 02:24:45,850 - INFO - Checking page IRE_GRIFF_263_075.jpg
+2026-01-26 02:24:45,850 - INFO - using claude
+2026-01-26 02:26:00,952 - INFO - Token usage - Input: 3326, Output: 7768, Total: 11094
+2026-01-26 02:26:01,005 - ERROR - Number of townlands in df_llm (3) is not equal to the number of townlands in df (4) for IRE_GRIFF_263_075.jpg and claude
+2026-01-26 02:26:01,005 - ERROR - df_llm: ['DEMESNE', 'GLEBE', 'GLENTARA']
+2026-01-26 02:26:01,006 - ERROR - df: ['DEMESNE', 'GLEBE', 'GLENTARA', 'TOWN OF ROSCREA']
+2026-01-26 02:26:01,008 - ERROR - Failed to fuzzy match 'TOWN OF ROSCREA' to any of the available townlands
+2026-01-26 02:26:01,009 - ERROR - df_llm: ['DEMESNE', 'GLEBE', 'GLENTARA']
+2026-01-26 02:26:01,009 - ERROR - df: ['DEMESNE', 'GLEBE', 'GLENTARA', 'TOWN OF ROSCREA']
+2026-01-26 02:26:01,009 - INFO - using openai
+2026-01-26 02:28:45,305 - INFO - Token usage - Input: 3415, Output: 6414, Total: 9829
+2026-01-26 02:28:45,362 - ERROR - Number of townlands in df_llm (3) is not equal to the number of townlands in df (4) for IRE_GRIFF_263_075.jpg and openai
+2026-01-26 02:28:45,363 - ERROR - df_llm: ['DEANESSE', 'GLEBE', 'GLENTARA']
+2026-01-26 02:28:45,363 - ERROR - df: ['DEMESNE', 'GLEBE', 'GLENTARA', 'TOWN OF ROSCREA']
+2026-01-26 02:28:45,364 - INFO - Fuzzy matched 'DEMESNE' to 'DEANESSE' (similarity: 66.7%)
+2026-01-26 02:28:45,366 - ERROR - Failed to fuzzy match 'TOWN OF ROSCREA' to any of the available townlands
+2026-01-26 02:28:45,367 - ERROR - df_llm: ['DEANESSE', 'GLEBE', 'GLENTARA']
+2026-01-26 02:28:45,367 - ERROR - df: ['DEMESNE', 'GLEBE', 'GLENTARA', 'TOWN OF ROSCREA']
+2026-01-26 02:28:45,367 - INFO - using gemini
+2026-01-26 02:30:28,240 - INFO - Token usage - Input: 1917, Output: 7405, Total: 9322
+2026-01-26 02:30:28,299 - ERROR - Number of townlands in df_llm (3) is not equal to the number of townlands in df (4) for IRE_GRIFF_263_075.jpg and gemini
+2026-01-26 02:30:28,299 - ERROR - df_llm: ['DEMESNE', 'GLEBE', 'GLENTARA']
+2026-01-26 02:30:28,299 - ERROR - df: ['DEMESNE', 'GLEBE', 'GLENTARA', 'TOWN OF ROSCREA']
+2026-01-26 02:30:28,302 - ERROR - Failed to fuzzy match 'TOWN OF ROSCREA' to any of the available townlands
+2026-01-26 02:30:28,302 - ERROR - df_llm: ['DEMESNE', 'GLEBE', 'GLENTARA']
+2026-01-26 02:30:28,303 - ERROR - df: ['DEMESNE', 'GLEBE', 'GLENTARA', 'TOWN OF ROSCREA']
+2026-01-26 02:30:28,303 - INFO - Checking page IRE_GRIFF_225_112.jpg
+2026-01-26 02:30:28,303 - INFO - using claude
+2026-01-26 02:31:50,975 - INFO - Token usage - Input: 3339, Output: 8355, Total: 11694
+2026-01-26 02:31:51,033 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 02:31:51,035 - INFO - using openai
+2026-01-26 02:34:15,522 - INFO - Token usage - Input: 3415, Output: 6355, Total: 9770
+2026-01-26 02:34:15,583 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 02:34:15,585 - INFO - using gemini
+2026-01-26 02:35:34,643 - INFO - Token usage - Input: 1917, Output: 4843, Total: 6760
+2026-01-26 02:35:34,696 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 02:35:34,698 - INFO - Checking page IRE_GRIFF_131_038.jpg
+2026-01-26 02:35:34,698 - INFO - using claude
+2026-01-26 02:37:07,401 - INFO - Token usage - Input: 3326, Output: 9532, Total: 12858
+2026-01-26 02:37:07,460 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 02:37:07,466 - WARNING - Skipping townland 'LODGEPARK' for IRE_GRIFF_131_038.jpg (claude): No total row (is_total=1) found for townland 'LODGEPARK'
+2026-01-26 02:37:07,466 - INFO - using openai
+2026-01-26 02:40:34,247 - INFO - Token usage - Input: 3398, Output: 7620, Total: 11018
+2026-01-26 02:40:34,307 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 02:40:34,308 - WARNING - Skipping townland 'BAYBUSH' for IRE_GRIFF_131_038.jpg (openai): invalid literal for int() with base 10: '£133'
+2026-01-26 02:40:34,309 - WARNING - Skipping townland 'GLEBE' for IRE_GRIFF_131_038.jpg (openai): invalid literal for int() with base 10: '£86'
+2026-01-26 02:40:34,309 - WARNING - Skipping townland 'IRISHTOWN, UP.' for IRE_GRIFF_131_038.jpg (openai): invalid literal for int() with base 10: '£216'
+2026-01-26 02:40:34,309 - INFO - Fuzzy matched 'LODGEPARK' to 'LODGE PARK' (similarity: 100.0%)
+2026-01-26 02:40:34,310 - WARNING - Skipping townland 'LODGEPARK' for IRE_GRIFF_131_038.jpg (openai): No total row (is_total=1) found for townland 'LODGEPARK'
+2026-01-26 02:40:34,310 - INFO - using gemini
+2026-01-26 02:41:59,941 - INFO - Token usage - Input: 1917, Output: 5920, Total: 7837
+2026-01-26 02:41:59,991 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 02:41:59,996 - WARNING - Skipping townland 'LODGEPARK' for IRE_GRIFF_131_038.jpg (gemini): No total row (is_total=1) found for townland 'LODGEPARK'
+2026-01-26 02:41:59,996 - INFO - Checking page IRE_GRIFF_262_089.jpg
+2026-01-26 02:41:59,996 - INFO - using claude
+2026-01-26 02:43:35,120 - INFO - Token usage - Input: 3326, Output: 9572, Total: 12898
+2026-01-26 02:43:35,174 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 02:43:35,175 - INFO - Fuzzy matched 'MANNA, SOUTH' to 'MAYNA, SOUTH' (similarity: 90.9%)
+2026-01-26 02:43:35,176 - WARNING - Skipping townland 'MANNA, SOUTH' for IRE_GRIFF_262_089.jpg (claude): No total row (is_total=1) found for townland 'MANNA, SOUTH'
+2026-01-26 02:43:35,176 - INFO - using openai
+2026-01-26 02:46:29,718 - INFO - Token usage - Input: 3415, Output: 7496, Total: 10911
+2026-01-26 02:46:29,778 - ERROR - Number of townlands in df_llm (4) is not equal to the number of townlands in df (6) for IRE_GRIFF_262_089.jpg and openai
+2026-01-26 02:46:29,778 - ERROR - df_llm: ['KNOCKANROE', 'KYLEBEG', 'LISNAVIDDOGE', 'MANYA']
+2026-01-26 02:46:29,779 - ERROR - df: ['KNOCKANROE', 'KYLEDEG', 'LISNAVIDDOGE, NORTH', 'LISNAVIDDOGE, SOUTH', 'MANNA, NORTH', 'MANNA, SOUTH']
+2026-01-26 02:46:29,780 - ERROR - Failed to fuzzy match 'MANNA, SOUTH' to any of the available townlands
+2026-01-26 02:46:29,780 - ERROR - df_llm: ['KNOCKANROE', 'KYLEBEG', 'LISNAVIDDOGE', 'MANYA']
+2026-01-26 02:46:29,780 - ERROR - df: ['KNOCKANROE', 'KYLEDEG', 'LISNAVIDDOGE, NORTH', 'LISNAVIDDOGE, SOUTH', 'MANNA, NORTH', 'MANNA, SOUTH']
+2026-01-26 02:46:29,780 - INFO - using gemini
+2026-01-26 02:48:28,451 - INFO - Token usage - Input: 1917, Output: 8794, Total: 10711
+2026-01-26 02:48:28,517 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 02:48:28,518 - WARNING - Skipping townland 'MANNA, SOUTH' for IRE_GRIFF_262_089.jpg (gemini): No total row (is_total=1) found for townland 'MANNA, SOUTH'
+2026-01-26 02:48:28,518 - INFO - Checking page IRE_GRIFF_136_019.jpg
+2026-01-26 02:48:28,518 - INFO - using claude
+2026-01-26 02:50:10,872 - INFO - Token usage - Input: 3326, Output: 10351, Total: 13677
+2026-01-26 02:50:10,945 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 02:50:10,946 - WARNING - Skipping townland 'RATHANGAN' for IRE_GRIFF_136_019.jpg (claude): No total row (is_total=1) found for townland 'RATHANGAN'
+2026-01-26 02:50:10,946 - INFO - using openai
+2026-01-26 02:53:41,162 - INFO - Token usage - Input: 3360, Output: 8051, Total: 11411
+2026-01-26 02:53:41,231 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 02:53:41,232 - WARNING - Skipping townland 'RATHANGAN' for IRE_GRIFF_136_019.jpg (openai): No total row (is_total=1) found for townland 'RATHANGAN'
+2026-01-26 02:53:41,232 - INFO - using gemini
+2026-01-26 02:55:57,949 - INFO - Token usage - Input: 1917, Output: 8046, Total: 9963
+2026-01-26 02:55:58,018 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 02:55:58,019 - WARNING - Skipping townland 'RATHANGAN' for IRE_GRIFF_136_019.jpg (gemini): No total row (is_total=1) found for townland 'RATHANGAN'
+2026-01-26 02:55:58,019 - INFO - Checking page IRE_GRIFF_139_017.jpg
+2026-01-26 02:55:58,019 - INFO - using claude
+2026-01-26 02:57:02,509 - INFO - Token usage - Input: 3339, Output: 6505, Total: 9844
+2026-01-26 02:57:02,556 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 02:57:02,560 - INFO - using openai
+2026-01-26 02:59:19,433 - INFO - Token usage - Input: 3375, Output: 5013, Total: 8388
+2026-01-26 02:59:19,481 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 02:59:19,483 - INFO - Fuzzy matched 'MABBOTSTOWN' to 'MABBOTSTOWN.' (similarity: 100.0%)
+2026-01-26 02:59:19,485 - INFO - using gemini
+2026-01-26 03:00:38,227 - INFO - Token usage - Input: 1917, Output: 4864, Total: 6781
+2026-01-26 03:00:38,277 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 03:00:38,281 - INFO - Checking page IRE_GRIFF_228_157.jpg
+2026-01-26 03:00:38,281 - INFO - using claude
+2026-01-26 03:01:54,048 - INFO - Token usage - Input: 3339, Output: 7734, Total: 11073
+2026-01-26 03:01:54,103 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 03:01:54,105 - INFO - using openai
+2026-01-26 03:04:57,452 - INFO - Token usage - Input: 3415, Output: 6988, Total: 10403
+2026-01-26 03:04:57,513 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 03:04:57,514 - INFO - Fuzzy matched 'MILLANNY' to 'KILLANNY' (similarity: 87.5%)
+2026-01-26 03:04:57,516 - INFO - using gemini
+2026-01-26 03:07:33,538 - INFO - Token usage - Input: 1917, Output: 8314, Total: 10231
+2026-01-26 03:07:33,604 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 03:07:33,605 - INFO - Fuzzy matched 'MILLANNY' to 'KILLANNY' (similarity: 87.5%)
+2026-01-26 03:07:33,607 - INFO - Checking page IRE_GRIFF_130_035.jpg
+2026-01-26 03:07:33,607 - INFO - using claude
+2026-01-26 03:09:09,973 - INFO - Token usage - Input: 3326, Output: 10724, Total: 14050
+2026-01-26 03:09:10,049 - ERROR - Number of townlands in df_llm (1) is not equal to the number of townlands in df (4) for IRE_GRIFF_130_035.jpg and claude
+2026-01-26 03:09:10,049 - ERROR - df_llm: ['MAYNOOTH']
+2026-01-26 03:09:10,050 - ERROR - df: ['CROSS-LANE', "DILLON'S-ROW", 'DUBLIN-LANE', 'MAYNOOTH']
+2026-01-26 03:09:10,051 - ERROR - Failed to fuzzy match 'CROSS-LANE' to any of the available townlands
+2026-01-26 03:09:10,051 - ERROR - df_llm: ['MAYNOOTH']
+2026-01-26 03:09:10,051 - ERROR - df: ['CROSS-LANE', "DILLON'S-ROW", 'DUBLIN-LANE', 'MAYNOOTH']
+2026-01-26 03:09:10,051 - ERROR - Failed to fuzzy match 'DILLON'S-ROW' to any of the available townlands
+2026-01-26 03:09:10,052 - ERROR - df_llm: ['MAYNOOTH']
+2026-01-26 03:09:10,052 - ERROR - df: ['CROSS-LANE', "DILLON'S-ROW", 'DUBLIN-LANE', 'MAYNOOTH']
+2026-01-26 03:09:10,052 - ERROR - Failed to fuzzy match 'DUBLIN-LANE' to any of the available townlands
+2026-01-26 03:09:10,052 - ERROR - df_llm: ['MAYNOOTH']
+2026-01-26 03:09:10,052 - ERROR - df: ['CROSS-LANE', "DILLON'S-ROW", 'DUBLIN-LANE', 'MAYNOOTH']
+2026-01-26 03:09:10,053 - WARNING - Skipping townland 'MAYNOOTH' for IRE_GRIFF_130_035.jpg (claude): No total row (is_total=1) found for townland 'MAYNOOTH'
+2026-01-26 03:09:10,053 - INFO - using openai
+2026-01-26 03:12:58,804 - INFO - Token usage - Input: 3415, Output: 8524, Total: 11939
+2026-01-26 03:12:58,890 - ERROR - Number of townlands in df_llm (1) is not equal to the number of townlands in df (4) for IRE_GRIFF_130_035.jpg and openai
+2026-01-26 03:12:58,891 - ERROR - df_llm: ['MAYNOOTH']
+2026-01-26 03:12:58,891 - ERROR - df: ['CROSS-LANE', "DILLON'S-ROW", 'DUBLIN-LANE', 'MAYNOOTH']
+2026-01-26 03:12:58,892 - ERROR - Failed to fuzzy match 'CROSS-LANE' to any of the available townlands
+2026-01-26 03:12:58,892 - ERROR - df_llm: ['MAYNOOTH']
+2026-01-26 03:12:58,893 - ERROR - df: ['CROSS-LANE', "DILLON'S-ROW", 'DUBLIN-LANE', 'MAYNOOTH']
+2026-01-26 03:12:58,893 - ERROR - Failed to fuzzy match 'DILLON'S-ROW' to any of the available townlands
+2026-01-26 03:12:58,893 - ERROR - df_llm: ['MAYNOOTH']
+2026-01-26 03:12:58,893 - ERROR - df: ['CROSS-LANE', "DILLON'S-ROW", 'DUBLIN-LANE', 'MAYNOOTH']
+2026-01-26 03:12:58,893 - ERROR - Failed to fuzzy match 'DUBLIN-LANE' to any of the available townlands
+2026-01-26 03:12:58,893 - ERROR - df_llm: ['MAYNOOTH']
+2026-01-26 03:12:58,894 - ERROR - df: ['CROSS-LANE', "DILLON'S-ROW", 'DUBLIN-LANE', 'MAYNOOTH']
+2026-01-26 03:12:58,894 - WARNING - Skipping townland 'MAYNOOTH' for IRE_GRIFF_130_035.jpg (openai): No total row (is_total=1) found for townland 'MAYNOOTH'
+2026-01-26 03:12:58,894 - INFO - using gemini
+2026-01-26 03:14:58,523 - INFO - Token usage - Input: 1917, Output: 7780, Total: 9697
+2026-01-26 03:14:58,591 - ERROR - Number of townlands in df_llm (1) is not equal to the number of townlands in df (4) for IRE_GRIFF_130_035.jpg and gemini
+2026-01-26 03:14:58,591 - ERROR - df_llm: ['MAYNOOTH']
+2026-01-26 03:14:58,592 - ERROR - df: ['CROSS-LANE', "DILLON'S-ROW", 'DUBLIN-LANE', 'MAYNOOTH']
+2026-01-26 03:14:58,592 - ERROR - Failed to fuzzy match 'CROSS-LANE' to any of the available townlands
+2026-01-26 03:14:58,593 - ERROR - df_llm: ['MAYNOOTH']
+2026-01-26 03:14:58,593 - ERROR - df: ['CROSS-LANE', "DILLON'S-ROW", 'DUBLIN-LANE', 'MAYNOOTH']
+2026-01-26 03:14:58,593 - ERROR - Failed to fuzzy match 'DILLON'S-ROW' to any of the available townlands
+2026-01-26 03:14:58,593 - ERROR - df_llm: ['MAYNOOTH']
+2026-01-26 03:14:58,594 - ERROR - df: ['CROSS-LANE', "DILLON'S-ROW", 'DUBLIN-LANE', 'MAYNOOTH']
+2026-01-26 03:14:58,594 - ERROR - Failed to fuzzy match 'DUBLIN-LANE' to any of the available townlands
+2026-01-26 03:14:58,594 - ERROR - df_llm: ['MAYNOOTH']
+2026-01-26 03:14:58,594 - ERROR - df: ['CROSS-LANE', "DILLON'S-ROW", 'DUBLIN-LANE', 'MAYNOOTH']
+2026-01-26 03:14:58,595 - WARNING - Skipping townland 'MAYNOOTH' for IRE_GRIFF_130_035.jpg (gemini): No total row (is_total=1) found for townland 'MAYNOOTH'
+2026-01-26 03:14:58,595 - INFO - Checking page IRE_GRIFF_079_049.jpg
+2026-01-26 03:14:58,595 - INFO - using claude
+2026-01-26 03:16:16,619 - INFO - Token usage - Input: 3326, Output: 8135, Total: 11461
+2026-01-26 03:16:16,673 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 03:16:16,674 - WARNING - Skipping townland 'BALLYVALLY' for IRE_GRIFF_079_049.jpg (claude): No total row (is_total=1) found for townland 'BALLYVALLY'
+2026-01-26 03:16:16,674 - INFO - using openai
+2026-01-26 03:19:12,246 - INFO - Token usage - Input: 3415, Output: 6684, Total: 10099
+2026-01-26 03:19:12,310 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 03:19:12,311 - WARNING - Skipping townland 'BALLYVALLY' for IRE_GRIFF_079_049.jpg (openai): No total row (is_total=1) found for townland 'BALLYVALLY'
+2026-01-26 03:19:12,311 - INFO - using gemini
+2026-01-26 03:20:56,049 - INFO - Token usage - Input: 1917, Output: 6065, Total: 7982
+2026-01-26 03:20:56,112 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 03:20:56,113 - WARNING - Skipping townland 'BALLYVALLY' for IRE_GRIFF_079_049.jpg (gemini): No total row (is_total=1) found for townland 'BALLYVALLY'
+2026-01-26 03:20:56,113 - INFO - Checking page IRE_GRIFF_142_087.jpg
+2026-01-26 03:20:56,113 - INFO - using claude
+2026-01-26 03:22:12,696 - INFO - Token usage - Input: 3339, Output: 7691, Total: 11030
+2026-01-26 03:22:12,750 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 03:22:12,751 - WARNING - Skipping townland 'ROSBERGON' for IRE_GRIFF_142_087.jpg (claude): No total row (is_total=1) found for townland 'ROSBERGON'
+2026-01-26 03:22:12,751 - INFO - using openai
+2026-01-26 03:25:25,549 - INFO - Token usage - Input: 3415, Output: 6617, Total: 10032
+2026-01-26 03:25:25,614 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 03:25:25,616 - INFO - Fuzzy matched 'ROSBERGON' to 'ROSBERCON' (similarity: 88.9%)
+2026-01-26 03:25:25,617 - WARNING - Skipping townland 'ROSBERGON' for IRE_GRIFF_142_087.jpg (openai): No total row (is_total=1) found for townland 'ROSBERGON'
+2026-01-26 03:25:25,617 - INFO - using gemini
+2026-01-26 03:26:59,214 - INFO - Token usage - Input: 1917, Output: 4366, Total: 6283
+2026-01-26 03:26:59,287 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 03:26:59,288 - INFO - Fuzzy matched 'ROSBERGON' to 'ROSBERCON' (similarity: 88.9%)
+2026-01-26 03:26:59,289 - WARNING - Skipping townland 'ROSBERGON' for IRE_GRIFF_142_087.jpg (gemini): No total row (is_total=1) found for townland 'ROSBERGON'
+2026-01-26 03:26:59,289 - INFO - Checking page IRE_GRIFF_024_059.jpg
+2026-01-26 03:26:59,289 - INFO - using claude
+2026-01-26 03:28:43,405 - INFO - Token usage - Input: 3326, Output: 10827, Total: 14153
+2026-01-26 03:28:43,477 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 03:28:43,480 - INFO - using openai
+2026-01-26 03:31:47,589 - INFO - Token usage - Input: 3415, Output: 6746, Total: 10161
+2026-01-26 03:31:47,656 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 03:31:47,659 - INFO - using gemini
+2026-01-26 03:33:54,840 - INFO - Token usage - Input: 1917, Output: 6211, Total: 8128
+2026-01-26 03:33:54,903 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 03:33:54,907 - INFO - Checking page IRE_GRIFF_018_430.jpg
+2026-01-26 03:33:54,907 - INFO - using claude
+2026-01-26 03:35:25,374 - INFO - Token usage - Input: 3339, Output: 9058, Total: 12397
+2026-01-26 03:35:25,436 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 03:35:25,438 - INFO - using openai
+2026-01-26 03:38:23,719 - INFO - Token usage - Input: 3375, Output: 7052, Total: 10427
+2026-01-26 03:38:23,766 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 03:38:23,766 - INFO - Fuzzy matched 'TULLYMORE AGOWAN' to 'TULLYMORE AGOWNA' (similarity: 93.3%)
+2026-01-26 03:38:23,769 - INFO - using gemini
+2026-01-26 03:40:01,637 - INFO - Token usage - Input: 1917, Output: 5699, Total: 7616
+2026-01-26 03:40:01,698 - INFO - Number of townlands in df_llm is equal to the number of townlands in df
+2026-01-26 03:40:01,700 - INFO - Checking page IRE_GRIFF_085_063.jpg
+2026-01-26 03:40:01,700 - INFO - using claude
