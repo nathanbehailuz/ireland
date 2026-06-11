@@ -1,0 +1,86 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF BALLYCLOGH",
+      "entries": [
+        {
+          "mr": "6 15",
+          "townland": "BALLYCLOGH",
+          "os": "",
+          "sublocation_1": "VILLAGE OF BALLYCLOGH",
+          "sublocation_2": "MAIN-STREET",
+          "occupier": "Wm.J.M'Cormick,Esq.",
+          "lessor": "Richard Gardiner,",
+          "desc": "Dispensary, off., & yard,",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 5 0",
+          "total_val": "4 5 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 1,
+          "is_continued": 0
+        }
+      ]
+    },
+    {
+      "parish": "PARISH OF BUTTEVANT",
+      "entries": [
+        {
+          "mr": "24 1",
+          "townland": "BUTTEVANT",
+          "os": "",
+          "sublocation_1": "TOWN OF BUTTEVANT",
+          "sublocation_2": "MAIN-STREET",
+          "occupier": "Constabulary force,",
+          "lessor": "Viscount Doneraile,",
+          "desc": "Police barrack, offices, yard, and garden,",
+          "area": "0 1 20",
+          "land_val": "0 15 0",
+          "building_val": "9 5 0",
+          "total_val": "10 0 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 1,
+          "is_continued": 0
+        },
+        {
+          "mr": "-",
+          "townland": "",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "The Grand Jury of Co. Cork,",
+          "lessor": "Viscount Doneraile,",
+          "desc": "Petty Sessions Court-ho.",
+          "area": "",
+          "land_val": "",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 1,
+          "is_continued": 0
+        },
+        {
+          "mr": "28 9",
+          "townland": "CREGGANE",
+          "os": "",
+          "sublocation_1": "TOWN OF BUTTEVANT",
+          "sublocation_2": "BARRACK-PLACE",
+          "occupier": "Board of Ordnance,",
+          "lessor": "Viscount Doneraile,",
+          "desc": "Military barrack, offices, and land,",
+          "area": "18 3 30",
+          "land_val": "",
+          "building_val": "567 0 0",
+          "total_val": "567 0 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 1,
+          "is_continued": 0
+        }
+      ]
+    }
+  ]
+}

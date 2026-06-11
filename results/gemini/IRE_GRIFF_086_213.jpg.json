@@ -1,0 +1,603 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF NEWTOWN ARDS",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "CORPORATION, NORTH",
+          "os": "6",
+          "occupier": "William Saunderson,",
+          "lessor": "Marquis of Londonderry",
+          "desc": "L",
+          "area": "18 3 24",
+          "land_val": "28 10 0",
+          "total_val": "28 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Mary M'Bride,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 0 25",
+          "land_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Andrew Streaton,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 2 5",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Patterson,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 12",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Reps. Joseph Carnduff,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 0 30",
+          "land_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Robert Thomas Munce,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 2 22",
+          "land_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Reps. Thomas Russell,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 0 37",
+          "land_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Robert Gourley,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 35",
+          "land_val": "5 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "9 A",
+          "occupier": "James Dalzell,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 3 20",
+          "land_val": "4 10 0",
+          "total_val": "8 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "James Dalzell,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 0 35",
+          "land_val": "4 0 0",
+          "total_val": "8 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B a",
+          "occupier": "James M'Gimpsey,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 2 15",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- - b",
+          "occupier": "Alexander Beatty,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 3 30",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "- - c",
+          "occupier": "David Dickson,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 2 30",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Robert Lindsay,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 0 30",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Samuel Crookes,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 0 30",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Daniel Brogan,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 0 30",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "William Syms,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 8",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Thomas Munce,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 3 17",
+          "land_val": "4 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Thomas Strean,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 3 10",
+          "land_val": "4 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "14 A",
+          "occupier": "Thomas Strean,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 1 32",
+          "land_val": "4 0 0",
+          "total_val": "10 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "15 A",
+          "occupier": "Thomas Kilfillen,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 2 5",
+          "land_val": "6 0 0",
+          "total_val": "10 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "- B",
+          "occupier": "Thomas Kilfillen,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 0 0",
+          "land_val": "1 10 0",
+          "total_val": "10 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "- C",
+          "occupier": "Thomas Kilfillen,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 1 5",
+          "land_val": "0 10 0",
+          "total_val": "10 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "16",
+          "occupier": "John Syms,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 2 32",
+          "land_val": "5 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Maria Strong,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 0",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Joseph Nicholson,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 0",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "William M'Cullagh,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 0",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Hugh M'Whinny,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 0",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "18 A",
+          "occupier": "Thomas Paisley,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 32",
+          "land_val": "1 10 0",
+          "total_val": "4 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "Thomas Paisley,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 1 15",
+          "land_val": "3 5 0",
+          "total_val": "4 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "19",
+          "occupier": "William M'Williams,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 2 20",
+          "land_val": "5 15 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Andrew Goopen,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 0 25",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Alexander Robb,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 3 5",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Anna Simpson,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 0",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "23 A",
+          "occupier": "Thomas M'Gimpsey,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 0 7",
+          "land_val": "1 10 0",
+          "total_val": "3 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "Thomas M'Gimpsey,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 0 0",
+          "land_val": "2 0 0",
+          "total_val": "3 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "24",
+          "occupier": "William Reed,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 0 5",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "John M'Climon,",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "4 1 0",
+          "land_val": "5 5 0",
+          "building_val": "1 0 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "James Finlay,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 0 35",
+          "land_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "William John Dawson,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 0 20",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "William John Dawson,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 2 23",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Henry Laverty,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 2 15",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "James M'Roberts,",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "5 2 0",
+          "land_val": "6 0 0",
+          "building_val": "1 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "James Moore,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 1 0",
+          "land_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "James Martin,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 1 15",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "Robert Henry,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 0 22",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Samuel Johnston,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 30",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Richard Dobbin,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 0 30",
+          "land_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "36 A",
+          "occupier": "Hugh M'Kee,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 37",
+          "land_val": "2 15 0",
+          "total_val": "4 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "Hugh M'Kee,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 3 23",
+          "land_val": "1 10 0",
+          "total_val": "4 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "37 A",
+          "occupier": "Alexander Dickson,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 0 20",
+          "land_val": "4 15 0",
+          "total_val": "13 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "Alexander Dickson,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 3 5",
+          "land_val": "8 15 0",
+          "total_val": "13 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "38",
+          "occupier": "Robert Whitelaw,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 2 20",
+          "land_val": "5 15 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "Charles M'Allister,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 20",
+          "land_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "Rev. Hugh Moore,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 3 20",
+          "land_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "Agnes M'Donald,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 3 5",
+          "land_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "Arthur Bell,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 2 15",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "John M'Cully,",
+          "lessor": "Trustees of Old Light Meeting-house,",
+          "desc": "L",
+          "area": "6 1 15",
+          "land_val": "15 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "44",
+          "occupier": "Alexander Montgomery,",
+          "lessor": "Marquis of Londonderry",
+          "desc": "L",
+          "area": "1 2 27",
+          "land_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "45",
+          "occupier": "George Montgomery,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 1 25",
+          "land_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "David Kennedy,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 0 25",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "47",
+          "occupier": "David Herrey,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 0 3",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "48",
+          "occupier": "James Boal,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 25",
+          "land_val": "7 15 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "49",
+          "occupier": "Widow M'Alpin,",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 3 20",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        }
+      ]
+    }
+  ]
+}

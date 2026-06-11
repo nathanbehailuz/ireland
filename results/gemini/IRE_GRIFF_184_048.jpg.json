@@ -1,0 +1,472 @@
+{
+  "parishes": [
+    {
+      "parish": "RATHCLINE",
+      "entries": [
+        {
+          "mr": "-",
+          "townland": "LEHERY",
+          "occupier": "Catherine Grealy",
+          "lessor": "William Casey",
+          "desc": "H&G",
+          "area": "0 2 0",
+          "land_val": "0 10 0",
+          "building_val": "0 10 0",
+          "total_val": "1 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Thomas Donnellan",
+          "lessor": "Luke White",
+          "desc": "H,O,&L",
+          "area": "38 2 16",
+          "land_val": "21 10 0",
+          "building_val": "1 0 0",
+          "total_val": "22 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Farrell, jun.",
+          "lessor": "Luke White",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "10 15 0",
+          "building_val": "1 0 0",
+          "total_val": "11 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "-",
+          "occupier": "Thomas Donnellan",
+          "lessor": "Same",
+          "desc": "B",
+          "area": "14 3 30",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Patrick Farrell, jun.",
+          "lessor": "Same",
+          "desc": "B",
+          "area": "",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Thomas Farrell, sen.",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "23 1 23",
+          "land_val": "11 15 0",
+          "building_val": "1 0 0",
+          "total_val": "12 15 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "Peter Farrell",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "35 0 4",
+          "land_val": "9 10 0",
+          "building_val": "1 0 0",
+          "total_val": "10 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "John Donnellan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "9 10 0",
+          "building_val": "0 15 0",
+          "total_val": "10 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "15",
+          "occupier": "Thomas Farrell (Patrick)",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "32 3 14",
+          "land_val": "19 15 0",
+          "building_val": "0 15 0",
+          "total_val": "20 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Catherine Martin",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "33 0 3",
+          "land_val": "21 10 0",
+          "building_val": "1 0 0",
+          "total_val": "22 10 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Peter Farrell (Michael)",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "30 2 1",
+          "land_val": "14 10 0",
+          "building_val": "0 15 0",
+          "total_val": "15 5 0"
+        },
+        {
+          "mr": "18 a",
+          "occupier": "Connor Farrell",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "47 1 21",
+          "land_val": "6 0 0",
+          "building_val": "0 15 0",
+          "total_val": "6 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "b",
+          "occupier": "John Farrell",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "6 0 0",
+          "building_val": "0 15 0",
+          "total_val": "6 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "c",
+          "occupier": "James Farrell",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "6 0 0",
+          "building_val": "1 0 0",
+          "total_val": "7 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "19 a",
+          "occupier": "Peter Farrell (Cormick)",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "35 2 22",
+          "land_val": "9 8 0",
+          "building_val": "0 12 0",
+          "total_val": "10 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Matthew Dowd",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "9 5 0",
+          "building_val": "0 15 0",
+          "total_val": "10 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "20",
+          "occupier": "Thomas Donnellan,\nPatrick Farrell, jun.,\nThomas Farrell, sen.,\nPeter Farrell,\nJohn Donnellan,\nThomas Farrell (Pat.)\nCatherine Martin,\nPeter Farrell (Michael)\nConnor Farrell,\nJohn Farrell,\nJames Farrell,\nPeter Farrell (Cormick)\nMatthew Dowd,",
+          "lessor": "Same",
+          "desc": "B",
+          "area": "180 1 20",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0",
+          "n_shared": 13
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "891 1 26",
+          "land_val": "326 13 0",
+          "building_val": "25 12 0",
+          "total_val": "352 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "LISDUFF",
+          "os": "17",
+          "occupier": "Rev. Thos. Monaghan",
+          "lessor": "John Costelloc",
+          "desc": "H&L",
+          "area": "3 0 24",
+          "land_val": "2 5 0",
+          "building_val": "3 10 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Connaughton",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Costello",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "44 6 0",
+          "land_val": "32 0 0",
+          "building_val": "",
+          "total_val": "32 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "47 0 24",
+          "land_val": "34 5 0",
+          "building_val": "4 5 0",
+          "total_val": "38 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "LISMACMANUS",
+          "os": "21",
+          "occupier": "George King",
+          "lessor": "James Byron",
+          "desc": "H,O,&L",
+          "area": "86 0 35",
+          "land_val": "56 10 0",
+          "building_val": "0 15 0",
+          "total_val": "57 5 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "Michael Kearney",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 0 0",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "12 15 0"
+        },
+        {
+          "mr": "B",
+          "occupier": "Michael Kearney",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "2 2 33",
+          "land_val": "2 0 0",
+          "building_val": "0 15 0",
+          "total_val": ""
+        },
+        {
+          "mr": "C",
+          "occupier": "Michael Kearney",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "17 2 11",
+          "land_val": "7 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "3 A",
+          "occupier": "Patrick Farrell",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "15 1 20",
+          "land_val": "5 10 0",
+          "building_val": "1 5 0",
+          "total_val": "6 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B",
+          "occupier": "John Moran",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "5 10 0",
+          "building_val": "1 0 0",
+          "total_val": "6 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "-",
+          "occupier": "Patrick Farrell",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "9 0 25",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "John Moran",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Patrick Farrell",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 3 8",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Thomas Casey",
+          "lessor": "Patrick Farrell",
+          "desc": "H&G",
+          "area": "0 0 12",
+          "land_val": "0 1 0",
+          "building_val": "0 9 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "140 3 24",
+          "land_val": "85 6 0",
+          "building_val": "4 4 0",
+          "total_val": "89 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "LISNACUSH",
+          "os": "17 & 21",
+          "occupier": "Edward Farrell, sen.",
+          "lessor": "Edward Farrell, jun.",
+          "desc": "H,O,&L",
+          "area": "1 0 30",
+          "land_val": "0 15 0",
+          "building_val": "0 15 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Edward Farrell, jun.",
+          "lessor": "Luke White",
+          "desc": "H,O,&L",
+          "area": "28 3 19",
+          "land_val": "20 5 0",
+          "building_val": "0 15 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Luke Farrell",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "33 1 16",
+          "land_val": "21 15 0",
+          "building_val": "",
+          "total_val": "21 15 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "John Broderick",
+          "lessor": "Luke Farrell",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Luke Farrell",
+          "lessor": "Luke White",
+          "desc": "L",
+          "area": "15 3 9",
+          "land_val": "12 15 0",
+          "building_val": "",
+          "total_val": "12 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Luke Farrell",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 3 30",
+          "land_val": "8 15 0",
+          "building_val": "1 15 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "John Costello",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "54 3 7",
+          "land_val": "31 5 0",
+          "building_val": "",
+          "total_val": "31 5 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Michael Bush",
+          "lessor": "John Costello",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "James Farrell",
+          "lessor": "Luke White",
+          "desc": "H,O,&L",
+          "area": "18 3 3",
+          "land_val": "15 0 0",
+          "building_val": "1 0 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Patk. Hanley (Matthew)",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "22 3 37",
+          "land_val": "17 5 0",
+          "building_val": "3 0 0",
+          "total_val": "20 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Thomas Murtagh",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "14 0 17",
+          "land_val": "11 5 0",
+          "building_val": "1 0 0",
+          "total_val": "12 5 0"
+        }
+      ]
+    }
+  ]
+}

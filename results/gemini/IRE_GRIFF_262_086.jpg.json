@@ -1,0 +1,676 @@
+{
+  "parishes": [
+    {
+      "parish": "UNKNOWN",
+      "entries": [
+        {
+          "mr": "5",
+          "townland": "KILTILLANE",
+          "occupier": "Thomas Keeffe",
+          "lessor": "Johanna Lannigan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "6",
+          "occupier": "James Doyle",
+          "lessor": "William Ryan",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 11 0",
+          "total_val": "0 11 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Thomas Meara",
+          "lessor": "William Peacock",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 11 0",
+          "total_val": "0 11 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Michael Burke",
+          "lessor": "Patrick Ryan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "William Breen",
+          "lessor": "Patrick Ryan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Patrick Guross",
+          "lessor": "Patrick Ryan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Michael Maher",
+          "lessor": "Patrick Ryan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Margaret Morgan",
+          "lessor": "William Ryan",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Patrick Wheelahan",
+          "lessor": "William Ryan",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "William Ryan",
+          "lessor": "William Peacock",
+          "desc": "H,O,&L",
+          "area": "0 1 32",
+          "land_val": "1 4 0",
+          "building_val": "0 19 0",
+          "total_val": "2 3 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Patrick Martin",
+          "lessor": "William Peacock",
+          "desc": "H & G",
+          "area": "0 0 35",
+          "land_val": "0 11 0",
+          "building_val": "0 8 0",
+          "total_val": "0 19 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "John Doherty",
+          "lessor": "Michael Kirwan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Philip Carroll",
+          "lessor": "Michael Kirwan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 9 0",
+          "total_val": "0 9 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "John Britt",
+          "lessor": "Michael Kirwan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Vacant",
+          "lessor": "Michael Kirwan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Vacant",
+          "lessor": "Michael Kirwan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "John Higgins",
+          "lessor": "Thomas Thompson",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Edward Thompson",
+          "lessor": "Catherine Thompson",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Martin Tracy",
+          "lessor": "Catherine Thompson",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "John Thompson",
+          "lessor": "Catherine Thompson",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Thomas Stapleton and William Peacock",
+          "lessor": "William Peacock",
+          "desc": "H & G",
+          "area": "0 0 24",
+          "land_val": "0 8 0",
+          "building_val": "0 8 0",
+          "total_val": "0 16 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "26",
+          "occupier": "Denis Lannigan",
+          "lessor": "William Peacock",
+          "desc": "H & G",
+          "area": "0 0 19",
+          "land_val": "0 6 0",
+          "building_val": "0 15 0",
+          "total_val": "1 1 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "John Kelly",
+          "lessor": "Denis Lannigan",
+          "desc": "L",
+          "area": "0 0 19",
+          "land_val": "0 6 0",
+          "building_val": "",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Mary Bannon",
+          "lessor": "William Peacock",
+          "desc": "H & G",
+          "area": "0 1 0",
+          "land_val": "0 13 0",
+          "building_val": "0 17 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Edward Thompson",
+          "lessor": "Michael Shelly",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 13 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Vacant",
+          "lessor": "Anthony O'Dwyer",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 13 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Thomas Doorix",
+          "lessor": "Jones Davis",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 17 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "Elizabeth Fogarty",
+          "lessor": "Jones Davis",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 19 0",
+          "total_val": "0 19 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "Malachy Whelan",
+          "lessor": "Jones Davis",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 9 0",
+          "total_val": "0 9 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Michael Conrahan",
+          "lessor": "Jones Davis",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Michael O'Brien",
+          "lessor": "Jones Davis",
+          "desc": "H & G",
+          "area": "0 0 2",
+          "land_val": "0 1 0",
+          "building_val": "0 11 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Catherine Regan",
+          "lessor": "Jones Davis",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 11 0",
+          "total_val": "0 11 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "Jones Davis",
+          "lessor": "Sir John C. Carden, Bt.",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 7 0",
+          "total_val": "1 7 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Jones Davis",
+          "lessor": "Sir John C. Carden, Bt.",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "Jones Davis",
+          "lessor": "Sir John C. Carden, Bt.",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 3 0",
+          "total_val": "1 3 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "Jones Davis",
+          "lessor": "Sir John C. Carden, Bt.",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 3 0",
+          "total_val": "1 3 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "Jones Davis",
+          "lessor": "Sir John C. Carden, Bt.",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 3 0",
+          "total_val": "1 3 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "Jones Davis",
+          "lessor": "Sir John C. Carden, Bt.",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 3 0",
+          "total_val": "1 3 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "John Sweeny",
+          "lessor": "Jones Davis",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 3 0",
+          "total_val": "1 3 0"
+        },
+        {
+          "mr": "44",
+          "occupier": "Jeremiah Keary",
+          "lessor": "Jones Davis",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 3 0",
+          "total_val": "1 3 0"
+        },
+        {
+          "mr": "45",
+          "occupier": "Jones Davis",
+          "lessor": "Sir John C. Carden, Bt.",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 3 0",
+          "total_val": "1 3 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "Jones Davis",
+          "lessor": "Sir John C. Carden, Bt.",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 17 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "47",
+          "occupier": "Jones Davis",
+          "lessor": "Sir John C. Carden, Bt.",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 19 0",
+          "total_val": "0 19 0"
+        },
+        {
+          "mr": "48",
+          "occupier": "Luke Flood",
+          "lessor": "Michael Kirwan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 14 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "49",
+          "occupier": "Michael Brien",
+          "lessor": "Michael Kirwan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 14 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "SCOTT'S-LANE",
+          "occupier": "Elizabeth Burke",
+          "lessor": "James Guest",
+          "desc": "H,O,&G",
+          "area": "0 0 5",
+          "land_val": "0 2 0",
+          "building_val": "0 19 0",
+          "total_val": "1 1 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Bridget Hayes",
+          "lessor": "James Guest",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Winifred Slattery",
+          "lessor": "James Guest",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "PREACHING-LANE",
+          "occupier": "Wesleyan Chapel & yd.",
+          "lessor": "Sir John C. Carden, Bt.",
+          "desc": "Wesleyan Chapel & yd.",
+          "area": "",
+          "land_val": "",
+          "building_val": "17 2 0",
+          "total_val": "17 2 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "GEORGE'S-STREET",
+          "occupier": "James Guest",
+          "lessor": "Sir John C. Carden, Bt.",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 19",
+          "land_val": "0 13 0",
+          "building_val": "28 10 0",
+          "total_val": "29 3 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Timothy Fogarty",
+          "lessor": "James Guest",
+          "desc": "H & O",
+          "area": "",
+          "land_val": "",
+          "building_val": "6 3 0",
+          "total_val": "6 3 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Henry Guest",
+          "lessor": "John O'Brien",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "8 11 0",
+          "total_val": "8 11 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Francis Guilfoyle",
+          "lessor": "William Rudd, Esq.",
+          "desc": "H & O",
+          "area": "",
+          "land_val": "",
+          "building_val": "14 5 0",
+          "total_val": "14 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Deegan",
+          "lessor": "Minchin Rudd, Esq.",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "10 18 0",
+          "total_val": "10 18 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Charles Johnston",
+          "lessor": "William Rudd, Esq.",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "7 12 0",
+          "total_val": "7 12 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "James Bennett",
+          "lessor": "William Rudd, Esq.",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "10 9 0",
+          "total_val": "10 9 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Joseph S. Whittaker",
+          "lessor": "William Rudd, Esq.",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "12 16 0",
+          "total_val": "12 16 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Arthur Richardson",
+          "lessor": "William Rudd, Esq.",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "9 10 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "James Lannigan",
+          "lessor": "Minchin Rudd, Esq.",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "10 9 0",
+          "total_val": "10 9 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Margaret Sweeney",
+          "lessor": "Robert Mason",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "6 13 0",
+          "total_val": "6 13 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Robert Mason",
+          "lessor": "— Pluman, Esq.",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "14 5 0",
+          "total_val": "14 5 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Francis Clarke",
+          "lessor": "Edward Guest",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "15 4 0",
+          "total_val": "15 4 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Patrick Tuohy",
+          "lessor": "Sir John C. Carden, Bt.",
+          "desc": "H,O,yd,&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "11 8 0",
+          "total_val": "11 8 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Samuel Delane",
+          "lessor": "John Guest",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "7 12 0",
+          "total_val": "7 12 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "John Guest",
+          "lessor": "Sir John C. Carden, Bt.",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 7",
+          "land_val": "0 5 0",
+          "building_val": "30 8 0",
+          "total_val": "30 13 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Michael Lalfan",
+          "lessor": "John Guest",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 4",
+          "land_val": "0 3 0",
+          "building_val": "10 0 0",
+          "total_val": "10 3 0"
+        }
+      ]
+    }
+  ]
+}

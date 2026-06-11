@@ -1,0 +1,515 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF BORRIS",
+      "entries": [
+        {
+          "mr": "5",
+          "townland": "BORRIS, LITTLE",
+          "os": "",
+          "occupier": "Vacant",
+          "lessor": "Reps. of late Robert Turpin, Esq.",
+          "desc": "L",
+          "area": "0 1 34",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "6",
+          "occupier": "Vacant",
+          "lessor": "John Jacob, Esq.",
+          "desc": "H,O,yd.,& gar.",
+          "area": "0 2 17",
+          "land_val": "1 0 0",
+          "building_val": "9 10 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "John M'Evoy",
+          "lessor": "James Dowling",
+          "desc": "H,yd.,& small gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 6 0",
+          "total_val": "1 6 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Patrick Scully",
+          "lessor": "James Dowling",
+          "desc": "H&yd.",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "James Dowling",
+          "lessor": "John Jacob, Esq.",
+          "desc": "L",
+          "area": "0 2 28",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Vacant",
+          "lessor": "John Jacob, Esq.",
+          "desc": "Building-ground",
+          "area": "0 0 1",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "11",
+          "occupier": "Vacant",
+          "lessor": "John Jacob, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Vacant",
+          "lessor": "John Jacob, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "John Jacob, Esq.",
+          "lessor": "Reps. of late Lady Jane Coote",
+          "desc": "L",
+          "area": "0 2 38",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Vacant",
+          "lessor": "James Dowling",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Mary Dalton",
+          "lessor": "James Dowling",
+          "desc": "H&yd.",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 14 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "James Dowling",
+          "lessor": "John Jacob, Esq.",
+          "desc": "H,O,yd.,&L",
+          "area": "0 2 34",
+          "land_val": "1 0 0",
+          "building_val": "2 3 0",
+          "total_val": "3 3 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Michael Casey",
+          "lessor": "Free",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Vacant",
+          "lessor": "James Dowling",
+          "desc": "Ruins",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 1 0",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "John Robinson",
+          "lessor": "James Dowling",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "John Dalton",
+          "lessor": "James Dowling",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 13 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "James Dowling",
+          "lessor": "John Elder",
+          "desc": "L",
+          "area": "0 2 35",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Denis Whelan",
+          "lessor": "John Jacob, Esq.",
+          "desc": "H&L",
+          "area": "0 1 0",
+          "land_val": "0 8 0",
+          "building_val": "1 7 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Denis Whelan",
+          "lessor": "Mary Whelan",
+          "desc": "H,O,&L",
+          "area": "1 0 17",
+          "land_val": "1 10 0",
+          "building_val": "1 5 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Vacant",
+          "lessor": "Martha Stapleton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "John Gorman",
+          "lessor": "Denis Whelan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Denis Whelan",
+          "lessor": "John Jacob, Esq.",
+          "desc": "L",
+          "area": "0 1 16",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "John Jacob, Esq.",
+          "lessor": "Reps. of late Lady Jane Coote",
+          "desc": "L&gravel pit",
+          "area": "0 1 37",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "John Gorman",
+          "lessor": "John Jacob, Esq.",
+          "desc": "Ruins&L",
+          "area": "0 2 0",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Jane Feely",
+          "lessor": "John Jacob, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Vacant",
+          "lessor": "Patrick Delany",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Waste under houses, streets, yards, and small gardens",
+          "area": "3 3 36",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "410 1 29",
+          "land_val": "372 14 0",
+          "building_val": "435 0 0",
+          "total_val": "814 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "County gaol, offices, & yard",
+          "area": "3 3 23",
+          "land_val": "",
+          "building_val": "160 0 0",
+          "total_val": "160 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Infirmary, offices, and land attached",
+          "area": "5 2 1",
+          "land_val": "5 0 0",
+          "building_val": "65 0 0",
+          "total_val": "70 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Church Education Society School house and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 15 0",
+          "total_val": "5 15 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total of exemptions",
+          "area": "9 1 24",
+          "land_val": "5 0 0",
+          "building_val": "230 15 0",
+          "total_val": "235 15 0",
+          "is_total": 1,
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total, exclusive of exemptions",
+          "area": "410 0 5",
+          "land_val": "367 14 0",
+          "building_val": "204 11 0",
+          "total_val": "578 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CLONMINAM",
+          "os": "13",
+          "occupier": "William Jessop",
+          "lessor": "Lewis Moore, Esq.",
+          "desc": "L",
+          "area": "7 1 28",
+          "land_val": "11 0 0",
+          "building_val": "",
+          "total_val": "11 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "2",
+          "occupier": "Mrs. Anne Cowan",
+          "lessor": "Mrs. Soph. Jane Stoker",
+          "desc": "L",
+          "area": "9 0 0",
+          "land_val": "13 0 0",
+          "building_val": "",
+          "total_val": "13 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "3",
+          "occupier": "Joseph Whelan",
+          "lessor": "Lewis Moore, Esq.",
+          "desc": "H,O,&L",
+          "area": "3 3 21",
+          "land_val": "5 0 0",
+          "building_val": "1 15 0",
+          "total_val": "6 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "4",
+          "occupier": "Board of Ordnance",
+          "lessor": "Lewis Moore, Esq.",
+          "desc": "Infantry Barracks, offices, and Parade ground",
+          "area": "4 3 28",
+          "land_val": "5 15 0",
+          "building_val": "65 0 0",
+          "total_val": "70 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Grey",
+          "lessor": "Board of Ordnance",
+          "desc": "Barrack Master's apartments",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "David M'Evoy",
+          "lessor": "Lewis Moore, Esq.",
+          "desc": "L",
+          "area": "1 2 11",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Thomas Keenan",
+          "lessor": "David M'Evoy",
+          "desc": "H,O,& gar.",
+          "area": "0 0 12",
+          "land_val": "0 2 0",
+          "building_val": "1 13 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "6 b",
+          "occupier": "Lewis Moore, Esq.",
+          "lessor": "In fee",
+          "desc": "L (waste)",
+          "area": "0 1 0",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Samuel Unthank",
+          "lessor": "Charles Dunne",
+          "desc": "H&G",
+          "area": "0 0 16",
+          "land_val": "0 4 0",
+          "building_val": "1 1 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "6 b",
+          "occupier": "Rose Black",
+          "lessor": "Charles Dunne",
+          "desc": "H&G",
+          "area": "0 0 16",
+          "land_val": "0 4 0",
+          "building_val": "0 11 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "6 c",
+          "occupier": "Richard Carr",
+          "lessor": "Charles Dunne",
+          "desc": "H&G",
+          "area": "0 0 16",
+          "land_val": "0 4 0",
+          "building_val": "1 1 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "6 d",
+          "occupier": "Henry Walsh",
+          "lessor": "Charles Dunne",
+          "desc": "H&G",
+          "area": "0 0 17",
+          "land_val": "0 4 0",
+          "building_val": "0 16 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "6 e",
+          "occupier": "Robert Berry",
+          "lessor": "Charles Dunne",
+          "desc": "H&G",
+          "area": "0 0 18",
+          "land_val": "0 4 0",
+          "building_val": "1 6 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "6 f",
+          "occupier": "Thomas Sutcliffe",
+          "lessor": "Charles Dunne",
+          "desc": "Building ground",
+          "area": "0 0 33",
+          "land_val": "0 6 0",
+          "building_val": "",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "6 g",
+          "occupier": "Daniel Delany",
+          "lessor": "Charles Dunne",
+          "desc": "G",
+          "area": "0 0 33",
+          "land_val": "0 6 0",
+          "building_val": "",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "6 h",
+          "occupier": "Jas. Scott and David M'Evoy",
+          "lessor": "Daniel Delany",
+          "desc": "H&yd.",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0",
+          "n_shared": 2
+        }
+      ]
+    }
+  ]
+}

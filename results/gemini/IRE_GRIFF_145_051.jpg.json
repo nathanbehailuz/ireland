@@ -1,0 +1,573 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF GRANGEKILREE",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "KILREE",
+          "os": "23 & 24",
+          "occupier": "Denis Griffin",
+          "lessor": "John H. Whitcraft, Esq.",
+          "desc": "H,O,&L",
+          "area": "27 1 38",
+          "land_val": "19 2 0",
+          "building_val": "1 18 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "2 A B C",
+          "occupier": "John H. Whitcraft, Esq.",
+          "lessor": "In fee",
+          "desc": "H,O,&L",
+          "area": "154 1 39",
+          "land_val": "109 5 0",
+          "building_val": "5 5 0",
+          "total_val": "114 10 0"
+        },
+        {
+          "mr": "A C",
+          "occupier": "James Kennedy",
+          "lessor": "John H. Whitcraft, Esq.",
+          "desc": "H&G",
+          "area": "0 0 27",
+          "land_val": "0 3 0",
+          "building_val": "0 17 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "3 A B C",
+          "occupier": "Bridget Martin",
+          "lessor": "John H. Whitcraft, Esq.",
+          "desc": "H,O,&L",
+          "area": "59 0 20",
+          "land_val": "42 16 0",
+          "building_val": "4 4 0",
+          "total_val": "47 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Bridget Martin",
+          "lessor": "John H. Whitcraft, Esq.",
+          "desc": "Quarry",
+          "area": "0 1 11",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "b",
+          "occupier": "Timothy Martin",
+          "lessor": "John H. Whitcraft, Esq.",
+          "desc": "Quarry",
+          "area": "0 1 11",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "b",
+          "occupier": "Pierce Grace and",
+          "lessor": "John H. Whitcraft, Esq.",
+          "desc": "Quarry",
+          "area": "0 1 11",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "b",
+          "occupier": "John H. Whitcraft, Esq.",
+          "lessor": "John H. Whitcraft, Esq.",
+          "desc": "Quarry",
+          "area": "0 1 11",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "4",
+          "occupier": "John Millen",
+          "lessor": "John H. Whitcraft, Esq.",
+          "desc": "H,O,&L",
+          "area": "90 1 28",
+          "land_val": "66 10 0",
+          "building_val": "4 15 0",
+          "total_val": "71 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Timothy Martin",
+          "lessor": "John H. Whitcraft, Esq.",
+          "desc": "H,O,&L",
+          "area": "39 0 27",
+          "land_val": "29 5 0",
+          "building_val": "3 5 0",
+          "total_val": "32 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Michael Quirk",
+          "lessor": "John H. Whitcraft, Esq.",
+          "desc": "L",
+          "area": "6 0 15",
+          "land_val": "3 15 0",
+          "building_val": "",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Matthew Murphy",
+          "lessor": "John H. Whitcraft, Esq.",
+          "desc": "H,O,&L",
+          "area": "14 1 23",
+          "land_val": "8 8 0",
+          "building_val": "1 12 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "8 A B C",
+          "occupier": "Pierce Grace",
+          "lessor": "John H. Whitcraft, Esq.",
+          "desc": "H,O,&L",
+          "area": "84 0 39",
+          "land_val": "55 15 0",
+          "building_val": "4 5 0",
+          "total_val": "60 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Pierce Grace and",
+          "lessor": "J. H. Whitcraft, Esq.",
+          "desc": "L",
+          "area": "0 1 20",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "J. H. Whitcraft, Esq.",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "0 1 20",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9 A B C",
+          "occupier": "Thomas Tracy",
+          "lessor": "John H. Whitcraft, Esq.",
+          "desc": "H,O,&L",
+          "area": "69 3 17",
+          "land_val": "44 13 0",
+          "building_val": "3 17 0",
+          "total_val": "48 10 0"
+        },
+        {
+          "mr": "10 A C B",
+          "occupier": "Michael Farrell",
+          "lessor": "John H. Whitcraft, Esq.",
+          "desc": "H,O,&L",
+          "area": "35 3 21",
+          "land_val": "23 15 0",
+          "building_val": "2 10 0",
+          "total_val": "26 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Mackey",
+          "lessor": "Michael Farrell",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 3 0",
+          "building_val": "0 17 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "11 A C B",
+          "occupier": "Michael Hickey",
+          "lessor": "Henry Nixon, Esq.",
+          "desc": "H,O,&L",
+          "area": "11 2 25",
+          "land_val": "7 5 0",
+          "building_val": "1 15 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Matthew Darcy",
+          "lessor": "Henry Nixon, Esq.",
+          "desc": "H,O,&L",
+          "area": "19 3 33",
+          "land_val": "12 10 0",
+          "building_val": "2 15 0",
+          "total_val": "15 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Philip Cahill",
+          "lessor": "Matthew D'Arcy",
+          "desc": "H&G",
+          "area": "0 0 18",
+          "land_val": "0 2 0",
+          "building_val": "0 13 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "Bridget Shea",
+          "lessor": "Henry Nixon, Esq.",
+          "desc": "H,O,&L",
+          "area": "65 3 1",
+          "land_val": "40 0 0",
+          "building_val": "4 10 0",
+          "total_val": "44 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Nolan",
+          "lessor": "Bridget Shea",
+          "desc": "H&G",
+          "area": "0 0 26",
+          "land_val": "0 2 0",
+          "building_val": "0 18 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "14 A C B",
+          "occupier": "James Farrell",
+          "lessor": "John H. Whitcraft, Esq.",
+          "desc": "H,O,&L",
+          "area": "35 3 36",
+          "land_val": "23 15 0",
+          "building_val": "3 0 0",
+          "total_val": "26 15 0"
+        },
+        {
+          "mr": "15 A C B",
+          "occupier": "John Byrne",
+          "lessor": "Henry Nixon, Esq.",
+          "desc": "H,O,&L",
+          "area": "12 1 16",
+          "land_val": "7 17 0",
+          "building_val": "2 18 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "16 A B C",
+          "occupier": "James Croak",
+          "lessor": "Henry Nixon, Esq.",
+          "desc": "H,O,mills,&L",
+          "area": "17 2 24",
+          "land_val": "8 3 0",
+          "building_val": "21 2 0",
+          "total_val": "29 5 0"
+        },
+        {
+          "mr": "17 a",
+          "occupier": "John Conway",
+          "lessor": "Henry Nixon, Esq.",
+          "desc": "H,O,&L",
+          "area": "38 0 22",
+          "land_val": "24 2 0",
+          "building_val": "5 8 0",
+          "total_val": "29 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "James Carthy",
+          "lessor": "John Conway",
+          "desc": "H&G",
+          "area": "0 0 12",
+          "land_val": "0 2 0",
+          "building_val": "0 13 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "James Kickham",
+          "lessor": "Henry Nixon, Esq.",
+          "desc": "L",
+          "area": "1 3 27",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "785 3 22",
+          "land_val": "529 3 0",
+          "building_val": "76 17 0",
+          "total_val": "606 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "WALLSLOUGH",
+          "os": "23 & 24",
+          "occupier": "William Quirk",
+          "lessor": "John P. O'Shee, Esq.",
+          "desc": "H,O,&L",
+          "area": "2 0 35",
+          "land_val": "1 10 0",
+          "building_val": "6 0 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "William Quirk",
+          "lessor": "John P. O'Shee, Esq.",
+          "desc": "L",
+          "area": "32 0 18",
+          "land_val": "11 0 0",
+          "building_val": "",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Nicholas Quirk",
+          "lessor": "John P. O'Shee, Esq.",
+          "desc": "L",
+          "area": "17 0 13",
+          "land_val": "12 0 0",
+          "building_val": "",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Ryan",
+          "lessor": "John P. O'Shee, Esq.",
+          "desc": "H&L",
+          "area": "7 0 36",
+          "land_val": "5 1 0",
+          "building_val": "0 14 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "5 & 8 b",
+          "occupier": "Michael Ryan",
+          "lessor": "John P. O'Shee, Esq.",
+          "desc": "H,O,&L",
+          "area": "28 1 36",
+          "land_val": "19 0 0",
+          "building_val": "3 5 0",
+          "total_val": "22 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 & 8 b",
+          "occupier": "Michael Quirk",
+          "lessor": "John P. O'Shee, Esq.",
+          "desc": "H,O,&L",
+          "area": "28 1 36",
+          "land_val": "19 0 0",
+          "building_val": "3 5 0",
+          "total_val": "22 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "Patrick Costello, jun.",
+          "lessor": "John P. O'Shee, Esq.",
+          "desc": "L",
+          "area": "16 2 7",
+          "land_val": "13 10 0",
+          "building_val": "",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "7 A B",
+          "occupier": "Patrick Costello, sen.",
+          "lessor": "John P. O'Shee, Esq.",
+          "desc": "L",
+          "area": "10 0 13",
+          "land_val": "12 10 0",
+          "building_val": "",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "James Quirk",
+          "lessor": "John P. O'Shee, Esq.",
+          "desc": "H,O,&L",
+          "area": "13 1 30",
+          "land_val": "8 17 0",
+          "building_val": "0 13 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Richard Quirk",
+          "lessor": "John P. O'Shee, Esq.",
+          "desc": "H,O,&L",
+          "area": "8 1 8",
+          "land_val": "5 5 0",
+          "building_val": "1 10 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "10 A B a",
+          "occupier": "Patrick Walsh",
+          "lessor": "John P. O'Shee, Esq.",
+          "desc": "H,O,&L",
+          "area": "35 2 6",
+          "land_val": "26 16 0",
+          "building_val": "2 9 0",
+          "total_val": "29 5 0"
+        },
+        {
+          "mr": "A a",
+          "occupier": "Grave-yard",
+          "lessor": "John P. O'Shee, Esq.",
+          "desc": "Grave-yard",
+          "area": "0 0 12",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "B b",
+          "occupier": "Andrew Kavanagh",
+          "lessor": "Patrick Walsh",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "1 3 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Margaret Fleming",
+          "lessor": "John P. O'Shee, Esq.",
+          "desc": "L",
+          "area": "13 1 0",
+          "land_val": "10 15 0",
+          "building_val": "",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Vacant",
+          "lessor": "Margaret Fleming",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Croak",
+          "lessor": "Margaret Fleming",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "William Fleming",
+          "lessor": "John P. O'Shee, Esq.",
+          "desc": "L",
+          "area": "14 3 25",
+          "land_val": "12 5 0",
+          "building_val": "",
+          "total_val": "12 5 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Patrick Gore",
+          "lessor": "William Fleming",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 1 0",
+          "building_val": "0 9 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Breene",
+          "lessor": "William Fleming",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 1 0",
+          "building_val": "0 14 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "205 2 25",
+          "land_val": "149 17 0",
+          "building_val": "17 15 0",
+          "total_val": "167 12 0",
+          "is_total": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Exemptions: Grave-yard",
+          "area": "0 0 12",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total, exclusive of exemptions",
+          "area": "205 2 13",
+          "land_val": "149 15 0",
+          "building_val": "17 15 0",
+          "total_val": "167 10 0",
+          "is_total": 1
+        }
+      ]
+    },
+    {
+      "parish": "PARISH OF KILFERAGH",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "KILFERAGH",
+          "os": "19, 20, & 23",
+          "occupier": "Henry Madigan",
+          "lessor": "Edward Ryan, Esq.",
+          "desc": "L",
+          "area": "9 3 35",
+          "land_val": "8 0 0",
+          "building_val": "",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Matthew Lawless",
+          "lessor": "Edward Ryan, Esq.",
+          "desc": "H,O,&L",
+          "area": "8 2 32",
+          "land_val": "7 3 0",
+          "building_val": "1 12 0",
+          "total_val": "8 15 0"
+        }
+      ]
+    }
+  ]
+}

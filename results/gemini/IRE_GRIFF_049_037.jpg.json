@@ -1,0 +1,513 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF CLONFERT",
+      "entries": [
+        {
+          "mr": "3 a",
+          "townland": "GLENNAKNOCKANE",
+          "os": "",
+          "occupier": "Cornelius Drislane,",
+          "lessor": "Earl of Cork,",
+          "desc": "L",
+          "area": "88 3 13",
+          "land_val": "3 5 0",
+          "building_val": "",
+          "total_val": "3 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Timothy Buckley,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "259 1 20",
+          "land_val": "13 5 0",
+          "building_val": "0 15 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Unoccupied,",
+          "lessor": "Timothy Buckley,",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "James Quinlan,",
+          "lessor": "Same,",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 2 0",
+          "building_val": "0 4 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total,",
+          "area": "646 2 11",
+          "land_val": "35 7 0",
+          "building_val": "2 9 0",
+          "total_val": "37 16 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "GLENNAMUCKLAGH EAST",
+          "os": "13, 14, 21, & 22",
+          "occupier": "Benjamin Keeffe,",
+          "lessor": "Letitia Purcell,",
+          "desc": "H&L",
+          "area": "26 2 8",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Denis Callaghan,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "267 1 27",
+          "land_val": "21 5 0",
+          "building_val": "2 0 0",
+          "total_val": "23 5 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Patrick M'Auliffe, sen.,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "499 2 33",
+          "land_val": "37 0 0",
+          "building_val": "1 5 0",
+          "total_val": "38 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick M'Auliffe, jun.,",
+          "lessor": "Patrick M'Auliffe, sen.,",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Daniel M'Auliffe,",
+          "lessor": "Same,",
+          "desc": "H&G",
+          "area": "0 0 16",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Jeremiah Casey,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Daniel Mangan,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Letitia Purcell,",
+          "lessor": "Arthur Duggan,",
+          "desc": "Turbary,",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "James Neil,",
+          "lessor": "Letitia Purcell,",
+          "desc": "H&L",
+          "area": "49 3 31",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Letitia Purcell,",
+          "lessor": "Arthur Duggan,",
+          "desc": "Turbary,",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total,",
+          "area": "843 2 35",
+          "land_val": "63 17 0",
+          "building_val": "7 0 0",
+          "total_val": "82 17 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "GLENNAMUCKLAGH WEST",
+          "os": "13 & 21",
+          "occupier": "John Leary,",
+          "lessor": "Letitia Purcell,",
+          "desc": "H,O,&L",
+          "area": "61 0 4",
+          "land_val": "5 10 0",
+          "building_val": "0 15 0",
+          "total_val": "6 5 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "2 a",
+          "occupier": "John M'Auliffe,",
+          "lessor": "John & Denis Kinnealy,",
+          "desc": "H,O,&L",
+          "area": "85 3 37",
+          "land_val": "4 0 0",
+          "building_val": "0 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "3 A",
+          "occupier": "John Kinnealy,",
+          "lessor": "Letitia Purcell,",
+          "desc": "L",
+          "area": "204 3 25",
+          "land_val": "5 15 0",
+          "building_val": "",
+          "total_val": "35 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B a",
+          "occupier": "Denis Kinnealy,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "119 0 27",
+          "land_val": "27 10 0",
+          "building_val": "1 15 0",
+          "total_val": "35 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Mary Sweeney,",
+          "lessor": "John & Denis Kinnealy,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 2 0",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "John Connor,",
+          "lessor": "Same,",
+          "desc": "H,O,&G",
+          "area": "0 0 32",
+          "land_val": "0 4 0",
+          "building_val": "0 10 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Thomas Horgan,",
+          "lessor": "Letitia Purcell,",
+          "desc": "H,O,&L",
+          "area": "48 0 2",
+          "land_val": "4 0 0",
+          "building_val": "0 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "James Pigott,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "95 1 18",
+          "land_val": "13 0 0",
+          "building_val": "1 0 0",
+          "total_val": "14 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "occupier": "Bryan Sweeney,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "95 1 18",
+          "land_val": "13 0 0",
+          "building_val": "1 0 0",
+          "total_val": "14 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Jeremiah Scannell,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "21 3 32",
+          "land_val": "1 10 0",
+          "building_val": "0 5 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "David Fitzgerald,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "23 0 18",
+          "land_val": "2 15 0",
+          "building_val": "0 10 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Denis Connell,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "30 1 2",
+          "land_val": "4 0 0",
+          "building_val": "0 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Timothy M'Auliffe,",
+          "lessor": "Same,",
+          "desc": "H&L",
+          "area": "25 1 37",
+          "land_val": "2 10 0",
+          "building_val": "0 5 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Letitia Purcell,",
+          "lessor": "Arthur Duggan,",
+          "desc": "Turbary,",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Jeremiah Collins,",
+          "lessor": "Letitia Purcell,",
+          "desc": "H,O,&L",
+          "area": "156 1 25",
+          "land_val": "23 15 0",
+          "building_val": "1 5 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Unoccupied,",
+          "lessor": "Jeremiah Collins,",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "William Pigott,",
+          "lessor": "Letitia Purcell,",
+          "desc": "H&L",
+          "area": "8 3 31",
+          "land_val": "1 0 0",
+          "building_val": "0 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "James Pigott,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "18 1 32",
+          "land_val": "3 0 0",
+          "building_val": "0 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "David Pigott,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "7 3 6",
+          "land_val": "1 5 0",
+          "building_val": "0 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "14 A a",
+          "occupier": "Jeremiah Kinnealy,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "393 3 14",
+          "land_val": "9 0 0",
+          "building_val": "",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "B a",
+          "occupier": "Same,",
+          "lessor": "",
+          "desc": "H&L",
+          "area": "19 1 26",
+          "land_val": "1 5 0",
+          "building_val": "0 10 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total,",
+          "area": "1320 1 8",
+          "land_val": "109 19 0",
+          "building_val": "10 17 0",
+          "total_val": "122 16 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A a",
+          "townland": "GLENTANEMACELLIGOT",
+          "os": "13",
+          "occupier": "Thomas Jones,",
+          "lessor": "Earl of Cork,",
+          "desc": "H,O,&L",
+          "area": "58 1 12",
+          "land_val": "2 0 0",
+          "building_val": "1 0 0",
+          "total_val": "19 5 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "B a",
+          "occupier": "Same,",
+          "lessor": "",
+          "desc": "L",
+          "area": "91 2 20",
+          "land_val": "16 5 0",
+          "building_val": "",
+          "total_val": "19 5 0"
+        },
+        {
+          "mr": "A a",
+          "occupier": "Daniel Leary,",
+          "lessor": "Thomas Jones,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 2 0",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Unoccupied,",
+          "lessor": "Same,",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Timothy Buckley,",
+          "lessor": "Earl of Cork,",
+          "desc": "H,O,&L",
+          "area": "435 2 26",
+          "land_val": "25 15 0",
+          "building_val": "3 15 0",
+          "total_val": "29 10 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "b",
+          "occupier": "Jeremiah Carroll,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "435 2 26",
+          "land_val": "3 5 0",
+          "building_val": "0 15 0",
+          "total_val": "4 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "c",
+          "occupier": "Daniel Carroll,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "435 2 26",
+          "land_val": "9 15 0",
+          "building_val": "1 5 0",
+          "total_val": "11 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "d",
+          "occupier": "Reps. Patrick Carroll,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "435 2 26",
+          "land_val": "13 0 0",
+          "building_val": "1 10 0",
+          "total_val": "14 10 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "e",
+          "occupier": "David Manley,",
+          "lessor": "Timothy Buckley,",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 4 0",
+          "building_val": "0 8 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total,",
+          "area": "585 3 8",
+          "land_val": "70 4 0",
+          "building_val": "9 11 0",
+          "total_val": "79 15 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

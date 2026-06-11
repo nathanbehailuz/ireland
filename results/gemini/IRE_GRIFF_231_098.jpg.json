@@ -1,0 +1,498 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF TEDAVNET",
+      "entries": [
+        {
+          "mr": "1 A",
+          "townland": "ACRES",
+          "os": "5",
+          "occupier": "Rev. William E. H. Woodwright",
+          "lessor": "In fee",
+          "desc": "B",
+          "area": "3 2 10",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 B",
+          "occupier": "John M'Carron",
+          "lessor": "Rev William E H. Woodwright",
+          "desc": "",
+          "area": "5 2 0",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2",
+          "occupier": "Joseph C. Wright",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "13 0 25",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Joseph C. Wright",
+          "lessor": "Same",
+          "desc": "Herd's ho., off., & L",
+          "area": "25 2 5",
+          "land_val": "8 5 0",
+          "building_val": "0 15 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "47 3 0",
+          "land_val": "11 10 0",
+          "building_val": "1 5 0",
+          "total_val": "12 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BARRATITOPPY, LOWER",
+          "os": "5",
+          "occupier": "Michael Raverty",
+          "lessor": "James Hamilton",
+          "desc": "H,O,&L",
+          "area": "24 1 0",
+          "land_val": "4 10 0",
+          "building_val": "0 10 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Maguire",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "26 1 30",
+          "land_val": "5 0 0",
+          "building_val": "0 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Michael Murray",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "29 0 0",
+          "land_val": "5 10 0",
+          "building_val": "0 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Edward Sherry (Big)",
+          "lessor": "Same",
+          "desc": "House, caretaker's-ho., offices, and land",
+          "area": "33 0 5",
+          "land_val": "10 5 0",
+          "building_val": "1 0 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "National School-house and garden",
+          "lessor": "(See Exemptions.)",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "6",
+          "occupier": "Edward Sherry",
+          "lessor": "James Hamilton",
+          "desc": "H,O,&L",
+          "area": "12 0 30",
+          "land_val": "5 10 0",
+          "building_val": "0 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "7 A",
+          "occupier": "Hugh Mullin",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "14 0 20",
+          "land_val": "5 5 0",
+          "building_val": "0 10 0",
+          "total_val": "6 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "7 B",
+          "occupier": "Hugh Mullin",
+          "lessor": "Same",
+          "desc": "",
+          "area": "1 1 0",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "6 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "8 A",
+          "occupier": "Edward M'Carey",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "13 3 0",
+          "land_val": "5 5 0",
+          "building_val": "0 10 0",
+          "total_val": "6 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "8 B",
+          "occupier": "Edward M'Carey",
+          "lessor": "Same",
+          "desc": "",
+          "area": "1 0 35",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "6 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9",
+          "occupier": "Chrisr. M'Naughten",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "26 1 10",
+          "land_val": "7 10 0",
+          "building_val": "0 15 0",
+          "total_val": "8 5 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Patrick M'Clusky",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "30 1 10",
+          "land_val": "6 0 0",
+          "building_val": "0 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Peter M'Clusky",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "13 0 20",
+          "land_val": "3 15 0",
+          "building_val": "0 10 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Hugh M'Clusky",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "12 0 5",
+          "land_val": "3 10 0",
+          "building_val": "0 5 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Michael M'Guire",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 10",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Peter Raverty",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 0",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Owen M'Carey",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 1 35",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Owen M'Carey (Barney)",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 0",
+          "land_val": "0 12 0",
+          "building_val": "",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "James Hamilton",
+          "lessor": "In fee",
+          "desc": "Turbary",
+          "area": "0 2 30",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "5 10 0"
+        },
+        {
+          "desc": "Total of Rateable Property",
+          "area": "263 3 0",
+          "land_val": "67 7 0",
+          "building_val": "6 0 0",
+          "total_val": "78 17 0",
+          "is_total": 1
+        },
+        {
+          "mr": "5",
+          "occupier": "National School-house and garden",
+          "lessor": "",
+          "desc": "National School-house and garden",
+          "area": "0 1 0",
+          "land_val": "0 5 0",
+          "building_val": "2 0 0",
+          "total_val": "2 5 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, including Exemptions",
+          "area": "264 0 0",
+          "land_val": "67 12 0",
+          "building_val": "8 0 0",
+          "total_val": "81 2 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BARRATITOPPY, UPPER",
+          "os": "5",
+          "occupier": "Patrick Cusker",
+          "lessor": "James Hamilton",
+          "desc": "House, offs., cottier's-house, and land",
+          "area": "242 1 20",
+          "land_val": "13 5 0",
+          "building_val": "1 0 0",
+          "total_val": "14 5 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Isabella M'Kenna",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "159 3 20",
+          "land_val": "4 5 0",
+          "building_val": "0 10 0",
+          "total_val": "4 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Patrick M'Kenna",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "4 5 0",
+          "building_val": "0 10 0",
+          "total_val": "4 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3",
+          "occupier": "Michael M'Guire",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "31 1 20",
+          "land_val": "4 0 0",
+          "building_val": "0 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Peter Raverty",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "24 0 5",
+          "land_val": "4 10 0",
+          "building_val": "0 10 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Owen M'Carey, sen.",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "44 1 15",
+          "land_val": "6 15 0",
+          "building_val": "0 10 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Owen M'Carey (Barney)",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "41 2 25",
+          "land_val": "7 0 0",
+          "building_val": "1 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "John M'Ardle",
+          "lessor": "James Hamilton",
+          "desc": "H,O,&L",
+          "area": "68 0 35",
+          "land_val": "11 0 0",
+          "building_val": "1 5 0",
+          "total_val": "12 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "James Hamilton",
+          "lessor": "In fee",
+          "desc": "Turbary",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Bridget Raverty",
+          "lessor": "James Hamilton",
+          "desc": "H,O,&L",
+          "area": "21 2 25",
+          "land_val": "4 5 0",
+          "building_val": "0 10 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "9 A",
+          "occupier": "Patrick Woods",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "17 1 30",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "4 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9 B",
+          "occupier": "Patrick Woods",
+          "lessor": "Same",
+          "desc": "",
+          "area": "3 2 15",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "4 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "10",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Water",
+          "area": "3 2 30",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "desc": "Total",
+          "area": "658 1 0",
+          "land_val": "63 10 0",
+          "building_val": "6 15 0",
+          "total_val": "72 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CARNQUILL",
+          "os": "5",
+          "occupier": "James M'Ilwaine",
+          "lessor": "John Dawson O'Brien",
+          "desc": "H,O,&L",
+          "area": "45 2 20",
+          "land_val": "7 10 0",
+          "building_val": "1 0 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Peter M'Ilwaine",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "17 1 27",
+          "land_val": "4 15 0",
+          "building_val": "0 15 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Thomas M'Ilwaine",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "16 2 8",
+          "land_val": "3 15 0",
+          "building_val": "0 15 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Owen M'Ilwaine",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "26 1 35",
+          "land_val": "5 15 0",
+          "building_val": "1 0 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Hugh M'Ilwaine",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "51 0 25",
+          "land_val": "6 15 0",
+          "building_val": "1 0 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "John Dawson O'Brien",
+          "lessor": "In fee",
+          "desc": "Turbary",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "5 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "157 0 35",
+          "land_val": "28 10 0",
+          "building_val": "4 10 0",
+          "total_val": "33 0 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

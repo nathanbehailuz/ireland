@@ -1,0 +1,484 @@
+{
+  "parishes": [
+    {
+      "parish": "KILLASHEE",
+      "entries": [
+        {
+          "mr": "3",
+          "townland": "FLEMINGTOWN, SOUTH, OR TONAPHUCA",
+          "os": "",
+          "occupier": "James Wilson",
+          "lessor": "Rev. Hugh Hamilton",
+          "desc": "H,O,&L",
+          "area": "25 3 6",
+          "land_val": "19 0 0",
+          "building_val": "0 15 0",
+          "total_val": "19 15 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "4",
+          "occupier": "Alexander Wilson",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "28 2 21",
+          "land_val": "18 0 0",
+          "building_val": "1 0 0",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Daniel Fagan",
+          "lessor": "John La Touche",
+          "desc": "H and L",
+          "area": "5 2 20",
+          "land_val": "4 10 0",
+          "building_val": "0 10 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Thomas Delany",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "4 2 30",
+          "land_val": "3 15 0",
+          "building_val": "1 5 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "William Daly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "12 2 15",
+          "land_val": "10 0 0",
+          "building_val": "",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "James Lynch",
+          "lessor": "Rev. Hugh Hamilton",
+          "desc": "H,O,&L",
+          "area": "29 3 14",
+          "land_val": "17 10 0",
+          "building_val": "1 0 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "John Kimmage",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "35 1 20",
+          "land_val": "18 10 0",
+          "building_val": "1 0 0",
+          "total_val": "19 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "John Balfour",
+          "lessor": "William Coffey",
+          "desc": "H,O,&L",
+          "area": "2 0 4",
+          "land_val": "1 15 0",
+          "building_val": "1 15 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "John Lynch",
+          "lessor": "John La Touche",
+          "desc": "L",
+          "area": "31 0 18",
+          "land_val": "7 15 0",
+          "building_val": "",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "William Coffey",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "152 0 18",
+          "land_val": "107 10 0",
+          "building_val": "4 10 0",
+          "total_val": "112 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "John La Touche",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "59 0 27",
+          "land_val": "13 10 0",
+          "building_val": "",
+          "total_val": "13 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "448 0 1",
+          "land_val": "271 5 0",
+          "building_val": "12 15 0",
+          "total_val": "284 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "KILLASHEE",
+          "os": "24",
+          "occupier": "John Litton",
+          "lessor": "In fee",
+          "desc": "Herd's-house and land",
+          "area": "291 3 35",
+          "land_val": "263 0 0",
+          "building_val": "2 0 0",
+          "total_val": "265 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Church",
+          "lessor": "Baron De Robeck",
+          "desc": "Church and yard",
+          "area": "0 2 10",
+          "land_val": "0 10 0",
+          "building_val": "2 0 0",
+          "total_val": "2 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "1 c",
+          "occupier": "John Rowley",
+          "lessor": "John Litton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Thomas Gallagher",
+          "lessor": "Baron De Robeck",
+          "desc": "L",
+          "area": "53 3 4",
+          "land_val": "41 0 0",
+          "building_val": "",
+          "total_val": "41 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Baron De Robeck",
+          "lessor": "In fee",
+          "desc": "L (fox-cover)",
+          "area": "6 1 23",
+          "land_val": "4 5 0",
+          "building_val": "",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Mulhall",
+          "lessor": "John Litton",
+          "desc": "H,O,&L",
+          "area": "21 1 39",
+          "land_val": "17 10 0",
+          "building_val": "1 15 0",
+          "total_val": "19 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Mulhall",
+          "lessor": "Baron De Robeck",
+          "desc": "L",
+          "area": "26 2 31",
+          "land_val": "20 0 0",
+          "building_val": "",
+          "total_val": "20 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "400 3 22",
+          "land_val": "346 5 0",
+          "building_val": "6 5 0",
+          "total_val": "352 10 0",
+          "is_total": 1
+        },
+        {
+          "desc": "Exemptions: Church and yard",
+          "area": "0 2 10",
+          "land_val": "0 10 0",
+          "building_val": "2 0 0",
+          "total_val": "2 10 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of Exemptions",
+          "area": "400 1 12",
+          "land_val": "345 15 0",
+          "building_val": "4 5 0",
+          "total_val": "350 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "MULLAGASH, MIDDLE",
+          "os": "24",
+          "occupier": "Rev. Hugh Hamilton",
+          "lessor": "— Cruise",
+          "desc": "H,O,&L",
+          "area": "229 3 6",
+          "land_val": "175 0 0",
+          "building_val": "6 0 0",
+          "total_val": "181 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "John Costello",
+          "lessor": "Rev. Hugh Hamilton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "1 c",
+          "occupier": "Honoria Day",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Peter Kennedy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 3 10",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Lynch",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "10 2 20",
+          "land_val": "7 10 0",
+          "building_val": "",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Delany",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "19 0 13",
+          "land_val": "14 15 0",
+          "building_val": "",
+          "total_val": "14 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "265 1 9",
+          "land_val": "201 5 0",
+          "building_val": "6 10 0",
+          "total_val": "207 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "MULLAGASH, NORTH",
+          "os": "24",
+          "occupier": "Stephen Timmons",
+          "lessor": "John Litton",
+          "desc": "H,O,&L",
+          "area": "15 2 29",
+          "land_val": "10 15 0",
+          "building_val": "0 15 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Litton",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "123 3 30",
+          "land_val": "78 10 0",
+          "building_val": "",
+          "total_val": "78 10 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Vacant",
+          "lessor": "John Litton",
+          "desc": "O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- b & c",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H and O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Catherine Kelly",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3 A",
+          "occupier": "James Gallagher",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "9 2 23",
+          "land_val": "7 10 0",
+          "building_val": "1 10 0",
+          "total_val": "12 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "3 B",
+          "occupier": "James Gallagher",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 3 20",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "12 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "3 C",
+          "occupier": "James Gallagher",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 2 8",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "12 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "4",
+          "occupier": "Elizabeth Doran",
+          "lessor": "Same",
+          "desc": "H and L",
+          "area": "2 3 30",
+          "land_val": "1 15 0",
+          "building_val": "0 10 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "159 2 20",
+          "land_val": "101 10 0",
+          "building_val": "4 0 0",
+          "total_val": "105 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "MULLACASH, SOUTH",
+          "os": "24",
+          "occupier": "Rev. Hugh Hamilton",
+          "lessor": "— Cruise",
+          "desc": "L",
+          "area": "12 2 10",
+          "land_val": "10 0 0",
+          "building_val": "",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Delany",
+          "lessor": "Rev. Hugh Hamilton",
+          "desc": "L",
+          "area": "35 0 16",
+          "land_val": "22 5 0",
+          "building_val": "",
+          "total_val": "22 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Thomas Kelly (Blade)",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "6 2 20",
+          "land_val": "5 0 0",
+          "building_val": "0 15 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James Ogan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "14 2 0",
+          "land_val": "10 0 0",
+          "building_val": "",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Charles Cooley",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "18 2 5",
+          "land_val": "12 15 0",
+          "building_val": "1 0 0",
+          "total_val": "13 15 0"
+        },
+        {
+          "mr": "6 A",
+          "occupier": "John Fegan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 1 17",
+          "land_val": "4 10 0",
+          "building_val": "",
+          "total_val": "5 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 B",
+          "occupier": "John Fegan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 1 35",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "5 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "7",
+          "occupier": "John La Touche",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "4 1 37",
+          "land_val": "3 10 0",
+          "building_val": "0 15 0",
+          "total_val": "4 5 0"
+        }
+      ]
+    }
+  ]
+}

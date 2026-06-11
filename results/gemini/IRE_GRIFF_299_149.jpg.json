@@ -1,0 +1,518 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF MALLOW",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "KEATLEYSCLOSE",
+          "os": "33",
+          "occupier": "Owen Madden, Esq.",
+          "lessor": "John Newman, Esq.",
+          "desc": "L",
+          "area": "24 1 16",
+          "land_val": "34 0 0",
+          "building_val": "",
+          "total_val": "34 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Michael Donegan,",
+          "lessor": "Owen Madden, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Michael Buckley,",
+          "lessor": "— Quann, Esq.",
+          "desc": "H,O,&L",
+          "area": "25 0 8",
+          "land_val": "33 10 0",
+          "building_val": "2 5 0",
+          "total_val": "35 15 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Timothy Buckley,",
+          "lessor": "— Quann, Esq.",
+          "desc": "H,O,&L",
+          "area": "23 1 11",
+          "land_val": "29 5 0",
+          "building_val": "2 5 0",
+          "total_val": "31 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Catherine Connell,",
+          "lessor": "Timothy Buckley,",
+          "desc": "H & small garden,",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "72 2 35",
+          "land_val": "96 15 0",
+          "building_val": "5 18 0",
+          "total_val": "102 13 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "KILKNOCKAN",
+          "os": "33",
+          "occupier": "Board of Guardians of Mallow Union,",
+          "lessor": "Sir C. D. J. Norreys, Bt.",
+          "desc": "L",
+          "area": "13 0 4",
+          "land_val": "16 5 0",
+          "building_val": "",
+          "total_val": "16 5 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Board of Guardians of Mallow Union,",
+          "lessor": "Sir C. D. J. Norreys, Bt.",
+          "desc": "Union work-house,",
+          "area": "",
+          "land_val": "",
+          "building_val": "160 0 0",
+          "total_val": "160 0 0"
+        },
+        {
+          "mr": "2 A a B",
+          "occupier": "Daniel Sheehan,",
+          "lessor": "Sir C. D. J. Norreys, Bt.",
+          "desc": "H,O,&L",
+          "area": "32 3 9",
+          "land_val": "36 10 0",
+          "building_val": "2 0 0",
+          "total_val": "38 10 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "Johanna Singleton,",
+          "lessor": "Daniel Sheehan,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3 A a B",
+          "occupier": "Patrick Corbett,",
+          "lessor": "Alice Tarrant,",
+          "desc": "H,O,&L",
+          "area": "32 0 9",
+          "land_val": "35 0 0",
+          "building_val": "3 0 0",
+          "total_val": "38 0 0"
+        },
+        {
+          "mr": "— A b",
+          "occupier": "Denis Leary,",
+          "lessor": "Alice Tarrant,",
+          "desc": "H & G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4 A a b c d B",
+          "occupier": "Patrick Corbett,",
+          "lessor": "Sir C. D. J. Norreys, Bt.",
+          "desc": "H,O,&L",
+          "area": "79 2 3",
+          "land_val": "94 10 0",
+          "building_val": "4 0 0",
+          "total_val": "98 10 0"
+        },
+        {
+          "mr": "— A e",
+          "occupier": "Unoccupied,",
+          "lessor": "Patrick Corbett,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Sir C. D. J. Norreys, Bt.",
+          "lessor": "In fee,",
+          "desc": "L (plantation),",
+          "area": "8 3 13",
+          "land_val": "7 0 0",
+          "building_val": "",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "6 A B",
+          "occupier": "St. John Galway, Esq.",
+          "lessor": "Count Delahitte,",
+          "desc": "L",
+          "area": "18 0 35",
+          "land_val": "23 5 0",
+          "building_val": "",
+          "total_val": "23 5 0"
+        },
+        {
+          "mr": "— A a",
+          "occupier": "Unoccupied,",
+          "lessor": "St. John Galway, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 18 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Johanna Corbett,",
+          "lessor": "St. John Galway, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Elizabeth H. Purcell,",
+          "lessor": "St. John Galway, Esq.",
+          "desc": "L",
+          "area": "1 3 27",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "G. S. & W. Railway Co.",
+          "lessor": "In fee,",
+          "desc": "Railway (250 lin. per.),",
+          "area": "11 0 29",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "—",
+          "lessor": "—",
+          "desc": "L",
+          "area": "0 3 30",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "198 1 39",
+          "land_val": "216 10 0",
+          "building_val": "171 8 0",
+          "total_val": "400 18 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "occupier": "Board of Guardians of Mallow Union,",
+          "lessor": "Sir C. D. J. Norreys, Bt.",
+          "desc": "Union Workhouse,",
+          "area": "",
+          "land_val": "",
+          "building_val": "160 0 0",
+          "total_val": "160 0 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total exclusive of Exemptions,",
+          "area": "198 1 39",
+          "land_val": "216 10 0",
+          "building_val": "11 8 0",
+          "total_val": "240 18 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "KILLAGROHAN",
+          "os": "24",
+          "occupier": "William Roche,",
+          "lessor": "St. John Galway, Esq.",
+          "desc": "H,O,&L",
+          "area": "58 0 26",
+          "land_val": "51 5 0",
+          "building_val": "2 10 0",
+          "total_val": "53 15 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "David Roche,",
+          "lessor": "William Roche,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "2 a b",
+          "occupier": "St. John Galway, Esq.",
+          "lessor": "Miss Dillon,",
+          "desc": "H,O,&L",
+          "area": "59 3 21",
+          "land_val": "56 0 0",
+          "building_val": "3 15 0",
+          "total_val": "59 15 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "John Dargan,",
+          "lessor": "St. John Galway, Esq.",
+          "desc": "H,O,&G",
+          "area": "0 1 27",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "3 a b",
+          "occupier": "Rev. William Stewart,",
+          "lessor": "Owen Madden, Esq.",
+          "desc": "H,O, gate-lodge, &L",
+          "area": "5 0 23",
+          "land_val": "5 15 0",
+          "building_val": "8 5 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Owen Madden, Esq.",
+          "lessor": "Miss Dillon,",
+          "desc": "H,O,&L",
+          "area": "178 1 31",
+          "land_val": "169 0 0",
+          "building_val": "6 0 0",
+          "total_val": "175 0 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Denis Fitzgerald,",
+          "lessor": "Owen Madden, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "5 a b",
+          "occupier": "John Barry,",
+          "lessor": "Owen Madden, Esq.",
+          "desc": "H,O,&L",
+          "area": "71 3 39",
+          "land_val": "62 15 0",
+          "building_val": "2 5 0",
+          "total_val": "65 0 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "374 0 7",
+          "land_val": "345 5 0",
+          "building_val": "23 18 0",
+          "total_val": "369 3 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "KILLETRA",
+          "os": "32",
+          "occupier": "M'Carthy Flynn,",
+          "lessor": "Reps. Thomas Flynn,",
+          "desc": "H,O,&L",
+          "area": "40 3 4",
+          "land_val": "44 0 0",
+          "building_val": "5 0 0",
+          "total_val": "49 0 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Mary Roche,",
+          "lessor": "M'Carthy Flynn,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "Robert Harold,",
+          "lessor": "M'Carthy Flynn,",
+          "desc": "H & O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "2 a b",
+          "occupier": "Michael Jones,",
+          "lessor": "Reps. Thomas Flynn,",
+          "desc": "H,O, gate-lodge, &L",
+          "area": "167 1 6",
+          "land_val": "193 0 0",
+          "building_val": "18 0 0",
+          "total_val": "211 0 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "John Sullivan,",
+          "lessor": "Michael Jones,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "— d",
+          "occupier": "Michael Brien,",
+          "lessor": "Michael Jones,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "— e",
+          "occupier": "Daniel Sullivan,",
+          "lessor": "Michael Jones,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "— f",
+          "occupier": "Mary Sullivan,",
+          "lessor": "Michael Jones,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "— g",
+          "occupier": "James Barry,",
+          "lessor": "Michael Jones,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "— h",
+          "occupier": "John Mullane,",
+          "lessor": "Michael Jones,",
+          "desc": "H & G",
+          "area": "0 0 33",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Robert Croke,",
+          "lessor": "Burton Johnson,",
+          "desc": "H,O,&L",
+          "area": "52 0 20",
+          "land_val": "68 0 0",
+          "building_val": "4 0 0",
+          "total_val": "72 0 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Unoccupied,",
+          "lessor": "Robert Croke,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "Unoccupied,",
+          "lessor": "Robert Croke,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "4 A B",
+          "occupier": "G. S. & W. Railway Co.",
+          "lessor": "Reps. Thomas Flynn,",
+          "desc": "L",
+          "area": "48 2 20",
+          "land_val": "93 0 0",
+          "building_val": "",
+          "total_val": "93 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "G. S. & W. Railway Co.",
+          "lessor": "In fee,",
+          "desc": "Railway (110 l.n.per.),",
+          "area": "13 0 15",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "21 15 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "—",
+          "lessor": "—",
+          "desc": "L",
+          "area": "5 3 27",
+          "land_val": "11 10 0",
+          "building_val": "",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "—",
+          "lessor": "—",
+          "desc": "Waste of River Blackwater,",
+          "area": "16 1 8",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "desc": "Total,",
+          "area": "344 1 13",
+          "land_val": "409 15 0",
+          "building_val": "31 1 0",
+          "total_val": "462 11 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

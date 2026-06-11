@@ -1,0 +1,528 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF DUNSFORT",
+      "entries": [
+        {
+          "mr": "12",
+          "townland": "BALLYEDOCK, UPPER",
+          "os": "",
+          "occupier": "Daniel Branny",
+          "lessor": "Aubrey De Vere Beauclerk",
+          "desc": "L",
+          "area": "1 2 0",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "13",
+          "occupier": "John Steptoe",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "36 0 0",
+          "land_val": "43 10 0",
+          "building_val": "3 0 0",
+          "total_val": "46 10 0"
+        },
+        {
+          "desc": "Total of Rateable Property",
+          "area": "404 2 30",
+          "land_val": "451 15 0",
+          "building_val": "37 10 0",
+          "total_val": "489 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "4 c e",
+          "desc": "R. C. Chapel and graveyard",
+          "area": "0 3 0",
+          "land_val": "0 10 0",
+          "building_val": "8 0 0",
+          "total_val": "8 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "- f",
+          "desc": "National School-house and yard",
+          "area": "0 0 30",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total of Exemptions",
+          "area": "0 3 30",
+          "land_val": "0 10 0",
+          "building_val": "12 10 0",
+          "total_val": "13 0 0",
+          "is_total": 1,
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, including Exemptions",
+          "area": "405 2 20",
+          "land_val": "452 5 0",
+          "building_val": "50 0 0",
+          "total_val": "502 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "SHEEPLAND MORE",
+          "os": "38 & 45",
+          "occupier": "Richard Ward",
+          "lessor": "Richard M'Guinness",
+          "desc": "H,O,&L",
+          "area": "92 2 10",
+          "land_val": "10 0 0",
+          "building_val": "1 15 0",
+          "total_val": "20 15 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Henry Blaney",
+          "lessor": "Richard M'Guinness",
+          "desc": "H,O,&L",
+          "area": "92 2 10",
+          "land_val": "10 0 0",
+          "building_val": "1 5 0",
+          "total_val": "20 5 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "1 c",
+          "occupier": "James Blaney",
+          "lessor": "Richard M'Guinness",
+          "desc": "H,O,&L",
+          "area": "92 2 10",
+          "land_val": "9 10 0",
+          "building_val": "1 5 0",
+          "total_val": "10 15 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "1 d",
+          "occupier": "Robert Casserly",
+          "lessor": "Richard M'Guinness",
+          "desc": "H,O,&L",
+          "area": "92 2 10",
+          "land_val": "9 10 0",
+          "building_val": "1 5 0",
+          "total_val": "10 15 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "1 e",
+          "occupier": "Mary Blaney",
+          "lessor": "Richard M'Guinness",
+          "desc": "H,O,&L",
+          "area": "92 2 10",
+          "land_val": "9 10 0",
+          "building_val": "1 10 0",
+          "total_val": "11 0 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "2 A",
+          "occupier": "Thomas Blaney",
+          "lessor": "Richard M'Guinness",
+          "desc": "H,O,&L",
+          "area": "2 0 25",
+          "land_val": "1 5 0",
+          "building_val": "1 0 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "- B a",
+          "occupier": "Nicholas M'Alea",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "19 0 13",
+          "land_val": "16 5 0",
+          "building_val": "1 15 0",
+          "total_val": "39 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "- C",
+          "occupier": "Nicholas M'Alea",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "20 3 5",
+          "land_val": "18 10 0",
+          "total_val": "39 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "- D",
+          "occupier": "Nicholas M'Alea",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 3 20",
+          "land_val": "1 5 0",
+          "total_val": "39 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "3 A",
+          "occupier": "Hugh M'Alea",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "2 0 25",
+          "land_val": "1 0 0",
+          "building_val": "1 5 0",
+          "total_val": "14 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "- B",
+          "occupier": "Hugh M'Alea",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 3 0",
+          "land_val": "2 0 0",
+          "total_val": "14 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "- C",
+          "occupier": "Hugh M'Alea",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 1 15",
+          "land_val": "2 10 0",
+          "total_val": "14 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "- D",
+          "occupier": "Hugh M'Alea",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "9 0 0",
+          "land_val": "7 5 0",
+          "total_val": "14 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "4 A",
+          "occupier": "Robert M'Alea",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "1 1 0",
+          "land_val": "0 15 0",
+          "building_val": "0 15 0",
+          "total_val": "8 5 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "- B",
+          "occupier": "Robert M'Alea",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 0 35",
+          "land_val": "0 10 0",
+          "total_val": "8 5 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "- C",
+          "occupier": "Robert M'Alea",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 0 15",
+          "land_val": "2 5 0",
+          "total_val": "8 5 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "- D a",
+          "occupier": "Robert M'Alea",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 23",
+          "land_val": "4 0 0",
+          "total_val": "8 5 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "- b",
+          "occupier": "Mary Darby",
+          "lessor": "Robert M'Alea",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "5 A",
+          "occupier": "James Small",
+          "lessor": "Richard M'Guinness",
+          "desc": "H,O,&L",
+          "area": "1 3 13",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "6 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "James Small",
+          "lessor": "Richard M'Guinness",
+          "desc": "L",
+          "area": "8 2 35",
+          "land_val": "4 13 0",
+          "total_val": "6 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 B b",
+          "occupier": "Henry Blaney",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 0 12",
+          "land_val": "0 2 0",
+          "total_val": "2 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "William Corran",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "5 2 32",
+          "land_val": "2 15 0",
+          "building_val": "1 0 0",
+          "total_val": "13 15 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "James Blaney",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "107 2 13",
+          "land_val": "12 15 0",
+          "building_val": "2 15 0",
+          "total_val": "43 5 0",
+          "n_shared": 8
+        },
+        {
+          "mr": "7 b",
+          "occupier": "Daniel Clinton",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "107 2 13",
+          "land_val": "40 10 0",
+          "building_val": "2 0 0",
+          "total_val": "21 5 0",
+          "n_shared": 8
+        },
+        {
+          "mr": "7 c",
+          "occupier": "John Creen",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "107 2 13",
+          "land_val": "19 5 0",
+          "building_val": "1 10 0",
+          "total_val": "20 15 0",
+          "n_shared": 8
+        },
+        {
+          "mr": "7 d",
+          "occupier": "John Clinton",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "107 2 13",
+          "land_val": "19 5 0",
+          "total_val": "3 10 0",
+          "n_shared": 8
+        },
+        {
+          "mr": "7 -",
+          "occupier": "Patrick M'Alister",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "107 2 13",
+          "land_val": "3 10 0",
+          "total_val": "8 0 0",
+          "n_shared": 8
+        },
+        {
+          "mr": "7 -",
+          "occupier": "Henry Blaney",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "107 2 13",
+          "land_val": "8 0 0",
+          "total_val": "2 10 0",
+          "n_shared": 8
+        },
+        {
+          "mr": "7 -",
+          "occupier": "Patrick Burns",
+          "lessor": "Patrick M'Alister",
+          "desc": "H & sm. garden",
+          "area": "107 2 13",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0",
+          "n_shared": 8
+        },
+        {
+          "mr": "7 e",
+          "occupier": "James Holmes",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "7 f",
+          "occupier": "John Clinton",
+          "lessor": "James Blayney",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "7 g",
+          "occupier": "Rose Denvir",
+          "lessor": "Daniel Clinton",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "8 A",
+          "occupier": "George Spence",
+          "lessor": "Richard M'Guinness",
+          "desc": "H,O,&L",
+          "area": "4 2 25",
+          "land_val": "3 10 0",
+          "building_val": "3 10 0",
+          "total_val": "49 10 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "- B",
+          "occupier": "George Spence",
+          "lessor": "Richard M'Guinness",
+          "desc": "L",
+          "area": "24 2 20",
+          "land_val": "17 15 0",
+          "total_val": "49 10 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "- C",
+          "occupier": "George Spence",
+          "lessor": "Richard M'Guinness",
+          "desc": "L",
+          "area": "17 0 10",
+          "land_val": "20 10 0",
+          "total_val": "49 10 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "- D",
+          "occupier": "George Spence",
+          "lessor": "Richard M'Guinness",
+          "desc": "L",
+          "area": "3 2 12",
+          "land_val": "4 5 0",
+          "total_val": "49 10 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "- D a",
+          "occupier": "Henry Burke",
+          "lessor": "George Spence",
+          "desc": "H & G",
+          "area": "0 0 18",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "9 A",
+          "occupier": "Edward Corran",
+          "lessor": "Richard M'Guinness",
+          "desc": "H,O,&L",
+          "area": "7 3 15",
+          "land_val": "6 15 0",
+          "building_val": "0 15 0",
+          "total_val": "16 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "Edward Corran",
+          "lessor": "Richard M'Guinness",
+          "desc": "L",
+          "area": "6 3 35",
+          "land_val": "9 0 0",
+          "total_val": "16 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Robert Connolly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "23 3 30",
+          "land_val": "29 15 0",
+          "building_val": "1 15 0",
+          "total_val": "31 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "George Blaney",
+          "lessor": "Robert Connolly",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "11 A",
+          "occupier": "Hugh Kilchrist",
+          "lessor": "Richard M'Guinness",
+          "desc": "H,O,&L",
+          "area": "4 3 35",
+          "land_val": "4 15 0",
+          "building_val": "5 0 0",
+          "total_val": "71 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "Hugh Kilchrist",
+          "lessor": "Richard M'Guinness",
+          "desc": "L",
+          "area": "45 3 10",
+          "land_val": "61 5 0",
+          "total_val": "71 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B b",
+          "occupier": "Daniel Smith",
+          "lessor": "Hugh Kilchrist",
+          "desc": "H & forge",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Andrew Wylie",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        }
+      ]
+    }
+  ]
+}

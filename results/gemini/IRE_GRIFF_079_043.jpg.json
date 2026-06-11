@@ -1,0 +1,557 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF SEAPATRICK",
+      "entries": [
+        {
+          "mr": "32",
+          "townland": "BALLYVALLY",
+          "sublocation_1": "TOWN OF BANBRIDGE",
+          "sublocation_2": "NEWRY-STREET",
+          "occupier": "Thomas Dawson",
+          "lessor": "Marquis of Downshire",
+          "desc": "H,O,yard,& sm. garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "33",
+          "occupier": "Peter M'Neill",
+          "lessor": "George Willies",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "William Willies",
+          "lessor": "Marquis of Downshire",
+          "desc": "H,O,yard,& garden",
+          "area": "0 0 24",
+          "land_val": "0 10 0",
+          "building_val": "11 10 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Felix Hanlon",
+          "lessor": "George Willies",
+          "desc": "H and sm. garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Thomas M'Mullen",
+          "lessor": "Marquis of Downshire",
+          "desc": "H,O,yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "Margaret M'Gaffin",
+          "lessor": "Same",
+          "desc": "H,O,yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "9 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "George Agnew",
+          "lessor": "Same",
+          "desc": "H,O,yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "Joseph M'Comish",
+          "lessor": "George Agnew",
+          "desc": "H,O,yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "Patrick Fearon",
+          "lessor": "John Woods",
+          "desc": "H, office, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "Eliza Corry",
+          "lessor": "Same",
+          "desc": "H and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "John O'Brien",
+          "lessor": "Same",
+          "desc": "H and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "Charles M'Crory",
+          "lessor": "Same",
+          "desc": "H,O,yd., & sm. gar. (including No. 0, Workhouse-road)",
+          "area": "",
+          "land_val": "",
+          "building_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "44",
+          "occupier": "Unoccupied",
+          "lessor": "Margaret Mitchell",
+          "desc": "H, office, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "9 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "45",
+          "occupier": "Margaret Mitchell",
+          "lessor": "Marquis of Downshire",
+          "desc": "H, office, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "11 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "Margaret Mitchell",
+          "lessor": "Same",
+          "desc": "H,O,yard,& garden",
+          "area": "0 0 20",
+          "land_val": "1 0 0",
+          "building_val": "15 0 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "47",
+          "occupier": "James Young",
+          "lessor": "Same",
+          "desc": "Downshire Arms hotel, offs., yd., gar. & land",
+          "area": "2 0 20",
+          "land_val": "5 0 0",
+          "building_val": "70 0 0",
+          "total_val": "75 0 0"
+        },
+        {
+          "mr": "48",
+          "occupier": "John M'Williams",
+          "lessor": "Same",
+          "desc": "H,O,yd., gar.,& ld.",
+          "area": "3 3 0",
+          "land_val": "6 10 0",
+          "building_val": "16 10 0",
+          "total_val": "23 0 0"
+        },
+        {
+          "mr": "49",
+          "occupier": "Messrs. Scott & Noble",
+          "lessor": "Johanna M'Williams",
+          "desc": "Thread dye-works, offices, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "14 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "50",
+          "occupier": "Johanna M'Williams",
+          "lessor": "Marquis of Downshire",
+          "desc": "H,O,yd., gar.,& ld.",
+          "area": "3 3 0",
+          "land_val": "7 0 0",
+          "building_val": "21 0 0",
+          "total_val": "28 0 0"
+        },
+        {
+          "mr": "51",
+          "occupier": "Baptist Chapel & yard",
+          "lessor": "(See Exemptions.)",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "Marquis of Downshire",
+          "lessor": "",
+          "desc": "Half annual rent of Baptist Chapel & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Joseph M'Candless",
+          "lessor": "Thomas Hutchison",
+          "desc": "G (in rear)",
+          "area": "0 0 24",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "52",
+          "occupier": "James Donaldson",
+          "lessor": "William J. Birch",
+          "desc": "H & small garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "53",
+          "occupier": "John Crowmey",
+          "lessor": "Same",
+          "desc": "H & small garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "54",
+          "occupier": "James Boyd",
+          "lessor": "Same",
+          "desc": "H & small garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "55",
+          "occupier": "Hugh Close",
+          "lessor": "Same",
+          "desc": "H & small garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "56",
+          "occupier": "James M'Mahon",
+          "lessor": "Henry Close",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "57",
+          "occupier": "Joseph M'Candless",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "58",
+          "occupier": "Henry Close",
+          "lessor": "Johanna M'Williams",
+          "desc": "H,O,yard,& garden",
+          "area": "0 1 0",
+          "land_val": "1 0 0",
+          "building_val": "9 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "59",
+          "occupier": "Samuel Browne",
+          "lessor": "Thomas Crozier",
+          "desc": "H,O,yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "8 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "60",
+          "occupier": "James Thomson",
+          "lessor": "Marquis of Downshire",
+          "desc": "Stores,yd.,&gar.(in rear)",
+          "area": "0 1 0",
+          "land_val": "1 0 0",
+          "building_val": "11 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "61",
+          "occupier": "James Hayes",
+          "lessor": "James Thomson",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "62",
+          "occupier": "Margaret Dickson",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "63",
+          "occupier": "John Hillen",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "64",
+          "occupier": "James Mageehan",
+          "lessor": "Richard Hayes",
+          "desc": "H,O,yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "65",
+          "occupier": "Eliza Woods",
+          "lessor": "Same",
+          "desc": "H,O,yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "66",
+          "occupier": "David Cloghessy",
+          "lessor": "Same",
+          "desc": "H,O,yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "67",
+          "occupier": "James Haughey",
+          "lessor": "Same",
+          "desc": "H,O,yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "68",
+          "occupier": "Matthew Geddes",
+          "lessor": "William Friar",
+          "desc": "H & weaving-shop",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "69",
+          "occupier": "Robert Best",
+          "lessor": "Same",
+          "desc": "H,O,yard, & garden",
+          "area": "0 0 30",
+          "land_val": "0 10 0",
+          "building_val": "4 0 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "70",
+          "occupier": "John Grimes",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "71",
+          "occupier": "Alexander Thompson",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "FRIAR'S-YARD",
+          "occupier": "John Boyd",
+          "lessor": "William Friar",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Joseph Edmundson",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Flanagan",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Isaac Boyd",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "William Silvey",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Patrick Diamond",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "William Boyd",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "James Wilson",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Anne Black",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "Office",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "72",
+          "sublocation_2": "NEWRY-STREET",
+          "occupier": "John Robinson",
+          "lessor": "William Ardery",
+          "desc": "Albert hotel, offs., yd., and small garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "19 0 0",
+          "total_val": "19 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "73",
+          "occupier": "John M'Cay",
+          "lessor": "Jane M'Niece",
+          "desc": "H,O,yard, & sm. garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        }
+      ]
+    }
+  ]
+}

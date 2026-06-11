@@ -1,0 +1,585 @@
+{
+  "parishes": [
+    {
+      "parish": "",
+      "entries": [
+        {
+          "mr": "9 a",
+          "townland": "GLENREAGHBEG",
+          "occupier": "Catherine Hickey",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H",
+          "building_val": "1 3 0",
+          "total_val": "1 3 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "9",
+          "occupier": "John Ryan",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H,O,&L",
+          "area": "10 3 35",
+          "land_val": "6 16 0",
+          "building_val": "1 0 0",
+          "total_val": "7 16 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "James Hayes",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "L",
+          "area": "11 1 38",
+          "land_val": "7 3 0",
+          "total_val": "7 3 0"
+        },
+        {
+          "desc": "Total",
+          "area": "227 2 28",
+          "land_val": "144 0 0",
+          "building_val": "29 11 0",
+          "total_val": "173 11 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "GLENREAGHMORE",
+          "occupier": "James Long",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H&L",
+          "area": "13 1 11",
+          "land_val": "7 13 0",
+          "building_val": "1 7 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Long",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "L",
+          "area": "13 0 10",
+          "land_val": "7 4 0",
+          "total_val": "7 4 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Richard Comerford",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H&L",
+          "area": "32 1 14",
+          "land_val": "17 16 0",
+          "building_val": "1 9 0",
+          "total_val": "19 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Thomas Doyle",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H&L",
+          "area": "15 2 20",
+          "land_val": "8 12 0",
+          "building_val": "1 11 0",
+          "total_val": "10 3 0"
+        },
+        {
+          "mr": "5 a b",
+          "occupier": "Edmund Cass",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H,O,&L",
+          "area": "103 3 10",
+          "land_val": "63 7 0",
+          "building_val": "4 1 0",
+          "total_val": "67 8 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Mary Gleeson",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H,O,&L",
+          "area": "47 0 0",
+          "land_val": "26 8 0",
+          "building_val": "2 3 0",
+          "total_val": "28 11 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Mrs. Murphy",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H,O,&L",
+          "area": "16 0 32",
+          "land_val": "8 10 0",
+          "building_val": "0 13 0",
+          "total_val": "9 3 0"
+        },
+        {
+          "desc": "Total",
+          "area": "241 1 17",
+          "land_val": "139 10 0",
+          "building_val": "11 4 0",
+          "total_val": "150 14 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "GRANGE",
+          "occupier": "William Ryan",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "area": "9 1 27",
+          "land_val": "4 18 0",
+          "total_val": "4 18 0"
+        },
+        {
+          "mr": "2 a b",
+          "occupier": "Vacant",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "area": "7 2 39",
+          "land_val": "3 1 0",
+          "total_val": "3 1 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Richard Maher",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "area": "4 0 1",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Vacant",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "area": "7 3 11",
+          "land_val": "3 13 0",
+          "total_val": "3 13 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4",
+          "occupier": "Richard Maher",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "land_val": "1 17 0",
+          "total_val": "1 17 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 a b",
+          "occupier": "James Dwyer",
+          "lessor": "Court of Chancery",
+          "desc": "H&L",
+          "area": "35 2 8",
+          "land_val": "25 13 0",
+          "building_val": "2 9 0",
+          "total_val": "28 2 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Patrick Keogh",
+          "lessor": "Court of Chancery",
+          "desc": "H,O,&L",
+          "area": "9 3 19",
+          "land_val": "7 11 0",
+          "building_val": "0 13 0",
+          "total_val": "8 4 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Richard Maher",
+          "lessor": "Court of Chancery",
+          "desc": "H,O,&L",
+          "area": "3 1 32",
+          "land_val": "0 16 0",
+          "building_val": "1 4 0",
+          "total_val": "2 0 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "7 b",
+          "occupier": "William Ryan",
+          "lessor": "Court of Chancery",
+          "desc": "H,O,&L",
+          "land_val": "0 16 0",
+          "building_val": "1 7 0",
+          "total_val": "2 3 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "7 c",
+          "occupier": "Timothy Creagh",
+          "lessor": "Court of Chancery",
+          "desc": "H,O,&L",
+          "land_val": "0 16 0",
+          "building_val": "1 2 0",
+          "total_val": "1 18 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "7 d",
+          "occupier": "Vacant",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "land_val": "0 16 0",
+          "total_val": "0 16 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "7 e",
+          "occupier": "Michael Keeffe",
+          "lessor": "Court of Chancery",
+          "desc": "H&O",
+          "building_val": "1 4 0",
+          "total_val": "1 4 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "8",
+          "occupier": "Michael Nolan",
+          "lessor": "Court of Chancery",
+          "desc": "H",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "James Dwyer",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "area": "32 2 9",
+          "land_val": "0 17 0",
+          "total_val": "0 17 0",
+          "n_shared": 7
+        },
+        {
+          "mr": "8",
+          "occupier": "Timothy Creagh",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "land_val": "3 13 0",
+          "total_val": "3 13 0",
+          "n_shared": 7
+        },
+        {
+          "mr": "8",
+          "occupier": "Michael Gleeson",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0",
+          "n_shared": 7
+        },
+        {
+          "mr": "8",
+          "occupier": "Richard Maher",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "land_val": "0 9 0",
+          "total_val": "0 9 0",
+          "n_shared": 7
+        },
+        {
+          "mr": "8",
+          "occupier": "Vacant",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "land_val": "3 7 0",
+          "total_val": "3 7 0",
+          "n_shared": 7
+        },
+        {
+          "mr": "8",
+          "occupier": "Patrick Keogh",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "land_val": "11 16 0",
+          "total_val": "11 16 0",
+          "n_shared": 7
+        },
+        {
+          "mr": "8",
+          "occupier": "John Quinlan",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "land_val": "2 18 0",
+          "total_val": "2 18 0",
+          "n_shared": 7
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Mrs. Ryan (Patrick)",
+          "lessor": "Court of Chancery",
+          "desc": "H,O,&L",
+          "area": "0 0 20",
+          "land_val": "3 13 0",
+          "building_val": "0 16 0",
+          "total_val": "4 9 0"
+        },
+        {
+          "mr": "8 b",
+          "occupier": "Thomas Allen",
+          "lessor": "Court of Chancery",
+          "desc": "H&G",
+          "land_val": "0 2 0",
+          "building_val": "0 15 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "8 c",
+          "occupier": "James Ryan",
+          "lessor": "Court of Chancery",
+          "desc": "H&L",
+          "area": "0 0 23",
+          "land_val": "0 17 0",
+          "building_val": "0 10 0",
+          "total_val": "1 7 0"
+        },
+        {
+          "mr": "8 d",
+          "occupier": "John Ryan",
+          "lessor": "Court of Chancery",
+          "desc": "H&G",
+          "land_val": "0 2 0",
+          "building_val": "0 13 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "8 e",
+          "occupier": "John Flanagan",
+          "lessor": "Robert Smithwick",
+          "desc": "H",
+          "area": "0 0 20",
+          "building_val": "0 13 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "8 f",
+          "occupier": "Thomas Maher",
+          "lessor": "Robert Smithwick",
+          "desc": "H&G",
+          "land_val": "0 2 0",
+          "building_val": "0 18 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "8 g",
+          "occupier": "Michael Gleeson",
+          "lessor": "Patrick Twohy",
+          "desc": "H&L",
+          "area": "0 0 36",
+          "land_val": "0 9 0",
+          "building_val": "0 3 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "8 h",
+          "occupier": "Mrs. Margaret Miller",
+          "lessor": "Patrick Twohy",
+          "desc": "H&L",
+          "land_val": "0 5 0",
+          "building_val": "0 3 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "8 i",
+          "occupier": "Patrick Twohy",
+          "lessor": "Court of Chancery",
+          "desc": "H",
+          "area": "2 2 23",
+          "land_val": "2 8 0",
+          "building_val": "0 4 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Michael Nolan",
+          "lessor": "Patrick Twohy",
+          "desc": "L",
+          "total_val": "2 8 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Bridget Ryan",
+          "lessor": "Patrick Twohy",
+          "desc": "H",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "9 b",
+          "occupier": "Mrs. Margt. Fanning",
+          "lessor": "Patrick Twohy",
+          "desc": "H",
+          "building_val": "0 3 0",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "9 c",
+          "occupier": "Mrs. Bridget Maher",
+          "lessor": "Court of Chancery",
+          "desc": "H",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "9 d",
+          "occupier": "Patrick Twohy",
+          "lessor": "Court of Chancery",
+          "desc": "H",
+          "building_val": "0 3 0",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "William Twohy",
+          "lessor": "Court of Chancery",
+          "desc": "H,O,&L",
+          "area": "241 2 6",
+          "land_val": "61 5 0",
+          "building_val": "5 14 0",
+          "total_val": "66 19 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "10 b",
+          "occupier": "Vacant",
+          "lessor": "Court of Chancery",
+          "desc": "H,O,&L",
+          "land_val": "84 0 0",
+          "building_val": "4 0 0",
+          "total_val": "88 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "10 c",
+          "occupier": "Vacant",
+          "lessor": "William Twohy",
+          "desc": "L",
+          "land_val": "28 0 0",
+          "total_val": "28 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "10 d",
+          "occupier": "Jeremiah Dwyer",
+          "lessor": "Court of Chancery",
+          "desc": "H&O",
+          "area": "0 0 24",
+          "land_val": "0 2 0",
+          "building_val": "3 1 0",
+          "total_val": "3 1 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "10 e",
+          "occupier": "Michael Doran",
+          "lessor": "Thomas Long",
+          "desc": "H&O",
+          "building_val": "1 19 0",
+          "total_val": "1 19 0"
+        },
+        {
+          "mr": "10 f",
+          "occupier": "James Dwyer",
+          "lessor": "Thomas Long",
+          "desc": "H&G",
+          "area": "13 0 20",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Patrick Ryan",
+          "lessor": "Court of Chancery",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "11",
+          "occupier": "Timothy Creagh",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "land_val": "3 6 0",
+          "total_val": "3 6 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "11",
+          "occupier": "Richard Maher",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "land_val": "1 2 0",
+          "total_val": "1 2 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "11",
+          "occupier": "Vacant",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "land_val": "1 2 0",
+          "total_val": "1 2 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "11",
+          "occupier": "Patrick Twohy",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "area": "3 0 36",
+          "land_val": "1 2 0",
+          "total_val": "1 2 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "12",
+          "occupier": "Patrick Twohy",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "land_val": "3 13 0",
+          "total_val": "3 13 0"
+        },
+        {
+          "desc": "Total",
+          "area": "371 2 34",
+          "land_val": "268 9 0",
+          "building_val": "32 3 0",
+          "total_val": "300 12 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "HOLYCROSS",
+          "occupier": "James Hayes",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H,O,&L",
+          "area": "6 0 24",
+          "land_val": "4 8 0",
+          "building_val": "2 10 0",
+          "total_val": "6 18 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "John Parks",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H,O,&L",
+          "area": "6 2 28",
+          "land_val": "4 17 0",
+          "building_val": "2 18 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "2 b",
+          "occupier": "James Brazill",
+          "lessor": "John Parks",
+          "desc": "H,O,&yard",
+          "building_val": "0 9 0",
+          "total_val": "0 9 0"
+        }
+      ]
+    }
+  ]
+}

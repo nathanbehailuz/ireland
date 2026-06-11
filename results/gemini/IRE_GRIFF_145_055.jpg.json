@@ -1,0 +1,389 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF OUTRATH",
+      "entries": [
+        {
+          "mr": "2",
+          "townland": "OUTRATH",
+          "is_continued": 1,
+          "occupier": "Richard Carroll,",
+          "lessor": "Mrs. Eugene Maru Cramer, .",
+          "desc": "H,O,&L",
+          "area": "20 2 27",
+          "land_val": "15 3 0",
+          "building_val": "1 7 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "John Walsh,",
+          "lessor": "Mrs. Eugene Maru Cramer, .",
+          "desc": "H,O,&L",
+          "area": "213 1 2",
+          "land_val": "178 0 0",
+          "building_val": "12 0 0",
+          "total_val": "190 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Mary Kelly,",
+          "lessor": "John Walsh,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Glendon,",
+          "lessor": "Mrs. Eugene Maru Cramer, .",
+          "desc": "H,O,&L",
+          "area": "15 3 26",
+          "land_val": "13 0 0",
+          "building_val": "3 0 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "William Britt,",
+          "lessor": "Mrs. Eugene Maru Cramer, .",
+          "desc": "H,O,&L",
+          "area": "40 2 30",
+          "land_val": "33 3 0",
+          "building_val": "3 7 0",
+          "total_val": "36 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "James Ryan,",
+          "lessor": "William Britt,",
+          "desc": "H & G",
+          "area": "0 0 28",
+          "land_val": "0 2 0",
+          "building_val": "0 11 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "6 A B",
+          "occupier": "Michael Doheny,",
+          "lessor": "Mrs. Eugene Maru Cramer, .",
+          "desc": "L",
+          "area": "7 0 7",
+          "land_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "7 A B",
+          "occupier": "John Mulroony,",
+          "lessor": "Mrs. Eugene Maru Cramer, .",
+          "desc": "L",
+          "area": "7 1 22",
+          "land_val": "6 5 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Thomas Campbell,",
+          "lessor": "Mrs. Eugene Maru Cramer, .",
+          "desc": "H,O,&L",
+          "area": "13 1 18",
+          "land_val": "11 3 0",
+          "building_val": "2 7 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Michael Doheny,",
+          "lessor": "Mrs. Eugene Maru Cramer, .",
+          "desc": "H,O,&L",
+          "area": "3 3 10",
+          "land_val": "1 10 0",
+          "building_val": "1 10 0",
+          "total_val": "3 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "John Mulroony,",
+          "lessor": "Mrs. Eugene Maru Cramer, .",
+          "desc": "H,O,&L",
+          "land_val": "1 10 0",
+          "building_val": "1 15 0",
+          "total_val": "3 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "10",
+          "occupier": "James Ryan,",
+          "lessor": "Mrs. Eugene Maru Cramer, .",
+          "desc": "H & L",
+          "area": "5 0 22",
+          "land_val": "4 5 0",
+          "building_val": "1 0 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "11 A a B",
+          "occupier": "Martin Murphy,",
+          "lessor": "Mrs. Eugene Maru Cramer, .",
+          "desc": "H,O,&L",
+          "area": "31 2 2",
+          "land_val": "26 0 0",
+          "building_val": "3 0 0",
+          "total_val": "29 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Grave-yard,",
+          "lessor": "Mrs. Eugene Maru Cramer, .",
+          "desc": "Grave-yard",
+          "area": "0 0 27",
+          "land_val": "0 2 0",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Julia Murphy,",
+          "lessor": "Martin Murphy,",
+          "desc": "H & G",
+          "area": "0 0 24",
+          "land_val": "0 2 0",
+          "building_val": "0 14 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "12 A a B",
+          "occupier": "Denis Mulrooney,",
+          "lessor": "Mrs. Eugene Maru Cramer, .",
+          "desc": "H,O,&L",
+          "area": "66 0 32",
+          "land_val": "55 0 0",
+          "building_val": "4 0 0",
+          "total_val": "59 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Lawrence Ryan,",
+          "lessor": "Denis Mulrooney,",
+          "desc": "H & G",
+          "area": "0 0 38",
+          "land_val": "0 4 0",
+          "building_val": "0 9 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "13 A a B",
+          "occupier": "James Meehan,",
+          "lessor": "Mrs. Eugene Maru Cramer, .",
+          "desc": "H,O,&L",
+          "area": "31 0 8",
+          "land_val": "23 17 0",
+          "building_val": "2 3 0",
+          "total_val": "26 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "John Carrahill, .",
+          "lessor": "Mrs. Eugene Maru Cramer, .",
+          "desc": "H & L",
+          "area": "4 1 36",
+          "land_val": "3 15 0",
+          "building_val": "0 10 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Patrick Meehan,",
+          "lessor": "Mrs. Eugene Maru Cramer, .",
+          "desc": "H,O,&L",
+          "area": "30 3 30",
+          "land_val": "24 0 0",
+          "building_val": "3 5 0",
+          "total_val": "27 5 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "528 2 13",
+          "land_val": "433 1 0",
+          "building_val": "44 8 0",
+          "total_val": "477 9 0",
+          "is_total": 1
+        },
+        {
+          "desc": "Exemptions : Grave-yard,",
+          "area": "0 0 27",
+          "land_val": "0 2 0",
+          "total_val": "0 2 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of exemptions,",
+          "area": "528 1 26",
+          "land_val": "432 19 0",
+          "building_val": "44 8 0",
+          "total_val": "477 7 0",
+          "is_total": 1
+        }
+      ]
+    },
+    {
+      "parish": "PARISH OF ST. CANICE",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "WALLSLOUGH",
+          "os": "23",
+          "occupier": "Patrick Costello, jun.",
+          "lessor": "John P. O'Shee, Esq.",
+          "desc": "H,O,&L",
+          "area": "70 0 19",
+          "land_val": "54 15 0",
+          "building_val": "7 10 0",
+          "total_val": "62 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Andrew Smith, .",
+          "lessor": "Patrick Costello, jun.",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "2 A a B",
+          "occupier": "Patrick Costello, sen.",
+          "lessor": "John P. O'Shee, Esq.",
+          "desc": "H,O,&L",
+          "area": "71 3 39",
+          "land_val": "55 2 0",
+          "building_val": "4 18 0",
+          "total_val": "60 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Peter Kennedy, .",
+          "lessor": "John P. O'Shee, Esq.",
+          "desc": "H,O,&L",
+          "area": "39 1 26",
+          "land_val": "29 3 0",
+          "building_val": "2 17 0",
+          "total_val": "32 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Sylvester Lawless,",
+          "lessor": "John P. O'Shee, Esq.",
+          "desc": "H,O,&L",
+          "area": "45 2 24",
+          "land_val": "34 7 0",
+          "building_val": "3 3 0",
+          "total_val": "37 10 0"
+        },
+        {
+          "occupier": "William Quirk, .",
+          "lessor": "John P. O'Shee, Esq.",
+          "desc": "L",
+          "area": "35 3 7",
+          "land_val": "13 15 0",
+          "total_val": "13 15 0",
+          "n_shared": 2
+        },
+        {
+          "occupier": "Nicholas Quirk, .",
+          "lessor": "John P. O'Shee, Esq.",
+          "desc": "L",
+          "land_val": "13 15 0",
+          "total_val": "13 15 0",
+          "n_shared": 2
+        },
+        {
+          "desc": "Total,",
+          "area": "262 3 35",
+          "land_val": "200 17 0",
+          "building_val": "19 3 0",
+          "total_val": "220 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "BALLYNALINA",
+          "os": "19 & 23",
+          "occupier": "John Fleming, .",
+          "lessor": "Abrhm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "158 0 13",
+          "land_val": "152 0 0",
+          "building_val": "12 15 0",
+          "total_val": "164 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Martin Shea,",
+          "lessor": "John Fleming, .",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Michael Keilly,",
+          "lessor": "Abrhm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "2 3 9",
+          "land_val": "2 15 0",
+          "building_val": "1 5 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Lawrence Millea,",
+          "lessor": "Abrhm.W.Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "7 0 32",
+          "land_val": "3 0 0",
+          "building_val": "1 0 0",
+          "total_val": "4 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "James Millea,",
+          "lessor": "Abrhm.W.Baker, Esq.",
+          "desc": "H & L",
+          "land_val": "3 0 0",
+          "building_val": "0 15 0",
+          "total_val": "3 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Thomas M'Grath,",
+          "lessor": "Abrhm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "9 3 9",
+          "land_val": "8 15 0",
+          "building_val": "1 15 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Daniel Breen,",
+          "lessor": "Thomas M'Grath,",
+          "desc": "H & G",
+          "area": "0 0 15",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Thomas Carthy,",
+          "lessor": "Thomas M'Grath, .",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        }
+      ]
+    }
+  ]
+}

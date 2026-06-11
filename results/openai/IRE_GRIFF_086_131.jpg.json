@@ -1,0 +1,27 @@
+{
+  "parishes": [
+    {
+      "parish": "BANGOR",
+      "entries": [
+        {
+          "mr": "",
+          "townland": "CORPORATION",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "Robert E. Ward",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "4 3 0",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "2 15 0",
+          "n_shared": 1,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 1
+        }
+      ]
+    }
+  ]
+}

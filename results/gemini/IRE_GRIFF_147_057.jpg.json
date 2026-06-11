@@ -1,0 +1,475 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF RATHKIERAN",
+      "entries": [
+        {
+          "mr": "2 A B",
+          "townland": "BALLYTARSNEY",
+          "os": "",
+          "occupier": "Nicholas Henneberry,",
+          "lessor": "Henry W. Briscoe and E. C. Villiers, Esqs.",
+          "desc": "L",
+          "area": "6 3 34",
+          "land_val": "7 15 0",
+          "building_val": "",
+          "total_val": "7 15 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Collins, .",
+          "lessor": "Henry W. Briscoe and E. C. Villiers, Esqs.",
+          "desc": "L",
+          "area": "3 2 8",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Richard Conway, .",
+          "lessor": "Henry W. Briscoe and E. C. Villiers, Esqs.",
+          "desc": "L",
+          "area": "3 2 3",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "William Walsh, .",
+          "lessor": "Henry W. Briscoe and E. C. Villiers, Esqs.",
+          "desc": "L",
+          "area": "3 2 29",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "James Keeffe, .",
+          "lessor": "Henry W. Briscoe and E. C. Villiers, Esqs.",
+          "desc": "L",
+          "area": "3 1 7",
+          "land_val": "3 15 0",
+          "building_val": "",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Thomas Rockett, .",
+          "lessor": "Henry W. Briscoe and E. C. Villiers, Esqs.",
+          "desc": "L",
+          "area": "3 0 1",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "William Conway,",
+          "lessor": "Henry W. Briscoe and E. C. Villiers, Esqs.",
+          "desc": "L",
+          "area": "7 1 39",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": "4 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9",
+          "occupier": "John Shanahan,",
+          "lessor": "Henry W. Briscoe and E. C. Villiers, Esqs.",
+          "desc": "L",
+          "area": "",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": "4 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9",
+          "occupier": "Thomas Howley, jun.",
+          "lessor": "Henry W. Briscoe and E. C. Villiers, Esqs.",
+          "desc": "L",
+          "area": "3 1 16",
+          "land_val": "3 15 0",
+          "building_val": "",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Michael Howley, .",
+          "lessor": "Henry W. Briscoe and E. C. Villiers, Esqs.",
+          "desc": "L",
+          "area": "3 2 36",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Patrick Whelan, .",
+          "lessor": "Henry W. Briscoe and E. C. Villiers, Esqs.",
+          "desc": "L",
+          "area": "3 2 36",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Peter Fewer, .",
+          "lessor": "Henry W. Briscoe and E. C. Villiers, Esqs.",
+          "desc": "L",
+          "area": "3 3 5",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Michael Dullard, .",
+          "lessor": "Henry W. Briscoe and E. C. Villiers, Esqs.",
+          "desc": "L",
+          "area": "4 0 0",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total,",
+          "area": "55 0 4",
+          "land_val": "60 5 0",
+          "building_val": "",
+          "total_val": "60 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CLONASSY",
+          "os": "39 & 40",
+          "occupier": "Nicholas Gaffney,",
+          "lessor": "Mrs. Elizabeth Pope,",
+          "desc": "H,O,corn-mill,&L",
+          "area": "6 0 32",
+          "land_val": "1 15 0",
+          "building_val": "12 0 0",
+          "total_val": "13 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "David Aylward, .",
+          "lessor": "Nicholas Gaffney, .",
+          "desc": "L",
+          "area": "6 3 31",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "William Aylward, .",
+          "lessor": "Nicholas Gaffney, .",
+          "desc": "L",
+          "area": "6 0 4",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "4 A B C",
+          "occupier": "James Keeffe, .",
+          "lessor": "Mrs. Elizabeth Pope,",
+          "desc": "L",
+          "area": "24 1 17",
+          "land_val": "6 10 0",
+          "building_val": "",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "4 D E F",
+          "occupier": "James Keeffe,",
+          "lessor": "Mrs. Elizabeth Pope,",
+          "desc": "H,O,&L",
+          "area": "45 2 3",
+          "land_val": "4 5 0",
+          "building_val": "1 10 0",
+          "total_val": "5 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 a",
+          "occupier": "James Keeffe,",
+          "lessor": "Mrs. Elizabeth Pope,",
+          "desc": "H&L",
+          "area": "",
+          "land_val": "4 5 0",
+          "building_val": "1 0 0",
+          "total_val": "5 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 b",
+          "occupier": "Edmund Keeffe,",
+          "lessor": "Mrs. Elizabeth Pope,",
+          "desc": "L (plantation),",
+          "area": "1 0 31",
+          "land_val": "0 6 0",
+          "building_val": "",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Patrick Mangan,",
+          "lessor": "Mrs. Elizabeth Pope,",
+          "desc": "L",
+          "area": "15 0 33",
+          "land_val": "4 5 0",
+          "building_val": "",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "7 A B C D",
+          "occupier": "Patrick White, .",
+          "lessor": "Mrs. Elizabeth Pope,",
+          "desc": "L",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Catherine Browne,",
+          "lessor": "Patrick Boyle, .",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— b",
+          "occupier": "Patrick Millea, .",
+          "lessor": "Patrick Boyle, .",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— c",
+          "occupier": "Patrick Boyle, .",
+          "lessor": "Patrick White, .",
+          "desc": "H&L",
+          "area": "0 1 20",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "— d",
+          "occupier": "Mary Browne, .",
+          "lessor": "Patrick Kinsella and John Whelan,",
+          "desc": "H&G",
+          "area": "0 0 37",
+          "land_val": "0 2 0",
+          "building_val": "0 16 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "— e",
+          "occupier": "John Whelan,",
+          "lessor": "Mrs. Elizabeth Pope,",
+          "desc": "L",
+          "area": "0 2 7",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— f",
+          "occupier": "Patrick Kinsella,",
+          "lessor": "Mrs. Elizabeth Pope,",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 4 0",
+          "building_val": "",
+          "total_val": "0 4 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "8 A B C D",
+          "occupier": "Patrick Kinsella,",
+          "lessor": "Mrs. Elizabeth Pope,",
+          "desc": "H,O,&L",
+          "area": "34 1 37",
+          "land_val": "9 0 0",
+          "building_val": "1 10 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "9 A B C",
+          "occupier": "John Whelan, .",
+          "lessor": "Mrs. Elizabeth Pope,",
+          "desc": "H,O,&L",
+          "area": "32 1 8",
+          "land_val": "7 12 0",
+          "building_val": "1 13 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "10 D E F",
+          "occupier": "Catherine Whelan,",
+          "lessor": "John Whelan, .",
+          "desc": "H&L",
+          "area": "0 3 15",
+          "land_val": "0 6 0",
+          "building_val": "0 12 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "10 A B C a b",
+          "occupier": "John Deady, .",
+          "lessor": "Mrs. Elizabeth Pope,",
+          "desc": "H&L",
+          "area": "1 2 37",
+          "land_val": "0 10 0",
+          "building_val": "0 10 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "11 A B C D & 5 c",
+          "occupier": "Mrs. Elizabeth Pope,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "21 3 19",
+          "land_val": "5 0 0",
+          "building_val": "",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "— c a",
+          "occupier": "Mary Lonnergan,",
+          "lessor": "Mrs. Elizabeth Pope,",
+          "desc": "H&G",
+          "area": "0 1 20",
+          "land_val": "0 4 0",
+          "building_val": "1 1 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "12 A B C D G E F G",
+          "occupier": "Robert Long, .",
+          "lessor": "Mrs. Elizabeth Pope,",
+          "desc": "H,O,&L",
+          "area": "51 1 9",
+          "land_val": "13 10 0",
+          "building_val": "2 5 0",
+          "total_val": "15 15 0"
+        },
+        {
+          "mr": "— c a",
+          "occupier": "James Loughlin,",
+          "lessor": "Robert Long, .",
+          "desc": "H&L",
+          "area": "0 2 20",
+          "land_val": "0 5 0",
+          "building_val": "0 13 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Patrick Ryan, .",
+          "lessor": "John Whelan, .",
+          "desc": "L",
+          "area": "1 2 0",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "14 b a",
+          "occupier": "Patrick Keating,",
+          "lessor": "Mrs. Elizabeth Pope,",
+          "desc": "H&L",
+          "area": "19 0 39",
+          "land_val": "2 5 0",
+          "building_val": "1 10 0",
+          "total_val": "3 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "19 a b",
+          "occupier": "Edward Browne,",
+          "lessor": "Mrs. Elizabeth Pope,",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "2 5 0",
+          "building_val": "2 0 0",
+          "total_val": "4 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "C D E F",
+          "occupier": "James Wall,",
+          "lessor": "Patrick Keating, Edward Browne,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Edmund Duggan,",
+          "lessor": "Mrs. Elizabeth Pope,",
+          "desc": "L",
+          "area": "8 1 9",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Johanna Croake,",
+          "lessor": "Mrs. Elizabeth Pope,",
+          "desc": "L",
+          "area": "4 1 13",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Thomas Duggan,",
+          "lessor": "Mrs. Elizabeth Pope,",
+          "desc": "L",
+          "area": "18 2 14",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "James Hussey, .",
+          "lessor": "Thomas Duggan,",
+          "desc": "H&L",
+          "area": "1 3 1",
+          "land_val": "0 8 0",
+          "building_val": "1 2 0",
+          "total_val": "1 10 0"
+        }
+      ]
+    }
+  ]
+}

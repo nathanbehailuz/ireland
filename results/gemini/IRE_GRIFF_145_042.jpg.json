@@ -1,0 +1,257 @@
+{
+  "parishes": [
+    {
+      "parish": "ST. CANICE",
+      "entries": [
+        {
+          "mr": "5",
+          "townland": "DUKESMEADOWS",
+          "occupier": "Martin Bolger,",
+          "lessor": "Earl of Normanton,",
+          "desc": "O&L",
+          "area": "3 3 2",
+          "land_val": "5 0 0",
+          "building_val": "1 0 0",
+          "total_val": "6 0 0",
+          "is_continued": 1
+        },
+        {
+          "desc": "Total,",
+          "area": "31 0 5",
+          "land_val": "49 10 0",
+          "building_val": "5 0 0",
+          "total_val": "54 10 0",
+          "is_total": 1
+        },
+        {
+          "desc": "L attached to Lunatic Asylum,",
+          "area": "0 3 17",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of exemptions,",
+          "area": "30 0 28",
+          "land_val": "47 15 0",
+          "building_val": "5 0 0",
+          "total_val": "52 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DUKESMEADOWS",
+          "os": "19",
+          "occupier": "Marquis of Ormonde,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "8 0 11",
+          "land_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "8 0 11",
+          "land_val": "10 0 0",
+          "total_val": "10 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "MAIDENHILL",
+          "os": "19",
+          "occupier": "Vacant,",
+          "lessor": "Miss Elizabeth Flood,",
+          "desc": "H,O,&L",
+          "area": "9 2 38",
+          "land_val": "14 0 0",
+          "building_val": "2 5 0",
+          "total_val": "16 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Andrew Brophy,",
+          "lessor": "Miss Elizabeth Flood,",
+          "desc": "L",
+          "area": "3 1 10",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "William M'Grath,",
+          "lessor": "Miss Elizabeth Flood,",
+          "desc": "L",
+          "area": "5 3 19",
+          "land_val": "9 5 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Sylvester Leahy,",
+          "lessor": "William M'Grath,",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Wm. Robertson, Esq.",
+          "lessor": "Miss Elizabeth Flood,",
+          "desc": "L",
+          "area": "16 3 22",
+          "land_val": "23 0 0",
+          "total_val": "23 0 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Michael M'Mahon,",
+          "lessor": "Wm. Robertson, Esq.",
+          "desc": "H,O,&G",
+          "area": "0 1 30",
+          "land_val": "0 15 0",
+          "building_val": "1 10 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Samson Carter, jun. Esq.",
+          "lessor": "Mrs. Mary Kingsmill,",
+          "desc": "L",
+          "area": "3 3 14",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Vacant,",
+          "lessor": "Samson Carter, jun. Esq.",
+          "desc": "Gate-lodge,",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "40 0 13",
+          "land_val": "57 0 0",
+          "building_val": "6 0 0",
+          "total_val": "63 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "MARNELLSMEADOWS",
+          "os": "19",
+          "occupier": "John Walsh, Esq.",
+          "lessor": "Earl of Normanton,",
+          "desc": "L",
+          "area": "0 0 36",
+          "land_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "0 0 36",
+          "land_val": "0 6 0",
+          "total_val": "0 6 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "ROBERTSHILL",
+          "os": "19",
+          "occupier": "Edmd. Smithwick, Esq.",
+          "lessor": "Reps. Wm. Bayly, Esq.",
+          "desc": "L",
+          "area": "0 0 21",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "0 0 21",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0",
+          "is_total": 1
+        }
+      ]
+    },
+    {
+      "parish": "ST. JOHN'S",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "DUKESMEADOWS",
+          "os": "19",
+          "occupier": "Kenny Scott,",
+          "lessor": "Marquis of Ormonde,",
+          "desc": "L",
+          "area": "1 2 33",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "1 a",
+          "occupier": "Corporation of Kilkenny",
+          "lessor": "Commissioners of Inland Navigation,",
+          "desc": "Old Canal public walks,",
+          "area": "0 0 32",
+          "land_val": "0 1 0",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Marquis of Ormonde,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "7 0 10",
+          "land_val": "11 5 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "9 0 4",
+          "land_val": "13 6 0",
+          "total_val": "13 6 0",
+          "is_total": 1
+        }
+      ]
+    },
+    {
+      "parish": "ST. PATRICK'S",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "ARCHERSGROVE",
+          "os": "19",
+          "occupier": "Corporation of Kilkenny",
+          "lessor": "Commissioners of Inland Navigation,",
+          "desc": "Pasture L & public walks,",
+          "area": "8 0 15",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "1 a",
+          "occupier": "Richard Sullivan, Esq.",
+          "lessor": "William V. Stuart, Esq.",
+          "desc": "Corn-mill, O, & yard,",
+          "area": "0 2 0",
+          "building_val": "150 0 0",
+          "total_val": "150 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Richard Sullivan, Esq.",
+          "lessor": "Court of Chancery,",
+          "desc": "Corn-mill, O, & yard,",
+          "area": "0 2 0",
+          "building_val": "150 0 0",
+          "total_val": "150 0 0",
+          "n_shared": 2
+        }
+      ]
+    }
+  ]
+}

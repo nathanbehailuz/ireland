@@ -1,0 +1,433 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF CLONAGHLIS",
+      "entries": [
+        {
+          "mr": "13",
+          "occupier": "Peter Power",
+          "lessor": "Mrs. Ellen Chapman",
+          "desc": "H,O,&L",
+          "area": "9 2 5",
+          "land_val": "6 15 0",
+          "building_val": "1 0 0",
+          "total_val": "7 15 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "14",
+          "occupier": "John Duggan",
+          "lessor": "Edward Glasscott, Esq.",
+          "desc": "H,O,&L",
+          "area": "21 3 31",
+          "land_val": "19 10 0",
+          "building_val": "2 10 0",
+          "total_val": "22 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "444 0 2",
+          "land_val": "402 11 0",
+          "building_val": "129 3 0",
+          "total_val": "557 14 0",
+          "is_total": 1
+        },
+        {
+          "desc": "Exemptions: Grave-yard",
+          "area": "0 0 25",
+          "land_val": "0 2 0",
+          "total_val": "0 2 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of exemptions",
+          "area": "443 3 17",
+          "land_val": "402 9 0",
+          "building_val": "129 3 0",
+          "total_val": "557 12 0",
+          "is_total": 1
+        }
+      ]
+    },
+    {
+      "parish": "PARISH OF DONAGHCUMPER",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "BALLYOULSTER",
+          "os": "11",
+          "occupier": "Richard Cane, Esq.",
+          "lessor": "Robert G. Browne, Esq.",
+          "desc": "O&L",
+          "area": "20 2 0",
+          "land_val": "21 5 0",
+          "building_val": "0 10 0",
+          "total_val": "21 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Charles Chartres",
+          "lessor": "Richard Cane, Esq.",
+          "desc": "H",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "John Brien",
+          "lessor": "Richard Cane, Esq.",
+          "desc": "H",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Richard Cane, Esq.",
+          "lessor": "In fee",
+          "desc": "Herd's ho., offices, & land",
+          "area": "43 2 3",
+          "land_val": "48 15 0",
+          "building_val": "7 5 0",
+          "total_val": "56 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Browne",
+          "lessor": "Robert G. Browne, Esq.",
+          "desc": "H,O,&L",
+          "area": "8 1 5",
+          "land_val": "8 10 0",
+          "building_val": "6 5 0",
+          "total_val": "14 15 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Mrs. Anne Wade",
+          "lessor": "Mrs. Sophia Evatt",
+          "desc": "H,O,& gardens",
+          "area": "0 3 27",
+          "land_val": "3 0 0",
+          "building_val": "5 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Michael Carroll",
+          "lessor": "Mrs. Sophia Evatt",
+          "desc": "Forge",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Edward Brien",
+          "lessor": "Mrs. Sophia Evatt",
+          "desc": "H&G",
+          "area": "0 2 3",
+          "land_val": "1 0 0",
+          "building_val": "1 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "73 2 38",
+          "land_val": "82 10 0",
+          "building_val": "25 3 0",
+          "total_val": "107 13 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CELBRIDGE ABBEY",
+          "os": "11",
+          "occupier": "Henry Grattan, Esq.",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "9 3 31",
+          "land_val": "13 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "National School",
+          "lessor": "Henry Grattan, Esq.",
+          "desc": "H",
+          "building_val": "5 0 0",
+          "total_val": "7 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "b",
+          "occupier": "John Hart",
+          "lessor": "Henry Grattan, Esq.",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "7 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "c",
+          "occupier": "Hugh Maguire",
+          "lessor": "Henry Grattan, Esq.",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "7 0 0",
+          "n_shared": 3
+        },
+        {
+          "desc": "Waste of River Liffey",
+          "area": "3 3 38"
+        },
+        {
+          "desc": "Total",
+          "area": "13 3 32",
+          "land_val": "13 0 0",
+          "building_val": "7 0 0",
+          "total_val": "20 0 0",
+          "is_total": 1
+        },
+        {
+          "desc": "Exemptions: National school-house",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of exemptions",
+          "area": "13 3 32",
+          "land_val": "13 0 0",
+          "building_val": "2 0 0",
+          "total_val": "15 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "COMMONS",
+          "os": "11",
+          "occupier": "James Collisson",
+          "lessor": "Robert G. Browne, Esq.",
+          "desc": "L",
+          "area": "9 3 6",
+          "land_val": "7 10 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Mary Meyler",
+          "lessor": "James Collisson",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "2 A B C",
+          "occupier": "Alex. R. Kirkpatrick, Esq.",
+          "lessor": "Rev. Richard Kirkpatrick",
+          "desc": "Herd's house and land",
+          "area": "25 0 9",
+          "land_val": "17 15 0",
+          "building_val": "1 0 0",
+          "total_val": "18 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "a",
+          "occupier": "James Farrell",
+          "lessor": "Free",
+          "desc": "Office",
+          "building_val": "0 6 0",
+          "total_val": "18 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3",
+          "occupier": "Alex. R. Kirkpatrick, Esq.",
+          "lessor": "George R. Keogh, Esq.",
+          "desc": "L",
+          "area": "2 3 13",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Arthur B. Cane, Esq.",
+          "lessor": "George R. Keogh, Esq.",
+          "desc": "L",
+          "area": "28 0 10",
+          "land_val": "16 5 0",
+          "total_val": "16 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Henry Holbrook",
+          "lessor": "George R. Keogh, Esq.",
+          "desc": "L",
+          "area": "5 3 9",
+          "land_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "George Heffernan",
+          "lessor": "George R. Keogh, Esq.",
+          "desc": "H&L",
+          "area": "2 3 21",
+          "land_val": "1 15 0",
+          "building_val": "1 0 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Peter McKenna",
+          "lessor": "Henry Grattan, Esq.",
+          "desc": "L",
+          "area": "10 0 36",
+          "land_val": "5 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Henry Grattan, Esq.",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "8 3 11",
+          "land_val": "4 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "desc": "Waste of River Liffey",
+          "area": "1 1 35"
+        },
+        {
+          "desc": "Total",
+          "area": "93 1 35",
+          "land_val": "58 5 0",
+          "building_val": "2 14 0",
+          "total_val": "60 19 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CONEYBURROW",
+          "os": "11",
+          "occupier": "Nicholas Hughes",
+          "lessor": "Free",
+          "desc": "H&L",
+          "area": "0 3 0",
+          "land_val": "0 15 0",
+          "building_val": "0 15 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "William Hopkins, Esq.",
+          "lessor": "John Wilson, Esq.",
+          "desc": "L",
+          "area": "33 1 12",
+          "land_val": "37 10 0",
+          "total_val": "37 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "William Hopkins, Esq.",
+          "lessor": "In fee",
+          "desc": "O&L",
+          "area": "33 1 22",
+          "land_val": "39 0 0",
+          "building_val": "3 5 0",
+          "total_val": "42 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Michael Carroll",
+          "lessor": "William Hopkins, Esq.",
+          "desc": "H,O,&L",
+          "area": "4 2 5",
+          "land_val": "5 15 0",
+          "building_val": "1 0 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Mrs. Anne Wade",
+          "lessor": "Mrs. Sophia Evatt",
+          "desc": "L",
+          "area": "3 3 25",
+          "land_val": "4 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "desc": "Waste of River Liffey",
+          "area": "3 2 16"
+        },
+        {
+          "desc": "Total",
+          "area": "79 2 0",
+          "land_val": "87 15 0",
+          "building_val": "5 0 0",
+          "total_val": "92 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "COOLFITCH",
+          "os": "11",
+          "occupier": "Bridget Meyler",
+          "lessor": "Henry Grattan, Esq.",
+          "desc": "H,O,&L",
+          "area": "20 3 29",
+          "land_val": "16 10 0",
+          "building_val": "2 10 0",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Neill",
+          "lessor": "Henry Grattan, Esq.",
+          "desc": "H&L",
+          "area": "5 1 6",
+          "land_val": "3 15 0",
+          "building_val": "0 15 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Mrs. Sarah Dillon",
+          "lessor": "Henry Grattan, Esq.",
+          "desc": "H,O,&L",
+          "area": "31 3 17",
+          "land_val": "19 0 0",
+          "building_val": "6 5 0",
+          "total_val": "25 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Thomas Dunne",
+          "lessor": "John Dunne",
+          "desc": "L",
+          "area": "7 3 29",
+          "land_val": "6 5 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Dunne",
+          "lessor": "Henry Grattan, Esq.",
+          "desc": "H,O,&L",
+          "area": "4 1 5",
+          "land_val": "3 0 0",
+          "building_val": "1 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "70 1 6",
+          "land_val": "48 10 0",
+          "building_val": "10 10 0",
+          "total_val": "59 0 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

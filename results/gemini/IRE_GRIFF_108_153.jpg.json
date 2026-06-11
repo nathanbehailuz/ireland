@@ -1,0 +1,478 @@
+{
+  "parishes": [
+    {
+      "parish": "ROSSORRY",
+      "entries": [
+        {
+          "mr": "a",
+          "townland": "DRUMGALLAN",
+          "is_continued": 1,
+          "occupier": "Hugh Frazer",
+          "lessor": "Edward Murphy",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "William Murphy",
+          "lessor": "Edward Murphy",
+          "desc": "L",
+          "area": "1 3 15",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "9 A",
+          "occupier": "William Murphy",
+          "lessor": "James Clarke",
+          "desc": "H,O,&L",
+          "area": "10 0 25",
+          "land_val": "7 0 0"
+        },
+        {
+          "mr": "- B",
+          "desc": "L",
+          "area": "4 0 10",
+          "land_val": "3 0 0",
+          "building_val": "1 10 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "10 A",
+          "occupier": "Daniel Doherty",
+          "lessor": "James Clarke",
+          "desc": "H,O,&L",
+          "area": "6 1 10",
+          "land_val": "5 10 0",
+          "building_val": "1 5 0"
+        },
+        {
+          "mr": "- B",
+          "desc": "L",
+          "area": "1 0 0",
+          "land_val": "0 15 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "11 A",
+          "occupier": "James Doherty",
+          "lessor": "James Clarke",
+          "desc": "H,O,&L",
+          "area": "2 1 5",
+          "land_val": "1 15 0"
+        },
+        {
+          "mr": "- B a",
+          "desc": "L",
+          "area": "2 3 5",
+          "land_val": "2 0 0",
+          "building_val": "0 15 0"
+        },
+        {
+          "mr": "b",
+          "desc": "L",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Patrick Doherty",
+          "lessor": "James Clarke",
+          "desc": "H,O,&L",
+          "area": "7 2 10",
+          "land_val": "5 13 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Richard Maguire",
+          "lessor": "James Clarke",
+          "desc": "L",
+          "area": "2 0 35",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Patrick Smith",
+          "lessor": "Richard Maguire",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "James Clarke (Farmer)",
+          "lessor": "James Clarke",
+          "desc": "L",
+          "area": "1 2 6",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Unoccupied",
+          "lessor": "James Clarke (Farmer)",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "15 A",
+          "occupier": "James Clarke (Farmer)",
+          "lessor": "James Clarke",
+          "desc": "H,O,&L",
+          "area": "10 2 20",
+          "land_val": "8 0 0",
+          "building_val": "1 5 0"
+        },
+        {
+          "mr": "- B",
+          "desc": "L",
+          "area": "2 2 35",
+          "land_val": "1 15 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Ellen Maguire",
+          "lessor": "James Clarke",
+          "desc": "H&L",
+          "area": "2 2 5",
+          "land_val": "1 15 0",
+          "building_val": "0 5 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "17 a",
+          "occupier": "Mathew Lilly",
+          "lessor": "James Clarke",
+          "desc": "H,O,&L",
+          "area": "5 0 25",
+          "land_val": "4 0 0",
+          "building_val": "0 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Catherine M'Calf",
+          "lessor": "James Clarke",
+          "desc": "H&G",
+          "area": "0 0 25",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Joseph Murphy",
+          "lessor": "James Clarke",
+          "desc": "H,O,&L",
+          "area": "3 0 5",
+          "land_val": "3 5 0",
+          "building_val": "0 15 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Andrew Loughrin",
+          "lessor": "James Clarke",
+          "desc": "H,O,&L",
+          "area": "1 2 35",
+          "land_val": "1 15 0",
+          "building_val": "1 10 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "William A. Dane",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "45 1 10",
+          "land_val": "30 15 0",
+          "total_val": "30 15 0"
+        },
+        {
+          "mr": "21, 22",
+          "desc": "Water",
+          "area": "2 1 0"
+        },
+        {
+          "desc": "Total",
+          "area": "176 2 26",
+          "land_val": "139 10 0",
+          "building_val": "14 15 0",
+          "total_val": "154 5 0",
+          "is_total": 1
+        },
+        {
+          "townland": "DRUMAWILL",
+          "os": "22 & 27",
+          "is_continued": 0,
+          "mr": "1",
+          "occupier": "John Wilson",
+          "lessor": "Edward Irwin",
+          "desc": "H,O,&L",
+          "area": "29 1 15",
+          "land_val": "21 10 0",
+          "building_val": "6 0 0",
+          "total_val": "27 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Bell",
+          "lessor": "Edward Irwin",
+          "desc": "H,O,&L",
+          "area": "3 2 25",
+          "land_val": "2 15 0",
+          "building_val": "0 15 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John M'Bryans",
+          "lessor": "Edward Irwin",
+          "desc": "H,O,&L",
+          "area": "7 3 0",
+          "land_val": "6 0 0",
+          "building_val": "0 15 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "4 A",
+          "occupier": "John Smyth",
+          "lessor": "Edward Irwin",
+          "desc": "H,O,&L",
+          "area": "6 2 20",
+          "land_val": "5 5 0",
+          "building_val": "0 15 0"
+        },
+        {
+          "mr": "B",
+          "desc": "L",
+          "area": "11 1 25",
+          "land_val": "7 10 0",
+          "building_val": "0 10 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Thomas Early",
+          "lessor": "Edward Irwin",
+          "desc": "H,O,&L",
+          "area": "4 1 5",
+          "land_val": "4 0 0",
+          "building_val": "3 0 0"
+        },
+        {
+          "mr": "6",
+          "desc": "L",
+          "area": "0 3 5",
+          "land_val": "0 5 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Patrick Maguire",
+          "lessor": "Edward Irwin",
+          "desc": "H,O,&L",
+          "area": "11 3 30",
+          "land_val": "9 0 0",
+          "building_val": "1 10 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "8",
+          "desc": "Water",
+          "area": "0 3 3"
+        },
+        {
+          "desc": "Total",
+          "area": "76 2 8",
+          "land_val": "56 5 0",
+          "building_val": "13 5 0",
+          "total_val": "69 10 0",
+          "is_total": 1
+        },
+        {
+          "townland": "KINARLA",
+          "os": "21 & 22",
+          "is_continued": 0,
+          "mr": "1 a",
+          "occupier": "Adam Nixon",
+          "lessor": "James Johnston",
+          "desc": "O&L",
+          "area": "15 1 20",
+          "land_val": "24 10 0",
+          "building_val": "0 10 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Anne Thompson",
+          "lessor": "Adam Nixon",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Patrick Thompson",
+          "lessor": "Adam Nixon",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Michael Peterson",
+          "lessor": "Adam Nixon",
+          "desc": "H,O,&L",
+          "area": "1 1 5",
+          "land_val": "1 5 0",
+          "building_val": "1 0 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "William Johnston",
+          "lessor": "James Johnston",
+          "desc": "L",
+          "area": "9 2 10",
+          "land_val": "8 15 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "William Johnston, J.",
+          "lessor": "James Johnston",
+          "desc": "H,O,&L",
+          "area": "35 1 35",
+          "land_val": "45 0 0",
+          "building_val": "2 5 0",
+          "total_val": "47 5 0"
+        },
+        {
+          "occupier": "William Johnston, J.",
+          "lessor": "James Johnston",
+          "desc": "Limestone quarry & kiln",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "William M'Cabe",
+          "lessor": "William Johnston",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "0 15 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Ellen Johnston",
+          "lessor": "William Johnston",
+          "desc": "H&L",
+          "area": "2 0 2",
+          "land_val": "2 10 0",
+          "building_val": "0 15 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "John Maguire",
+          "lessor": "James Johnston",
+          "desc": "H,O,&L",
+          "area": "40 3 10",
+          "land_val": "60 0 0",
+          "building_val": "2 10 0",
+          "total_val": "62 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "William Smyth",
+          "lessor": "John Maguire",
+          "desc": "H,O,orchard,&L",
+          "area": "3 3 5",
+          "land_val": "7 10 0",
+          "building_val": "2 10 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "8",
+          "desc": "Water",
+          "area": "4 2 15"
+        },
+        {
+          "desc": "Total",
+          "area": "121 3 37",
+          "land_val": "149 15 0",
+          "building_val": "11 15 0",
+          "total_val": "173 19 0",
+          "is_total": 1
+        },
+        {
+          "townland": "MULLAGHREE",
+          "os": "21 & 22",
+          "is_continued": 0,
+          "mr": "1",
+          "occupier": "James Little",
+          "lessor": "Earl of Enniskillen",
+          "desc": "L",
+          "area": "12 2 0",
+          "land_val": "9 10 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Thomas Caps",
+          "lessor": "James Little",
+          "desc": "H&O",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "James Little",
+          "lessor": "Earl of Enniskillen",
+          "desc": "H,O,&L",
+          "area": "3 1 39",
+          "land_val": "2 10 0"
+        },
+        {
+          "mr": "- B",
+          "desc": "L",
+          "area": "5 1 30",
+          "land_val": "6 0 0",
+          "building_val": "1 0 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "3 A",
+          "occupier": "Alice Johnston",
+          "lessor": "Earl of Enniskillen",
+          "desc": "H,O,&L",
+          "area": "0 1 20",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0"
+        },
+        {
+          "mr": "B a",
+          "desc": "L",
+          "area": "7 1 25",
+          "land_val": "5 10 0"
+        },
+        {
+          "mr": "b",
+          "desc": "L",
+          "area": "1 3 27",
+          "land_val": "2 10 0",
+          "total_val": "8 15 0"
+        }
+      ]
+    }
+  ]
+}

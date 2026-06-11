@@ -1,0 +1,545 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF DONERAILE",
+      "entries": [
+        {
+          "mr": "-",
+          "townland": "BALLYSHANE",
+          "os": "",
+          "occupier": "Unoccupied",
+          "lessor": "William Ashton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "-",
+          "occupier": "John Duane",
+          "lessor": "William Ashton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Edmund Casey",
+          "lessor": "John Purcell, Esq.",
+          "desc": "H,O,&L",
+          "area": "24 1 5",
+          "land_val": "15 5 0",
+          "building_val": "1 5 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Crean",
+          "lessor": "Edmund Casey",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "3 A B a",
+          "occupier": "Margaret Casey",
+          "lessor": "John Purcell, Esq.",
+          "desc": "H,O,&L",
+          "area": "52 0 22",
+          "land_val": "35 15 0",
+          "building_val": "2 0 0",
+          "total_val": "37 15 0"
+        },
+        {
+          "mr": "- B b",
+          "occupier": "Philip Barry",
+          "lessor": "Margaret Casey",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "William Casey",
+          "lessor": "John Purcell, Esq.",
+          "desc": "H,O,&L",
+          "area": "36 0 32",
+          "land_val": "24 0 0",
+          "building_val": "1 5 0",
+          "total_val": "25 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Margaret White",
+          "lessor": "William Casey",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "245 2 4",
+          "land_val": "160 2 0",
+          "building_val": "12 6 0",
+          "total_val": "172 8 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BROUGH",
+          "os": "17",
+          "occupier": "Timothy Sheehan",
+          "lessor": "Viscount Doneraile",
+          "desc": "H,O,&L",
+          "area": "17 2 14",
+          "land_val": "11 15 0",
+          "building_val": "1 5 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Sullivan",
+          "lessor": "Viscount Doneraile",
+          "desc": "H,O,&L",
+          "area": "23 1 22",
+          "land_val": "15 15 0",
+          "building_val": "2 0 0",
+          "total_val": "17 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Viscount Doneraile",
+          "lessor": "In fee",
+          "desc": "L (plantation)",
+          "area": "29 3 31",
+          "land_val": "21 5 0",
+          "building_val": "",
+          "total_val": "21 5 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Henry Egan",
+          "lessor": "Viscount Doneraile",
+          "desc": "H,O,&L",
+          "area": "15 0 10",
+          "land_val": "10 15 0",
+          "building_val": "1 0 0",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Lane",
+          "lessor": "Henry Egan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Samuel Miller",
+          "lessor": "Viscount Doneraile",
+          "desc": "H,O,&L",
+          "area": "3 1 31",
+          "land_val": "2 10 0",
+          "building_val": "2 5 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Eliza Kelly",
+          "lessor": "Viscount Doneraile",
+          "desc": "L",
+          "area": "10 1 15",
+          "land_val": "7 15 0",
+          "building_val": "",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "John Nelligan",
+          "lessor": "Viscount Doneraile",
+          "desc": "L",
+          "area": "22 2 20",
+          "land_val": "20 0 0",
+          "building_val": "",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Daniel M'Carthy",
+          "lessor": "Viscount Doneraile",
+          "desc": "H&L",
+          "area": "6 1 23",
+          "land_val": "5 10 0",
+          "building_val": "0 15 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Michael Connell",
+          "lessor": "Viscount Doneraile",
+          "desc": "L",
+          "area": "11 0 20",
+          "land_val": "10 0 0",
+          "building_val": "",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Patrick Murphy",
+          "lessor": "John Croan, Esq.",
+          "desc": "L",
+          "area": "1 1 0",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Charles Daly",
+          "lessor": "Patrick Murphy",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "141 0 26",
+          "land_val": "106 5 0",
+          "building_val": "8 0 0",
+          "total_val": "114 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a b",
+          "townland": "BYBLOX",
+          "os": "17",
+          "occupier": "John Croan, Esq.",
+          "lessor": "Mrs. Langley",
+          "desc": "H,O,gate-lodge,&L",
+          "area": "100 1 15",
+          "land_val": "130 0 0",
+          "building_val": "70 0 0",
+          "total_val": "200 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Michael Coleman",
+          "lessor": "John Croan, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Jeremiah Mahony",
+          "lessor": "John Croan, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "100 1 15",
+          "land_val": "130 0 0",
+          "building_val": "71 10 0",
+          "total_val": "201 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CARKER",
+          "os": "17 & 18",
+          "occupier": "Mrs. Norcott",
+          "lessor": "Ralph Evans, Esq.",
+          "desc": "H&L",
+          "area": "2 3 16",
+          "land_val": "2 10 0",
+          "building_val": "1 15 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "2 A B a",
+          "occupier": "Reps. Redmond Barry",
+          "lessor": "Ralph Evans, Esq.",
+          "desc": "H,O,flour-mill,&L",
+          "area": "41 0 22",
+          "land_val": "39 15 0",
+          "building_val": "25 0 0",
+          "total_val": "64 15 0"
+        },
+        {
+          "mr": "- B b",
+          "occupier": "John Bermingham",
+          "lessor": "Reps. Redmond Barry",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Ralph Evans, Esq.",
+          "lessor": "In fee",
+          "desc": "H,O,&L",
+          "area": "194 2 34",
+          "land_val": "189 0 0",
+          "building_val": "40 0 0",
+          "total_val": "229 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Unoccupied",
+          "lessor": "Ralph Evans, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "John Healy",
+          "lessor": "Ralph Evans, Esq.",
+          "desc": "H,O,&G",
+          "area": "0 0 15",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "John Galvin",
+          "lessor": "Ralph Evans, Esq.",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Michael Healy",
+          "lessor": "Ralph Evans, Esq.",
+          "desc": "H&G",
+          "area": "0 0 13",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Patrick Riordan",
+          "lessor": "Ralph Evans, Esq.",
+          "desc": "H&G",
+          "area": "0 0 14",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "Maurice Hayes",
+          "lessor": "Ralph Evans, Esq.",
+          "desc": "H,O,&G",
+          "area": "0 0 24",
+          "land_val": "0 5 0",
+          "building_val": "1 0 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "h",
+          "occupier": "William Callaghan",
+          "lessor": "Ralph Evans, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "i",
+          "occupier": "Unoccupied",
+          "lessor": "Ralph Evans, Esq.",
+          "desc": "O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "239 0 38",
+          "land_val": "232 1 0",
+          "building_val": "71 8 0",
+          "total_val": "303 9 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "CARKERBEG",
+          "os": "17",
+          "occupier": "John Evans, Esq.",
+          "lessor": "Nicholas Evans, Esq.",
+          "desc": "H,O,&L",
+          "area": "77 0 27",
+          "land_val": "70 0 0",
+          "building_val": "15 0 0",
+          "total_val": "85 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Richard Connor",
+          "lessor": "John Evans, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Matthew Driscoll",
+          "lessor": "John Evans, Esq.",
+          "desc": "H&G",
+          "area": "0 0 17",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Charles Croker, Esq.",
+          "lessor": "Nicholas Evans, Esq.",
+          "desc": "H,O,&L",
+          "area": "164 2 24",
+          "land_val": "166 0 0",
+          "building_val": "32 0 0",
+          "total_val": "198 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Walsh",
+          "lessor": "Charles Croker, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Honora Flynn",
+          "lessor": "Charles Croker, Esq.",
+          "desc": "H&G",
+          "area": "0 0 12",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Patrick Hennessy",
+          "lessor": "Charles Croker, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Timothy Madden",
+          "lessor": "Charles Croker, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Unoccupied",
+          "lessor": "Charles Croker, Esq.",
+          "desc": "O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "William M'Carthy",
+          "lessor": "Charles Croker, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "h",
+          "occupier": "Cornelius Regan",
+          "lessor": "Charles Croker, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Michael Broderick",
+          "lessor": "Reps. Ml. Creagh, Esq.",
+          "desc": "L",
+          "area": "1 1 13",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Reps.Rev.Pk.Sheehan",
+          "lessor": "Reps. Ml. Creagh, Esq.",
+          "desc": "Gate-lodge,O,&L",
+          "area": "2 1 0",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "245 2 13",
+          "land_val": "239 19 0",
+          "building_val": "51 13 0",
+          "total_val": "291 12 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

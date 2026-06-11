@@ -1,0 +1,518 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF FERMOY",
+      "entries": [
+        {
+          "mr": "18",
+          "townland": "FERMOY",
+          "sublocation_1": "TOWN OF FERMOY (Part of)",
+          "sublocation_2": "WILLIAM-STREET",
+          "occupier": "Patrick Reddon",
+          "lessor": "David Cunningham",
+          "desc": "H, O, & sm. G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "19",
+          "occupier": "James Bryon",
+          "lessor": "Same",
+          "desc": "H, yard, & sm. G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "William Noonan",
+          "lessor": "Thomas Jacob",
+          "desc": "H, yard, & G",
+          "area": "0 0 10",
+          "land_val": "0 5 0",
+          "building_val": "1 10 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Unoccupied",
+          "lessor": "Sir Robt. Abercrombie, Bart.",
+          "desc": "Building-site",
+          "area": "0 0 10",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Lodgers",
+          "lessor": "Honora Fitzgerald",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Jane Mahony",
+          "lessor": "Sir Robt. Abercrombie, Bart.",
+          "desc": "H, yard, & G",
+          "area": "0 0 13",
+          "land_val": "0 5 0",
+          "building_val": "2 10 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Timothy Vaughan",
+          "lessor": "James Mills",
+          "desc": "H, yard, & G",
+          "area": "0 0 11",
+          "land_val": "0 5 0",
+          "building_val": "2 5 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Unoccupied",
+          "lessor": "Sir Robt. Abercrombie, Bart.",
+          "desc": "H, O, yd., & G",
+          "area": "0 0 10",
+          "land_val": "0 5 0",
+          "building_val": "2 10 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "John Ahern",
+          "lessor": "William O'Brien",
+          "desc": "H, yard, & G",
+          "area": "0 0 10",
+          "land_val": "0 5 0",
+          "building_val": "2 10 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Morgan Roche",
+          "lessor": "Sir Robt. Abercrombie, Bart.",
+          "desc": "H, yard, & G",
+          "area": "0 0 10",
+          "land_val": "0 5 0",
+          "building_val": "1 10 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Michael Douglas",
+          "lessor": "Same",
+          "desc": "H, yard, & G",
+          "area": "0 0 10",
+          "land_val": "0 5 0",
+          "building_val": "1 10 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "James Hannon",
+          "lessor": "Same",
+          "desc": "H, yard, & G",
+          "area": "0 0 11",
+          "land_val": "0 5 0",
+          "building_val": "1 10 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Patrick Roche",
+          "lessor": "Same",
+          "desc": "H, yard, & G",
+          "area": "0 0 10",
+          "land_val": "0 5 0",
+          "building_val": "1 10 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "John Walsh",
+          "lessor": "Same",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "James Geary",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "Denis Molony",
+          "lessor": "Ellen Murphy",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Maurice Regan",
+          "lessor": "Same",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Margaret Donohoe",
+          "lessor": "Sir Robt. Abercrombie, Bart.",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Joseph Molloy",
+          "lessor": "Same",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "Mary Jordan",
+          "lessor": "Robert Bailey",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Margaret Moroney",
+          "lessor": "Same",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 18 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "Unoccupied",
+          "lessor": "Sir Robt. Abercrombie, Bart.",
+          "desc": "Building site",
+          "area": "0 0 20",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "John Leahy",
+          "lessor": "Robert Bailey",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "John Fore",
+          "lessor": "Same",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "Honor Barret and Michael Cronin",
+          "lessor": "Same",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "43",
+          "occupier": "Owen Halloran and John Brien",
+          "lessor": "Same",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "44",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "Building-site",
+          "area": "0 0 4",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "45",
+          "occupier": "John Mullins",
+          "lessor": "James Condon",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "Lodgers",
+          "lessor": "John Mullins",
+          "desc": "H, O, yard, & G",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "47",
+          "occupier": "Michael Hyde",
+          "lessor": "Sir Robt Abercrombie, Bart.",
+          "desc": "H, yard, & sm. G",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "48",
+          "occupier": "Lodgers",
+          "lessor": "Maurice Fitzgerald",
+          "desc": "H, yard, & sm. G",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "49",
+          "occupier": "Maurice Fitzgerald",
+          "lessor": "Sir Robt. Abercrombie, Bart.",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "50",
+          "occupier": "Patrick Locker",
+          "lessor": "Same",
+          "desc": "H, yard, & sm. G",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "51",
+          "occupier": "Lodgers",
+          "lessor": "Thomas Murley",
+          "desc": "H, yard, & sm. G",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "52",
+          "occupier": "Unoccupied",
+          "lessor": "Sir Robt. Abercrombie, Bart.",
+          "desc": "Building site",
+          "area": "0 0 4",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "53",
+          "occupier": "Lodgers",
+          "lessor": "Thomas Murley",
+          "desc": "H, O, yd. & sm. G",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "54",
+          "occupier": "Lodgers",
+          "lessor": "Edward Revell",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "55",
+          "occupier": "John Condon",
+          "lessor": "Sir Robt. Abercrombie, Bart.",
+          "desc": "H, O, & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "56",
+          "occupier": "Timothy Callaghan",
+          "lessor": "James Mills",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "57",
+          "occupier": "John Cunningham",
+          "lessor": "Sir Robt. Abercrombie, Bart.",
+          "desc": "H, O, & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "58",
+          "occupier": "Timothy Mahony",
+          "lessor": "Same",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "59",
+          "occupier": "Henry Ryan",
+          "lessor": "Same",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "60",
+          "occupier": "James Geary",
+          "lessor": "Catherine Moloney",
+          "desc": "H, O, & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "61",
+          "occupier": "Patrick Barry",
+          "lessor": "Same",
+          "desc": "H, O, & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "62",
+          "occupier": "Unoccupied",
+          "lessor": "John Lysaght",
+          "desc": "H, O, & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "63",
+          "occupier": "Arthur Barry",
+          "lessor": "Same",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "1",
+          "townland": "BOG-LANE",
+          "sublocation_1": "TOWN OF FERMOY (Part of)",
+          "occupier": "Cornelius Mulcahy",
+          "lessor": "— Roche",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "2",
+          "occupier": "Lodgers",
+          "lessor": "John Lysaght",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Lysaght",
+          "lessor": "Sir Robt. Abercrombie, Bart.",
+          "desc": "G",
+          "area": "0 1 3",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Bridget Reddin",
+          "lessor": "Anthony Cliffe",
+          "desc": "G",
+          "area": "0 0 3",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        }
+      ]
+    }
+  ]
+}

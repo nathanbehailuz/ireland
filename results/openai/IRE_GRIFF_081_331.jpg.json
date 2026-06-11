@@ -1,0 +1,27 @@
+{
+  "parishes": [
+    {
+      "parish": "DOWN",
+      "entries": [
+        {
+          "mr": "",
+          "townland": "DEMESNE OF DOWN",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 1,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF ERRIGAL TROUGH",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "DERNAHATTEN",
+          "os": "3 & 4",
+          "occupier": "John M'Glean",
+          "lessor": "Charles P. Leslie",
+          "desc": "L",
+          "area": "7 1 15",
+          "land_val": "5 5 0",
+          "building_val": "",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Ellen M'Quade",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "29 1 25",
+          "land_val": "23 0 0",
+          "building_val": "1 5 0",
+          "total_val": "24 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "William M'Kenna",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "8 3 5",
+          "land_val": "5 5 0",
+          "building_val": "0 15 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Edward Callaghan",
+          "lessor": "Same",
+          "desc": "H&O",
+          "area": "8 0 25",
+          "land_val": "5 0 0",
+          "building_val": "0 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Michael M'Quade",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "16 0 10",
+          "land_val": "11 0 0",
+          "building_val": "1 5 0",
+          "total_val": "12 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Patrick M'Quade",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "10 3 0",
+          "land_val": "6 0 0",
+          "building_val": "0 15 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Anne M'Quade",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "5 1 29",
+          "land_val": "4 0 0",
+          "building_val": "0 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Patrick Callaghan",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "4 3 0",
+          "land_val": "3 10 0",
+          "building_val": "0 5 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Patrick Corley",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "24 0 30",
+          "land_val": "16 0 0",
+          "building_val": "1 5 0",
+          "total_val": "17 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "114 3 19",
+          "land_val": "79 0 0",
+          "building_val": "6 10 0",
+          "total_val": "85 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DRUMTURK",
+          "os": "3 & 4",
+          "occupier": "Charles P. Leslie",
+          "lessor": "In fee",
+          "desc": "Plantation",
+          "area": "5 0 23",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Arthur Traynor",
+          "lessor": "Charles P. Leslie",
+          "desc": "H,O,&L",
+          "area": "28 0 7",
+          "land_val": "18 0 0",
+          "building_val": "1 10 0",
+          "total_val": "19 10 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Michael Boylan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "52 3 25",
+          "land_val": "36 10 0",
+          "building_val": "2 10 0",
+          "total_val": "39 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Bernard Hughes",
+          "lessor": "Michael Boylan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "David Johnston",
+          "lessor": "Charles P. Leslie",
+          "desc": "L",
+          "area": "29 1 30",
+          "land_val": "18 0 0",
+          "building_val": "",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Thomas Monaghan",
+          "lessor": "David Johnston",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "James Mallon",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Callaghan",
+          "lessor": "Charles P. Leslie",
+          "desc": "H,O,&L",
+          "area": "23 1 35",
+          "land_val": "13 5 0",
+          "building_val": "0 15 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "139 0 0",
+          "land_val": "88 5 0",
+          "building_val": "6 5 0",
+          "total_val": "94 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "FIGANNY",
+          "os": "4",
+          "occupier": "David Johnston",
+          "lessor": "Charles P. Leslie",
+          "desc": "H,O,&L",
+          "area": "18 3 30",
+          "land_val": "16 0 0",
+          "building_val": "1 10 0",
+          "total_val": "24 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B",
+          "occupier": "David Johnston",
+          "lessor": "Charles P. Leslie",
+          "desc": "L",
+          "area": "14 3 15",
+          "land_val": "7 0 0",
+          "building_val": "",
+          "total_val": "24 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 a",
+          "occupier": "George Taggart",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "58 2 10",
+          "land_val": "36 10 0",
+          "building_val": "3 10 0",
+          "total_val": "40 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Sheerin",
+          "lessor": "George Taggart",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Michael Kelly",
+          "lessor": "Charles P. Leslie",
+          "desc": "L",
+          "area": "8 2 23",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "4",
+          "desc": "Water",
+          "area": "2 2 0",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "desc": "Total",
+          "area": "103 1 38",
+          "land_val": "62 5 0",
+          "building_val": "5 10 0",
+          "total_val": "67 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "FIGULLAR",
+          "os": "3 & 4",
+          "occupier": "Patrick M'Kenna",
+          "lessor": "Lord Cremorne",
+          "desc": "H (unfinished) & L",
+          "area": "16 3 0",
+          "land_val": "13 15 0",
+          "building_val": "1 5 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Owen M'Kenna",
+          "lessor": "Same",
+          "desc": "H (unfinished) & L",
+          "area": "23 3 5",
+          "land_val": "17 10 0",
+          "building_val": "1 10 0",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Bernard M'Kenna",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 1 15",
+          "land_val": "9 5 0",
+          "building_val": "0 5 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Owen Kelly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "25 0 5",
+          "land_val": "20 0 0",
+          "building_val": "3 0 0",
+          "total_val": "23 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Kelly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "38 1 30",
+          "land_val": "28 10 0",
+          "building_val": "1 10 0",
+          "total_val": "30 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "James Hackett",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "20 2 5",
+          "land_val": "10 0 0",
+          "building_val": "0 10 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "7 A a",
+          "occupier": "Michael M'Kenna",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "23 2 15",
+          "land_val": "19 5 0",
+          "building_val": "1 15 0",
+          "total_val": "22 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Anne M'Elroy",
+          "lessor": "Michael M'Kenna",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "B",
+          "occupier": "Patrick Holland",
+          "lessor": "Lord Cremorne",
+          "desc": "H,O,&L",
+          "area": "44 3 18",
+          "land_val": "26 10 0",
+          "building_val": "2 0 0",
+          "total_val": "28 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Charles Hughes",
+          "lessor": "Patrick Holland",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "9 A",
+          "occupier": "Elizabeth M'Kenna",
+          "lessor": "Lord Cremorne",
+          "desc": "H,O,&L",
+          "area": "18 1 25",
+          "land_val": "12 0 0",
+          "building_val": "1 0 0",
+          "total_val": "16 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B",
+          "occupier": "Elizabeth M'Kenna",
+          "lessor": "Lord Cremorne",
+          "desc": "L",
+          "area": "5 0 30",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "16 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "10",
+          "occupier": "Sarah Fullam",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 2 30",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "11 A",
+          "occupier": "John Keenan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "9 3 25",
+          "land_val": "6 5 0",
+          "building_val": "0 10 0",
+          "total_val": "7 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B",
+          "occupier": "John Keenan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 1 18",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "7 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "12",
+          "occupier": "John M'Kenna",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 3 20",
+          "land_val": "5 15 0",
+          "building_val": "0 15 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Patk. Holland & others",
+          "lessor": "Same",
+          "desc": "B",
+          "area": "10 0 20",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "14",
+          "desc": "Water",
+          "area": "4 2 0",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "desc": "Total",
+          "area": "264 3 11",
+          "land_val": "176 5 0",
+          "building_val": "15 0 0",
+          "total_val": "191 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "MULLAN",
+          "os": "3 & 4",
+          "occupier": "Michael Kelly",
+          "lessor": "Charles P. Leslie",
+          "desc": "H,O,&L",
+          "area": "30 2 5",
+          "land_val": "19 15 0",
+          "building_val": "1 5 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Unoccupied",
+          "lessor": "Michael Kelly",
+          "desc": "H (unfinished)",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Corley",
+          "lessor": "Charles P. Leslie",
+          "desc": "H,O,&L",
+          "area": "36 2 0",
+          "land_val": "21 15 0",
+          "building_val": "0 15 0",
+          "total_val": "22 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Robert Smyth",
+          "lessor": "Same",
+          "desc": "H,O,workmen's houses,spinning-mill,&L",
+          "area": "4 3 0",
+          "land_val": "2 10 0",
+          "building_val": "130 0 0",
+          "total_val": "132 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "71 3 5",
+          "land_val": "44 0 0",
+          "building_val": "133 0 0",
+          "total_val": "177 0 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

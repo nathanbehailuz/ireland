@@ -1,0 +1,400 @@
+{
+  "parishes": [
+    {
+      "parish": "ST. MICHAEL'S PARISH",
+      "entries": [
+        {
+          "mr": "8",
+          "townland": "BALLINACURRA (Weston)",
+          "occupier": "Thomas Lynch,",
+          "lessor": "Messrs. Rodolph and Francis Scully,",
+          "desc": "L",
+          "area": "3 2 2",
+          "land_val": "6 15 0",
+          "building_val": "",
+          "total_val": "6 15 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "9",
+          "occupier": "Martha Sparling,",
+          "lessor": "R. W. G. Adams, Esq.",
+          "desc": "L",
+          "area": "4 0 36",
+          "land_val": "10 0 0",
+          "building_val": "",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Patrick Hallinan,",
+          "lessor": "R. W. G. Adams, Esq.",
+          "desc": "Quarry,",
+          "area": "1 1 36",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "11 { A a",
+          "occupier": "Frances Hallinan,",
+          "lessor": "R. W. G. Adams, Esq.",
+          "desc": "H,O,&L",
+          "area": "15 2 1",
+          "land_val": "35 5 0",
+          "building_val": "1 5 0",
+          "total_val": "36 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "11 { B",
+          "occupier": "Frances Hallinan,",
+          "lessor": "R. W. G. Adams, Esq.",
+          "desc": "H,O,&L",
+          "area": "8 0 32",
+          "land_val": "20 0 0",
+          "building_val": "1 5 0",
+          "total_val": "36 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "12 { A a",
+          "occupier": "David Lynch,",
+          "lessor": "R. W. G. Adams, Esq.",
+          "desc": "L",
+          "area": "5 3 13",
+          "land_val": "15 10 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "12 { B a",
+          "occupier": "David Lynch,",
+          "lessor": "R. W. G. Adams, Esq.",
+          "desc": "H,O,&L",
+          "area": "10 0 20",
+          "land_val": "23 0 0",
+          "building_val": "2 5 0",
+          "total_val": "54 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "13 a",
+          "occupier": "Patrick Lynch,",
+          "lessor": "R. W. G. Adams, Esq.",
+          "desc": "O&L",
+          "area": "12 1 8",
+          "land_val": "28 5 0",
+          "building_val": "0 15 0",
+          "total_val": "25 10 0"
+        },
+        {
+          "mr": "14 {",
+          "occupier": "Maurice Hurley,",
+          "lessor": "R. W. G. Adams, Esq.",
+          "desc": "H&L",
+          "area": "10 1 21",
+          "land_val": "23 10 0",
+          "building_val": "2 0 0",
+          "total_val": "4 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "14 {",
+          "occupier": "John Clancey,",
+          "lessor": "R. W. G. Adams, Esq.",
+          "desc": "L",
+          "area": "3 2 15",
+          "land_val": "4 5 0",
+          "building_val": "",
+          "total_val": "4 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "15 { a",
+          "occupier": "Maurice Hurley,",
+          "lessor": "R. W. G. Adams, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "4 5 0",
+          "building_val": "",
+          "total_val": "10 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "15 { a",
+          "occupier": "John Clancey,",
+          "lessor": "R. W. G. Adams, Esq.",
+          "desc": "H&L",
+          "area": "10 1 32",
+          "land_val": "10 15 0",
+          "building_val": "",
+          "total_val": "11 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "16",
+          "occupier": "Patrick O'Shea,",
+          "lessor": "R. W. G. Adams, Esq.",
+          "desc": "L&embankment",
+          "area": "34 0 25",
+          "land_val": "70 10 0",
+          "building_val": "0 15 0",
+          "total_val": "70 10 0"
+        },
+        {
+          "mr": "17 a",
+          "occupier": "John Huston,",
+          "lessor": "R. W. G. Adams, Esq.",
+          "desc": "H,O,&L",
+          "area": "21 0 13",
+          "land_val": "41 10 0",
+          "building_val": "3 0 0",
+          "total_val": "44 10 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Francis Goold, Esq.",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "2 1 30",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "19 a",
+          "occupier": "Timothy M'Namara,",
+          "lessor": "Robert D'Esterre, Esq.",
+          "desc": "H&L",
+          "area": "1 2 5",
+          "land_val": "2 5 0",
+          "building_val": "1 5 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "20 a",
+          "occupier": "John Molony,",
+          "lessor": "Robert D'Esterre, Esq.",
+          "desc": "O&L",
+          "area": "4 1 33",
+          "land_val": "8 15 0",
+          "building_val": "1 5 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Cloghessy,",
+          "lessor": "John Molony,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "208 0 18",
+          "land_val": "441 6 0",
+          "building_val": "32 17 0",
+          "total_val": "521 3 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CORKANREE",
+          "os": "5",
+          "occupier": "Commissioners of Woods and Forests,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "33 1 7",
+          "land_val": "10 0 0",
+          "building_val": "",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Garret Hugh Fitzgerald, Esq.",
+          "lessor": "Corporation of Limerick,",
+          "desc": "L&embankment",
+          "area": "91 1 25",
+          "land_val": "179 0 0",
+          "building_val": "",
+          "total_val": "179 0 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "124 2 32",
+          "land_val": "189 0 0",
+          "building_val": "",
+          "total_val": "189 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "COURTBRACK",
+          "os": "5",
+          "occupier": "Commissioners of Woods and Forests,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "16 3 17",
+          "land_val": "2 17 0",
+          "building_val": "",
+          "total_val": "2 17 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Garret Hugh Fitzgerald, Esq.",
+          "lessor": "Earl of Limerick,",
+          "desc": "H,gate-lodge,O,&L",
+          "area": "40 3 38",
+          "land_val": "148 10 0",
+          "building_val": "8 0 0",
+          "total_val": "156 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Michael O'Brien,",
+          "lessor": "Garret Hugh Fitzgerald, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "James & Joseph Halpin,",
+          "lessor": "Garret Hugh Fitzgerald, Esq.",
+          "desc": "H (powder magazine)",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Captain Rogers,",
+          "lessor": "Garret Hugh Fitzgerald, Esq.",
+          "desc": "L",
+          "area": "3 0 28",
+          "land_val": "11 5 0",
+          "building_val": "",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "James Sullivan,",
+          "lessor": "Captain Rogers,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 17 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "4 a",
+          "sublocation_1": "Courtbrack Villa",
+          "occupier": "Captain Rogers,",
+          "lessor": "Frances Travernor,",
+          "desc": "H,gate-lodge,O,&L",
+          "area": "13 1 4",
+          "land_val": "42 15 0",
+          "building_val": "15 0 0",
+          "total_val": "57 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Miss Russell,",
+          "lessor": "John O'Farrell,",
+          "desc": "L",
+          "area": "10 1 26",
+          "land_val": "34 15 0",
+          "building_val": "",
+          "total_val": "34 15 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "James Russell, Rutland.",
+          "lessor": "In fee,",
+          "desc": "H&L",
+          "area": "9 2 32",
+          "land_val": "32 0 0",
+          "building_val": "7 0 0",
+          "total_val": "39 0 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "John O'Farrell",
+          "lessor": "Garret Hugh Fitzgerald, Esq.",
+          "desc": "O,gate-lodge,&L",
+          "area": "4 3 1",
+          "land_val": "15 10 0",
+          "building_val": "11 0 0",
+          "total_val": "26 10 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "108 0 26",
+          "land_val": "287 12 0",
+          "building_val": "48 2 0",
+          "total_val": "335 14 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "ROSSBRIEN",
+          "os": "13",
+          "occupier": "Patrick O'Shea,",
+          "lessor": "Robert D'Esterre, Esq.",
+          "desc": "L",
+          "area": "6 2 11",
+          "land_val": "9 0 0",
+          "building_val": "",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Molony,",
+          "lessor": "Robert D'Esterre, Esq.",
+          "desc": "L",
+          "area": "7 0 34",
+          "land_val": "10 0 0",
+          "building_val": "",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Thomas Lynch,",
+          "lessor": "Robert D'Esterre, Esq.",
+          "desc": "H,O,&L",
+          "area": "0 3 24",
+          "land_val": "1 13 0",
+          "building_val": "1 12 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Margaret Sayers,",
+          "lessor": "Wyndham Goold, Esq.",
+          "desc": "O&L",
+          "area": "20 0 12",
+          "land_val": "30 10 0",
+          "building_val": "2 5 0",
+          "total_val": "32 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Keating,",
+          "lessor": "Margaret Sayers,",
+          "desc": "H&G",
+          "area": "0 1 2",
+          "land_val": "0 10 0",
+          "building_val": "1 0 0",
+          "total_val": "1 10 0"
+        }
+      ]
+    }
+  ]
+}

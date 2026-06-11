@@ -1,0 +1,137 @@
+{
+  "parishes": [
+    {
+      "parish": "KILSHANE",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "SPRINGHOUSE",
+          "os": "67",
+          "occupier": "Simon Lowe, Esq.",
+          "lessor": "In fee",
+          "desc": "H,O,&L",
+          "area": "469 0 32",
+          "land_val": "289 0 0",
+          "building_val": "75 0 0",
+          "total_val": "364 0 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "- b",
+          "occupier": "Richard Tobin, .",
+          "lessor": "Simon Lowe, Esq.",
+          "desc": "H,O,&G",
+          "area": "0 1 21",
+          "land_val": "0 7 0",
+          "building_val": "1 3 0",
+          "total_val": "1 10 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "- c",
+          "occupier": "Constabulary, .",
+          "lessor": "Simon Lowe, Esq.",
+          "desc": "Barrack & G",
+          "area": "0 0 16",
+          "land_val": "0 2 0",
+          "building_val": "2 0 0",
+          "total_val": "2 2 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "- d",
+          "occupier": "Maurice Morrissy,",
+          "lessor": "Simon Lowe, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "- e",
+          "occupier": "Michael Halloran,",
+          "lessor": "Simon Lowe, Esq.",
+          "desc": "H & forge",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "- f",
+          "occupier": "Michael Browne,",
+          "lessor": "Simon Lowe, Esq.",
+          "desc": "H & G",
+          "area": "0 1 5",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "2",
+          "occupier": "Patrick Ryan,",
+          "lessor": "Simon Lowe, Esq.",
+          "desc": "L",
+          "area": "1 2 22",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "- a",
+          "occupier": "William M'Curtin,",
+          "lessor": "Simon Lowe, Esq.",
+          "desc": "Part of corn-mill & kiln",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 15 0",
+          "total_val": "5 15 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "",
+          "area": "471 2 16",
+          "land_val": "291 9 0",
+          "building_val": "86 3 0",
+          "total_val": "377 12 0",
+          "n_shared": 0,
+          "is_total": 1,
+          "is_exemption": 0,
+          "is_continued": 0
+        }
+      ]
+    }
+  ]
+}

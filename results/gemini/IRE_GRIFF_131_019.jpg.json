@@ -1,0 +1,583 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF LEIXLIP",
+      "entries": [
+        {
+          "mr": "10",
+          "townland": "",
+          "occupier": "Michael Moore",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "L",
+          "area": "15 1 39",
+          "land_val": "20 10 0",
+          "total_val": "20 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "a",
+          "occupier": "Mary Campbell",
+          "lessor": "Michael Moore",
+          "desc": "Limestone quarry&kiln",
+          "area": "2 3 10",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Rev. Patrick Barnwall",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "H&O",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "R. C. Chapel",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "R. C. Chapel & yard",
+          "area": "1 0 3",
+          "land_val": "0 15 0",
+          "building_val": "28 0 0",
+          "total_val": "28 15 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "National School",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "National School, H&O",
+          "building_val": "9 10 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Martin Conolly",
+          "lessor": "Michael Moore",
+          "desc": "H,O,&G",
+          "area": "0 0 26",
+          "land_val": "0 3 0",
+          "building_val": "1 17 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "11 A B",
+          "occupier": "Felix Nugent",
+          "lessor": "James Law, Esq.",
+          "desc": "L",
+          "area": "9 3 25",
+          "land_val": "11 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Nicholas Wall",
+          "lessor": "Felix Nugent",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Barnaby Sands",
+          "lessor": "Felix Nugent",
+          "desc": "H",
+          "building_val": "0 19 0",
+          "total_val": "0 19 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Alexander Dalton",
+          "lessor": "James Law, Esq.",
+          "desc": "H",
+          "building_val": "0 14 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Patrick Farrell",
+          "lessor": "James Law, Esq.",
+          "desc": "L",
+          "area": "7 1 30",
+          "land_val": "9 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "William M'Nally",
+          "lessor": "Patrick Farrell",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Robert Cogan, Esq.",
+          "lessor": "Wm. Donnellan, Esq. & Mrs. Frances Law",
+          "desc": "H,O,&L",
+          "area": "32 2 21",
+          "land_val": "38 5 0",
+          "building_val": "31 0 0",
+          "total_val": "69 5 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Robert Cogan, Esq.",
+          "lessor": "Michael Moore",
+          "desc": "Gate-lodge & L",
+          "area": "1 1 24",
+          "land_val": "1 10 0",
+          "building_val": "1 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Lawrence Dempsey",
+          "lessor": "James Law, Esq.",
+          "desc": "L",
+          "area": "3 1 28",
+          "land_val": "4 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Patrick Clarke",
+          "lessor": "Thomas Herbert",
+          "desc": "H&G",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Herbert",
+          "lessor": "Lawrence Dempsey",
+          "desc": "O",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Ellen Lee",
+          "lessor": "Lawrence Dempsey",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "James Pegley",
+          "lessor": "Lawrence Dempsey",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Mary Gough",
+          "lessor": "Lawrence Dempsey",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "John Cogan, Esq.",
+          "lessor": "James Law, Esq.",
+          "desc": "L",
+          "area": "16 1 23",
+          "land_val": "19 10 0",
+          "total_val": "19 10 0"
+        },
+        {
+          "mr": "17 {",
+          "occupier": "Lawrence Carton & Alexander Burke",
+          "lessor": "Wm. Donnellan, Esq. & Mrs. Frances Law",
+          "desc": "L",
+          "area": "6 0 11",
+          "land_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "John Smith",
+          "lessor": "James Law, Esq.",
+          "desc": "L",
+          "area": "1 3 12",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Patrick Kerrigan",
+          "lessor": "John Smith",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Matthew Dowling",
+          "lessor": "John Smith",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Thomas Campbell",
+          "lessor": "John Smith",
+          "desc": "H",
+          "building_val": "0 18 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Nicholas Flynn",
+          "lessor": "John Smith",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "James Maher",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "H&L",
+          "area": "1 0 9",
+          "land_val": "1 10 0",
+          "building_val": "4 0 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "John Mitchell",
+          "lessor": "Henry Beere",
+          "desc": "L",
+          "area": "2 3 10",
+          "land_val": "5 15 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "John Mitchell",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "H,O,flour-mill,&L",
+          "area": "0 0 35",
+          "building_val": "105 0 0",
+          "total_val": "105 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Vacant",
+          "lessor": "Mrs. Frances Law",
+          "desc": "H,O,&G",
+          "area": "1 1 0",
+          "land_val": "1 0 0",
+          "building_val": "8 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "John French, Esq.",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "H,O,&L",
+          "area": "14 1 28",
+          "land_val": "19 0 0",
+          "building_val": "11 10 0",
+          "total_val": "30 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Mrs. Emily Vesey",
+          "lessor": "Rev. Fredk. S. Trench",
+          "desc": "L",
+          "area": "0 3 4",
+          "land_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "23 A B",
+          "occupier": "Gerald Dalton",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "L",
+          "area": "34 0 15",
+          "land_val": "40 10 0",
+          "total_val": "40 10 0"
+        },
+        {
+          "mr": "24 A a B",
+          "occupier": "Michael Neill",
+          "lessor": "Laurence Brangan",
+          "desc": "H&L",
+          "area": "3 2 26",
+          "land_val": "5 5 0",
+          "building_val": "4 0 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Mary Byrne",
+          "lessor": "Michael Neill",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Vacant",
+          "lessor": "Michael Neill",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Vacant",
+          "lessor": "Michael Neill",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Henry Arleff",
+          "lessor": "Michael Neill",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Hugh Tremble",
+          "lessor": "Michael Neill",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "Patrick Connors",
+          "lessor": "Michael Neill",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "William Timmins",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "L",
+          "area": "6 2 14",
+          "land_val": "8 5 0",
+          "total_val": "8 5 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Esther Hanlon",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "H&G",
+          "area": "0 2 23",
+          "land_val": "0 18 0",
+          "building_val": "0 17 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Healy",
+          "lessor": "Esther Hanlon",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Simon Dalton",
+          "lessor": "Francis Walsh",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "James Dalton",
+          "lessor": "William Timmins",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "William Dunne",
+          "lessor": "William Timmins",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "John Dalton",
+          "lessor": "William Timmins",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "John Tyndall",
+          "lessor": "William Tyndall",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "h",
+          "occupier": "Vacant",
+          "lessor": "John Tyndall",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "i",
+          "occupier": "Christopher Maguire",
+          "lessor": "William Timmins",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "j",
+          "occupier": "Peter Maguire",
+          "lessor": "William Timmins",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "k",
+          "occupier": "John Gaffney",
+          "lessor": "William Timmins",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "26 A a B",
+          "occupier": "Thomas Herbert",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "O&L",
+          "area": "72 3 12",
+          "land_val": "89 5 0",
+          "building_val": "2 0 0",
+          "total_val": "91 5 0"
+        },
+        {
+          "mr": "b a",
+          "occupier": "Jane Crosby",
+          "lessor": "Thomas Herbert",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Thomas Herbert",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "H&L",
+          "area": "17 1 14",
+          "land_val": "20 15 0",
+          "building_val": "1 0 0",
+          "total_val": "21 15 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Lawrence Brangan",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "L",
+          "area": "7 3 6",
+          "land_val": "10 5 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Thomas Dowd",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "H,O,&G",
+          "area": "0 2 28",
+          "land_val": "0 18 0",
+          "building_val": "0 12 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Henry Talent",
+          "lessor": "Thomas Dowd",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Patrick Fox",
+          "lessor": "Thomas Dowd",
+          "desc": "H",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Thomas Gregg",
+          "lessor": "Thomas Dowd",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "George Coley",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "L",
+          "area": "13 3 32",
+          "land_val": "16 5 0",
+          "total_val": "16 5 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Matthew Farrell",
+          "lessor": "George Coley",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "30",
+          "townland": "TOWN OF LEIXLIP",
+          "sublocation_1": "TOWN OF LEIXLIP",
+          "sublocation_2": "MAIN-STREET",
+          "occupier": "Patrick Hegarty",
+          "lessor": "Lawrence Dempsey",
+          "desc": "H&yard",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "1",
+          "occupier": "Richard Tighe",
+          "lessor": "Lawrence Dempsey",
+          "desc": "H&yard",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Lawrence Dempsey",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "H,O,yd.,&G",
+          "area": "0 0 18",
+          "land_val": "0 8 0",
+          "building_val": "6 7 0",
+          "total_val": "6 15 0"
+        }
+      ]
+    }
+  ]
+}

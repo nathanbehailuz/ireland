@@ -1,0 +1,447 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF TYNAN",
+      "entries": [
+        {
+          "mr": "3 a",
+          "townland": "COOLKILL",
+          "os": "",
+          "occupier": "Sir Jas. M. Stronge, bt.,",
+          "lessor": "In fee,",
+          "desc": "Caretaker's H,O,&L",
+          "area": "38 3 20",
+          "land_val": "45 5 0",
+          "building_val": "4 0 0",
+          "total_val": "49 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "— b",
+          "occupier": "James Branion,",
+          "lessor": "Sir Jas. M. Stronge, bt.,",
+          "desc": "H & sm. G",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "James M'Kenna,",
+          "lessor": "Same,",
+          "desc": "H & sm. G",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "John Gillespie,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "17 0 8",
+          "land_val": "14 0 0",
+          "building_val": "2 0 0",
+          "total_val": "23 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "John Gillespie,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "14 0 15",
+          "land_val": "7 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 A",
+          "occupier": "Anne M'Wade,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "0 2 0",
+          "land_val": "0 12 0",
+          "total_val": "2 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "Anne M'Wade,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "1 1 0",
+          "land_val": "0 13 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 C",
+          "occupier": "Anne M'Wade,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "0 1 0",
+          "land_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— d",
+          "occupier": "Anne M'Wade,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 a",
+          "occupier": "John Harker,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "4 0 5",
+          "land_val": "3 0 0",
+          "building_val": "0 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Elizabeth Hughes,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Patrick M'Kearney,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "8 1 15",
+          "land_val": "8 0 0",
+          "building_val": "1 5 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Edward M'Anaspie,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "3 3 20",
+          "land_val": "3 5 0",
+          "building_val": "1 0 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "9 A",
+          "occupier": "Bernard Hughes,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "9 2 25",
+          "land_val": "9 5 0",
+          "building_val": "1 10 0",
+          "total_val": "17 15 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "Bernard Hughes,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "2 0 20",
+          "land_val": "2 10 0"
+        },
+        {
+          "mr": "— C",
+          "occupier": "Bernard Hughes,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "3 3 20",
+          "land_val": "4 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Margaret Hughes,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "14 3 20",
+          "land_val": "17 10 0",
+          "building_val": "2 15 0",
+          "total_val": "20 5 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "John M'Glone,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "9 3 0",
+          "land_val": "12 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "James Carr,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "6 3 25",
+          "land_val": "7 15 0",
+          "building_val": "1 10 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "William Hughes,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "6 2 10",
+          "land_val": "7 15 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "14 A",
+          "occupier": "John Howey,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "15 1 20",
+          "land_val": "17 0 0",
+          "building_val": "1 15 0",
+          "total_val": "38 15 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "John Howey,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "16 1 25",
+          "land_val": "20 0 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "William Hanthorn,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "2 3 20",
+          "land_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "16 A",
+          "occupier": "John Druin,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "7 2 20",
+          "land_val": "8 0 0",
+          "building_val": "2 10 0",
+          "total_val": "35 10 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "John Druin,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "3 2 32",
+          "land_val": "4 0 0"
+        },
+        {
+          "mr": "— C",
+          "occupier": "John Druin,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "17 3 0",
+          "land_val": "21 0 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Arthur H. Bond,",
+          "lessor": "In fee,",
+          "desc": "Gate-lodge, plantation, and road,",
+          "area": "1 2 10",
+          "land_val": "1 0 0",
+          "building_val": "1 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "18 A",
+          "occupier": "John E. Scriven,",
+          "lessor": "Arthur H. Bond,",
+          "desc": "L",
+          "area": "3 3 5",
+          "land_val": "2 10 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "John E. Scriven,",
+          "lessor": "Arthur H. Bond,",
+          "desc": "L",
+          "area": "4 1 30",
+          "land_val": "3 5 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "John E. Scriven,",
+          "lessor": "Arthur H. Bond,",
+          "desc": "Water,",
+          "area": "0 2 35"
+        },
+        {
+          "desc": "Total,",
+          "area": "233 2 15",
+          "land_val": "236 15 0",
+          "building_val": "25 10 0",
+          "total_val": "272 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "CORFEHAN",
+          "os": "15",
+          "occupier": "Sir Jas. M. Stronge, bt.,",
+          "lessor": "In fee,",
+          "desc": "Gate-lodge, game-keeper's H,O,&L",
+          "area": "37 2 0",
+          "land_val": "44 5 0",
+          "building_val": "5 5 0",
+          "total_val": "243 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "Sir Jas. M. Stronge, bt.,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "187 0 20",
+          "land_val": "194 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2",
+          "occupier": "James Gormley,",
+          "lessor": "Sir Jas. M. Stronge, bt.,",
+          "desc": "H & G",
+          "area": "0 1 20",
+          "land_val": "0 10 0",
+          "building_val": "1 5 0",
+          "total_val": "1 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "—",
+          "occupier": "Sir Jas. M. Stronge, bt.,",
+          "lessor": "Dundalk Steam Packet Company,",
+          "desc": "L",
+          "area": "0 2 5",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Richard Carpenter,",
+          "lessor": "Sir Jas. M. Stronge, bt.,",
+          "desc": "L",
+          "area": "2 3 35",
+          "land_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Dundalk Steam Packet Company (William M'Master, Secretary),",
+          "lessor": "Ulster Canal Company,",
+          "desc": "Canal and navigation,",
+          "area": "2 3 18",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "— A",
+          "occupier": "Cornelius Hamilton,",
+          "lessor": "Dundalk Steam Packet Company,",
+          "desc": "Canal banks,",
+          "area": "1 1 10",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "5, 6",
+          "occupier": "Cornelius Hamilton,",
+          "lessor": "Dundalk Steam Packet Company,",
+          "desc": "Water,",
+          "area": "17 2 20"
+        },
+        {
+          "desc": "Total,",
+          "area": "250 1 8",
+          "land_val": "243 15 0",
+          "building_val": "6 10 0",
+          "total_val": "260 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "ISLAND SPA",
+          "os": "15",
+          "occupier": "Sir Jas. M. Stronge, bt.,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "9 3 29",
+          "land_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Sir Jas. M. Stronge, bt.,",
+          "lessor": "In fee,",
+          "desc": "Water,",
+          "area": "0 3 10"
+        },
+        {
+          "desc": "Total,",
+          "area": "10 2 39",
+          "land_val": "6 0 0",
+          "total_val": "6 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "LISSHEAGH, OR MOUNT IRWIN",
+          "os": "15",
+          "occupier": "Henry Irwin,",
+          "lessor": "Sir Jas. M. Stronge, bt.,",
+          "desc": "H,O,&L",
+          "area": "160 3 3",
+          "land_val": "165 0 0",
+          "building_val": "42 0 0",
+          "total_val": "207 0 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "160 3 3",
+          "land_val": "165 0 0",
+          "building_val": "42 0 0",
+          "total_val": "207 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "MULLAN",
+          "os": "15",
+          "occupier": "Earl of Caledon,",
+          "lessor": "In fee,",
+          "desc": "Plantation,",
+          "area": "5 0 0",
+          "land_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Greason (Big),",
+          "lessor": "Earl of Caledon,",
+          "desc": "H,O,&L",
+          "area": "54 2 15",
+          "land_val": "55 15 0",
+          "building_val": "5 15 0",
+          "total_val": "61 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Greason (Big),",
+          "lessor": "Earl of Caledon,",
+          "desc": "Lime-kiln,",
+          "total_val": "10 0 0"
+        }
+      ]
+    }
+  ]
+}

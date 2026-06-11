@@ -1,0 +1,535 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF KILCOCK",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "HODGESTOWN",
+          "os": "5",
+          "occupier": "John Aylmer, Esq.",
+          "lessor": "William Lube, Esq.",
+          "desc": "Herd's H,O,&L",
+          "area": "151 0 4",
+          "land_val": "158 0 0",
+          "building_val": "1 5 0",
+          "total_val": "159 5 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "151 0 4",
+          "land_val": "158 0 0",
+          "building_val": "1 5 0",
+          "total_val": "159 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "KILCOCK",
+          "os": "5",
+          "occupier": "James Byrne",
+          "lessor": "William Graydon, Esq. & Mrs. Anne Daly",
+          "desc": "L",
+          "area": "7 1 11",
+          "land_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Thomas Wade, Esq.",
+          "lessor": "John Aylmer, Esq.",
+          "desc": "H,O,&L",
+          "area": "36 2 12",
+          "land_val": "43 5 0",
+          "building_val": "27 0 0",
+          "total_val": "70 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Dispensary",
+          "lessor": "Thomas Wade, Esq.",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Michael Ronan",
+          "lessor": "Thomas Wade, Esq.",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Church Education Society",
+          "lessor": "John Aylmer, Esq.",
+          "desc": "School-house & teacher's dwelling",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Thomas Wade, Esq.",
+          "lessor": "William Graydon, Esq.",
+          "desc": "L",
+          "area": "7 3 18",
+          "land_val": "9 10 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James Smith",
+          "lessor": "Mrs. Elizab. F. Williams",
+          "desc": "L",
+          "area": "1 2 6",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Smith",
+          "lessor": "William Graydon, Esq.",
+          "desc": "L",
+          "area": "3 2 14",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Patrick Kinahan",
+          "lessor": "Mrs. Anne Fyan",
+          "desc": "H,O,&L",
+          "area": "0 3 33",
+          "land_val": "1 10 0",
+          "building_val": "1 5 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Jane Rourke",
+          "lessor": "Patrick Kinahan",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "James Curtin",
+          "lessor": "Patrick Kinahan",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Rose Kelly",
+          "lessor": "Patrick Kinahan",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Thomas Bryan",
+          "lessor": "Patrick Kinahan",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Patrick Feilds",
+          "lessor": "William Graydon, Esq.",
+          "desc": "L",
+          "area": "5 3 12",
+          "land_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Patrick Feilds",
+          "lessor": "Sir J. Rowland Eustace",
+          "desc": "L",
+          "area": "12 3 13",
+          "land_val": "16 0 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Patrick Feilds",
+          "lessor": "Miss Margaret Fyan",
+          "desc": "L",
+          "area": "13 3 6",
+          "land_val": "20 0 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "James Weldon",
+          "lessor": "Miss Margaret Fyan",
+          "desc": "H,O,&L",
+          "area": "1 3 13",
+          "land_val": "1 10 0",
+          "building_val": "1 0 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Michael Weldon",
+          "lessor": "Miss Margaret Fyan",
+          "desc": "L",
+          "area": "1 3 13",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Vacant",
+          "lessor": "Michael Weldon",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Catherine Jones",
+          "lessor": "Michael Weldon",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "William Baxter",
+          "lessor": "Michael Weldon",
+          "desc": "H",
+          "building_val": "0 18 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Vacant",
+          "lessor": "Michael Weldon",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "Vacant",
+          "lessor": "Michael Weldon",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "h",
+          "occupier": "Edward Byrne",
+          "lessor": "Michael Weldon",
+          "desc": "H",
+          "building_val": "0 18 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "i",
+          "occupier": "Vacant",
+          "lessor": "Michael Weldon",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "James Anderson",
+          "lessor": "Mrs. Elizab. F. Williams",
+          "desc": "H&L",
+          "area": "1 0 34",
+          "land_val": "2 0 0",
+          "building_val": "0 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Patrick Hanway",
+          "lessor": "Wellington John Pepper, Esq.",
+          "desc": "L",
+          "area": "2 1 7",
+          "land_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "13 A a B",
+          "occupier": "Thomas Gannon",
+          "lessor": "Sir J. Rowland Eustace",
+          "desc": "H,O,&L",
+          "area": "4 1 39",
+          "land_val": "6 0 0",
+          "building_val": "4 5 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Vacant",
+          "lessor": "Thomas Gannon",
+          "desc": "H",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "B",
+          "occupier": "Thomas Higgins, jun.",
+          "lessor": "Thomas Gannon",
+          "desc": "H",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "M. G. W. Railway and Royal Canal Comp.",
+          "lessor": "In fee",
+          "desc": "Railway and waste land (211 lineal perches), & canal and banks (248 lineal perches)",
+          "area": "24 1 16",
+          "total_val": "49 0 0"
+        },
+        {
+          "mr": "a & b",
+          "occupier": "Catherine Aylmer",
+          "lessor": "M. G. W. Railway and Royal Canal Company",
+          "desc": "Lock-H&G",
+          "area": "0 0 20",
+          "land_val": "0 3 0",
+          "building_val": "3 12 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "William Tuff",
+          "lessor": "M. G. W. Railway and Royal Canal Company",
+          "desc": "Brickfield",
+          "area": "3 3 16",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Nicholas Ryan",
+          "lessor": "Mrs. Elizab. F. Williams",
+          "desc": "L",
+          "area": "1 2 25",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Thomas Robinson",
+          "lessor": "Mrs. Elizab. F. Williams",
+          "desc": "L",
+          "area": "15 0 14",
+          "land_val": "19 0 0",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Thomas Robinson",
+          "lessor": "William Graydon, Esq.",
+          "desc": "L",
+          "area": "19 0 16",
+          "land_val": "27 0 0",
+          "total_val": "27 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Thomas Robinson",
+          "lessor": "Wellington John Pepper, Esq.",
+          "desc": "L",
+          "area": "7 3 38",
+          "land_val": "11 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Ellen Hulligan",
+          "lessor": "Mrs. Elizab. F. Williams",
+          "desc": "L",
+          "area": "17 3 20",
+          "land_val": "28 0 0",
+          "total_val": "28 0 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Rep. Michael Reynolds",
+          "lessor": "Mrs. Elizab. F. Williams",
+          "desc": "L",
+          "area": "2 2 0",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Rep. Michael Reynolds",
+          "lessor": "Miss Margaret Fyan",
+          "desc": "L",
+          "area": "10 2 3",
+          "land_val": "12 10 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Patrick Stapleton",
+          "lessor": "Rep. Michael Reynolds",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "James Ging",
+          "lessor": "Mrs. Anne Fyan",
+          "desc": "H,O,&L",
+          "area": "8 0 13",
+          "land_val": "12 5 0",
+          "building_val": "5 10 0",
+          "total_val": "17 15 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "John Sackville",
+          "lessor": "Sir J. Rowland Eustace",
+          "desc": "L",
+          "area": "2 0 7",
+          "land_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Thomas Woods",
+          "lessor": "Mrs. Anne Fyan",
+          "desc": "L",
+          "area": "3 0 38",
+          "land_val": "4 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Christopher Adams",
+          "lessor": "Sir J. Rowland Eustace",
+          "desc": "L",
+          "area": "4 2 34",
+          "land_val": "6 5 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Mary Parker",
+          "lessor": "Miss Margaret Fyan",
+          "desc": "L",
+          "area": "3 3 11",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Richard Feeney",
+          "lessor": "Free",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Mary Hope",
+          "lessor": "Free",
+          "desc": "H",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Laurence Hope",
+          "lessor": "Free",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "28 A B",
+          "occupier": "Messrs. Edward & Samuel Colgan",
+          "lessor": "Sir J. Rowland Eustace",
+          "desc": "L",
+          "area": "20 0 37",
+          "land_val": "25 10 0",
+          "total_val": "25 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "29 A B",
+          "occupier": "Messrs. Edward & Samuel Colgan",
+          "lessor": "Sir J. Rowland Eustace",
+          "desc": "L",
+          "area": "18 0 22",
+          "land_val": "23 0 0",
+          "total_val": "23 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "30",
+          "occupier": "Messrs. Edward & Samuel Colgan",
+          "lessor": "Miss Margaret Fyan",
+          "desc": "L",
+          "area": "9 0 2",
+          "land_val": "13 5 0",
+          "total_val": "13 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "31",
+          "occupier": "Messrs. Edward & Samuel Colgan",
+          "lessor": "William Graydon, Esq.",
+          "desc": "H,O,&L",
+          "area": "5 0 26",
+          "land_val": "6 0 0",
+          "building_val": "1 0 0",
+          "total_val": "7 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "32",
+          "occupier": "Michael Rourke",
+          "lessor": "Miss Margaret Fyan",
+          "desc": "L",
+          "area": "5 1 14",
+          "land_val": "6 15 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "Michael Rochfort",
+          "lessor": "Miss Margaret Fyan",
+          "desc": "L",
+          "area": "3 3 34",
+          "land_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Edward Murray",
+          "lessor": "Daniel Healy",
+          "desc": "L",
+          "area": "2 2 33",
+          "land_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Patrick Halligan",
+          "lessor": "Miss Margaret Fyan",
+          "desc": "L",
+          "area": "11 3 24",
+          "land_val": "14 0 0",
+          "total_val": "14 0 0"
+        }
+      ]
+    }
+  ]
+}

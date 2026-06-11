@@ -1,0 +1,496 @@
+{
+  "parishes": [
+    {
+      "parish": "CAHERDUGGAN",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "BALLYDINEEN",
+          "os": "25",
+          "occupier": "Alexander Morrissy",
+          "lessor": "John Croan, Esq.",
+          "desc": "L",
+          "area": "111 1 27",
+          "land_val": "74 15 0",
+          "total_val": "74 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Maurice Connor",
+          "lessor": "John Croan, Esq.",
+          "desc": "L",
+          "area": "19 3 25",
+          "land_val": "9 15 0",
+          "total_val": "9 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Pyne",
+          "lessor": "John Croan, Esq.",
+          "desc": "L",
+          "area": "20 0 15",
+          "land_val": "11 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Thomas Pyne",
+          "lessor": "John Croan, Esq.",
+          "desc": "H,O,&L",
+          "area": "39 0 8",
+          "land_val": "22 0 0",
+          "building_val": "1 0 0",
+          "total_val": "23 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "190 1 35",
+          "land_val": "117 10 0",
+          "building_val": "1 0 0",
+          "total_val": "118 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "BALLYMAGUE",
+          "os": "25",
+          "occupier": "Thomas Neenan",
+          "lessor": "Nelson Freeman",
+          "desc": "H,O,&L",
+          "area": "37 2 2",
+          "land_val": "34 15 0",
+          "building_val": "1 10 0",
+          "total_val": "36 5 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Nelson Freeman",
+          "lessor": "Sir W.W. Beecher, Bart.",
+          "desc": "H&L",
+          "area": "9 3 10",
+          "land_val": "8 0 0",
+          "building_val": "1 5 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Timothy Keary",
+          "lessor": "Nelson Freeman",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Nelson Freeman",
+          "lessor": "Sir W.W. Beecher, Bart.",
+          "desc": "H,O,&L",
+          "area": "30 3 15",
+          "land_val": "30 0 0",
+          "building_val": "1 5 0",
+          "total_val": "31 5 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "John Freeman",
+          "lessor": "Sir W.W. Beecher, Bart.",
+          "desc": "H,O,&L",
+          "area": "88 1 8",
+          "land_val": "80 0 0",
+          "building_val": "4 10 0",
+          "total_val": "84 10 0"
+        },
+        {
+          "mr": "4 b",
+          "occupier": "Thomas Condon",
+          "lessor": "John Freeman",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "4 c",
+          "occupier": "Unoccupied",
+          "lessor": "John Freeman",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "4 d",
+          "occupier": "Unoccupied",
+          "lessor": "John Freeman",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Cornelius Sullivan",
+          "lessor": "Sterling Freeman",
+          "desc": "H,O,&L",
+          "area": "36 1 28",
+          "land_val": "31 10 0",
+          "building_val": "1 0 0",
+          "total_val": "32 10 0"
+        },
+        {
+          "mr": "5 b",
+          "occupier": "Patrick Duane",
+          "lessor": "Cornelius Sullivan",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Sterling Freeman",
+          "lessor": "Sir W.W. Beecher, Bart.",
+          "desc": "H,O,&L",
+          "area": "43 1 26",
+          "land_val": "28 0 0",
+          "building_val": "1 0 0",
+          "total_val": "29 0 0"
+        },
+        {
+          "mr": "6 b",
+          "occupier": "Unoccupied",
+          "lessor": "Sterling Freeman",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "6 c",
+          "occupier": "Unoccupied",
+          "lessor": "Sterling Freeman",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Timothy Leary",
+          "lessor": "Nelson Freeman",
+          "desc": "H,O,&L",
+          "area": "4 3 24",
+          "land_val": "5 5 0",
+          "building_val": "0 10 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "7 b",
+          "occupier": "Catherine Morrissy",
+          "lessor": "Thomas Freeman",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Nelson Freeman",
+          "lessor": "Sir W.W. Beecher, Bart.",
+          "desc": "L (plantation)",
+          "area": "0 0 27",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "John Callaghan",
+          "lessor": "Thomas Freeman",
+          "desc": "H,O,&L",
+          "area": "12 3 22",
+          "land_val": "12 10 0",
+          "building_val": "1 0 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Richard Burke",
+          "lessor": "Thomas Freeman",
+          "desc": "H,O,&L",
+          "area": "23 3 6",
+          "land_val": "24 5 0",
+          "building_val": "1 0 0",
+          "total_val": "25 5 0"
+        },
+        {
+          "mr": "10 b",
+          "occupier": "Ellen Burke",
+          "lessor": "Thomas Freeman",
+          "desc": "H,O,&L",
+          "area": "39 2 30",
+          "land_val": "31 10 0",
+          "building_val": "1 5 0",
+          "total_val": "32 15 0"
+        },
+        {
+          "mr": "10 c",
+          "occupier": "Unoccupied",
+          "lessor": "Ellen Burke",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Garret Stack",
+          "lessor": "Ellen Burke",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Timothy Keleher",
+          "lessor": "Thomas Freeman",
+          "desc": "H,O,&L",
+          "area": "21 2 38",
+          "land_val": "16 5 0",
+          "building_val": "1 0 0",
+          "total_val": "17 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Thos. Carmichael, Esq.",
+          "lessor": "Robert Freeman",
+          "desc": "H,O,&L",
+          "area": "82 2 5",
+          "land_val": "48 5 0",
+          "building_val": "0 10 0",
+          "total_val": "48 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "432 0 1",
+          "land_val": "350 10 0",
+          "building_val": "19 8 0",
+          "total_val": "369 18 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "BALLYMEE",
+          "os": "17 & 25",
+          "occupier": "Daniel Sullivan",
+          "lessor": "James Hewson",
+          "desc": "H,O,&L",
+          "area": "38 0 1",
+          "land_val": "40 10 0",
+          "building_val": "1 10 0",
+          "total_val": "42 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Timothy Roche",
+          "lessor": "James Hewson",
+          "desc": "H,O,&L",
+          "area": "47 2 28",
+          "land_val": "48 10 0",
+          "building_val": "2 0 0",
+          "total_val": "50 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Donovan",
+          "lessor": "Timothy Roche",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Anne Kearney",
+          "lessor": "James Hewson",
+          "desc": "L",
+          "area": "20 2 18",
+          "land_val": "22 0 0",
+          "total_val": "22 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "John Kearney",
+          "lessor": "James Hewson",
+          "desc": "Corn-mill",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "3 b",
+          "occupier": "James Sheehan",
+          "lessor": "John Kearney",
+          "desc": "H&O",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Edward Linehan",
+          "lessor": "James Hewson",
+          "desc": "H,O,&L",
+          "area": "105 3 19",
+          "land_val": "109 0 0",
+          "building_val": "6 0 0",
+          "total_val": "115 0 0"
+        },
+        {
+          "mr": "4 b",
+          "occupier": "Patrick Daly",
+          "lessor": "Edward Linehan",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "4 c",
+          "occupier": "William Linehan",
+          "lessor": "Edward Linehan",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "desc": "Total",
+          "area": "212 0 26",
+          "land_val": "220 0 0",
+          "building_val": "16 2 0",
+          "total_val": "236 2 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "BANEFUNE",
+          "os": "25",
+          "occupier": "Thomas O'Brien",
+          "lessor": "Wm. Hy. Lysaght, Esq.",
+          "desc": "H,O,&L",
+          "area": "92 3 33",
+          "land_val": "88 5 0",
+          "building_val": "2 15 0",
+          "total_val": "91 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "John Nolan",
+          "lessor": "Thomas O'Brien",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Patrick Frawley",
+          "lessor": "Wm. Hy. Lysaght, Esq.",
+          "desc": "H,O,&L",
+          "area": "34 0 12",
+          "land_val": "31 0 0",
+          "building_val": "1 10 0",
+          "total_val": "32 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "127 0 5",
+          "land_val": "119 5 0",
+          "building_val": "4 13 0",
+          "total_val": "123 18 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CAHERDUGGAN NORTH",
+          "os": "25",
+          "occupier": "Daniel Murphy",
+          "lessor": "Henry Mannix, Esq.",
+          "desc": "H,O,&L",
+          "area": "37 1 30",
+          "land_val": "33 15 0",
+          "building_val": "2 10 0",
+          "total_val": "36 5 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Michael Casey",
+          "lessor": "Henry Mannix, Esq.",
+          "desc": "H,O,&L",
+          "area": "38 1 23",
+          "land_val": "37 5 0",
+          "building_val": "2 15 0",
+          "total_val": "40 0 0"
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Cornelius Linehan",
+          "lessor": "Michael Casey",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Michael Casey",
+          "lessor": "Henry Mannix, Esq.",
+          "desc": "L",
+          "area": "2 1 6",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "William Neenan",
+          "lessor": "Henry Mannix, Esq.",
+          "desc": "L (see also lot 6.)",
+          "area": "25 1 8",
+          "land_val": "27 15 0",
+          "total_val": "27 15 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Denis Duane",
+          "lessor": "Henry Mannix, Esq.",
+          "desc": "H,O,&L",
+          "area": "46 1 34",
+          "land_val": "40 15 0",
+          "building_val": "2 10 0",
+          "total_val": "43 5 0"
+        },
+        {
+          "mr": "5 b",
+          "occupier": "Thomas Duane",
+          "lessor": "Denis Duane",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "John Sullivan",
+          "lessor": "Henry Mannix, Esq.",
+          "desc": "H,O,&L",
+          "area": "27 1 23",
+          "land_val": "25 0 0",
+          "building_val": "1 0 0",
+          "total_val": "26 0 0"
+        },
+        {
+          "mr": "6 b",
+          "occupier": "William Neenan",
+          "lessor": "Henry Mannix, Esq.",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Andrew Neenan",
+          "lessor": "Henry Mannix, Esq.",
+          "desc": "H,O,&L",
+          "area": "85 2 19",
+          "land_val": "70 15 0",
+          "building_val": "2 0 0",
+          "total_val": "72 15 0"
+        }
+      ]
+    }
+  ]
+}

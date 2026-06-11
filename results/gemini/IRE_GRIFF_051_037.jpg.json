@@ -1,0 +1,590 @@
+{
+  "parishes": [
+    {
+      "parish": "KILMEEN (Part of)",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "DOONASLEEN, NORTH",
+          "os": "21 & 29",
+          "occupier": "John Breen (David)",
+          "lessor": "Eugene M'Carthy",
+          "desc": "H,O,&L",
+          "area": "30 2 1",
+          "land_val": "7 5 0",
+          "building_val": "0 10 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "David Breen",
+          "lessor": "John Breen (David)",
+          "desc": "H&G",
+          "area": "0 0 19",
+          "land_val": "0 2 0",
+          "building_val": "0 4 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "1 c",
+          "occupier": "Patrick Breen",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Patrick Breen",
+          "lessor": "Eugene M'Carthy",
+          "desc": "H,O,&L",
+          "area": "108 1 26",
+          "land_val": "27 10 0",
+          "building_val": "1 5 0",
+          "total_val": "28 15 0"
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Judith Breen",
+          "lessor": "Patrick Breen",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2 c",
+          "occupier": "John Tim Breen",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2 d",
+          "occupier": "Jeremiah Breen",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2 e",
+          "occupier": "Julia Cronin",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 11",
+          "land_val": "0 1 0",
+          "building_val": "0 5 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Johanna Breen",
+          "lessor": "Eugene M'Carthy",
+          "desc": "H,O,&L",
+          "area": "28 1 10",
+          "land_val": "4 5 0",
+          "building_val": "0 5 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "3 b",
+          "occupier": "Michael Breen",
+          "lessor": "Johanna Breen",
+          "desc": "H&G",
+          "area": "0 1 22",
+          "land_val": "0 2 0",
+          "building_val": "0 4 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "John Breen (John)",
+          "lessor": "Eugene M'Carthy",
+          "desc": "H,O,&L",
+          "area": "58 2 25",
+          "land_val": "22 10 0",
+          "building_val": "1 5 0",
+          "total_val": "23 15 0"
+        },
+        {
+          "mr": "4 b",
+          "occupier": "Michael Lyons",
+          "lessor": "Same",
+          "desc": "H&G (see also 5)",
+          "area": "0 0 39",
+          "land_val": "0 2 0",
+          "building_val": "0 12 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "4 c",
+          "occupier": "Timothy Lyons",
+          "lessor": "Same",
+          "desc": "H,O,&G (see also 5)",
+          "area": "0 1 5",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "4 d",
+          "occupier": "Honora Lyons",
+          "lessor": "Michael Lyons",
+          "desc": "H&sm.G",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Daniel Lucy",
+          "lessor": "Eugene M'Carthy",
+          "desc": "H&L",
+          "area": "54 3 37",
+          "land_val": "4 12 0",
+          "building_val": "0 6 0",
+          "total_val": "4 18 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "5",
+          "occupier": "Timothy Lyons",
+          "lessor": "Eugene M'Carthy",
+          "desc": "L",
+          "land_val": "9 5 0",
+          "total_val": "9 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "5",
+          "occupier": "Michael Lyons",
+          "lessor": "Eugene M'Carthy",
+          "desc": "L",
+          "land_val": "7 0 0",
+          "total_val": "7 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Timothy Lenihan",
+          "lessor": "Eugene M'Carthy",
+          "desc": "H,O,&L",
+          "area": "243 3 36",
+          "land_val": "11 5 0",
+          "building_val": "0 15 0",
+          "total_val": "12 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "6 b",
+          "occupier": "Daniel Lenihan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "land_val": "11 5 0",
+          "building_val": "0 15 0",
+          "total_val": "12 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "6 c",
+          "occupier": "Patrick Lenihan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "land_val": "11 5 0",
+          "building_val": "0 15 0",
+          "total_val": "12 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "- d",
+          "occupier": "Thomas Roche",
+          "lessor": "John Lenihan",
+          "desc": "H&G",
+          "area": "0 0 19",
+          "land_val": "0 2 0",
+          "building_val": "0 4 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "- e",
+          "occupier": "Jeremiah Breen",
+          "lessor": "Daniel Lenihan",
+          "desc": "H&G",
+          "area": "0 0 13",
+          "land_val": "0 2 0",
+          "building_val": "0 4 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "- f",
+          "occupier": "Bridget Breen",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 0 12",
+          "land_val": "0 2 0",
+          "building_val": "0 4 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "- g",
+          "occupier": "Mary Lenihan",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 11",
+          "land_val": "0 2 0",
+          "building_val": "0 4 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "desc": "Total",
+          "area": "526 1 6",
+          "land_val": "116 19 0",
+          "building_val": "9 12 0",
+          "total_val": "126 11 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DOONASLEEN, SOUTH",
+          "os": "29",
+          "occupier": "Patrick Connor",
+          "lessor": "Eugene M'Carthy",
+          "desc": "L",
+          "area": "16 0 30",
+          "land_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Johanna Healy",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "14 3 22",
+          "land_val": "4 5 0",
+          "building_val": "0 10 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Michael Lyons",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "10 1 33",
+          "land_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Mary Hickey",
+          "lessor": "Michael Lyons",
+          "desc": "H&G",
+          "area": "0 0 36",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Michael Sweeny",
+          "lessor": "Eugene M'Carthy",
+          "desc": "H,O,&L",
+          "area": "39 0 17",
+          "land_val": "12 5 0",
+          "building_val": "0 15 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "John Hickey",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "58 0 9",
+          "land_val": "8 0 0",
+          "building_val": "0 10 0",
+          "total_val": "8 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 b",
+          "occupier": "Denis Hickey",
+          "lessor": "Same",
+          "desc": "H&L",
+          "land_val": "8 0 0",
+          "building_val": "0 10 0",
+          "total_val": "8 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- c",
+          "occupier": "Ellen Murphy",
+          "lessor": "John & Denis Hickey",
+          "desc": "H&G",
+          "area": "0 2 9",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Timothy Keeffe",
+          "lessor": "Same",
+          "desc": "H&sm.G",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Patrick Breen",
+          "lessor": "Eugene M'Carthy",
+          "desc": "H,O,&L",
+          "area": "75 0 16",
+          "land_val": "8 12 0",
+          "building_val": "0 18 0",
+          "total_val": "9 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 b",
+          "occupier": "John Breen",
+          "lessor": "Eugene M'Carthy",
+          "desc": "H,O,&L",
+          "land_val": "8 12 0",
+          "building_val": "0 8 0",
+          "total_val": "9 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- c",
+          "occupier": "Catherine Keeffe",
+          "lessor": "Patrick & John Breen",
+          "desc": "H&O",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Jeremiah Mahony",
+          "lessor": "Eugene M'Carthy",
+          "desc": "H,O,&L",
+          "area": "41 0 20",
+          "land_val": "6 5 0",
+          "building_val": "0 10 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Thomas Breen",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "32 1 11",
+          "land_val": "3 10 0",
+          "building_val": "0 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "8 b",
+          "occupier": "John Edw. Connor",
+          "lessor": "Thomas Breen",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Timothy Leary",
+          "lessor": "Eugene M'Carthy",
+          "desc": "H,O,&L",
+          "area": "44 2 7",
+          "land_val": "3 15 0",
+          "building_val": "0 10 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Judith Foley",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "7 3 3",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "10 b",
+          "occupier": "Jeremiah Foley",
+          "lessor": "Same",
+          "desc": "H&L",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "11",
+          "occupier": "Eugene M'Carthy",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "14 3 34",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "John Herlihy",
+          "lessor": "Eugene M'Carthy",
+          "desc": "H&L",
+          "area": "15 2 38",
+          "land_val": "3 0 0",
+          "building_val": "0 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "Judith Loughnan",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "17 3 30",
+          "land_val": "2 10 0",
+          "building_val": "0 5 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "Jeremiah Leary",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "5 0 29",
+          "land_val": "1 0 0",
+          "building_val": "0 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "15 a",
+          "occupier": "Denis Leary",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "2 1 18",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "16 a",
+          "occupier": "Mary Walsh",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "6 1 25",
+          "land_val": "1 5 0",
+          "building_val": "0 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "17 a",
+          "occupier": "Thomas Connor",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "50 0 30",
+          "land_val": "16 5 0",
+          "building_val": "1 0 0",
+          "total_val": "17 5 0"
+        },
+        {
+          "mr": "18 a",
+          "occupier": "John Callaghan",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "45 2 24",
+          "land_val": "16 0 0",
+          "building_val": "0 15 0",
+          "total_val": "16 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Ellen Connor",
+          "lessor": "John Callaghan",
+          "desc": "H&O",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "19 a",
+          "occupier": "Michael Connor",
+          "lessor": "Eugene M'Carthy",
+          "desc": "H,O,&L",
+          "area": "101 0 15",
+          "land_val": "16 10 0",
+          "building_val": "0 15 0",
+          "total_val": "17 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "19 b",
+          "occupier": "John Connor",
+          "lessor": "Eugene M'Carthy",
+          "desc": "H,O,&L",
+          "land_val": "22 5 0",
+          "building_val": "1 10 0",
+          "total_val": "23 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "19 c",
+          "occupier": "Daniel Connor",
+          "lessor": "Eugene M'Carthy",
+          "desc": "H,O,&L",
+          "land_val": "5 10 0",
+          "building_val": "0 10 0",
+          "total_val": "6 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "- d",
+          "occupier": "Timothy Kinnealy",
+          "lessor": "Daniel Connor",
+          "desc": "H&G",
+          "area": "0 0 16",
+          "land_val": "0 2 0",
+          "building_val": "0 4 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "- e",
+          "occupier": "Cornelius Murphy",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 16",
+          "land_val": "0 2 0",
+          "building_val": "0 4 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "- f",
+          "occupier": "Johanna Keeffe",
+          "lessor": "John Connor",
+          "desc": "H&G",
+          "area": "0 0 16",
+          "land_val": "0 2 0",
+          "building_val": "0 4 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "desc": "Total",
+          "area": "600 0 24",
+          "land_val": "160 12 0",
+          "building_val": "13 18 0",
+          "total_val": "174 10 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

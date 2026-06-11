@@ -1,0 +1,523 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF AGHNAMULLEN",
+      "entries": [
+        {
+          "mr": "15",
+          "townland": "RAW",
+          "os": "",
+          "occupier": "Patrick Hand",
+          "lessor": "The Right Hon. & Right Rev. Lord Plunkett",
+          "desc": "H&L",
+          "area": "12 2 34",
+          "land_val": "7 5 0",
+          "building_val": "0 10 0",
+          "total_val": "7 15 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "16",
+          "occupier": "Patrick Hand",
+          "lessor": "The Right Hon. & Right Rev. Lord Plunkett",
+          "desc": "B",
+          "area": "4 0 8",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "17",
+          "occupier": "Patrick Hand",
+          "lessor": "The Right Hon. & Right Rev. Lord Plunkett",
+          "desc": "Lough (part of)",
+          "area": "2 1 29",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "desc": "Total of Rateable Property",
+          "area": "151 2 4",
+          "land_val": "89 15 0",
+          "building_val": "11 0 0",
+          "total_val": "100 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "11 b",
+          "desc": "National School-house",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, including Exemptions",
+          "area": "151 2 4",
+          "land_val": "89 15 0",
+          "building_val": "12 0 0",
+          "total_val": "101 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "TAMLAT",
+          "os": "23",
+          "occupier": "Bryan M'Mahon",
+          "lessor": "Eliza Kearney",
+          "desc": "H,O,&L",
+          "area": "15 0 36",
+          "land_val": "8 0 0",
+          "building_val": "0 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "John Fox",
+          "lessor": "Eliza Kearney",
+          "desc": "L",
+          "area": "2 0 2",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Bernard Cosgrave",
+          "lessor": "Eliza Kearney",
+          "desc": "H&L",
+          "area": "6 1 35",
+          "land_val": "3 10 0",
+          "building_val": "0 5 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Anne Sloane",
+          "lessor": "Free",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Bridget Cosgrave",
+          "lessor": "Free",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "James Cosgrave",
+          "lessor": "Eliza Kearney",
+          "desc": "H,O,&L",
+          "area": "7 1 8",
+          "land_val": "4 5 0",
+          "building_val": "0 10 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Rose M'Gough",
+          "lessor": "Eliza Kearney",
+          "desc": "H,O,&L",
+          "area": "20 2 35",
+          "land_val": "17 15 0",
+          "building_val": "1 0 0",
+          "total_val": "18 15 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "John Adams",
+          "lessor": "John F. Johnston",
+          "desc": "H,O,&L",
+          "area": "18 2 22",
+          "land_val": "12 0 0",
+          "building_val": "1 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Edward M'Cabe",
+          "lessor": "John F. Johnston",
+          "desc": "Herd's house and land",
+          "area": "12 0 15",
+          "land_val": "7 15 0",
+          "building_val": "0 10 0",
+          "total_val": "8 5 0"
+        },
+        {
+          "mr": "8 A a",
+          "occupier": "Edward M'Cabe",
+          "lessor": "Eliza Kearney",
+          "desc": "H,O,&L",
+          "area": "4 0 16",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "Edward M'Cabe",
+          "lessor": "Eliza Kearney",
+          "desc": "L",
+          "area": "0 2 12",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "3 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9 A a",
+          "occupier": "Bartly M'Cabe",
+          "lessor": "Eliza Kearney",
+          "desc": "H,O,&L",
+          "area": "7 1 39",
+          "land_val": "3 15 0",
+          "building_val": "0 15 0",
+          "total_val": "6 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "Bartly M'Cabe",
+          "lessor": "Eliza Kearney",
+          "desc": "L",
+          "area": "3 0 1",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "6 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Robert Henderson",
+          "lessor": "Eliza Kearney",
+          "desc": "H,O,&L",
+          "area": "4 3 29",
+          "land_val": "3 0 0",
+          "building_val": "0 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Rose M'Cabe",
+          "lessor": "Eliza Kearney",
+          "desc": "H&L",
+          "area": "4 2 26",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "12 A a",
+          "occupier": "Thomas Bryan",
+          "lessor": "Eliza Kearney",
+          "desc": "L",
+          "area": "9 0 5",
+          "land_val": "5 5 0",
+          "building_val": "",
+          "total_val": "6 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B a",
+          "occupier": "Thomas Bryan",
+          "lessor": "Eliza Kearney",
+          "desc": "H,O,&L",
+          "area": "0 2 27",
+          "land_val": "0 10 0",
+          "building_val": "0 15 0",
+          "total_val": "6 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "13 a",
+          "occupier": "Patrick M'Cabe",
+          "lessor": "Eliza Kearney",
+          "desc": "H,O,&L",
+          "area": "4 0 16",
+          "land_val": "2 5 0",
+          "building_val": "0 10 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "James Duff",
+          "lessor": "Eliza Kearney",
+          "desc": "H&G",
+          "area": "0 1 30",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "John Duffy",
+          "lessor": "Eliza Kearney",
+          "desc": "H,O,&L",
+          "area": "21 1 20",
+          "land_val": "13 0 0",
+          "building_val": "1 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "15 a",
+          "occupier": "Thomas Thompson",
+          "lessor": "Eliza Kearney",
+          "desc": "Herd's house and land",
+          "area": "7 2 8",
+          "land_val": "4 0 0",
+          "building_val": "0 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "16 a",
+          "occupier": "John Smith",
+          "lessor": "Eliza Kearney",
+          "desc": "H,O,&L",
+          "area": "19 0 11",
+          "land_val": "11 10 0",
+          "building_val": "1 0 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "John F. Johnston",
+          "lessor": "Ecclesiastical Commrs.",
+          "desc": "L",
+          "area": "19 0 21",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "John F. Johnston",
+          "lessor": "Ecclesiastical Commrs.",
+          "desc": "Water",
+          "area": "1 2 14",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "desc": "Total,",
+          "area": "199 0 28",
+          "land_val": "109 5 0",
+          "building_val": "10 15 0",
+          "total_val": "120 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "TATTYBRACK",
+          "os": "23",
+          "occupier": "Rev. Philip Brennan",
+          "lessor": "James T. Tennent",
+          "desc": "H,O,&L",
+          "area": "51 3 6",
+          "land_val": "42 10 0",
+          "building_val": "2 0 0",
+          "total_val": "44 10 0"
+        },
+        {
+          "mr": "2 A a",
+          "occupier": "Catherine Farrell",
+          "lessor": "Sir William Verner, Bt.",
+          "desc": "H,O,&L",
+          "area": "8 0 6",
+          "land_val": "5 10 0",
+          "building_val": "0 15 0",
+          "total_val": "8 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "- B",
+          "occupier": "Catherine Farrell",
+          "lessor": "Sir William Verner, Bt.",
+          "desc": "L",
+          "area": "2 2 5",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "8 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "- C",
+          "occupier": "Catherine Farrell",
+          "lessor": "Sir William Verner, Bt.",
+          "desc": "L",
+          "area": "0 3 32",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "8 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "3 A a",
+          "occupier": "John Hawthorne",
+          "lessor": "Sir William Verner, Bt.",
+          "desc": "H,O,&L",
+          "area": "27 0 28",
+          "land_val": "19 0 0",
+          "building_val": "1 0 0",
+          "total_val": "20 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "John Hawthorne",
+          "lessor": "Sir William Verner, Bt.",
+          "desc": "L",
+          "area": "1 0 36",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "20 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- a",
+          "occupier": "Rose Farrell",
+          "lessor": "Sir William Verner, Bt.",
+          "desc": "L",
+          "area": "0 1 7",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "3 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Rose Farrell",
+          "lessor": "Sir William Verner, Bt.",
+          "desc": "H&L",
+          "area": "4 2 10",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 A a",
+          "occupier": "William Hegan",
+          "lessor": "Sir William Verner, Bt.",
+          "desc": "L",
+          "area": "3 3 19",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "3 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "William Hegan",
+          "lessor": "Sir William Verner, Bt.",
+          "desc": "L",
+          "area": "0 3 22",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "3 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 A a",
+          "occupier": "William Hegan",
+          "lessor": "Sir William Verner, Bt.",
+          "desc": "L",
+          "area": "7 0 5",
+          "land_val": "5 0 0",
+          "building_val": "",
+          "total_val": "26 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "- B",
+          "occupier": "William Hegan",
+          "lessor": "Sir William Verner, Bt.",
+          "desc": "L",
+          "area": "5 3 13",
+          "land_val": "4 10 0",
+          "building_val": "",
+          "total_val": "26 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "- C",
+          "occupier": "William Hegan",
+          "lessor": "Sir William Verner, Bt.",
+          "desc": "H,O,&L",
+          "area": "19 3 26",
+          "land_val": "15 0 0",
+          "building_val": "2 0 0",
+          "total_val": "26 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Robert Hegan",
+          "lessor": "Sir William Verner, Bt.",
+          "desc": "H,O,&L",
+          "area": "12 0 6",
+          "land_val": "9 0 0",
+          "building_val": "0 10 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Thomas Mitchell",
+          "lessor": "Sir William Verner, Bt.",
+          "desc": "H,O,&L",
+          "area": "26 3 18",
+          "land_val": "21 0 0",
+          "building_val": "2 0 0",
+          "total_val": "23 0 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Jane Smith",
+          "lessor": "Sir William Verner, Bt.",
+          "desc": "H,O,&L",
+          "area": "9 2 31",
+          "land_val": "7 0 0",
+          "building_val": "0 10 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "John Smith",
+          "lessor": "Sir William Verner, Bt.",
+          "desc": "H,O,&L",
+          "area": "8 3 20",
+          "land_val": "6 15 0",
+          "building_val": "0 10 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "John Smith",
+          "lessor": "Sir William Verner, Bt.",
+          "desc": "Clossagh Lough (pt.of)",
+          "area": "16 1 0",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "desc": "Total,",
+          "area": "207 3 10",
+          "land_val": "145 10 0",
+          "building_val": "9 15 0",
+          "total_val": "155 5 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

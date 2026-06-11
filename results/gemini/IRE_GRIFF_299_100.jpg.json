@@ -1,0 +1,505 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF GLANWORTH",
+      "entries": [
+        {
+          "mr": "4",
+          "townland": "BALLYLEGAN",
+          "os": "27",
+          "occupier": "Michael Hoolahan,",
+          "lessor": "John Westropp,",
+          "desc": "H,O,&L",
+          "area": "31 2 25",
+          "land_val": "24 10 0",
+          "building_val": "1 5 0",
+          "total_val": "25 15 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Margaret Hoolahan,",
+          "lessor": "John Westropp,",
+          "desc": "H&L",
+          "area": "4 0 26",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "5 b",
+          "occupier": "Denis Fleming,",
+          "lessor": "Margaret Hoolahan,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "3 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "5 c",
+          "occupier": "Catherine Sullivan,",
+          "lessor": "Margaret Hoolahan,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "3 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "6 a",
+          "occupier": "David Barry (Tom), .",
+          "lessor": "John Westropp,",
+          "desc": "H,O,&L",
+          "area": "51 1 28",
+          "land_val": "42 5 0",
+          "building_val": "2 15 0",
+          "total_val": "45 0 0"
+        },
+        {
+          "mr": "6 b",
+          "occupier": "Richard Ward, .",
+          "lessor": "David Barry (Tom), .",
+          "desc": "H&G",
+          "area": "0 0 34",
+          "land_val": "0 4 0",
+          "building_val": "0 6 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "David Barry, sen. .",
+          "lessor": "John Westropp,",
+          "desc": "L",
+          "area": "16 3 19",
+          "land_val": "13 10 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Catherine M'Glone, .",
+          "lessor": "John Westropp,",
+          "desc": "H,O,&L",
+          "area": "9 3 17",
+          "land_val": "7 10 0",
+          "building_val": "0 5 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Patrick Fitzgibbon, .",
+          "lessor": "John Westropp,",
+          "desc": "H,O,&L",
+          "area": "41 3 36",
+          "land_val": "33 5 0",
+          "building_val": "2 10 0",
+          "total_val": "35 15 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Michael Fitzgibbon, .",
+          "lessor": "John Westropp,",
+          "desc": "O&L",
+          "area": "11 1 6",
+          "land_val": "10 5 0",
+          "building_val": "0 10 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "10 b",
+          "occupier": "Daniel Sheehan, .",
+          "lessor": "Michael Fitzgibbon, .",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "desc": "Total, .",
+          "area": "387 0 16",
+          "land_val": "317 4 0",
+          "building_val": "24 1 0",
+          "total_val": "341 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "BALLYNAMONA",
+          "os": "27",
+          "occupier": "Bryan Ahern, .",
+          "lessor": "Lieut.-Gen. the Hon. A. G. Annesly,",
+          "desc": "H,O,&L",
+          "area": "244 0 34",
+          "land_val": "193 0 0",
+          "building_val": "5 0 0",
+          "total_val": "193 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Unoccupied, .",
+          "lessor": "Bryan Ahern, .",
+          "desc": "H&O",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "John Howard, .",
+          "lessor": "Lieut.-Gen. the Hon. A. G. Annesly,",
+          "desc": "H,O,&L",
+          "area": "16 2 0",
+          "land_val": "12 0 0",
+          "building_val": "1 15 0",
+          "total_val": "13 15 0"
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Elizabeth Roche, .",
+          "lessor": "Thaddeus Howard, .",
+          "desc": "H&G",
+          "area": "0 0 36",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Timothy Howard, .",
+          "lessor": "Lieut.-Gen. the Hon. A. G. Annesly,",
+          "desc": "H,O,&L",
+          "area": "25 2 20",
+          "land_val": "17 5 0",
+          "building_val": "0 15 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Lieut.Gen. the Hon. A. G. Annesly,",
+          "lessor": "In fee,",
+          "desc": "H,O,&L",
+          "area": "73 2 6",
+          "land_val": "54 15 0",
+          "building_val": "1 5 0",
+          "total_val": "56 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Barry, .",
+          "lessor": "Lieut.-Gen. the Hon. A. G. Annesly,",
+          "desc": "L",
+          "area": "64 2 17",
+          "land_val": "50 5 0",
+          "total_val": "50 5 0"
+        },
+        {
+          "desc": "Total, .",
+          "area": "424 2 33",
+          "land_val": "327 7 0",
+          "building_val": "10 3 0",
+          "total_val": "337 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BALLYNAMONGAREE",
+          "os": "27",
+          "occupier": "Catherine Stackpoole,",
+          "lessor": "Michael Roberts, Esq.",
+          "desc": "H&L",
+          "area": "9 0 30",
+          "land_val": "7 10 0",
+          "building_val": "0 5 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Edmund Gallagher, .",
+          "lessor": "Michael Roberts, Esq.",
+          "desc": "H&L",
+          "area": "23 0 24",
+          "land_val": "18 0 0",
+          "building_val": "0 10 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Honoria Stackpoole, .",
+          "lessor": "Edmund Gallagher, .",
+          "desc": "H&G",
+          "area": "0 0 11",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Catherine Toomy, .",
+          "lessor": "Michael Roberts, Esq.",
+          "desc": "H,O,&L",
+          "area": "22 0 20",
+          "land_val": "16 0 0",
+          "building_val": "1 0 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Martin Gallagher, .",
+          "lessor": "Michael Roberts, Esq.",
+          "desc": "H,O,forge,&L",
+          "area": "32 0 20",
+          "land_val": "25 0 0",
+          "building_val": "1 5 0",
+          "total_val": "26 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Martin Gallagher, .",
+          "lessor": "Michael Roberts, Esq.",
+          "desc": "H,O,&L",
+          "area": "62 1 20",
+          "land_val": "53 5 0",
+          "building_val": "2 15 0",
+          "total_val": "56 0 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Owen Reynolds, .",
+          "lessor": "Michael Roberts, Esq.",
+          "desc": "H,O,&L",
+          "area": "52 0 35",
+          "land_val": "42 0 0",
+          "building_val": "1 15 0",
+          "total_val": "43 15 0"
+        },
+        {
+          "mr": "6 b",
+          "occupier": "William Daly, .",
+          "lessor": "David Foley, .",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "desc": "Total, .",
+          "area": "201 1 20",
+          "land_val": "161 19 0",
+          "building_val": "8 2 0",
+          "total_val": "170 1 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A & B",
+          "townland": "BALLYNARAHA",
+          "os": "26 & 27",
+          "occupier": "Michael Joyce, .",
+          "lessor": "Michael Roberts, Esq.",
+          "desc": "H,O,&L",
+          "area": "68 0 26",
+          "land_val": "50 15 0",
+          "building_val": "2 5 0",
+          "total_val": "53 0 0"
+        },
+        {
+          "mr": "1 B a",
+          "occupier": "Timothy Keeffe, .",
+          "lessor": "Michael Joyce, .",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "1 B b",
+          "occupier": "John Mahony, .",
+          "lessor": "Michael Joyce, .",
+          "desc": "H&G",
+          "area": "0 0 25",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Edmund Power, .",
+          "lessor": "Michael Roberts, Esq.",
+          "desc": "L",
+          "area": "22 3 30",
+          "land_val": "16 15 0",
+          "total_val": "16 15 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Roger Power, .",
+          "lessor": "Edmund Power, .",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "William Power, .",
+          "lessor": "Michael Roberts, Esq.",
+          "desc": "H,O,&L",
+          "area": "21 3 15",
+          "land_val": "15 15 0",
+          "building_val": "1 5 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Timothy Mullane, .",
+          "lessor": "Michael Roberts, Esq.",
+          "desc": "H,O,&L",
+          "area": "33 2 17",
+          "land_val": "20 0 0",
+          "building_val": "0 15 0",
+          "total_val": "20 15 0"
+        },
+        {
+          "mr": "4 b",
+          "occupier": "Patrick Mullane, .",
+          "lessor": "Timothy Mullane, .",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Matthew Collins, .",
+          "lessor": "Michael Roberts, Esq.",
+          "desc": "L",
+          "area": "27 3 37",
+          "land_val": "18 5 0",
+          "total_val": "18 5 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Patrick Delane, .",
+          "lessor": "Matthew Collins, .",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Margaret Foley, .",
+          "lessor": "Michael Roberts, Esq.",
+          "desc": "H,O,&L",
+          "area": "30 1 32",
+          "land_val": "19 0 0",
+          "building_val": "1 10 0",
+          "total_val": "20 10 0"
+        },
+        {
+          "mr": "6 b",
+          "occupier": "Robert Callaghan, .",
+          "lessor": "Margaret Foley, .",
+          "desc": "H&G",
+          "area": "0 0 13",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "David Foley, .",
+          "lessor": "Michael Roberts, Esq.",
+          "desc": "L, (see also lot 8.)",
+          "area": "17 2 9",
+          "land_val": "12 10 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Richard Blake, .",
+          "lessor": "David Foley, .",
+          "desc": "H&G",
+          "area": "0 0 28",
+          "land_val": "0 2 0",
+          "building_val": "0 12 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "David Foley, .",
+          "lessor": "Michael Roberts, Esq.",
+          "desc": "H,O,&L",
+          "area": "24 2 19",
+          "land_val": "17 0 0",
+          "building_val": "2 0 0",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "8 b",
+          "occupier": "Johanna Hanrahan, .",
+          "lessor": "David Foley, .",
+          "desc": "H&G",
+          "area": "0 0 19",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Jeremiah Foley, .",
+          "lessor": "Michael Roberts, Esq.",
+          "desc": "H,O,&L",
+          "area": "21 2 24",
+          "land_val": "15 0 0",
+          "building_val": "1 0 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "desc": "Total, .",
+          "area": "269 2 16",
+          "land_val": "185 12 0",
+          "building_val": "11 8 0",
+          "total_val": "197 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BALLYNOE WEST",
+          "os": "27",
+          "occupier": "Michael Leonard, .",
+          "lessor": "James Barry, Esq. .",
+          "desc": "H,O,&L",
+          "area": "20 0 35",
+          "land_val": "12 15 0",
+          "building_val": "3 0 0",
+          "total_val": "15 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Leonard, .",
+          "lessor": "James Barry, Esq. .",
+          "desc": "H,O,&L",
+          "area": "22 3 15",
+          "land_val": "16 0 0",
+          "building_val": "1 5 0",
+          "total_val": "17 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Barry, Esq. .",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "1 1 33",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "desc": "Total, .",
+          "area": "44 2 3",
+          "land_val": "29 15 0",
+          "building_val": "4 5 0",
+          "total_val": "34 0 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

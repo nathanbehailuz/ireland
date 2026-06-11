@@ -1,0 +1,430 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF AGHAVILLER",
+      "entries": [
+        {
+          "mr": "5 A B C a & 3 a c",
+          "townland": "CATSTOWN",
+          "is_continued": 1,
+          "occupier": "Edmond Range,",
+          "lessor": "John De Montmorency, Esq.",
+          "desc": "H,O,&L",
+          "area": "32 3 39",
+          "land_val": "7 15 0",
+          "building_val": "2 10 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "6 A B C",
+          "occupier": "Alice Purcell,",
+          "lessor": "John De Montmorecy, Esq.",
+          "desc": "H,O,&L",
+          "area": "86 2 7",
+          "land_val": "9 10 0",
+          "building_val": "3 5 0",
+          "total_val": "12 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Nicholas Power,",
+          "lessor": "John De Montmorecy, Esq.",
+          "desc": "H,O,&L",
+          "land_val": "9 10 0",
+          "building_val": "1 10 0",
+          "total_val": "11 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "c",
+          "occupier": "William Power,",
+          "lessor": "John De Montmorency, Esq.",
+          "desc": "H,O,&G",
+          "area": "0 1 6",
+          "land_val": "0 3 0",
+          "building_val": "0 17 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "John Power,",
+          "lessor": "James Meara,",
+          "desc": "H&G",
+          "area": "0 1 12",
+          "land_val": "0 3 0",
+          "building_val": "0 9 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "7 A B a",
+          "occupier": "Peter Costello,",
+          "lessor": "John De Montmorency, Esq.",
+          "desc": "H,O,&L",
+          "area": "132 2 2",
+          "land_val": "32 15 0",
+          "building_val": "5 15 0",
+          "total_val": "38 10 0"
+        },
+        {
+          "mr": "8 A B a",
+          "occupier": "Anastasia Power,",
+          "lessor": "John De Montmorency, Esq.",
+          "desc": "H,O,&L",
+          "area": "46 2 35",
+          "land_val": "12 10 0",
+          "building_val": "2 5 0",
+          "total_val": "14 15 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "536 3 23",
+          "land_val": "131 18 0",
+          "building_val": "28 16 0",
+          "total_val": "160 14 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A B",
+          "townland": "COALPITPARKS",
+          "occupier": "John De Montmorency, Esq.",
+          "lessor": "In fee,",
+          "desc": "L (plantations)",
+          "area": "40 2 22",
+          "land_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Joseph Hurley,",
+          "lessor": "John De Montmorency, Esq.",
+          "desc": "H,O,&L",
+          "area": "79 3 21",
+          "land_val": "47 0 0",
+          "building_val": "5 10 0",
+          "total_val": "52 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Margaret Jordan,",
+          "lessor": "Joseph Hurley,",
+          "desc": "H&L",
+          "area": "1 0 0",
+          "land_val": "0 16 0",
+          "building_val": "0 19 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Timothy Cahill,",
+          "lessor": "John De Montmorency, Esq.",
+          "desc": "H&L",
+          "area": "1 3 17",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "123 1 20",
+          "land_val": "58 16 0",
+          "building_val": "6 19 0",
+          "total_val": "65 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A B a",
+          "townland": "CONDONSTOWN",
+          "occupier": "John Power, sen.",
+          "lessor": "John De Montmorency, Esq.",
+          "desc": "H,O,&L",
+          "area": "31 2 4",
+          "land_val": "15 5 0",
+          "building_val": "4 0 0",
+          "total_val": "19 5 0"
+        },
+        {
+          "mr": "2 A a B C",
+          "occupier": "Edward Power,",
+          "lessor": "John De Montmorency, Esq.",
+          "desc": "H,O,&L",
+          "area": "31 2 30",
+          "land_val": "15 13 0",
+          "building_val": "2 17 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "3 A B",
+          "occupier": "Thomas Power,",
+          "lessor": "Richard Power,",
+          "desc": "L",
+          "area": "16 2 39",
+          "land_val": "9 5 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "4 A B C",
+          "occupier": "Thomas Power,",
+          "lessor": "John De Montmorency, Esq.",
+          "desc": "H,O,&L",
+          "area": "78 1 11",
+          "land_val": "20 5 0",
+          "building_val": "4 15 0",
+          "total_val": "25 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Long,",
+          "lessor": "John De Montmorency, Esq.",
+          "desc": "H,O,&L",
+          "land_val": "20 5 0",
+          "building_val": "2 15 0",
+          "total_val": "23 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "c",
+          "occupier": "Vacant,",
+          "lessor": "Thomas Power and Thomas Long,",
+          "desc": "H&O",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "5",
+          "occupier": "Thomas Long,",
+          "lessor": "John De Montmorency, Esq.",
+          "desc": "L",
+          "area": "11 1 19",
+          "land_val": "5 15 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "6 A B a",
+          "occupier": "John Ryan,",
+          "lessor": "John De Montmorency, Esq.",
+          "desc": "H,O,&L",
+          "area": "65 0 29",
+          "land_val": "32 0 0",
+          "building_val": "3 0 0",
+          "total_val": "35 0 0"
+        },
+        {
+          "mr": "7 A B a C D",
+          "occupier": "James Ryan,",
+          "lessor": "John De Montmorency, Esq.",
+          "desc": "L",
+          "area": "31 0 27",
+          "land_val": "17 0 0",
+          "building_val": "4 5 0",
+          "total_val": "21 5 0"
+        },
+        {
+          "mr": "8 A B a C",
+          "occupier": "James Kennedy,",
+          "lessor": "John De Montmorency, Esq.",
+          "desc": "H,O,&L",
+          "area": "31 2 22",
+          "land_val": "16 7 0",
+          "building_val": "3 3 0",
+          "total_val": "19 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "James Kennedy,",
+          "lessor": "Richard Power,",
+          "desc": "L",
+          "area": "19 3 37",
+          "land_val": "8 15 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "10 & 4 B d",
+          "occupier": "Richard Power,",
+          "lessor": "John De Montmorency, Esq.",
+          "desc": "H&L",
+          "area": "4 3 7",
+          "land_val": "2 17 0",
+          "building_val": "0 13 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "322 1 25",
+          "land_val": "163 7 0",
+          "building_val": "29 8 0",
+          "total_val": "192 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CROAN",
+          "occupier": "William Lynch,",
+          "lessor": "Kenny Purcell, Esq.",
+          "desc": "L",
+          "area": "9 0 6",
+          "land_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Nicholas Whelan,",
+          "lessor": "Kenny Purcell, Esq.",
+          "desc": "H,O,&L",
+          "area": "48 0 27",
+          "land_val": "19 10 0",
+          "building_val": "2 15 0",
+          "total_val": "22 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "James Cahill,",
+          "lessor": "Kenny Purcell, Esq.",
+          "desc": "H,O,&L",
+          "land_val": "19 10 0",
+          "building_val": "2 5 0",
+          "total_val": "21 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 A a B",
+          "occupier": "Michael Broderick,",
+          "lessor": "Kenny Purcell, Esq.",
+          "desc": "H,O,&L",
+          "area": "20 3 32",
+          "land_val": "17 0 0",
+          "building_val": "1 15 0",
+          "total_val": "18 15 0"
+        },
+        {
+          "mr": "B a",
+          "occupier": "Bridget Gaul,",
+          "lessor": "Kenny Purcell, Esq.",
+          "desc": "H&G",
+          "area": "0 1 1",
+          "land_val": "0 4 0",
+          "building_val": "0 11 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Joseph Reade,",
+          "lessor": "Kenny Purcell, Esq.",
+          "desc": "H,O,&L",
+          "area": "64 3 28",
+          "land_val": "61 0 0",
+          "building_val": "10 0 0",
+          "total_val": "71 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Mary Delahunty,",
+          "lessor": "Joseph Reade,",
+          "desc": "H",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "5 A B",
+          "occupier": "William Drea,",
+          "lessor": "John De Montmorency, Esq.",
+          "desc": "L",
+          "area": "9 1 32",
+          "land_val": "7 15 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Joseph Hurley,",
+          "lessor": "John De Montmorency, Esq.",
+          "desc": "L",
+          "area": "4 3 25",
+          "land_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "John Hurley,",
+          "lessor": "John De Montmorency, Esq.",
+          "desc": "L",
+          "area": "5 3 10",
+          "land_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Honoria Cahill,",
+          "lessor": "John De Montmorency, Esq.",
+          "desc": "H,O,&L",
+          "area": "10 3 20",
+          "land_val": "9 10 0",
+          "building_val": "3 0 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "9 A B & 11 a c & d",
+          "occupier": "Michael Walsh,",
+          "lessor": "John De Montmorency, Esq.",
+          "desc": "H,O,&L",
+          "area": "17 1 11",
+          "land_val": "11 10 0",
+          "building_val": "2 5 0",
+          "total_val": "13 15 0"
+        },
+        {
+          "mr": "10 & 5 A a & 11 B e",
+          "occupier": "John De Montmorency, Esq.",
+          "lessor": "In fee,",
+          "desc": "H,O,&L",
+          "area": "21 2 28",
+          "land_val": "15 15 0",
+          "building_val": "2 10 0",
+          "total_val": "18 5 0"
+        },
+        {
+          "mr": "11 A B a",
+          "occupier": "William Prendergast,",
+          "lessor": "John De Montmorency, Esq.",
+          "desc": "H,O,&L",
+          "area": "17 2 23",
+          "land_val": "5 15 0",
+          "building_val": "1 10 0",
+          "total_val": "7 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Mary Cass,",
+          "lessor": "John De Montmorency, Esq.",
+          "desc": "H,O,&L",
+          "land_val": "5 15 0",
+          "building_val": "1 10 0",
+          "total_val": "7 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "12",
+          "occupier": "John Carroll,",
+          "lessor": "Kenny Purcell, Esq.",
+          "desc": "H,O,&L",
+          "area": "3 2 2",
+          "land_val": "2 18 0",
+          "building_val": "0 17 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "John Deloughery,",
+          "lessor": "Kenny Purcell, Esq.",
+          "desc": "L",
+          "area": "12 0 0",
+          "land_val": "10 15 0",
+          "total_val": "10 15 0"
+        }
+      ]
+    }
+  ]
+}

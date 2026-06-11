@@ -1,0 +1,599 @@
+{
+  "parishes": [
+    {
+      "parish": "DERRYNOOSE",
+      "entries": [
+        {
+          "mr": "37",
+          "townland": "CARRYHUGH",
+          "os": "",
+          "occupier": "William Largy",
+          "lessor": "James Carson",
+          "desc": "H&L",
+          "area": "6 0 30",
+          "land_val": "4 15 0",
+          "building_val": "0 5 0",
+          "total_val": "5 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "38",
+          "townland": "CARRYHUGH",
+          "occupier": "John Gibson",
+          "lessor": "William Kirk",
+          "desc": "H&L",
+          "area": "4 1 20",
+          "land_val": "3 5 0",
+          "building_val": "0 10 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "39 a",
+          "townland": "CARRYHUGH",
+          "occupier": "William Hall",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "4 1 30",
+          "land_val": "3 10 0",
+          "building_val": "1 0 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "b",
+          "townland": "CARRYHUGH",
+          "occupier": "William Hall",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 10",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "40 A a",
+          "townland": "CARRYHUGH",
+          "occupier": "George Baird",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "22 3 5",
+          "land_val": "17 15 0",
+          "building_val": "2 5 0",
+          "total_val": "24 10 0"
+        },
+        {
+          "mr": "b",
+          "townland": "CARRYHUGH",
+          "occupier": "Margaret M'Cracken",
+          "lessor": "George Baird",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "41 A a",
+          "townland": "CARRYHUGH",
+          "occupier": "James Keoghan",
+          "lessor": "William Kirk",
+          "desc": "H&L",
+          "area": "0 3 30",
+          "land_val": "0 15 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "b",
+          "townland": "CARRYHUGH",
+          "occupier": "James Keoghan",
+          "lessor": "William Kirk",
+          "desc": "L",
+          "area": "0 0 30",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "42",
+          "townland": "CARRYHUGH",
+          "occupier": "Bernard Sheils",
+          "lessor": "William Norton, Provost and Fellows of Trinity College Dublin",
+          "desc": "L",
+          "area": "0 3 37",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "43 A",
+          "townland": "CARRYHUGH",
+          "occupier": "William Kirk",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 5",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "B",
+          "townland": "CARRYHUGH",
+          "occupier": "William Kirk",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 0 15",
+          "land_val": "0 4 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "44 a",
+          "townland": "CARRYHUGH",
+          "occupier": "Michael Raverty",
+          "lessor": "William Kirk",
+          "desc": "H&G",
+          "area": "0 0 25",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "45",
+          "townland": "CARRYHUGH",
+          "occupier": "William Kirker",
+          "lessor": "William Walker",
+          "desc": "H&L",
+          "area": "9 1 15",
+          "land_val": "5 10 0",
+          "building_val": "0 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "",
+          "townland": "CARRYHUGH",
+          "occupier": "William Kirker",
+          "lessor": "William Kirk",
+          "desc": "L",
+          "area": "1 3 7",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "townland": "CARRYHUGH",
+          "desc": "Total",
+          "area": "430 1 30",
+          "land_val": "291 10 0",
+          "building_val": "42 10 0",
+          "total_val": "334 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DRUMGAR",
+          "os": "11",
+          "occupier": "Thomas Davidson",
+          "lessor": "Sir Jas. M. Stronge, Bt.",
+          "desc": "H,O,&L",
+          "area": "19 0 5",
+          "land_val": "21 10 0",
+          "building_val": "3 0 0",
+          "total_val": "24 10 0"
+        },
+        {
+          "mr": "2",
+          "townland": "DRUMGAR",
+          "occupier": "Anne Bole",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "18 1 20",
+          "land_val": "19 10 0",
+          "building_val": "2 0 0",
+          "total_val": "21 10 0"
+        },
+        {
+          "mr": "3",
+          "townland": "DRUMGAR",
+          "occupier": "James Lawson",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "13 1 30",
+          "land_val": "14 15 0",
+          "building_val": "1 15 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "4",
+          "townland": "DRUMGAR",
+          "occupier": "William Hillock",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "21 2 12",
+          "land_val": "24 0 0",
+          "building_val": "6 0 0",
+          "total_val": "30 0 0"
+        },
+        {
+          "mr": "5 A",
+          "townland": "DRUMGAR",
+          "occupier": "Edward Donnelly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "25 2 30",
+          "land_val": "28 15 0",
+          "building_val": "3 0 0",
+          "total_val": "34 10 0"
+        },
+        {
+          "mr": "B",
+          "townland": "DRUMGAR",
+          "occupier": "Edward Donnelly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 2 10",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "34 10 0"
+        },
+        {
+          "mr": "6 a",
+          "townland": "DRUMGAR",
+          "occupier": "Robert Greer",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "35 2 13",
+          "land_val": "37 5 0",
+          "building_val": "2 15 0",
+          "total_val": "40 0 0"
+        },
+        {
+          "mr": "b",
+          "townland": "DRUMGAR",
+          "occupier": "Jane M'Guigan",
+          "lessor": "Robert Greer",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "7",
+          "townland": "DRUMGAR",
+          "occupier": "Reps. John M'Caul",
+          "lessor": "Sir Jas. M. Stronge, Bt.",
+          "desc": "H,O,&L",
+          "area": "20 0 15",
+          "land_val": "21 10 0",
+          "building_val": "2 0 0",
+          "total_val": "23 10 0"
+        },
+        {
+          "mr": "8 a",
+          "townland": "DRUMGAR",
+          "occupier": "Benjamin Greer",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "23 3 0",
+          "land_val": "25 5 0",
+          "building_val": "4 15 0",
+          "total_val": "30 0 0"
+        },
+        {
+          "mr": "9 A",
+          "townland": "DRUMGAR",
+          "occupier": "Robert Spear",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "25 3 20",
+          "land_val": "27 0 0",
+          "building_val": "1 15 0",
+          "total_val": "30 5 0"
+        },
+        {
+          "mr": "B",
+          "townland": "DRUMGAR",
+          "occupier": "Robert Spear",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 0",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "30 5 0"
+        },
+        {
+          "mr": "10 a",
+          "townland": "DRUMGAR",
+          "occupier": "John Greer",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "17 0 13",
+          "land_val": "17 15 0",
+          "building_val": "2 15 0",
+          "total_val": "20 10 0"
+        },
+        {
+          "mr": "b",
+          "townland": "DRUMGAR",
+          "occupier": "Margaret Harvey",
+          "lessor": "John Greer",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "11",
+          "townland": "DRUMGAR",
+          "occupier": "John Spear",
+          "lessor": "Sir Jas. M. Stronge, Bt.",
+          "desc": "L",
+          "area": "4 2 20",
+          "land_val": "5 0 0",
+          "building_val": "",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "12",
+          "townland": "DRUMGAR",
+          "occupier": "Reps. Alex. M'Kelvey",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "19 0 35",
+          "land_val": "20 5 0",
+          "building_val": "2 0 0",
+          "total_val": "22 5 0"
+        },
+        {
+          "mr": "13 a",
+          "townland": "DRUMGAR",
+          "occupier": "William Greer",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "47 0 24",
+          "land_val": "50 0 0",
+          "building_val": "2 10 0",
+          "total_val": "52 10 0"
+        },
+        {
+          "mr": "b",
+          "townland": "DRUMGAR",
+          "occupier": "Francis Collins",
+          "lessor": "William Greer",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "14",
+          "townland": "DRUMGAR",
+          "occupier": "Hugh M'Keown",
+          "lessor": "Sir Jas. M. Stronge, Bt.",
+          "desc": "H,O,&L",
+          "area": "11 0 0",
+          "land_val": "11 15 0",
+          "building_val": "1 10 0",
+          "total_val": "13 5 0"
+        },
+        {
+          "mr": "15 A a",
+          "townland": "DRUMGAR",
+          "occupier": "Abraham Lawson",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "20 2 5",
+          "land_val": "21 10 0",
+          "building_val": "1 15 0",
+          "total_val": "24 0 0"
+        },
+        {
+          "mr": "b",
+          "townland": "DRUMGAR",
+          "occupier": "John Woods",
+          "lessor": "Abraham Lawson",
+          "desc": "H & sm. garden",
+          "area": "0 3 0",
+          "land_val": "0 15 0",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "B",
+          "townland": "DRUMGAR",
+          "occupier": "Abraham Lawson",
+          "lessor": "Sir Jas. M. Stronge, Bt.",
+          "desc": "L",
+          "area": "1 1 0",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "16",
+          "townland": "DRUMGAR",
+          "occupier": "Thomas Oliver",
+          "lessor": "Sir Jas. M. Stronge, Bt.",
+          "desc": "L",
+          "area": "3 1 0",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "5 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "17",
+          "townland": "DRUMGAR",
+          "occupier": "Eliza Greer",
+          "lessor": "Benjamin Greer",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "5 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "18",
+          "townland": "DRUMGAR",
+          "occupier": "Eliza Greer",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 0",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "",
+          "townland": "DRUMGAR",
+          "occupier": "Mary Anne Greer",
+          "lessor": "Sir Jas. M. Stronge, Bt.",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "townland": "DRUMGAR",
+          "desc": "Total",
+          "area": "333 3 12",
+          "land_val": "357 0 0",
+          "building_val": "41 5 0",
+          "total_val": "398 5 0",
+          "is_total": 1
+        }
+      ]
+    },
+    {
+      "parish": "GRANGE",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "ANNAHAGH",
+          "os": "8",
+          "occupier": "Earl of Charlemont",
+          "lessor": "In fee",
+          "desc": "B",
+          "area": "27 2 25",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "",
+          "townland": "ANNAHAGH",
+          "occupier": "Earl of Charlemont",
+          "lessor": "In fee",
+          "desc": "Turbary",
+          "area": "",
+          "land_val": "14 0 0",
+          "building_val": "",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "2 A a",
+          "townland": "ANNAHAGH",
+          "occupier": "James Cullen, jun.",
+          "lessor": "Earl of Charlemont",
+          "desc": "H,O,&L",
+          "area": "1 2 5",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "b",
+          "townland": "ANNAHAGH",
+          "occupier": "James Cullen, jun.",
+          "lessor": "Earl of Charlemont",
+          "desc": "L",
+          "area": "4 0 0",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "3 a",
+          "townland": "ANNAHAGH",
+          "occupier": "James Cullen, sen.",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "12 2 35",
+          "land_val": "14 0 0",
+          "building_val": "1 0 0",
+          "total_val": "15 5 0"
+        },
+        {
+          "mr": "b",
+          "townland": "ANNAHAGH",
+          "occupier": "John Kelly",
+          "lessor": "James Cullen, sen.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "c",
+          "townland": "ANNAHAGH",
+          "occupier": "John Hughes",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "4",
+          "townland": "ANNAHAGH",
+          "occupier": "Catherine M'Grane",
+          "lessor": "Earl of Charlemont",
+          "desc": "H,O,&L",
+          "area": "8 1 20",
+          "land_val": "8 10 0",
+          "building_val": "1 5 0",
+          "total_val": "9 15 0"
+        },
+        {
+          "mr": "5 A",
+          "townland": "ANNAHAGH",
+          "occupier": "Margaret Daly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "2 2 30",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "B",
+          "townland": "ANNAHAGH",
+          "occupier": "Margaret Daly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 1 30",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "6 a",
+          "townland": "ANNAHAGH",
+          "occupier": "Charles Maguirk",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "15 0 25",
+          "land_val": "17 0 0",
+          "building_val": "1 10 0",
+          "total_val": "18 10 0"
+        }
+      ]
+    }
+  ]
+}

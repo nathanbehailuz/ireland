@@ -1,0 +1,427 @@
+{
+  "parishes": [
+    {
+      "parish": "BALLYCLOGH",
+      "entries": [
+        {
+          "mr": "1 a & b",
+          "townland": "BALLINALTIG",
+          "os": "24",
+          "occupier": "Sackville D. Hamilton, Esq.",
+          "lessor": "Edw. D. Freeman, Esq.",
+          "desc": "O & L",
+          "area": "204 2 7",
+          "land_val": "136 0 0",
+          "building_val": "8 0 0",
+          "total_val": "144 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Garret Pigott, .",
+          "lessor": "Sackville D. Hamilton, Esq.",
+          "desc": "H & G",
+          "area": "0 0 17",
+          "land_val": "0 5 0",
+          "building_val": "3 0 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Thomas Mulcahy, .",
+          "lessor": "Sackville D. Hamilton, Esq.",
+          "desc": "H & small G",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "John Connor, .",
+          "lessor": "Sackville D. Hamilton, Esq.",
+          "desc": "H & G",
+          "area": "0 0 29",
+          "land_val": "0 2 0",
+          "building_val": "0 14 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "John Cotter, .",
+          "lessor": "Sackville D. Hamilton, Esq.",
+          "desc": "H & small G",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "Daniel Doyle, .",
+          "lessor": "Sackville D. Hamilton, Esq.",
+          "desc": "H & G",
+          "area": "0 0 23",
+          "land_val": "0 2 0",
+          "building_val": "0 14 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "h",
+          "occupier": "Edward Higgins, .",
+          "lessor": "Sackville D. Hamilton, Esq.",
+          "desc": "H & G",
+          "area": "0 0 17",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "desc": "Total, .",
+          "area": "205 0 13",
+          "land_val": "136 11 0",
+          "building_val": "14 3 0",
+          "total_val": "150 14 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A B a",
+          "townland": "BALLYCLOGH",
+          "os": "24",
+          "occupier": "Nathaniel Gardiner, jun",
+          "lessor": "Reps. Charles P. Coote, Esq.",
+          "desc": "H, O, & L",
+          "area": "64 0 17",
+          "land_val": "36 15 0",
+          "building_val": "5 0 0",
+          "total_val": "41 15 0"
+        },
+        {
+          "mr": "- A a",
+          "occupier": "Unoccupied, .",
+          "lessor": "Nathaniel Gardiner, jun.",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2 A a B",
+          "occupier": "William Gardiner, .",
+          "lessor": "Reps. Charles P. Coote, Esq.",
+          "desc": "H, O, & L",
+          "area": "37 3 33",
+          "land_val": "25 15 0",
+          "building_val": "1 10 0",
+          "total_val": "27 5 0"
+        },
+        {
+          "mr": "- B a",
+          "occupier": "Richard Shannahan, .",
+          "lessor": "William Gardiner, .",
+          "desc": "H & G",
+          "area": "0 0 23",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Nathaniel Gardiner, sen",
+          "lessor": "Reps. Charles P. Coote, Esq.",
+          "desc": "L",
+          "area": "8 0 8",
+          "land_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Thomas Gardiner, .",
+          "lessor": "Reps. Charles P. Coote, Esq.",
+          "desc": "L",
+          "area": "8 0 8",
+          "land_val": "5 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Henry Daniels, .",
+          "lessor": "Reps. Charles P. Coote, Esq.",
+          "desc": "L",
+          "area": "2 2 21",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Mary Sheehan, .",
+          "lessor": "Reps. Charles P. Coote, Esq.",
+          "desc": "L",
+          "area": "1 2 27",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Mary Sheehan, .",
+          "lessor": "Reps. Charles P. Coote, Esq.",
+          "desc": "L (see also 7.)",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "James Beherd, .",
+          "lessor": "Mary Sheehan, .",
+          "desc": "H & small G",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Catherine Roche, .",
+          "lessor": "Mary Sheehan, .",
+          "desc": "H & small G",
+          "area": "2 0 5",
+          "land_val": "1 15 0",
+          "building_val": "1 5 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "James Crimmins, .",
+          "lessor": "Eugene O'Callaghan,",
+          "desc": "H, O, & L",
+          "building_val": "0 18 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Mary Sheehan, .",
+          "lessor": "Eugene O'Callaghan,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Johanna M'Carthy, .",
+          "lessor": "Eugene O'Callaghan,",
+          "desc": "H & small G",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Unoccupied, .",
+          "lessor": "Eugene O'Callaghan,",
+          "desc": "H",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "0 12 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Patrick Connell, .",
+          "lessor": "Eugene O'Callaghan,",
+          "desc": "H & G",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Thomas Reilly, .",
+          "lessor": "Eugene O'Callaghan,",
+          "desc": "H & small G",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "Patrick Callaghan, .",
+          "lessor": "Eugene O'Callaghan,",
+          "desc": "H & small G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "0 14 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "h",
+          "occupier": "Jeremiah Shaughnessy,",
+          "lessor": "William Gardiner, .",
+          "desc": "H & G",
+          "area": "0 0 16",
+          "land_val": "0 2 0",
+          "building_val": "1 0 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "i",
+          "occupier": "John Shannahan, .",
+          "lessor": "William Gardiner, .",
+          "desc": "H & G",
+          "area": "0 0 21",
+          "land_val": "0 5 0",
+          "building_val": "1 10 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "j",
+          "occupier": "David Ahern, .",
+          "lessor": "Daniel Sheehan, .",
+          "desc": "H, O, & G",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "k",
+          "occupier": "Jeremiah Sullivan, .",
+          "lessor": "Eugene O'Callaghan,",
+          "desc": "H & small G",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "l",
+          "occupier": "Elizabeth O'Brien, .",
+          "lessor": "Eugene O'Callaghan,",
+          "desc": "H & small G",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "m",
+          "occupier": "Timothy Connell, .",
+          "lessor": "Eugene O'Callaghan,",
+          "desc": "H & small G",
+          "building_val": "5 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "n",
+          "occupier": "John Fitzpatrick, .",
+          "lessor": "Eugene O'Callaghan,",
+          "desc": "H & O",
+          "area": "0 1 3",
+          "land_val": "0 5 0",
+          "building_val": "3 5 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "o",
+          "occupier": "Unoccupied, .",
+          "lessor": "Eugene O'Callaghan,",
+          "desc": "H, O, & G"
+        },
+        {
+          "mr": "p",
+          "occupier": "Eugene O'Callaghan,",
+          "lessor": "Reps. Charles P. Coote, Esq.",
+          "desc": "R. C. Chapel and yard,",
+          "area": "0 1 0",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "p",
+          "occupier": "Eugene O'Callaghan,",
+          "lessor": "Reps. Charles P. Coote, Esq.",
+          "desc": "G",
+          "area": "0 1 18",
+          "land_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Samuel Uppington, .",
+          "lessor": "Reps. Charles P. Coote, Esq.",
+          "desc": "L under houses, yards, and street,",
+          "area": "1 1 8"
+        },
+        {
+          "mr": "8",
+          "occupier": "Samuel Uppington, .",
+          "lessor": "Reps. Charles P. Coote, Esq.",
+          "desc": "O & L",
+          "area": "76 3 15",
+          "land_val": "78 10 0",
+          "building_val": "7 10 0",
+          "total_val": "86 0 0"
+        },
+        {
+          "mr": "9 A B a",
+          "occupier": "Reps. Charles P. Coote, Esq.",
+          "lessor": "In fee,",
+          "desc": "Castle, O, & L, (plantations),",
+          "area": "39 1 23",
+          "land_val": "30 10 0",
+          "building_val": "8 10 0",
+          "total_val": "39 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "David Ring, .",
+          "lessor": "Reps. Charles P. Coote, Esq.",
+          "desc": "L",
+          "area": "19 1 9",
+          "land_val": "11 15 0",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Rev. Richd. Chester,",
+          "lessor": "Reps. C. P. Coote, Esq. Henry Wrixon, Esq.",
+          "desc": "H, O, gate-lodge, and L (glebe)",
+          "area": "19 1 7",
+          "land_val": "19 15 0",
+          "building_val": "16 5 0",
+          "total_val": "36 0 0"
+        },
+        {
+          "mr": "12 a & b",
+          "occupier": "Thos. Haines, & Son,",
+          "lessor": "Reps. C. P. Coote, Esq. Reps. Jn. Wrixon, Esq.",
+          "desc": "H, corn & flour-mill, O, & L",
+          "area": "4 1 19",
+          "land_val": "1 10 0",
+          "building_val": "82 0 0",
+          "total_val": "83 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Ellen Shine, .",
+          "lessor": "In fee, .",
+          "desc": "H & G",
+          "area": "0 0 32",
+          "land_val": "0 2 0",
+          "building_val": "0 18 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Wm. & Denis Molony,",
+          "lessor": "Reps. Charles P. Coote, Esq.",
+          "desc": "L",
+          "area": "0 3 24",
+          "land_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Michael Fitzgerald, .",
+          "lessor": "Wm. & Denis Molony,",
+          "desc": "H & G",
+          "area": "0 1 10",
+          "land_val": "0 4 0",
+          "building_val": "0 10 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Denis Molony, jun. .",
+          "lessor": "Reps. Charles P. Coote, Esq.",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        }
+      ]
+    }
+  ]
+}

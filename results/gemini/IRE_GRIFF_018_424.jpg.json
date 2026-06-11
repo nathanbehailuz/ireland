@@ -1,0 +1,577 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF TYNAN",
+      "entries": [
+        {
+          "mr": "4",
+          "townland": "BALLYNAMETA, OR WOODPARK",
+          "os": "",
+          "occupier": "Henry Wilson",
+          "lessor": "Leonard Dobbin",
+          "desc": "H,O,&L",
+          "area": "23 3 0",
+          "land_val": "25 5 0",
+          "building_val": "4 15 0",
+          "total_val": "30 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "5",
+          "occupier": "Peter Hughes",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 2 30",
+          "land_val": "10 10 0",
+          "building_val": "0 10 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "John Hughes",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "25 2 15",
+          "land_val": "26 0 0",
+          "building_val": "3 0 0",
+          "total_val": "29 0 0"
+        },
+        {
+          "mr": "7 A",
+          "occupier": "David Scott",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 2 0",
+          "land_val": "10 10 0",
+          "building_val": "",
+          "total_val": "35 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "Unoccupied",
+          "lessor": "David Scott",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 15 0",
+          "total_val": "35 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "occupier": "David Scott",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "22 0 20",
+          "land_val": "22 10 0",
+          "building_val": "",
+          "total_val": "35 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "a",
+          "occupier": "Unoccupied",
+          "lessor": "",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "230 2 0",
+          "land_val": "250 15 0",
+          "building_val": "60 5 0",
+          "total_val": "311 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "BREAGHEY",
+          "os": "15",
+          "occupier": "Alexander M'Cormack",
+          "lessor": "Edward Johnston",
+          "desc": "H,O,&L",
+          "area": "6 2 20",
+          "land_val": "7 0 0",
+          "building_val": "1 15 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Alexander M'Cormack",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 1 35",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "2",
+          "occupier": "Alex. M'Cormack",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 2 10",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James M'Cormack",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "28 0 5",
+          "land_val": "14 5 0",
+          "building_val": "2 10 0",
+          "total_val": "16 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "occupier": "Robert M'Cormack",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "14 5 0",
+          "building_val": "",
+          "total_val": "14 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4 b",
+          "occupier": "Martha Neville",
+          "lessor": "Robert M'Cormack",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Anderson",
+          "lessor": "Edward Johnston",
+          "desc": "H,O,&L",
+          "area": "9 2 30",
+          "land_val": "10 15 0",
+          "building_val": "2 5 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "James Lawson",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "75 0 35",
+          "land_val": "82 10 0",
+          "building_val": "6 0 0",
+          "total_val": "88 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "James Lawson (lodgers)",
+          "lessor": "James Lawson",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Patrick Monaghan",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Thomas Kerr",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "6 A",
+          "occupier": "John Anderson",
+          "lessor": "Edward Johnston",
+          "desc": "H,O,&L",
+          "area": "8 3 30",
+          "land_val": "9 10 0",
+          "building_val": "2 15 0",
+          "total_val": "19 5 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "John Anderson",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 1 0",
+          "land_val": "7 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "7",
+          "occupier": "Nathaniel Craig",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 2 5",
+          "land_val": "11 10 0",
+          "building_val": "1 0 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "William Cross",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "15 3 0",
+          "land_val": "15 15 0",
+          "building_val": "3 10 0",
+          "total_val": "19 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "James Gordon",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "11 2 35",
+          "land_val": "12 5 0",
+          "building_val": "1 5 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "10 A",
+          "occupier": "Samuel Anderson",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "6 0 30",
+          "land_val": "6 15 0",
+          "building_val": "",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Samuel Anderson",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 1 10",
+          "land_val": "10 0 0",
+          "building_val": "1 15 0",
+          "total_val": ""
+        },
+        {
+          "mr": "11 A",
+          "occupier": "James M'Alevy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 0 35",
+          "land_val": "7 5 0",
+          "building_val": "",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "James M'Alevy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 0 15",
+          "land_val": "11 0 0",
+          "building_val": "2 15 0",
+          "total_val": ""
+        },
+        {
+          "mr": "12 A",
+          "occupier": "William Little",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "9 3 35",
+          "land_val": "11 0 0",
+          "building_val": "1 10 0",
+          "total_val": "17 10 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "William Little",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 3 25",
+          "land_val": "5 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "13 A",
+          "occupier": "Rebecca M'Cullagh",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "5 0 15",
+          "land_val": "5 5 0",
+          "building_val": "",
+          "total_val": "20 5 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Rebecca M'Cullagh",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "9 3 30",
+          "land_val": "11 10 0",
+          "building_val": "3 10 0",
+          "total_val": ""
+        },
+        {
+          "mr": "14 A",
+          "occupier": "Robert Anderson",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "2 2 0",
+          "land_val": "2 15 0",
+          "building_val": "2 5 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Robert Anderson",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 2 10",
+          "land_val": "8 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "15",
+          "occupier": "John Clarke",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "12 3 5",
+          "land_val": "13 15 0",
+          "building_val": "2 15 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Fanny Brownlee",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "12 1 20",
+          "land_val": "13 15 0",
+          "building_val": "1 0 0",
+          "total_val": "14 15 0"
+        },
+        {
+          "mr": "17 A",
+          "occupier": "James Little",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "1 1 15",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "38 5 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "James Little",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 0 25",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "18 A",
+          "occupier": "James Little",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 1 15",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- B",
+          "occupier": "James Little",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 1 0",
+          "land_val": "5 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- C",
+          "occupier": "James Little",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "24 1 0",
+          "land_val": "24 15 0",
+          "building_val": "4 10 0",
+          "total_val": ""
+        },
+        {
+          "mr": "19 A",
+          "occupier": "David Gordon",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "17 2 15",
+          "land_val": "18 10 0",
+          "building_val": "",
+          "total_val": "32 15 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "David Gordon",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 1 35",
+          "land_val": "13 5 0",
+          "building_val": "1 10 0",
+          "total_val": ""
+        },
+        {
+          "mr": "20",
+          "occupier": "Joseph Brownlee",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "31 0 10",
+          "land_val": "33 0 0",
+          "building_val": "4 0 0",
+          "total_val": "37 0 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "George Hamilton",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 1 31",
+          "land_val": "6 10 0",
+          "building_val": "",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "George Hamilton",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "7 3 0",
+          "land_val": "8 5 0",
+          "building_val": "1 5 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "John Stringer",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "14 3 35",
+          "land_val": "15 10 0",
+          "building_val": "1 10 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "396 1 0",
+          "land_val": "420 5 0",
+          "building_val": "53 15 0",
+          "total_val": "474 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "COOLKILL",
+          "os": "15",
+          "occupier": "Dundalk Steam Packet Company (William M'Master, Secretary)",
+          "lessor": "Ulster Canal Company",
+          "desc": "Canal & navigation",
+          "area": "3 0 0",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "9 15 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Cornelius Hamilton",
+          "lessor": "Dundalk Steam Packet Company",
+          "desc": "Canal banks",
+          "area": "2 1 30",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "Sir Jas. M. Stronge, bt.",
+          "lessor": "In fee",
+          "desc": "Plantation",
+          "area": "10 3 7",
+          "land_val": "10 15 0",
+          "building_val": "",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Sir Jas. M. Stronge, bt.",
+          "lessor": "In fee",
+          "desc": "Plantation",
+          "area": "0 2 15",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- C",
+          "occupier": "Sir Jas. M. Stronge, bt.",
+          "lessor": "In fee",
+          "desc": "Plantation",
+          "area": "0 0 30",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- D",
+          "occupier": "Sir Jas. M. Stronge, bt.",
+          "lessor": "In fee",
+          "desc": "Plantation",
+          "area": "0 0 35",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "a a",
+          "occupier": "James Forrest",
+          "lessor": "Sir Jas. M. Stronge, bt.",
+          "desc": "H,O,&G",
+          "area": "0 0 18",
+          "land_val": "0 5 0",
+          "building_val": "1 5 0",
+          "total_val": "1 10 0"
+        }
+      ]
+    }
+  ]
+}

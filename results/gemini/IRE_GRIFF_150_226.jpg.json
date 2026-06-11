@@ -1,0 +1,542 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF WHEERY",
+      "entries": [
+        {
+          "mr": "7 A",
+          "townland": "FERBANE",
+          "is_continued": 1,
+          "occupier": "John Rigney",
+          "lessor": "Abraham Bagnal",
+          "desc": "L",
+          "area": "15 1 21",
+          "land_val": "15 5 0",
+          "total_val": "15 5 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "John Rigney",
+          "lessor": "Rev. Henry King",
+          "desc": "L",
+          "area": "9 2 38",
+          "land_val": "6 15 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Patt Branigan",
+          "lessor": "John Rigney",
+          "desc": "H&O",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Joshua Hall",
+          "lessor": "Same",
+          "desc": "O",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "James Furlong",
+          "lessor": "Rev. Henry King",
+          "desc": "L",
+          "area": "16 0 12",
+          "land_val": "14 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "9 A",
+          "occupier": "Charles D. Fry, M.D.",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "23 0 10",
+          "land_val": "20 5 0",
+          "total_val": "27 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "Charles D. Fry, M.D.",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "11 0 28",
+          "land_val": "7 5 0",
+          "total_val": "27 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "A a",
+          "occupier": "Patrick Donohoe",
+          "lessor": "Charles Dillon Fry, M.D.",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "b, Vacant",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "c, John Dornacan",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Thomas Grier",
+          "lessor": "Rev. Henry King",
+          "desc": "L",
+          "area": "3 2 17",
+          "land_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Rev. Henry King",
+          "lessor": "In fee",
+          "desc": "High B",
+          "area": "16 1 19",
+          "land_val": "0 2 0",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Eliza Corrigan",
+          "lessor": "Rev. Henry King",
+          "desc": "L",
+          "area": "4 1 17",
+          "land_val": "4 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Thomas Hayes",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "4 3 31",
+          "land_val": "4 15 0",
+          "building_val": "0 10 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Daniel Egan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 3 12",
+          "land_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Cornelius Flynn",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 0 34",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "James Donohoe",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 1 4",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Robert Kingston",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 2 38",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Thomas Day",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 2 18",
+          "land_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Daniel Cloonan and Patrick Gilligan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 0 22",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Thomas Alexander",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 3 5",
+          "land_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Robert Delany",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "11 0 39",
+          "land_val": "6 5 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "22 a",
+          "occupier": "James Mooney",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "7 0 24",
+          "land_val": "3 5 0",
+          "building_val": "1 0 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "James Mooney",
+          "lessor": "Same",
+          "desc": "Pound",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "23",
+          "desc": "Waste of new cut of River Brosna",
+          "area": "6 0 10"
+        },
+        {
+          "mr": "24 1",
+          "sublocation_1": "TOWN OF FERBANE",
+          "sublocation_2": "MAIN-STREET",
+          "occupier": "Charles D. Fry, M.D.",
+          "lessor": "Rev. Henry King",
+          "desc": "H,O,yd,&G",
+          "area": "0 3 8",
+          "land_val": "2 0 0",
+          "building_val": "23 0 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "- 2",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H (dilapidated),yd,&G",
+          "area": "0 0 23",
+          "land_val": "0 5 0",
+          "building_val": "0 15 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- 3",
+          "occupier": "Daniel Cloonan",
+          "lessor": "Same",
+          "desc": "H,O,&sm.G",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "- 4",
+          "occupier": "John Whitfield",
+          "lessor": "Rev. Henry King and another",
+          "desc": "H,O,yd,&sm.G",
+          "building_val": "9 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "- 5",
+          "occupier": "Vacant",
+          "lessor": "Rev. Henry King",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- 6",
+          "occupier": "Laurence Kennedy",
+          "lessor": "Same",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 36",
+          "land_val": "0 10 0",
+          "building_val": "9 10 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "- 7",
+          "occupier": "James Furlong",
+          "lessor": "Same",
+          "desc": "H,O,yd,&G",
+          "area": "0 1 32",
+          "land_val": "1 0 0",
+          "building_val": "9 10 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "- 8",
+          "occupier": "Cornelius Flinn",
+          "lessor": "Same",
+          "desc": "H,O,yd,&G",
+          "area": "0 1 8",
+          "land_val": "0 10 0",
+          "building_val": "4 0 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "- 9",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H&yd",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "- 10",
+          "occupier": "Patrick Madden",
+          "lessor": "Michael Kilmartin",
+          "desc": "H,O,yd,&G",
+          "area": "0 2 16",
+          "land_val": "1 10 0",
+          "building_val": "7 10 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "- 11",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 26",
+          "land_val": "0 10 0",
+          "building_val": "6 10 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "- 12",
+          "occupier": "James Coghlan",
+          "lessor": "Bridget Hennessey",
+          "desc": "H&yd",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- 13",
+          "occupier": "Bridget Hennessey",
+          "lessor": "William Kelly",
+          "desc": "H,yd,&G",
+          "area": "0 0 18",
+          "land_val": "0 5 0",
+          "building_val": "2 5 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "John Rielly",
+          "lessor": "Bridget Hennessey",
+          "desc": "H (in rere)",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Bridget Donnellan",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Matthew Maclean",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- 14",
+          "occupier": "Thomas Grier",
+          "lessor": "William Kelly",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 17",
+          "land_val": "0 5 0",
+          "building_val": "9 15 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "- 15",
+          "occupier": "Daniel Egan",
+          "lessor": "Daniel Madden",
+          "desc": "H,forge,yd (in common)&G",
+          "area": "0 1 10",
+          "land_val": "0 10 0",
+          "building_val": "1 10 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "- 16",
+          "occupier": "Daniel Madden",
+          "lessor": "Rev. Henry King",
+          "desc": "H,yd (in com.)&G",
+          "area": "0 1 9",
+          "land_val": "0 10 0",
+          "building_val": "1 5 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "- 17",
+          "occupier": "Eliza Alexander",
+          "lessor": "Same",
+          "desc": "H,O,yd (in common)&G",
+          "area": "0 1 1",
+          "land_val": "0 10 0",
+          "building_val": "1 15 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "- 18",
+          "occupier": "Edward Noonan",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- 19",
+          "occupier": "Anne Knight",
+          "lessor": "Same",
+          "desc": "H,yd,&G",
+          "area": "0 1 3",
+          "land_val": "0 10 0",
+          "building_val": "1 0 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "- 20",
+          "occupier": "Daniel Egan",
+          "lessor": "Same",
+          "desc": "Ruins&G",
+          "area": "0 2 18",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- 21",
+          "occupier": "John Curley",
+          "lessor": "Same",
+          "desc": "H,O,yd,&G",
+          "area": "0 1 3",
+          "land_val": "0 10 0",
+          "building_val": "1 15 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "- 22",
+          "occupier": "Patrick Campbell",
+          "lessor": "Same",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 38",
+          "land_val": "0 10 0",
+          "building_val": "1 15 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "- 23",
+          "occupier": "James Clarke",
+          "lessor": "Same",
+          "desc": "H&yd",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Thomas Connor",
+          "lessor": "Same",
+          "desc": "H (in rere)",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Michael Matthews",
+          "lessor": "Same",
+          "desc": "H (in rere)",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- 24",
+          "occupier": "Margaret Rourke",
+          "lessor": "Same",
+          "desc": "H,yd,&G",
+          "area": "0 1 3",
+          "land_val": "0 10 0",
+          "building_val": "1 0 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "- 25",
+          "occupier": "Nicholas Rush",
+          "lessor": "Same",
+          "desc": "H,yd,&G",
+          "area": "0 0 23",
+          "land_val": "0 5 0",
+          "building_val": "1 0 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- 26",
+          "occupier": "Margaret Grogan",
+          "lessor": "Same",
+          "desc": "H,yd,&L",
+          "area": "1 1 26",
+          "land_val": "2 0 0",
+          "building_val": "1 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "- 27",
+          "occupier": "Daniel Ryan",
+          "lessor": "Margaret Grogan",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- 28",
+          "occupier": "Bridget Coghlan",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- 29",
+          "occupier": "Philip McDonough",
+          "lessor": "Rev. Henry King",
+          "desc": "H,yd,&G",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        }
+      ]
+    }
+  ]
+}

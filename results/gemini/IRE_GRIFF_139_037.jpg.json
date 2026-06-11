@@ -1,0 +1,597 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF KILBEACON",
+      "entries": [
+        {
+          "mr": "1AB { a",
+          "townland": "BALLYNOONY, WEST.",
+          "occupier": "Richard Kenealy,",
+          "lessor": "John Greene, Esq.",
+          "desc": "H,O,&L",
+          "area": "149 0 19",
+          "land_val": "36 0 0",
+          "building_val": "2 15 0",
+          "total_val": "38 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1AB { b",
+          "occupier": "Michael Reade,",
+          "lessor": "John Greene, Esq.",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "18 0 0",
+          "building_val": "3 0 0",
+          "total_val": "21 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— a a",
+          "occupier": "Daniel Neill,",
+          "lessor": "Richard Kenealy,",
+          "desc": "H",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2ABCD & 27Bc }",
+          "occupier": "Thomas Power,",
+          "lessor": "John Greene, Esq.",
+          "desc": "H,O,&L",
+          "area": "76 2 33",
+          "land_val": "23 15 0",
+          "building_val": "3 5 0",
+          "total_val": "27 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Thomas Reade,",
+          "lessor": "John Greene, Esq.",
+          "desc": "H,O,&L",
+          "area": "30 2 2",
+          "land_val": "15 0 0",
+          "building_val": "3 15 0",
+          "total_val": "18 15 0"
+        },
+        {
+          "mr": "4 {",
+          "occupier": "Thomas Reade,",
+          "lessor": "John Greene, Esq.",
+          "desc": "L",
+          "area": "48 2 9",
+          "land_val": "5 0 0",
+          "building_val": "—",
+          "total_val": "5 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4 {",
+          "occupier": "Patrick Reade, jun.",
+          "lessor": "John Greene, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "5 0 0",
+          "building_val": "—",
+          "total_val": "5 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 ABC D & 7Bb }",
+          "occupier": "Patrick Reade, jun.",
+          "lessor": "John Greene, Esq.",
+          "desc": "H,O,&L",
+          "area": "113 0 21",
+          "land_val": "42 0 0",
+          "building_val": "7 10 0",
+          "total_val": "49 10 0"
+        },
+        {
+          "mr": "6 {",
+          "occupier": "Patrick Reade, jun.",
+          "lessor": "John Greene, Esq.",
+          "desc": "L",
+          "area": "15 3 33",
+          "land_val": "1 15 0",
+          "building_val": "—",
+          "total_val": "1 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 {",
+          "occupier": "Patrick Reade, sen.",
+          "lessor": "John Greene, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "1 15 0",
+          "building_val": "—",
+          "total_val": "1 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "7 ABa",
+          "occupier": "Patrick Reade, sen.",
+          "lessor": "John Greene, Esq.",
+          "desc": "H,O,&L",
+          "area": "24 2 1",
+          "land_val": "10 10 0",
+          "building_val": "1 15 0",
+          "total_val": "12 5 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Matthew Ryan,",
+          "lessor": "John Greene, Esq.",
+          "desc": "H,O,&L",
+          "area": "27 0 18",
+          "land_val": "16 0 0",
+          "building_val": "4 10 0",
+          "total_val": "20 10 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Catherine Ryan,",
+          "lessor": "John Greene, Esq.",
+          "desc": "H&G",
+          "area": "0 1 24",
+          "land_val": "0 4 0",
+          "building_val": "0 11 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "9 {",
+          "occupier": "Matthew Ryan,",
+          "lessor": "John Greene, Esq.",
+          "desc": "L",
+          "area": "54 1 18",
+          "land_val": "4 5 0",
+          "building_val": "—",
+          "total_val": "4 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9 {",
+          "occupier": "James Ryan,",
+          "lessor": "John Greene, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "4 5 0",
+          "building_val": "—",
+          "total_val": "4 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "10",
+          "occupier": "James Ryan,",
+          "lessor": "John Greene, Esq.",
+          "desc": "H,O,&L",
+          "area": "23 3 7",
+          "land_val": "13 10 0",
+          "building_val": "2 15 0",
+          "total_val": "16 5 0"
+        },
+        {
+          "mr": "11 AB c & 13 B b }",
+          "occupier": "William Cashen, sen.",
+          "lessor": "John Greene, Esq.",
+          "desc": "H,O,&L",
+          "area": "23 3 10",
+          "land_val": "15 0 0",
+          "building_val": "4 15 0",
+          "total_val": "19 15 0"
+        },
+        {
+          "mr": "12 AB {",
+          "occupier": "William Cashen, sen.",
+          "lessor": "John Greene, Esq.",
+          "desc": "L",
+          "area": "49 0 11",
+          "land_val": "3 10 0",
+          "building_val": "—",
+          "total_val": "3 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "12 AB {",
+          "occupier": "John Cashen,",
+          "lessor": "John Greene, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "3 10 0",
+          "building_val": "—",
+          "total_val": "3 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "13 ABC",
+          "occupier": "John Cashen,",
+          "lessor": "John Greene, Esq.",
+          "desc": "H,O,&L",
+          "area": "24 0 27",
+          "land_val": "15 0 0",
+          "building_val": "4 0 0",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "14 ABa",
+          "occupier": "John Gaul, sen.",
+          "lessor": "John Greene, Esq.",
+          "desc": "H,O,&L",
+          "area": "72 2 5",
+          "land_val": "22 0 0",
+          "building_val": "2 15 0",
+          "total_val": "24 15 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "John O'Neill,",
+          "lessor": "John Greene, Esq.",
+          "desc": "L",
+          "area": "19 0 11",
+          "land_val": "4 15 0",
+          "building_val": "—",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "James O'Neill,",
+          "lessor": "John Greene, Esq.",
+          "desc": "L",
+          "area": "15 3 12",
+          "land_val": "5 5 0",
+          "building_val": "—",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "John Gaul, jun.",
+          "lessor": "John Greene, Esq.",
+          "desc": "H,O,&L",
+          "area": "71 3 17",
+          "land_val": "23 0 0",
+          "building_val": "3 5 0",
+          "total_val": "26 5 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Patrick Bolger,",
+          "lessor": "Thomas Power,",
+          "desc": "H,O,&L",
+          "area": "1 2 23",
+          "land_val": "0 15 0",
+          "building_val": "0 15 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Margaret Power,",
+          "lessor": "John Greene, Esq.",
+          "desc": "H,O,&L",
+          "area": "3 3 8",
+          "land_val": "1 15 0",
+          "building_val": "0 15 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "John Walsh,",
+          "lessor": "John Greene, Esq.",
+          "desc": "H,O,&L",
+          "area": "34 2 3",
+          "land_val": "11 5 0",
+          "building_val": "1 15 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Andrew Kearns,",
+          "lessor": "John Greene, Esq.",
+          "desc": "H,O,&L",
+          "area": "35 1 10",
+          "land_val": "14 5 0",
+          "building_val": "2 10 0",
+          "total_val": "16 15 0"
+        },
+        {
+          "mr": "22 ABa",
+          "occupier": "Michael M'Donald,",
+          "lessor": "John Greene, Esq.",
+          "desc": "H,O,&L",
+          "area": "36 0 2",
+          "land_val": "16 10 0",
+          "building_val": "2 5 0",
+          "total_val": "18 15 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "William Cashen, jun.",
+          "lessor": "John Greene, Esq.",
+          "desc": "H,O,&L",
+          "area": "36 3 3",
+          "land_val": "16 10 0",
+          "building_val": "2 15 0",
+          "total_val": "19 5 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "John Greene, Esq.",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "30 2 5",
+          "land_val": "10 10 0",
+          "building_val": "—",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Vacant,",
+          "lessor": "John Greene, Esq.",
+          "desc": "H&O",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "25 a",
+          "occupier": "Patrick Reade (Tom)",
+          "lessor": "John Greene, Esq.",
+          "desc": "H,O,&L",
+          "area": "70 3 30",
+          "land_val": "21 0 0",
+          "building_val": "2 15 0",
+          "total_val": "23 15 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "James Walsh,",
+          "lessor": "Patrick Reade (Tom),",
+          "desc": "H&G",
+          "area": "0 0 32",
+          "land_val": "0 2 0",
+          "building_val": "0 16 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "James M'Donald,",
+          "lessor": "John Greene, Esq.",
+          "desc": "H,O,&L",
+          "area": "45 0 1",
+          "land_val": "21 10 0",
+          "building_val": "4 15 0",
+          "total_val": "26 5 0"
+        },
+        {
+          "mr": "27&22Ba",
+          "occupier": "Patrick M'Donald,",
+          "lessor": "John Greene, Esq.",
+          "desc": "H,O,&L",
+          "area": "38 0 35",
+          "land_val": "15 10 0",
+          "building_val": "4 10 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "28 { a",
+          "occupier": "John Darmody,",
+          "lessor": "John Greene, Esq.",
+          "desc": "H,O,&L",
+          "area": "153 0 13",
+          "land_val": "45 0 0",
+          "building_val": "7 0 0",
+          "total_val": "52 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "28 { b",
+          "occupier": "Martin Darmody,",
+          "lessor": "John Greene, Esq.",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "22 10 0",
+          "building_val": "6 5 0",
+          "total_val": "28 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— c",
+          "occupier": "Michael Walsh,",
+          "lessor": "John & Martin Darmody,",
+          "desc": "H,O,&G",
+          "area": "0 0 16",
+          "land_val": "0 2 0",
+          "building_val": "0 13 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total,",
+          "area": "1,326 2 19",
+          "land_val": "486 3 0",
+          "building_val": "83 10 0",
+          "total_val": "569 13 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 { a",
+          "townland": "BALLYVATHEEN.",
+          "occupier": "John O'Neill,",
+          "lessor": "John B. Bowers, Esq.",
+          "desc": "H,O,&L",
+          "area": "103 2 13",
+          "land_val": "23 15 0",
+          "building_val": "6 0 0",
+          "total_val": "29 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 { b",
+          "occupier": "James O'Neill,",
+          "lessor": "John B. Bowers, Esq.",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "23 15 0",
+          "building_val": "6 0 0",
+          "total_val": "29 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total,",
+          "area": "103 2 13",
+          "land_val": "47 10 0",
+          "building_val": "12 0 0",
+          "total_val": "59 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "COOLANIMOD, N.",
+          "occupier": "Edmond Walsh,",
+          "lessor": "Thomas Boyce, Esq.",
+          "desc": "L",
+          "area": "80 2 3",
+          "land_val": "32 10 0",
+          "building_val": "—",
+          "total_val": "32 10 0"
+        },
+        {
+          "mr": "2 {",
+          "occupier": "John O'Neill,",
+          "lessor": "Thomas Boyce, Esq.",
+          "desc": "L",
+          "area": "83 2 11",
+          "land_val": "18 0 0",
+          "building_val": "—",
+          "total_val": "18 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 {",
+          "occupier": "James O'Neill,",
+          "lessor": "Thomas Boyce, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "18 0 0",
+          "building_val": "—",
+          "total_val": "18 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— a",
+          "occupier": "James Delahunty,",
+          "lessor": "James O'Neill,",
+          "desc": "H&G",
+          "area": "0 0 25",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Patrick Bolger,",
+          "lessor": "James O'Neill,",
+          "desc": "H",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total,",
+          "area": "164 0 39",
+          "land_val": "68 12 0",
+          "building_val": "0 16 0",
+          "total_val": "69 8 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 { a",
+          "townland": "COOLANIMOD, S.",
+          "occupier": "James Whelan,",
+          "lessor": "James Kearney, Esq.",
+          "desc": "H,O,&L",
+          "area": "56 2 25",
+          "land_val": "11 10 0",
+          "building_val": "1 5 0",
+          "total_val": "12 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 {",
+          "occupier": "John Hoban,",
+          "lessor": "James Kearney, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "11 10 0",
+          "building_val": "—",
+          "total_val": "11 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— b",
+          "occupier": "David Mackey,",
+          "lessor": "John Hoban,",
+          "desc": "H&O",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "Bridget Delahunty,",
+          "lessor": "John Hoban and Jas. Whelan,",
+          "desc": "H&G",
+          "area": "0 0 12",
+          "land_val": "0 1 0",
+          "building_val": "0 5 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "2 {",
+          "occupier": "James Walsh,",
+          "lessor": "James Kearney, Esq.",
+          "desc": "L",
+          "area": "56 2 31",
+          "land_val": "12 10 0",
+          "building_val": "—",
+          "total_val": "12 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 {",
+          "occupier": "Patrick Walsh, sen.",
+          "lessor": "James Kearney, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "12 10 0",
+          "building_val": "—",
+          "total_val": "12 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total,",
+          "area": "113 1 28",
+          "land_val": "48 1 0",
+          "building_val": "2 0 0",
+          "total_val": "50 1 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "parishes": [
+    {
+      "parish": "BIRR",
+      "entries": [
+        {
+          "mr": "58",
+          "townland": "TOWNPARKS",
+          "occupier": "Rody Kennedy",
+          "lessor": "Earl of Rosse",
+          "desc": "L",
+          "area": "4 1 10",
+          "land_val": "8 0 0",
+          "total_val": "8 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "59",
+          "occupier": "Benjamin Fayle",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 3 2",
+          "land_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "60",
+          "occupier": "William Burke",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 1 11",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "61",
+          "occupier": "Jane Cleary",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 1",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "62",
+          "occupier": "John Julian",
+          "lessor": "Same",
+          "desc": "Gate-lodge and L",
+          "area": "1 1 14",
+          "land_val": "1 10 0",
+          "building_val": "1 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "63 1",
+          "sublocation_1": "TOWN OF BIRR",
+          "sublocation_2": "CUMBERLAND-SQUARE, OR DUKE-SQUARE.",
+          "occupier": "Alexander Muir",
+          "lessor": "John Hackett",
+          "desc": "H,O,and yard",
+          "building_val": "30 0 0",
+          "total_val": "30 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "George Dooley",
+          "lessor": "Thomas Hackett",
+          "desc": "H",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "George Dooley",
+          "lessor": "Thomas F. Kearney",
+          "desc": "Hotel, O, and yard",
+          "building_val": "37 0 0",
+          "total_val": "37 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "George Dooley",
+          "lessor": "Thomas Hackett",
+          "desc": "Newsroom, hotel (part of), and yard",
+          "building_val": "16 0 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "William Riddler",
+          "lessor": "Same",
+          "desc": "H,O,and yard",
+          "building_val": "20 0 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "John Julian",
+          "lessor": "Thomas Dooley",
+          "desc": "O",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Thomas Dooley",
+          "lessor": "Thomas Hackett",
+          "desc": "H,O,and yard",
+          "building_val": "24 0 0",
+          "total_val": "24 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Mary Anne Gibson",
+          "lessor": "John Warburton",
+          "desc": "H,O,yard,&G",
+          "area": "0 1 12",
+          "land_val": "2 0 0",
+          "building_val": "32 0 0",
+          "total_val": "34 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Sarah Moffatt",
+          "lessor": "Thomas Bernard",
+          "desc": "H,O,yard,&G",
+          "area": "0 1 32",
+          "land_val": "3 0 0",
+          "building_val": "32 0 0",
+          "total_val": "35 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Michael Lynn",
+          "lessor": "Mary Anne Minchin",
+          "desc": "H,O,yard,&G",
+          "area": "0 1 20",
+          "land_val": "2 10 0",
+          "building_val": "23 10 0",
+          "total_val": "26 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "John Murphy",
+          "lessor": "Alfred G. Richardson",
+          "desc": "H,O,yd,&sm.gar.",
+          "building_val": "20 0 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "John Persse Groome",
+          "lessor": "Miss Ruth Barry",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 18",
+          "land_val": "1 0 0",
+          "building_val": "23 0 0",
+          "total_val": "24 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Constabulary Force",
+          "lessor": "Thomas Hackett",
+          "desc": "Police bar., O, & yard",
+          "building_val": "25 0 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "occupier": "Thomas Hackett",
+          "desc": "Half rent of Police barrack, £17 10s."
+        },
+        {
+          "mr": "14",
+          "occupier": "Francis H. Shields",
+          "lessor": "John Shields",
+          "desc": "H, printing O, and small yard",
+          "building_val": "15 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "John Shields",
+          "lessor": "Rev. Thomas Booth",
+          "desc": "H and small yard",
+          "building_val": "17 0 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Christopher Sharpe",
+          "lessor": "Same",
+          "desc": "H,O,yd,&sm.gar.",
+          "building_val": "17 0 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "CUMBERLAND-STREET.",
+          "occupier": "Anne Dooley",
+          "lessor": "John Warburton",
+          "desc": "H,O,and yard",
+          "building_val": "16 0 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John V. Browne",
+          "lessor": "Same",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 11",
+          "land_val": "0 10 0",
+          "building_val": "10 10 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 22",
+          "land_val": "0 15 0",
+          "building_val": "12 5 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Maria Smith",
+          "lessor": "Same",
+          "desc": "H,O,and yard",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Robert Tracey",
+          "lessor": "Same",
+          "desc": "H,O,yd,&sm gar",
+          "building_val": "9 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Robert Woods",
+          "lessor": "Same",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 10",
+          "land_val": "0 10 0",
+          "building_val": "9 10 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "7ab",
+          "occupier": "Miss Mary Fack",
+          "lessor": "William Woods",
+          "desc": "H,O,yd,&sm.gar.",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Thomas Tracey",
+          "lessor": "Same",
+          "desc": "H,O,yd., & G",
+          "area": "0 0 10",
+          "land_val": "0 10 0",
+          "building_val": "5 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Edward Sharkey",
+          "lessor": "Earl of Rosse",
+          "desc": "Building-ground & G",
+          "area": "0 0 24",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Mrs. Rebecca Buchanan",
+          "lessor": "Rodolphus Crawley",
+          "desc": "H,O,&sm.gar.",
+          "building_val": "17 0 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Charles Kelly",
+          "lessor": "Earl of Rosse and John Murphy",
+          "desc": "H,O,yard,&G",
+          "area": "0 1 0",
+          "land_val": "2 0 0",
+          "building_val": "25 0 0",
+          "total_val": "27 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "John R. Brereton",
+          "lessor": "William Murray",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 25",
+          "land_val": "1 0 0",
+          "building_val": "13 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Isaac Sonycard",
+          "lessor": "Same",
+          "desc": "H,O,and yard",
+          "building_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Thomas Burns",
+          "lessor": "William Woods",
+          "desc": "H,O,and yard",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Hugh Carey",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "occupier": "William Woods",
+          "lessor": "Earl of Rosse",
+          "desc": "O, yard, & G",
+          "area": "0 0 20",
+          "land_val": "0 10 0",
+          "building_val": "2 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Francis H. Shields",
+          "lessor": "Christopher Armstrong",
+          "desc": "O, yard, & G",
+          "area": "0 0 11",
+          "land_val": "0 5 0",
+          "building_val": "2 5 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Henry Compton",
+          "lessor": "James Carroll",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 11",
+          "land_val": "0 5 0",
+          "building_val": "2 15 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Vacant",
+          "lessor": "Edward Warren",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 22",
+          "land_val": "0 15 0",
+          "building_val": "12 5 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "William Phibbs",
+          "lessor": "William Robinson",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 36",
+          "land_val": "1 10 0",
+          "building_val": "23 10 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "James Weir",
+          "lessor": "John Melsop",
+          "desc": "H,O,and yard",
+          "building_val": "17 0 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Vacant",
+          "lessor": "Earl of Rosse",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 37",
+          "land_val": "1 0 0",
+          "building_val": "7 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Church Educ. Society",
+          "lessor": "John Warburton",
+          "desc": "Church Educ. Society's school-H, O, & yd.",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0",
+          "is_exemption": 1
+        },
+        {
+          "occupier": "John Warburton",
+          "desc": "Half rent of school-house, £2 7s. 6d."
+        },
+        {
+          "mr": "23",
+          "occupier": "Vacant",
+          "lessor": "John Warburton",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 15",
+          "land_val": "0 10 0",
+          "building_val": "16 10 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Thomas Robinson",
+          "lessor": "Same",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 15",
+          "land_val": "0 10 0",
+          "building_val": "16 10 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H,O,and yard",
+          "building_val": "15 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Vacant",
+          "lessor": "Eusebius D. Dixon",
+          "desc": "H (O)",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Eusebius D. Dixon",
+          "lessor": "Earl of Rosse",
+          "desc": "H,O,yd,&G",
+          "area": "0 2 10",
+          "land_val": "4 0 0",
+          "building_val": "32 0 0",
+          "total_val": "36 0 0"
+        },
+        {
+          "mr": "28",
+          "lessor": "Same",
+          "desc": "Church",
+          "building_val": "70 0 0",
+          "total_val": "70 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "29",
+          "occupier": "Thomas Woods, M.D.",
+          "lessor": "John Melsop",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 22",
+          "land_val": "1 0 0",
+          "building_val": "19 0 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "William Clifford, M.D.",
+          "lessor": "Same",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 25",
+          "land_val": "1 0 0",
+          "building_val": "19 0 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "John Smith",
+          "lessor": "Same",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 36",
+          "land_val": "2 0 0",
+          "building_val": "20 0 0",
+          "total_val": "22 0 0"
+        },
+        {
+          "mr": "32",
+          "lessor": "Earl of Rosse",
+          "desc": "Wesleyan Chapel, sexton's H, & sm. G",
+          "building_val": "15 0 0",
+          "total_val": "15 0 0",
+          "is_exemption": 1
+        }
+      ]
+    }
+  ]
+}

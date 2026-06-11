@@ -1,0 +1,455 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF DUNLUCE",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "GORTNEE",
+          "os": "2 & 3",
+          "occupier": "Archibald and John Corkadell,",
+          "lessor": "Sir Edmund C. W. Macnaghten, Bart.,",
+          "desc": "H,O,&L",
+          "area": "80 3 20",
+          "land_val": "42 15 0",
+          "building_val": "2 10 0",
+          "total_val": "45 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Campbell Corkadell,",
+          "lessor": "Same,",
+          "desc": "H&O",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Richard Madden,",
+          "lessor": "Campbell Corkadell,",
+          "desc": "H,O,&G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "1 18 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "James Brookes,",
+          "lessor": "Archibald Corkadell,",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Corkadell,",
+          "lessor": "Sir Edmund C. W. Macnaghten, Bart.,",
+          "desc": "L",
+          "area": "5 0 16",
+          "land_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Samuel M'Farland,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "33 1 15",
+          "land_val": "27 10 0",
+          "building_val": "2 10 0",
+          "total_val": "30 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James Kirkpatrick,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "7 0 10",
+          "land_val": "6 0 0",
+          "building_val": "0 15 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "William Laverty,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "15 2 10",
+          "land_val": "5 15 0",
+          "building_val": "1 0 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "John Corkadell, sen.,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "16 3 15",
+          "land_val": "6 15 0",
+          "building_val": "1 0 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "157 3 36",
+          "land_val": "92 12 0",
+          "building_val": "13 18 0",
+          "total_val": "106 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BALLINTRAE",
+          "os": "2 & 3",
+          "occupier": "Henry Leslie,",
+          "lessor": "In fee,",
+          "desc": "H,O,&L",
+          "area": "48 0 10",
+          "land_val": "50 0 0",
+          "building_val": "40 0 0",
+          "total_val": "90 0 0"
+        },
+        {
+          "mr": "2 A a",
+          "occupier": "John Haughey,",
+          "lessor": "Henry Leslie,",
+          "desc": "O&L",
+          "area": "3 1 15",
+          "land_val": "4 0 0",
+          "building_val": "0 15 0",
+          "total_val": "13 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "James Haughey,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "9 2 4",
+          "land_val": "9 0 0",
+          "total_val": "13 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 A a",
+          "occupier": "John Nickle,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "8 0 0",
+          "land_val": "9 0 0",
+          "building_val": "4 10 0",
+          "total_val": "18 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Daniel M'Fetridge,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "5 1 30",
+          "land_val": "5 5 0",
+          "total_val": "18 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4",
+          "occupier": "William M'Gowan,",
+          "lessor": "Same,",
+          "desc": "H&G",
+          "area": "30 0 0",
+          "land_val": "27 10 0",
+          "building_val": "1 15 0",
+          "total_val": "29 5 0"
+        },
+        {
+          "occupier": "William M'Gowan,",
+          "lessor": "Same,",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "William M'Gowan,",
+          "lessor": "Same,",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "104 1 39",
+          "land_val": "104 19 0",
+          "building_val": "47 16 0",
+          "total_val": "152 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "BUSHFOOT OR LISANDUFF",
+          "os": "3",
+          "occupier": "William Anderson,",
+          "lessor": "Sir Edmund C. W. Macnaghten, Bart.,",
+          "desc": "L",
+          "area": "18 1 38",
+          "land_val": "19 15 0",
+          "total_val": "19 15 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Unoccupied,",
+          "lessor": "William Anderson,",
+          "desc": "H&O",
+          "building_val": "17 0 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Jno. Haughey (lodgers),",
+          "lessor": "John Haughey,",
+          "desc": "H,O,&G",
+          "area": "0 0 35",
+          "land_val": "0 10 0",
+          "building_val": "14 10 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Watch-house,",
+          "lessor": "(See Exemptions.)",
+          "desc": "Half annual rent,",
+          "total_val": "2 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "d",
+          "occupier": "John Haughey,",
+          "lessor": "John Haughey,",
+          "desc": "H,O,&G",
+          "area": "0 0 32",
+          "land_val": "0 10 0",
+          "building_val": "4 10 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "A",
+          "occupier": "David Perry,",
+          "lessor": "Sir Edmund C. W. Macnaghten, Bart.,",
+          "desc": "L",
+          "area": "2 2 35",
+          "land_val": "1 5 0",
+          "total_val": "14 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "B",
+          "occupier": "John Haughey,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "1 2 23",
+          "land_val": "0 10 0",
+          "total_val": "14 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "C",
+          "occupier": "John Haughey,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "13 3 0",
+          "land_val": "12 15 0",
+          "total_val": "14 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "2 A a",
+          "occupier": "Sarah Haughey,",
+          "lessor": "Rev. Hugh Hamill, Sir Edmund C. W. Macnaghten, Bart.,",
+          "desc": "H,O,&L",
+          "area": "5 2 0",
+          "land_val": "4 5 0",
+          "building_val": "5 10 0",
+          "total_val": "9 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Jane Haughey,",
+          "lessor": "John Haughey,",
+          "desc": "H",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "James M'Ardell,",
+          "lessor": "Sir Edmund C. W. Macnaghten, Bart.,",
+          "desc": "H",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Jas. M'Ardell (lodgers),",
+          "lessor": "James M'Ardell,",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 5 0",
+          "building_val": "3 10 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "3 b",
+          "occupier": "John Harvey,",
+          "lessor": "John Haughey,",
+          "desc": "H&O",
+          "building_val": "10 10 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Margaret Murray,",
+          "lessor": "Same,",
+          "desc": "H,O,& yard",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "William Peard,",
+          "lessor": "Same,",
+          "desc": "H& small garden",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Archibald Dunlop,",
+          "lessor": "Rev. Hugh Hamill,",
+          "desc": "H,O,&G",
+          "area": "0 0 10",
+          "land_val": "0 5 0",
+          "building_val": "8 10 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "James Johnston,",
+          "lessor": "Archibald Dunlop,",
+          "desc": "H,O,&G",
+          "area": "0 2 0",
+          "land_val": "1 0 0",
+          "building_val": "2 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "Jane Adair,",
+          "lessor": "Rev. Hugh Hamill,",
+          "desc": "H",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "William Douglas,",
+          "lessor": "Sir Edmund C. W. Macnaghten, Bart.,",
+          "desc": "H,O,& yard",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "occupier": "William Douglas,",
+          "lessor": "Sir Edmund C. W. Macnaghten, Bart.,",
+          "desc": "Waste of hos., yards, & street,",
+          "area": "0 2 20"
+        },
+        {
+          "mr": "4",
+          "occupier": "Unoccupied,",
+          "lessor": "Same,",
+          "desc": "H, offs., yd., & garden,",
+          "area": "0 1 32",
+          "land_val": "1 0 0",
+          "building_val": "20 0 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Samuel Dean,",
+          "lessor": "Same,",
+          "desc": "Stores and yard,",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Rose Adair,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "John White,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "William M'Cay,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Alexander Haughey,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "James Dooky,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "h",
+          "occupier": "Boat-house and garden,",
+          "lessor": "(See Exemptions.)",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "i",
+          "occupier": "Sir Edmund C. W. Macnaghten, Bart.,",
+          "desc": "Half annual rent,",
+          "total_val": "2 0 0"
+        },
+        {
+          "occupier": "Sir Edmund C. W. Macnaghten, Bart.,",
+          "desc": "Waste of hos., yards, & quay,",
+          "area": "0 1 13"
+        }
+      ]
+    }
+  ]
+}

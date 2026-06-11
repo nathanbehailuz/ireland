@@ -1,0 +1,461 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF FERMOY",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "BALLYARTHUR",
+          "os": "27 & 35",
+          "occupier": "Redmond Reali,",
+          "lessor": "John Hyde,",
+          "desc": "H,O,&L",
+          "area": "126 3 35",
+          "land_val": "152 0 0",
+          "building_val": "10 0 0",
+          "total_val": "162 0 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Unoccupied,",
+          "lessor": "Redmond Reali,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Cornelius Callaghan,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Jeremiah Coleman,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "126 3 35",
+          "land_val": "152 0 0",
+          "building_val": "12 0 0",
+          "total_val": "164 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BALLYNOE",
+          "os": "35",
+          "occupier": "Innocent Byron,",
+          "lessor": "Anthony Cliffe,",
+          "desc": "H,O,&L",
+          "area": "121 1 15",
+          "land_val": "95 10 0",
+          "building_val": "9 0 0",
+          "total_val": "104 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "John Power,",
+          "lessor": "Innocent Byron,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Michael Dwyer,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Anthony Cliffe,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "26 2 26",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "148 0 1",
+          "land_val": "97 10 0",
+          "building_val": "9 10 0",
+          "total_val": "107 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CARRIGNAGROGHERA",
+          "os": "35",
+          "occupier": "Robert Briscoe,",
+          "lessor": "Sir Robt. Abercrombie Bart.",
+          "desc": "L, Troops' exercise-ground & race-course",
+          "area": "122 0 39",
+          "land_val": "348 0 0",
+          "total_val": "348 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "-",
+          "occupier": "Board of Ordnance,",
+          "n_shared": 2
+        },
+        {
+          "mr": "-",
+          "occupier": "Robert Briscoe,",
+          "lessor": "Same,",
+          "desc": "H&O",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "James Ford,",
+          "lessor": "Same,",
+          "desc": "H&O",
+          "building_val": "7 15 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "-",
+          "desc": "Tolls of turnpike-gate,",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Robert Briscoe,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "6 2 6",
+          "land_val": "12 15 0",
+          "total_val": "12 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "David Barry,",
+          "lessor": "Same,",
+          "desc": "O&L",
+          "area": "12 3 2",
+          "land_val": "24 15 0",
+          "building_val": "0 10 0",
+          "total_val": "25 5 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Mrs. Pigott,",
+          "lessor": "David Barry,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Robert Gardiner,",
+          "lessor": "Rev. William C. Walker,",
+          "desc": "L (glebe),",
+          "area": "4 0 18",
+          "land_val": "9 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Ford,",
+          "lessor": "Sir Robt. Abercrombie, Bart.",
+          "desc": "L",
+          "area": "8 0 34",
+          "land_val": "14 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Thomas Murphy,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "11 3 8",
+          "land_val": "20 5 0",
+          "total_val": "20 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Thomas Murphy,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "13 1 34",
+          "land_val": "23 5 0",
+          "building_val": "1 0 0",
+          "total_val": "24 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Daniel Toohill,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "5 1 3",
+          "land_val": "7 0 0",
+          "building_val": "3 15 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Thomas Stewart,",
+          "lessor": "Daniel Toohill,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Thomas Connell,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Michael Roche,",
+          "lessor": "Thomas Connell,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "James Mahony,",
+          "lessor": "Daniel Toohill,",
+          "desc": "H",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Unoccupied,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Unoccupied,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "David Mahony,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "John Buckley,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Patrick Carty,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Jeremiah Carty,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Michael Walsh,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "John Donohoe,",
+          "lessor": "Michael Walsh,",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Michael Walsh,",
+          "lessor": "Daniel Toohill,",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "John Ahern,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Terence Connor,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Thomas Connell,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Thomas Connell,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Thomas Jacob,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Cornelius Lenergan,",
+          "lessor": "Thomas Jacob,",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "William Lenergan,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Mary Sheppard,",
+          "lessor": "Daniel Toohill,",
+          "desc": "H",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Thomas Connell,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Thomas Connell,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "David Hogan,",
+          "lessor": "Same,",
+          "desc": "H&G",
+          "area": "0 1 0",
+          "land_val": "0 10 0",
+          "building_val": "1 10 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Thomas Connell,",
+          "lessor": "Same,",
+          "desc": "G",
+          "area": "0 0 30",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Board of Ordnance,",
+          "lessor": "Sir Robt. Abercrombie, Bart.",
+          "desc": "Military-hospital & yard,",
+          "area": "1 2 21",
+          "building_val": "62 0 0",
+          "total_val": "62 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Rev. William Kerr,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "14 2 10",
+          "land_val": "32 10 0",
+          "building_val": "3 0 0",
+          "total_val": "35 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "William Decks,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "6 3 28",
+          "land_val": "15 15 0",
+          "total_val": "15 15 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Owen Cunningham,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "4 2 16",
+          "land_val": "12 0 0",
+          "building_val": "5 10 0",
+          "total_val": "17 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Guardians of Fermoy Union,",
+          "lessor": "Rev. Maurice Collis,",
+          "desc": "Factory,O,&L",
+          "area": "1 2 9",
+          "land_val": "3 5 0",
+          "building_val": "59 0 0",
+          "total_val": "62 5 0"
+        }
+      ]
+    }
+  ]
+}

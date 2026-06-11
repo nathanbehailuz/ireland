@@ -1,0 +1,532 @@
+{
+  "parishes": [
+    {
+      "parish": "MALLOW",
+      "entries": [
+        {
+          "mr": "g",
+          "townland": "BALLYVINITER MIDDLE",
+          "os": "25",
+          "occupier": "Unoccupied",
+          "lessor": "St. John Galway, Esq.",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "h",
+          "occupier": "Unoccupied",
+          "lessor": "St. John Galway, Esq.",
+          "desc": "Office",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "John Sheehan",
+          "lessor": "St. John Galway, Esq.",
+          "desc": "H,O,&L",
+          "area": "33 3 18",
+          "land_val": "32 5 0",
+          "building_val": "2 15 0",
+          "total_val": "35 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Richard Barry",
+          "lessor": "George C. Stawell, Esq.",
+          "desc": "H,O,&L",
+          "area": "35 3 4",
+          "land_val": "27 15 0",
+          "building_val": "1 5 0",
+          "total_val": "29 0 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Michael Lombard",
+          "lessor": "George C. Stawell, Esq.",
+          "desc": "H,O,&L",
+          "area": "36 1 26",
+          "land_val": "28 10 0",
+          "building_val": "1 10 0",
+          "total_val": "30 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Oliver",
+          "lessor": "Michael Lombard",
+          "desc": "H&G",
+          "area": "0 1 2",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "464 3 14",
+          "land_val": "398 5 0",
+          "building_val": "24 13 0",
+          "total_val": "422 18 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "BALLYVINITER UPPER",
+          "os": "25",
+          "occupier": "Denis Cummins",
+          "lessor": "George C. Stawell, Esq.",
+          "desc": "H,O,&L",
+          "area": "10 1 20",
+          "land_val": "7 15 0",
+          "building_val": "1 0 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "2 A B a",
+          "occupier": "William Sullivan",
+          "lessor": "George C. Stawell, Esq.",
+          "desc": "H,O,&L",
+          "area": "64 2 19",
+          "land_val": "52 0 0",
+          "building_val": "5 0 0",
+          "total_val": "57 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Kelly",
+          "lessor": "William Sullivan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Daniel Leary",
+          "lessor": "William Sullivan",
+          "desc": "H&G",
+          "area": "0 0 21",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Bartholomew Connolly",
+          "lessor": "George C. Stawell, Esq.",
+          "desc": "H,O,&L",
+          "area": "21 2 3",
+          "land_val": "16 0 0",
+          "building_val": "1 0 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "4 A B a b C a D",
+          "occupier": "George C. Stawell, Esq.",
+          "lessor": "In fee",
+          "desc": "H,O,&L (see also lot 10)",
+          "area": "203 2 5",
+          "land_val": "153 0 0",
+          "building_val": "4 0 0",
+          "total_val": "157 0 0"
+        },
+        {
+          "mr": "A a",
+          "occupier": "William Callaghan",
+          "lessor": "George C. Stawell, Esq.",
+          "desc": "H,O,&G",
+          "area": "0 1 21",
+          "land_val": "0 5 0",
+          "building_val": "0 15 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "B c",
+          "occupier": "Unoccupied",
+          "lessor": "George C. Stawell, Esq.",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "D a",
+          "occupier": "Unoccupied",
+          "lessor": "George C. Stawell, Esq.",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Ellen Blake",
+          "lessor": "Rev. Francis Stawell",
+          "desc": "H,O,&L",
+          "area": "28 3 4",
+          "land_val": "19 10 0",
+          "building_val": "1 5 0",
+          "total_val": "20 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Johanna Deady",
+          "lessor": "George C. Stawell, Esq.",
+          "desc": "H&L",
+          "area": "8 2 15",
+          "land_val": "6 10 0",
+          "building_val": "0 10 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Patrick Connolly",
+          "lessor": "George C. Stawell, Esq.",
+          "desc": "H,O,&L",
+          "area": "39 2 6",
+          "land_val": "31 5 0",
+          "building_val": "1 15 0",
+          "total_val": "33 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "James Blake",
+          "lessor": "Rev. Francis Stawell",
+          "desc": "H,O,&L",
+          "area": "28 1 24",
+          "land_val": "20 0 0",
+          "building_val": "2 0 0",
+          "total_val": "22 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "John Fitzpatrick",
+          "lessor": "George C. Stawell, Esq.",
+          "desc": "L (see also lot 10)",
+          "area": "15 3 37",
+          "land_val": "12 10 0",
+          "building_val": "",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "George C. Stawell, Esq.",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "1 0 7",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "John Fitzpatrick",
+          "lessor": "George C. Stawell, Esq.",
+          "desc": "H,O,&L",
+          "area": "0 3 32",
+          "land_val": "0 15 0",
+          "building_val": "0 15 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Unoccupied",
+          "lessor": "George C. Stawell, Esq.",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Thomas Blake",
+          "lessor": "Rev. Francis Stawell",
+          "desc": "H,O,&L",
+          "area": "20 2 21",
+          "land_val": "16 15 0",
+          "building_val": "1 10 0",
+          "total_val": "18 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Unoccupied",
+          "lessor": "Rev. Francis Stawell",
+          "desc": "G",
+          "area": "0 1 0",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "William Walsh",
+          "lessor": "Geo. C. Stawell, Esq.",
+          "desc": "L",
+          "area": "34 1 21",
+          "land_val": "29 0 0",
+          "building_val": "",
+          "total_val": "29 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Patrick Walsh",
+          "lessor": "William Walsh",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Bridget Hayes",
+          "lessor": "Geo. C. Stawell, Esq.",
+          "desc": "H,O,&L",
+          "area": "32 1 15",
+          "land_val": "26 10 0",
+          "building_val": "1 5 0",
+          "total_val": "27 15 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "John Hayes",
+          "lessor": "Geo. C. Stawell, Esq.",
+          "desc": "H,O,&L",
+          "area": "32 2 6",
+          "land_val": "24 10 0",
+          "building_val": "1 5 0",
+          "total_val": "25 15 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Richard Nagle",
+          "lessor": "Geo. C. Stawell, Esq.",
+          "desc": "H&L",
+          "area": "1 0 31",
+          "land_val": "1 0 0",
+          "building_val": "0 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Cornelius Fitzpatrick",
+          "lessor": "Geo. C. Stawell, Esq.",
+          "desc": "H,O,&L",
+          "area": "1 2 3",
+          "land_val": "1 5 0",
+          "building_val": "1 0 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "John Connolly",
+          "lessor": "Geo. C. Stawell, Esq.",
+          "desc": "H&L",
+          "area": "1 0 0",
+          "land_val": "0 15 0",
+          "building_val": "1 0 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "547 2 31",
+          "land_val": "420 7 0",
+          "building_val": "29 9 0",
+          "total_val": "449 16 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BEARFOREST LOWER",
+          "os": "33",
+          "occupier": "Kilner Brazier, Esq.",
+          "lessor": "Sir C.D.J. Norreys, Bart.",
+          "desc": "Gate-lodge,&L",
+          "area": "0 3 23",
+          "land_val": "1 5 0",
+          "building_val": "0 15 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Sir C. Denham Jephson Norreys, Bart.",
+          "lessor": "In fee",
+          "desc": "H,O,&L",
+          "area": "25 3 39",
+          "land_val": "47 5 0",
+          "building_val": "10 0 0",
+          "total_val": "57 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Sir C. Denham Jephson Norreys, Bart.",
+          "lessor": "In fee",
+          "desc": "Waste of River Blackwater",
+          "area": "2 1 32",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "3",
+          "occupier": "Henry Braddle",
+          "lessor": "John Hugh Bainbridge, Esq.",
+          "desc": "L",
+          "area": "1 0 12",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Charles Duggan",
+          "lessor": "St. John Galway, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Denis Donovan",
+          "lessor": "St. John Galway, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "4 a b c d",
+          "occupier": "John Hugh Bainbridge, Esq.",
+          "lessor": "James Murphy, Esq.",
+          "desc": "H,O,&L",
+          "area": "53 0 30",
+          "land_val": "86 10 0",
+          "building_val": "70 0 0",
+          "total_val": "156 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Hugh Bainbridge, Esq.",
+          "lessor": "St. John Galway, Esq.",
+          "desc": "L",
+          "area": "18 2 12",
+          "land_val": "31 15 0",
+          "building_val": "",
+          "total_val": "31 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "William Creagh",
+          "lessor": "Anthony Connor",
+          "desc": "L",
+          "area": "1 3 26",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "104 0 14",
+          "land_val": "171 0 0",
+          "building_val": "83 0 0",
+          "total_val": "254 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a b",
+          "townland": "BEARFOREST UPPER",
+          "os": "33",
+          "occupier": "William Creagh",
+          "lessor": "Anthony O'Connor",
+          "desc": "H,O,gate-lodge,&L",
+          "area": "31 1 23",
+          "land_val": "42 10 0",
+          "building_val": "22 0 0",
+          "total_val": "64 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Anthony O'Connor",
+          "lessor": "Matthew Seaver",
+          "desc": "L",
+          "area": "85 1 33",
+          "land_val": "94 10 0",
+          "building_val": "",
+          "total_val": "94 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Unoccupied",
+          "lessor": "Anthony O'Connor",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Timothy Callaghan",
+          "lessor": "Anthony O'Connor",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Henry Keating, Esq.",
+          "lessor": "Anthony O'Connor",
+          "desc": "Gate-lodge",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "3 A a B",
+          "occupier": "Henry Keating, Esq.",
+          "lessor": "Anthony O'Connor",
+          "desc": "H,O,&L",
+          "area": "4 3 8",
+          "land_val": "6 10 0",
+          "building_val": "25 0 0",
+          "total_val": "31 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "121 2 24",
+          "land_val": "143 10 0",
+          "building_val": "51 0 0",
+          "total_val": "194 10 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

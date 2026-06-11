@@ -1,0 +1,461 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF CALRY",
+      "entries": [
+        {
+          "mr": "15 a",
+          "townland": "LISDUFF",
+          "os": "",
+          "occupier": "Mark Feeny",
+          "lessor": "Mrs. Ormsby Gore",
+          "desc": "H,O",
+          "building_val": "0 3 0",
+          "total_val": "0 3 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "- b",
+          "occupier": "Patrick Healy",
+          "lessor": "Same",
+          "desc": "H,O",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "John Commons",
+          "lessor": "Same",
+          "desc": "H,O",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "275 2 21",
+          "land_val": "115 19 0",
+          "building_val": "7 11 0",
+          "total_val": "123 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "DOONALLY",
+          "os": "15, 14, & 9",
+          "occupier": "Roger Parke",
+          "lessor": "In fee",
+          "desc": "L, gate-lodge, & O",
+          "area": "189 1 8",
+          "land_val": "135 0 0",
+          "building_val": "1 0 0",
+          "total_val": "136 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Roger Parke",
+          "lessor": "In fee",
+          "desc": "Herd's H & O",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Roger Parke",
+          "lessor": "In fee",
+          "desc": "Gardener's H & O",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Patrick Gillan",
+          "lessor": "Roger Parke",
+          "desc": "G, H, & forge",
+          "area": "0 0 18",
+          "land_val": "0 2 0",
+          "building_val": "1 3 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "Andrew M'Cullagh",
+          "lessor": "Mrs. Ormsby Gore",
+          "desc": "L",
+          "area": "0 0 4"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Wynne",
+          "lessor": "In fee",
+          "desc": "L (plantation)",
+          "area": "0 2 12",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Roger Parke",
+          "lessor": "In fee",
+          "desc": "L,H,O",
+          "area": "13 2 10",
+          "land_val": "11 0 0",
+          "building_val": "6 0 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "Roger Parke",
+          "lessor": "John Wynne",
+          "desc": "L (plantation)",
+          "area": "1 1 0",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "204 3 12",
+          "land_val": "146 17 0",
+          "building_val": "9 18 0",
+          "total_val": "156 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "BALLURE",
+          "os": "15",
+          "occupier": "Hugh Gillan",
+          "lessor": "John Wynne",
+          "desc": "L,H,O",
+          "area": "37 0 25",
+          "land_val": "13 17 0",
+          "building_val": "0 15 0",
+          "total_val": "14 12 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Philip Gillan",
+          "lessor": "John Wynne",
+          "desc": "L,H",
+          "land_val": "4 13 0",
+          "building_val": "0 10 0",
+          "total_val": "5 3 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "John Flynn",
+          "lessor": "Same",
+          "desc": "L,O",
+          "area": "15 1 28",
+          "land_val": "7 10 0",
+          "building_val": "0 5 0",
+          "total_val": "20 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 a",
+          "occupier": "John Flynn",
+          "lessor": "Same",
+          "desc": "L,H,O",
+          "area": "7 0 35",
+          "land_val": "4 10 0",
+          "building_val": "0 15 0",
+          "total_val": "20 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "15 2 0",
+          "land_val": "7 10 0",
+          "total_val": "7 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Devanny",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 3 15",
+          "land_val": "2 10 0",
+          "total_val": "7 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "6",
+          "lessor": "Same",
+          "desc": "L,H,O",
+          "area": "6 1 5",
+          "land_val": "3 15 0",
+          "building_val": "0 15 0",
+          "total_val": "7 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "7",
+          "occupier": "James M'Loughlin",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 3 39",
+          "land_val": "4 18 0",
+          "total_val": "4 18 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Michael Wynne",
+          "lessor": "Same",
+          "desc": "L,H,O",
+          "area": "8 3 20",
+          "land_val": "4 0 0",
+          "building_val": "0 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "9",
+          "desc": "L",
+          "area": "20 3 10",
+          "land_val": "9 16 0",
+          "total_val": "5 13 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Thos. M'Loughlin",
+          "lessor": "Same",
+          "desc": "L,H,O",
+          "building_val": "0 10 0",
+          "total_val": "5 13 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "- b",
+          "occupier": "Patk. M'Loughlin",
+          "lessor": "Same",
+          "desc": "L,H",
+          "building_val": "0 5 0",
+          "total_val": "5 13 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "- c",
+          "occupier": "William M'Loughlin",
+          "desc": "L,H",
+          "building_val": "0 5 0",
+          "total_val": "5 13 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "10 d",
+          "occupier": "James M'Loughlin",
+          "lessor": "Same",
+          "desc": "G,H",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "0 5 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "James Commons",
+          "lessor": "Same",
+          "desc": "L,H,O",
+          "area": "14 3 0",
+          "land_val": "8 3 0",
+          "building_val": "0 12 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "James Commons",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Patrick Blake",
+          "lessor": "Same",
+          "desc": "G,H",
+          "area": "0 1 20",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Mary Black",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "Michael Scanlan",
+          "lessor": "Same",
+          "desc": "G,H,O",
+          "area": "0 2 0",
+          "land_val": "0 7 0",
+          "building_val": "0 8 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "John Hopper",
+          "lessor": "Same",
+          "desc": "L,H,O",
+          "area": "13 1 10",
+          "land_val": "6 18 0",
+          "building_val": "0 7 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "15",
+          "desc": "Colgagh Lough (part of)",
+          "area": "14 0 17"
+        },
+        {
+          "desc": "Total",
+          "area": "169 0 4",
+          "land_val": "79 3 0",
+          "building_val": "7 7 0",
+          "total_val": "86 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "BALLYGLASS",
+          "os": "15",
+          "occupier": "Stephen Hughes",
+          "lessor": "Rev. William Gillmor",
+          "desc": "L, herd's H, & O",
+          "area": "35 1 37",
+          "land_val": "40 0 0",
+          "building_val": "2 10 0",
+          "total_val": "42 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "James Duncan",
+          "lessor": "Same",
+          "desc": "L,H,gate-lodge,O",
+          "area": "39 3 5",
+          "land_val": "33 10 0",
+          "building_val": "18 10 0",
+          "total_val": "52 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Rev. William Gillmor",
+          "lessor": "Captain John Wynne",
+          "desc": "L,H,gate-lodge,O",
+          "area": "60 2 8",
+          "land_val": "64 10 0",
+          "building_val": "18 10 0",
+          "total_val": "81 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "135 3 10",
+          "land_val": "138 0 0",
+          "building_val": "37 10 0",
+          "total_val": "175 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BALLYNAMONA",
+          "os": "15",
+          "occupier": "Patrick Hart",
+          "lessor": "John Wynne",
+          "desc": "L",
+          "area": "3 1 0",
+          "land_val": "1 15 0",
+          "total_val": "11 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Patrick Hart",
+          "lessor": "John Wynne",
+          "desc": "L,H,O",
+          "area": "15 0 30",
+          "land_val": "9 0 0",
+          "building_val": "0 15 0",
+          "total_val": "11 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- b",
+          "occupier": "Catherine Hart",
+          "lessor": "Patrick Hart",
+          "desc": "H",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Patrick Boey",
+          "lessor": "John Wynne",
+          "desc": "L,H",
+          "area": "12 1 5",
+          "land_val": "7 15 0",
+          "building_val": "0 10 0",
+          "total_val": "12 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4",
+          "occupier": "Patrick Boey",
+          "lessor": "John Wynne",
+          "desc": "L,O",
+          "area": "6 2 30",
+          "land_val": "3 13 0",
+          "building_val": "0 7 0",
+          "total_val": "12 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 a",
+          "occupier": "John Boey",
+          "lessor": "Same",
+          "desc": "L,O",
+          "area": "12 2 0",
+          "land_val": "5 10 0",
+          "building_val": "0 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Patrick Cunningham",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 2 20",
+          "land_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "William M'Golderick",
+          "lessor": "Same",
+          "desc": "L,H,O",
+          "area": "19 1 20",
+          "land_val": "11 10 0",
+          "building_val": "1 5 0",
+          "total_val": "12 15 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "James Hopper",
+          "lessor": "Same",
+          "desc": "L,H,O",
+          "area": "6 2 20",
+          "land_val": "3 15 0",
+          "building_val": "0 15 0",
+          "total_val": "4 10 0"
+        }
+      ]
+    }
+  ]
+}

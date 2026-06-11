@@ -1,0 +1,458 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF MOYMET",
+      "entries": [
+        {
+          "mr": "10 a",
+          "townland": "KILBRIDE",
+          "is_continued": 1,
+          "occupier": "Thomas Murphy",
+          "lessor": "Edward Hope",
+          "desc": "H&L",
+          "area": "1 2 9",
+          "land_val": "1 10 0",
+          "building_val": "0 5 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "10 b",
+          "occupier": "Bridget Fox",
+          "lessor": "Edward Hope",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "is_total": 1,
+          "area": "1102 0 2",
+          "land_val": "1126 4 0",
+          "building_val": "59 11 0",
+          "total_val": "1185 15 0"
+        },
+        {
+          "is_exemption": 1,
+          "occupier": "R. C. Chapel and land, National School-house and land (waste)",
+          "area": "0 2 20",
+          "land_val": "0 5 0",
+          "building_val": "10 0 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "is_exemption": 1,
+          "area": "0 1 5",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "is_total": 1,
+          "is_exemption": 1,
+          "area": "0 3 25",
+          "land_val": "0 5 0",
+          "building_val": "11 5 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "is_total": 1,
+          "area": "1101 0 17",
+          "land_val": "1125 19 0",
+          "building_val": "48 6 0",
+          "total_val": "1174 5 0"
+        },
+        {
+          "mr": "1 a",
+          "townland": "MOYMET",
+          "os": "30",
+          "occupier": "Patrick Baily",
+          "lessor": "Reps. John Thompson",
+          "desc": "O&L",
+          "area": "23 0 17",
+          "land_val": "18 10 0",
+          "building_val": "0 10 0",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Maria Brennan",
+          "lessor": "Patrick Baily",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "1 c",
+          "occupier": "John Brennan",
+          "lessor": "Reps. John Thompson",
+          "desc": "H&G",
+          "area": "0 2 5",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Thomas Fagan",
+          "lessor": "Reps. John Thompson",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "John Rooney",
+          "lessor": "Reps. John Thompson",
+          "desc": "H,O,&L",
+          "area": "60 3 15",
+          "land_val": "48 0 0",
+          "building_val": "1 0 0",
+          "total_val": "49 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Daniel Fitzsimon",
+          "lessor": "James Gannon",
+          "desc": "H,O,&L",
+          "area": "3 3 20",
+          "land_val": "3 12 0",
+          "building_val": "0 8 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "James Gannon",
+          "lessor": "Reps. John Thompson",
+          "desc": "H,O,&L",
+          "area": "105 0 9",
+          "land_val": "90 0 0",
+          "building_val": "3 0 0",
+          "total_val": "93 0 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "James Gannon",
+          "lessor": "Reps. John Thompson",
+          "desc": "H,O,&L",
+          "area": "162 1 25",
+          "land_val": "170 0 0",
+          "building_val": "2 0 0",
+          "total_val": "172 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "James Gannon",
+          "lessor": "Reps. John Thompson",
+          "desc": "L",
+          "area": "50 2 8",
+          "land_val": "48 0 0",
+          "total_val": "48 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "James Gannon",
+          "lessor": "Reps. John Thompson",
+          "desc": "L",
+          "area": "90 3 19",
+          "land_val": "83 0 0",
+          "total_val": "83 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "James Rooney",
+          "lessor": "Reps. John Thompson",
+          "desc": "L",
+          "area": "68 3 19",
+          "land_val": "57 0 0",
+          "total_val": "57 0 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "James Rooney",
+          "lessor": "Reps. John Thompson",
+          "desc": "H,O,&L",
+          "area": "101 0 15",
+          "land_val": "86 5 0",
+          "building_val": "3 15 0",
+          "total_val": "90 0 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "John Burke",
+          "lessor": "Reps. John Thompson",
+          "desc": "H,O,&L",
+          "area": "1 1 3",
+          "land_val": "1 10 0",
+          "building_val": "1 0 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Patrick Halton",
+          "lessor": "Reps. John Thompson",
+          "desc": "H,O,&L",
+          "area": "6 2 9",
+          "land_val": "5 10 0",
+          "building_val": "0 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Patrick Gorey",
+          "lessor": "Reps. John Thompson",
+          "desc": "H,O,&L",
+          "area": "7 0 15",
+          "land_val": "6 5 0",
+          "building_val": "0 10 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "Peter Farrelly",
+          "lessor": "Reps. John Thompson",
+          "desc": "H,O,&L",
+          "area": "88 1 13",
+          "land_val": "60 0 0",
+          "building_val": "1 15 0",
+          "total_val": "61 15 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "Catherine Callaghan",
+          "lessor": "Reps. John Thompson",
+          "desc": "H&L",
+          "area": "0 3 21",
+          "land_val": "1 0 0",
+          "building_val": "0 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Richard Keegan",
+          "lessor": "Catherine Callaghan",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "15 a",
+          "occupier": "John Gannon",
+          "lessor": "Reps. John Thompson",
+          "desc": "H,O,&L",
+          "area": "16 2 19",
+          "land_val": "12 0 0",
+          "building_val": "0 10 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Bridget M'Loughlin",
+          "lessor": "John Gannon",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Catherine Cullen",
+          "lessor": "John Gannon",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- d",
+          "lessor": "Reps. John Thompson",
+          "desc": "Grave-yard",
+          "area": "0 2 30",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "16 a",
+          "occupier": "William Smith",
+          "lessor": "Reps. John Thompson",
+          "desc": "H,O,&L",
+          "area": "21 2 20",
+          "land_val": "17 15 0",
+          "building_val": "1 5 0",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Richard Keegan",
+          "lessor": "William Smith",
+          "desc": "O",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "17 a",
+          "occupier": "Mary Brady",
+          "lessor": "Reps. John Thompson",
+          "desc": "H,O,&L",
+          "area": "4 2 27",
+          "land_val": "3 15 0",
+          "building_val": "0 10 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Patrick Murray (See also 23 b.)",
+          "lessor": "Reps. John Thompson",
+          "desc": "L",
+          "area": "25 3 4",
+          "land_val": "24 10 0",
+          "total_val": "24 10 0"
+        },
+        {
+          "mr": "19 a",
+          "occupier": "Edward Murtagh",
+          "lessor": "Reps. John Thompson",
+          "desc": "H,O,&L",
+          "area": "16 2 7",
+          "land_val": "10 15 0",
+          "building_val": "0 15 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "John Fay",
+          "lessor": "Reps. John Thompson",
+          "desc": "L",
+          "area": "12 3 10",
+          "land_val": "9 10 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Patrick Neville",
+          "lessor": "Reps. John Thompson",
+          "desc": "L",
+          "area": "11 3 38",
+          "land_val": "8 15 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "22 A a",
+          "occupier": "James Neville",
+          "lessor": "Reps. John Thompson",
+          "desc": "H,O,&L",
+          "area": "9 2 5",
+          "land_val": "7 0 0",
+          "building_val": "0 15 0",
+          "total_val": "9 5 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "- B",
+          "occupier": "James Neville",
+          "lessor": "Reps. John Thompson",
+          "desc": "L",
+          "area": "2 2 23",
+          "land_val": "1 10 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "22 A b",
+          "occupier": "Patrick Neville",
+          "lessor": "Reps. John Thompson",
+          "desc": "H,O,&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 14 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "23 a",
+          "occupier": "Mary Newman",
+          "lessor": "Patrick Murray",
+          "desc": "H&L",
+          "area": "1 3 13",
+          "land_val": "1 5 0",
+          "building_val": "0 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Patrick Murray",
+          "lessor": "Reps. John Thompson",
+          "desc": "H&O",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "is_total": 1,
+          "area": "906 0 34",
+          "land_val": "776 3 0",
+          "building_val": "21 17 0",
+          "total_val": "798 0 0"
+        },
+        {
+          "is_exemption": 1,
+          "occupier": "Grave-yard",
+          "area": "0 2 30",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "is_total": 1,
+          "area": "905 2 4",
+          "land_val": "775 18 0",
+          "building_val": "21 17 0",
+          "total_val": "797 15 0"
+        },
+        {
+          "mr": "1 a",
+          "townland": "STONESTOWN",
+          "os": "30",
+          "occupier": "James O'Reilly",
+          "lessor": "Ecclesiastical Commrs.",
+          "desc": "H,O,&L",
+          "area": "16 1 9",
+          "land_val": "15 0 0",
+          "building_val": "14 0 0",
+          "total_val": "29 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "James Geraghty",
+          "lessor": "Blaney T. Balfour",
+          "desc": "H,O,&L",
+          "area": "37 0 33",
+          "land_val": "29 0 0",
+          "building_val": "0 15 0",
+          "total_val": "29 15 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Joseph Kelly",
+          "lessor": "James Geraghty",
+          "desc": "H&L",
+          "area": "1 3 10",
+          "land_val": "1 10 0",
+          "building_val": "0 5 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "William Brennan",
+          "lessor": "James Geraghty",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 1 0",
+          "building_val": "0 4 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "William Connell",
+          "lessor": "Blaney T. Balfour",
+          "desc": "H,O,&L",
+          "area": "149 3 38",
+          "land_val": "130 0 0",
+          "building_val": "3 0 0",
+          "total_val": "133 0 0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,620 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF CLONTIBRET",
+      "entries": [
+        {
+          "mr": "9",
+          "townland": "MULLAGHDUFF",
+          "os": "",
+          "occupier": "Patrick Carraher",
+          "lessor": "Viscount Templetown",
+          "desc": "H,O,&L",
+          "area": "11 1 0",
+          "land_val": "8 5 0",
+          "building_val": "0 15 0",
+          "total_val": "9 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "10",
+          "occupier": "Loughlin Maginn",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "4 0 0",
+          "land_val": "3 0 0",
+          "building_val": "0 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Hugh Carraher",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 1 5",
+          "land_val": "6 0 0",
+          "building_val": "1 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "James Carraher",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "23 1 0",
+          "land_val": "18 10 0",
+          "building_val": "1 10 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Viscount Templetown",
+          "lessor": "In fee",
+          "desc": "Bog",
+          "area": "3 3 20",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "14",
+          "occupier": "Viscount Templetown",
+          "lessor": "In fee",
+          "desc": "Bog",
+          "area": "14 1 33",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "15,16",
+          "occupier": "Viscount Templetown",
+          "lessor": "In fee",
+          "desc": "Water",
+          "area": "7 0 25",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "159 3 3",
+          "land_val": "93 2 0",
+          "building_val": "8 18 0",
+          "total_val": "102 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A a",
+          "townland": "CORRACLOGHAN",
+          "os": "20",
+          "occupier": "Reps. Owen Wills",
+          "lessor": "Viscount Templetown",
+          "desc": "H,O,&L",
+          "area": "7 1 20",
+          "land_val": "6 10 0",
+          "building_val": "1 0 0",
+          "total_val": "",
+          "is_continued": 0
+        },
+        {
+          "mr": "- B",
+          "occupier": "Reps. Owen Wills",
+          "lessor": "Viscount Templetown",
+          "desc": "L",
+          "area": "5 1 30",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "Owen Mooney",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 30",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- B",
+          "occupier": "Owen Mooney",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 0 30",
+          "land_val": "3 5 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- C a",
+          "occupier": "Owen Mooney",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "3 0 5",
+          "land_val": "2 10 0",
+          "building_val": "1 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "B b",
+          "occupier": "Unoccupied",
+          "lessor": "Owen Mooney",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Michael M'Quaid",
+          "lessor": "Viscount Templetown",
+          "desc": "L",
+          "area": "4 0 10",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Bernard M'Grath",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 3 35",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "-",
+          "occupier": "Bernard M'Grath",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "21 2 35",
+          "land_val": "18 5 0",
+          "building_val": "1 10 0",
+          "total_val": "20 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Bernard Corley",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "33 3 35",
+          "land_val": "27 10 0",
+          "building_val": "2 10 0",
+          "total_val": "30 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "William Molloy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 3 10",
+          "land_val": "7 15 0",
+          "building_val": "",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Reps. Mrs. M'Kee",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "12 1 10",
+          "land_val": "11 5 0",
+          "building_val": "",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Reps. John Fitzgerald",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "12 3 25",
+          "land_val": "12 0 0",
+          "building_val": "",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Mary Harpur",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "16 1 0",
+          "land_val": "17 10 0",
+          "building_val": "",
+          "total_val": "17 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Viscount Templetown",
+          "lessor": "In fee",
+          "desc": "Bog",
+          "area": "4 3 30",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Viscount Templetown",
+          "lessor": "In fee",
+          "desc": "Water",
+          "area": "10 3 25",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "148 2 11",
+          "land_val": "115 7 0",
+          "building_val": "6 5 0",
+          "total_val": "121 12 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "BILLEADY",
+          "os": "19",
+          "occupier": "Philip M'Ardle",
+          "lessor": "Robert Carroll",
+          "desc": "H,O,&L",
+          "area": "8 0 20",
+          "land_val": "6 0 0",
+          "building_val": "0 10 0",
+          "total_val": "6 10 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "- b",
+          "occupier": "Unoccupied",
+          "lessor": "Philip M'Ardle",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Bridget Hughes",
+          "lessor": "Robert Carroll",
+          "desc": "H&G",
+          "area": "0 2 25",
+          "land_val": "0 10 0",
+          "building_val": "0 10 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Francis Duffy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "4 2 20",
+          "land_val": "2 15 0",
+          "building_val": "0 15 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Anne Duffy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "3 3 10",
+          "land_val": "2 5 0",
+          "building_val": "0 10 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Cornelius Connolly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 3 5",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Cornelius Connolly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "12 0 20",
+          "land_val": "4 0 0",
+          "building_val": "0 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "6 b",
+          "occupier": "Peter Connolly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "4 0 0",
+          "building_val": "0 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Michael Mackey",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 25",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Michael Mackey",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "12 2 20",
+          "land_val": "4 5 0",
+          "building_val": "1 0 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Owen N'Nally",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "5 1 10",
+          "land_val": "3 15 0",
+          "building_val": "0 15 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Philip M'Aneany",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "45 1 5",
+          "land_val": "4 15 0",
+          "building_val": "1 5 0",
+          "total_val": "6 0 0",
+          "n_shared": 7
+        },
+        {
+          "mr": "10 b",
+          "occupier": "Patrick M'Aneany",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "2 10 0",
+          "building_val": "0 15 0",
+          "total_val": "3 5 0",
+          "n_shared": 7
+        },
+        {
+          "mr": "10 c",
+          "occupier": "James M'Aneany",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "2 10 0",
+          "building_val": "1 0 0",
+          "total_val": "3 10 0",
+          "n_shared": 7
+        },
+        {
+          "mr": "10 d",
+          "occupier": "Patrick M'Ardle",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "7 15 0",
+          "building_val": "1 5 0",
+          "total_val": "9 0 0",
+          "n_shared": 7
+        },
+        {
+          "mr": "10 e",
+          "occupier": "Ml. M'Aneany, Jun.",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "5 5 0",
+          "building_val": "1 0 0",
+          "total_val": "6 5 0",
+          "n_shared": 7
+        },
+        {
+          "mr": "10 f",
+          "occupier": "Judy M'Nally",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "4 10 0",
+          "building_val": "0 15 0",
+          "total_val": "5 5 0",
+          "n_shared": 7
+        },
+        {
+          "mr": "10 g",
+          "occupier": "Catherine M'Aneany",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0",
+          "n_shared": 7
+        },
+        {
+          "mr": "11",
+          "occupier": "Michael Kelly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "3 0 30",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Michael M'Aneany",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "7 1 25",
+          "land_val": "3 0 0",
+          "building_val": "0 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Anne Kelly",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "",
+          "land_val": "1 0 0",
+          "building_val": "0 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Philip M'Aneany",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Anne M'Aneany",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 4 0",
+          "building_val": "0 6 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Arthur M'Aneany",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "9 3 15",
+          "land_val": "7 0 0",
+          "building_val": "1 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Arthur M'Aneany",
+          "lessor": "Robert Smith",
+          "desc": "L",
+          "area": "0 3 10",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "James M'Aneany",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "12 0 15",
+          "land_val": "8 5 0",
+          "building_val": "1 10 0",
+          "total_val": "9 15 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Philip M'Aneany",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "6 1 10",
+          "land_val": "4 10 0",
+          "building_val": "1 5 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "John M'Aneany",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "5 0 5",
+          "land_val": "3 15 0",
+          "building_val": "1 5 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "James M'Aneany",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 3 25",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "17",
+          "occupier": "Philip M'Aneany",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "0 1 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "17",
+          "occupier": "John M'Aneany",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "0 1 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "18",
+          "occupier": "",
+          "lessor": "Robert Smith",
+          "desc": "L",
+          "area": "3 0 0",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "James M'Aneany",
+          "lessor": "Robert Carroll",
+          "desc": "H,O,&L",
+          "area": "4 1 10",
+          "land_val": "3 5 0",
+          "building_val": "1 5 0",
+          "total_val": ""
+        },
+        {
+          "mr": "20",
+          "occupier": "James M'Aneany",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 3 0",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "7 10 0"
+        }
+      ]
+    }
+  ]
+}

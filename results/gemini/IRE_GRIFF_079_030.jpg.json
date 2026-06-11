@@ -1,0 +1,605 @@
+{
+  "parishes": [
+    {
+      "parish": "SEAPATRICK",
+      "entries": [
+        {
+          "mr": "32",
+          "townland": "DOOGHARY",
+          "os": "",
+          "occupier": "Thomas Cowen",
+          "lessor": "John Joseph Whyte",
+          "desc": "L",
+          "area": "7 0 15",
+          "land_val": "6 10 0",
+          "building_val": "",
+          "total_val": "6 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "33",
+          "occupier": "Samuel Thompson",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "6 2 0",
+          "land_val": "5 15 0",
+          "building_val": "2 5 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Samuel Thompson",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 1 20",
+          "land_val": "7 0 0",
+          "building_val": "",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "John M'Brinn",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "3 0 15",
+          "land_val": "2 15 0",
+          "building_val": "0 15 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Richard M'Brinn",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 3 10",
+          "land_val": "10 15 0",
+          "building_val": "2 5 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "Joseph Hamilton",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "18 0 15",
+          "land_val": "17 10 0",
+          "building_val": "2 5 0",
+          "total_val": "19 15 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Solomon Thompson",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "11 3 25",
+          "land_val": "10 5 0",
+          "building_val": "",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "39 a",
+          "occupier": "Solomon Barr",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "16 3 20",
+          "land_val": "13 15 0",
+          "building_val": "1 5 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Robert Barr",
+          "lessor": "Solomon Barr",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "40 a",
+          "occupier": "John and William Bell",
+          "lessor": "John Joseph Whyte",
+          "desc": "H,O,&L",
+          "area": "13 1 10",
+          "land_val": "12 0 0",
+          "building_val": "2 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Margaret Sheppard",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "436 2 31",
+          "land_val": "416 1 0",
+          "building_val": "61 10 0",
+          "total_val": "477 11 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "EDENDERRY",
+          "os": "27",
+          "occupier": "Thomas Ferguson",
+          "lessor": "William E. E. Reilly",
+          "desc": "H,O,&L",
+          "area": "40 0 0",
+          "land_val": "65 0 0",
+          "building_val": "35 0 0",
+          "total_val": "170 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "",
+          "occupier": "Thomas Ferguson",
+          "lessor": "William E. E. Reilly",
+          "desc": "New offices (unfinished)",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Ferguson",
+          "lessor": "William E. E. Reilly",
+          "desc": "Office, linen and yarn stores, boiling-house, and yard",
+          "area": "0 1 16",
+          "land_val": "",
+          "building_val": "70 0 0",
+          "total_val": ""
+        },
+        {
+          "mr": "c",
+          "occupier": "Unoccupied",
+          "lessor": "Thomas Ferguson",
+          "desc": "Linen warehouse",
+          "area": "",
+          "land_val": "",
+          "building_val": "35 0 0",
+          "total_val": "35 0 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Rev. David Gordon",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 1 0",
+          "land_val": "1 0 0",
+          "building_val": "13 10 0",
+          "total_val": "14 10 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "John M'Shane",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 27",
+          "land_val": "0 10 0",
+          "building_val": "1 15 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "John Hanna",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 27",
+          "land_val": "0 10 0",
+          "building_val": "1 5 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Jane Bittle (Millmound)",
+          "lessor": "William E. E. Reilly",
+          "desc": "L",
+          "area": "1 3 0",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "3 a, b",
+          "occupier": "Richard Hayes",
+          "lessor": "In fee",
+          "desc": "H,O, gate-lodge, bleach and beetling mills, & ld.",
+          "area": "49 3 30",
+          "land_val": "73 10 0",
+          "building_val": "240 0 0",
+          "total_val": "314 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4",
+          "occupier": "Richard Hayes",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "1 0 10",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "3 c",
+          "occupier": "William Stephenson",
+          "lessor": "Richard Hayes",
+          "desc": "H&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "James Morrough",
+          "lessor": "Same",
+          "desc": "H&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "4 e",
+          "occupier": "Hugh Bell",
+          "lessor": "Same",
+          "desc": "H&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "Forge",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Mrs. Gordon",
+          "lessor": "Same",
+          "desc": "H&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "Joseph M'Cullagh",
+          "lessor": "Same",
+          "desc": "H&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "h",
+          "occupier": "John Clugston",
+          "lessor": "Same",
+          "desc": "H&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "i",
+          "occupier": "William Manson",
+          "lessor": "Same",
+          "desc": "H&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "j",
+          "occupier": "William Finlay",
+          "lessor": "Same",
+          "desc": "H&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "k",
+          "occupier": "William H. Graham",
+          "lessor": "Same",
+          "desc": "H&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "l",
+          "occupier": "Joseph M'Alister",
+          "lessor": "Same",
+          "desc": "H&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "m",
+          "occupier": "William Scott",
+          "lessor": "Same",
+          "desc": "H&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "n",
+          "occupier": "Eliza Partridge",
+          "lessor": "Same",
+          "desc": "H&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Eliza Partridge",
+          "lessor": "Same",
+          "desc": "Waste of houses, yards, and small gardens",
+          "area": "1 0 0",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "5",
+          "occupier": "Robert Hamilton",
+          "lessor": "William E. E. Reilly",
+          "desc": "L",
+          "area": "3 2 0",
+          "land_val": "5 0 0",
+          "building_val": "",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Joseph Mackey",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 0",
+          "land_val": "4 10 0",
+          "building_val": "",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Henry Forbes",
+          "lessor": "Joseph Mackey",
+          "desc": "H&sm.G",
+          "area": "0 0 25",
+          "land_val": "0 10 0",
+          "building_val": "2 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Joseph Mackey",
+          "lessor": "William E. E. Reilly",
+          "desc": "H,O,&L",
+          "area": "4 2 15",
+          "land_val": "6 10 0",
+          "building_val": "5 0 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Joseph Mackey",
+          "lessor": "William E. E. Reilly",
+          "desc": "New offices (unfinished)",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "8",
+          "occupier": "Jane Bittle",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 1 25",
+          "land_val": "6 0 0",
+          "building_val": "",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Robert Cunningham",
+          "lessor": "Jane Bittle",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Osborne",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "William Waugh",
+          "lessor": "William E. E. Reilly",
+          "desc": "L",
+          "area": "40 1 5",
+          "land_val": "65 0 0",
+          "building_val": "",
+          "total_val": "65 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "John Anderson",
+          "lessor": "William Waugh",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "1 15 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Robert Flanagan",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 35",
+          "land_val": "0 10 0",
+          "building_val": "2 0 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Anne Dunbar",
+          "lessor": "William E. E. Reilly",
+          "desc": "L",
+          "area": "4 1 20",
+          "land_val": "5 10 0",
+          "building_val": "",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Michael Greene",
+          "lessor": "Anne Dunbar",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Copleton",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "George M'Clelland",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "John Matchett",
+          "lessor": "Jonathan Matchett",
+          "desc": "H&G",
+          "area": "0 0 25",
+          "land_val": "0 10 0",
+          "building_val": "3 0 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Richard Foote",
+          "lessor": "Anne Dunbar",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "John Black",
+          "lessor": "Same",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "h",
+          "occupier": "David Carrett",
+          "lessor": "Same",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "i",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "j",
+          "occupier": "James Shaw",
+          "lessor": "Same",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "k",
+          "occupier": "John M'Cawley",
+          "lessor": "Same",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        }
+      ]
+    }
+  ]
+}

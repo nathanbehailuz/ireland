@@ -1,0 +1,540 @@
+{
+  "parishes": [
+    {
+      "parish": "AGHAVEA",
+      "entries": [
+        {
+          "mr": "50",
+          "townland": "AGHALUN",
+          "is_continued": 1,
+          "sublocation_1": "TOWN OF BROOKEBOROUGH",
+          "sublocation_2": "MAIN-STREET",
+          "occupier": "Robert Boyle",
+          "lessor": "Sir Victor A.Brooke,Bt.",
+          "desc": "House and pound",
+          "area": "0 0 16",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "51",
+          "occupier": "William Meehan",
+          "lessor": "Same",
+          "desc": "House and garden",
+          "area": "0 1 23",
+          "land_val": "1 0 0",
+          "building_val": "2 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "52",
+          "occupier": "Patrick M'Anulty",
+          "lessor": "George Armstrong",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "53",
+          "occupier": "Catherine Donnelly",
+          "lessor": "Same",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "54",
+          "occupier": "George Armstrong",
+          "lessor": "Same",
+          "desc": "Ho.,offis., yd., & garden",
+          "area": "0 0 38",
+          "land_val": "0 15 0",
+          "building_val": "5 15 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "55",
+          "occupier": "Mary Scollan",
+          "lessor": "Same",
+          "desc": "House (over cellar)",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "{",
+          "occupier": "Matthew Morrisson",
+          "lessor": "Same",
+          "desc": "Cellar",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "56",
+          "occupier": "Sir Victor A.Brooke,Bt",
+          "lessor": "In fee",
+          "desc": "Plantation",
+          "area": "0 0 16",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "57",
+          "occupier": "Catherine Johnston",
+          "lessor": "Sir Victor A.Brooke,Bt.",
+          "desc": "Ho., offs., yd., & garden",
+          "area": "0 1 15",
+          "land_val": "1 0 0",
+          "building_val": "6 10 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "58",
+          "occupier": "William Joyce",
+          "lessor": "John Rusk",
+          "desc": "Ho., off., yd., & garden",
+          "area": "0 0 26",
+          "land_val": "0 10 0",
+          "building_val": "4 0 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "59",
+          "occupier": "Henry Kane",
+          "lessor": "James Armstrong",
+          "desc": "Ho., off., yd., & garden",
+          "area": "0 0 14",
+          "land_val": "0 5 0",
+          "building_val": "2 15 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "60",
+          "occupier": "James Keenan",
+          "lessor": "Same",
+          "desc": "House, office, yd., & gar.",
+          "area": "0 0 14",
+          "land_val": "0 5 0",
+          "building_val": "2 5 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "61",
+          "occupier": "James Armstrong(lodgs.)",
+          "lessor": "Same",
+          "desc": "Ho., off., yd., & garden",
+          "area": "0 0 21",
+          "land_val": "0 5 0",
+          "building_val": "4 5 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "62",
+          "occupier": "James Hanna",
+          "lessor": "Catherine Wilson",
+          "desc": "Forge (in rere)",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "63",
+          "occupier": "Catherine Wilson",
+          "lessor": "Sir Victor A.Brooke,Bt.",
+          "desc": "House, yard, & garden",
+          "area": "0 0 18",
+          "land_val": "0 5 0",
+          "building_val": "5 5 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "64",
+          "occupier": "William Beatty",
+          "lessor": "Thomas Lendrum",
+          "desc": "Ho., offs., yd., & garden",
+          "area": "0 0 18",
+          "land_val": "0 5 0",
+          "building_val": "6 15 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "65",
+          "occupier": "James M'Niece",
+          "lessor": "Robert Little",
+          "desc": "Ho., off., yd., & garden",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "2 15 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "66",
+          "occupier": "Henry Woods",
+          "lessor": "Same",
+          "desc": "Ho., off., yd., & garden",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "3 15 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "67",
+          "occupier": "Unoccupied",
+          "lessor": "Robert Heron",
+          "desc": "Ho.,(dilapidated), & yd.",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "68",
+          "occupier": "Francis M'Elroy",
+          "lessor": "Same",
+          "desc": "House, yard, & garden",
+          "area": "0 1 14",
+          "land_val": "1 0 0",
+          "building_val": "5 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "69",
+          "occupier": "John Armstrong",
+          "lessor": "Sir Victor A.Brooke,Bt.",
+          "desc": "Ho., off., yd., & garden",
+          "area": "0 0 23",
+          "land_val": "0 10 0",
+          "building_val": "4 10 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "70",
+          "occupier": "Thomas Johnston",
+          "lessor": "Same",
+          "desc": "Ho., offs., yd., & garden",
+          "area": "0 0 24",
+          "land_val": "0 10 0",
+          "building_val": "12 10 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "71",
+          "occupier": "Elizabeth Roe",
+          "lessor": "Same",
+          "desc": "Ho., offs., yd., & garden",
+          "area": "0 0 20",
+          "land_val": "0 10 0",
+          "building_val": "9 10 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "72",
+          "occupier": "Lendrum West",
+          "lessor": "Same",
+          "desc": "Ho., off., yd., & garden",
+          "area": "0 1 0",
+          "land_val": "1 0 0",
+          "building_val": "8 10 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "73",
+          "occupier": "Andrew Johnston",
+          "lessor": "Mary Joyce",
+          "desc": "Shop and room",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "{",
+          "occupier": "Mary Joyce",
+          "lessor": "Sir Victor A.Brooke,Bt.",
+          "desc": "House, yard, & garden",
+          "area": "0 0 22",
+          "land_val": "0 10 0",
+          "building_val": "4 0 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "74",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "Ho., offs., yd., & garden",
+          "area": "0 0 32",
+          "land_val": "0 15 0",
+          "building_val": "13 5 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "75",
+          "occupier": "Thomas Macken",
+          "lessor": "Same",
+          "desc": "Ho., offs., yd., & garden",
+          "area": "0 0 32",
+          "land_val": "0 15 0",
+          "building_val": "6 5 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "76",
+          "occupier": "Dispensary and yard",
+          "lessor": "(See Exemptions.)",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "77",
+          "occupier": "John Irvine",
+          "lessor": "Sir Victor A.Brooke,Bt.",
+          "desc": "Ho., offs., yd., & garden",
+          "area": "0 1 6",
+          "land_val": "1 0 0",
+          "building_val": "11 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "78",
+          "occupier": "James Macken",
+          "lessor": "William Armstrong",
+          "desc": "House (in rere)",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "79",
+          "occupier": "Thomas M'Dowell",
+          "lessor": "Same",
+          "desc": "Ho., off., yd., & garden",
+          "area": "0 0 21",
+          "land_val": "0 10 0",
+          "building_val": "2 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "80",
+          "occupier": "Patrick Owens",
+          "lessor": "Same",
+          "desc": "Ho., offs., yd., & garden",
+          "area": "0 0 23",
+          "land_val": "0 10 0",
+          "building_val": "4 0 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "81",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "House and offices (dilapidated), and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "82",
+          "occupier": "James Maginn",
+          "lessor": "John Rusk",
+          "desc": "Ho., off., yd., & garden",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "5 5 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "83",
+          "occupier": "William Johnston",
+          "lessor": "Sir Victor A.Brooke,Bt.",
+          "desc": "Ho., off., yd., & garden",
+          "area": "0 0 18",
+          "land_val": "0 5 0",
+          "building_val": "3 15 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "84",
+          "occupier": "Unoccupied",
+          "lessor": "William Johnston",
+          "desc": "House and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "85",
+          "occupier": "John Johnston",
+          "lessor": "Same",
+          "desc": "House and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "86",
+          "occupier": "John M'Manus",
+          "lessor": "Jane Peters",
+          "desc": "Ho., yard, & sm. garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "87",
+          "occupier": "John Campbell",
+          "lessor": "Same",
+          "desc": "Ho., yd., & sm. garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "88",
+          "occupier": "Mary Anne Joyce",
+          "lessor": "Martin Beatty",
+          "desc": "Shop and rooms",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "{",
+          "occupier": "Martha Beatty",
+          "lessor": "Sir Victor A.Brooke,Bt",
+          "desc": "Ho., offs., yd., & garden",
+          "area": "0 1 2",
+          "land_val": "0 15 0",
+          "building_val": "5 5 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "89",
+          "occupier": "William Creighton",
+          "lessor": "Same",
+          "desc": "Ho., off., yd., & garden",
+          "area": "0 0 14",
+          "land_val": "0 5 0",
+          "building_val": "5 5 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "90",
+          "occupier": "Anne M'Aviney",
+          "lessor": "Same",
+          "desc": "Ho.,offs.,yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "91",
+          "occupier": "Unoccupied",
+          "lessor": "Mary Farrell",
+          "desc": "Ho., off., yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "92",
+          "occupier": "James Gillespie",
+          "lessor": "Sir Victor A.Brooke,Bt.",
+          "desc": "Ho., offs., yd., & garden",
+          "area": "0 0 32",
+          "land_val": "0 10 0",
+          "building_val": "3 0 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Waste under houses, yards, streets, and small gardens",
+          "area": "7 1 21",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total of Rateable Property",
+          "area": "76 3 25",
+          "land_val": "93 15 0",
+          "building_val": "389 15 0",
+          "total_val": "494 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "15 2",
+          "sublocation_1": "TOWN OF BROOKEBOROUGH",
+          "sublocation_2": "MAIN-STREET",
+          "occupier": "Alms-house (Sterne's Charity)",
+          "lessor": "",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "15",
+          "occupier": "Constabulary Force",
+          "lessor": "Sir Victor A. Brooke,Bt.",
+          "desc": "Police barrack, offices, yard, and garden",
+          "area": "0 0 24",
+          "land_val": "0 10 0",
+          "building_val": "11 10 0",
+          "total_val": "12 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "18",
+          "occupier": "",
+          "lessor": "Same",
+          "desc": "Court-house, market-house, & small garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "20 0 0",
+          "total_val": "20 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "22",
+          "occupier": "",
+          "lessor": "Same",
+          "desc": "Protestant hall, preaching-house, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "9 0 0",
+          "total_val": "9 0 0",
+          "is_exemption": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,626 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF CLONES",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "SHANROE",
+          "os": "8",
+          "occupier": "John Gillis,",
+          "lessor": "Rev. Thomas Carson,",
+          "desc": "H,O,&L",
+          "area": "10 0 15",
+          "land_val": "6 0 0",
+          "building_val": "0 15 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "Archibald Gillis,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "10 1 7",
+          "land_val": "6 5 0",
+          "building_val": "1 0 0",
+          "total_val": "10 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "Archibald Gillis,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "7 0 20",
+          "land_val": "3 5 0",
+          "building_val": "—",
+          "total_val": "10 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 a",
+          "occupier": "John Gillis,",
+          "lessor": "Same,",
+          "desc": "B",
+          "area": "0 1 25",
+          "land_val": "—",
+          "building_val": "—",
+          "total_val": "—"
+        },
+        {
+          "mr": "— b",
+          "occupier": "James Armstrong,",
+          "lessor": "Same,",
+          "desc": "B",
+          "area": "0 1 25",
+          "land_val": "—",
+          "building_val": "—",
+          "total_val": "—"
+        },
+        {
+          "mr": "— c",
+          "occupier": "Pat M'Carron,",
+          "lessor": "Same,",
+          "desc": "B",
+          "area": "0 0 20",
+          "land_val": "—",
+          "building_val": "—",
+          "total_val": "—"
+        },
+        {
+          "mr": "4",
+          "occupier": "Thomas Gillis,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "18 1 10",
+          "land_val": "11 10 0",
+          "building_val": "1 0 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "5 A",
+          "occupier": "Thomas Gillis,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "0 3 25",
+          "land_val": "0 10 0",
+          "building_val": "—",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "James Stewart,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "0 1 30",
+          "land_val": "0 5 0",
+          "building_val": "—",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "William Webster,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "0 1 35",
+          "land_val": "0 5 0",
+          "building_val": "—",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "7 A",
+          "occupier": "James Armstrong,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "0 3 10",
+          "land_val": "0 10 0",
+          "building_val": "0 10 0",
+          "total_val": "4 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "James Armstrong,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "4 3 25",
+          "land_val": "3 5 0",
+          "building_val": "0 15 0",
+          "total_val": "4 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "8",
+          "occupier": "Patrick M'Carron,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "1 1 35",
+          "land_val": "0 15 0",
+          "building_val": "—",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Edward M'Carron,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "9 0 0",
+          "land_val": "4 5 0",
+          "building_val": "0 10 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Rev. Thomas Carson,",
+          "lessor": "In fee,",
+          "desc": "Turbary,",
+          "area": "9 3 20",
+          "land_val": "4 10 0",
+          "building_val": "—",
+          "total_val": "3 0 0"
+        },
+        {
+          "occupier": "Robert Thomson,",
+          "lessor": "Free,",
+          "desc": "Turbary,",
+          "area": "9 0 20",
+          "land_val": "—",
+          "building_val": "—",
+          "total_val": "6 0 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "83 3 2",
+          "land_val": "41 5 0",
+          "building_val": "4 10 0",
+          "total_val": "54 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DERRYARRIT",
+          "os": "8 & 5",
+          "occupier": "Isaiah Charleton,",
+          "lessor": "In fee,",
+          "desc": "Turbary,",
+          "area": "6 0 35",
+          "land_val": "1 5 0",
+          "building_val": "—",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "Patrick Connolly,",
+          "lessor": "Isaiah Charleton,",
+          "desc": "H,O,&L",
+          "area": "6 1 20",
+          "land_val": "1 5 0",
+          "building_val": "—",
+          "total_val": "3 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "Patrick Connolly,",
+          "lessor": "Isaiah Charleton,",
+          "desc": "L",
+          "area": "3 3 5",
+          "land_val": "1 5 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3",
+          "occupier": "Thomas Callaghan,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "11 0 25",
+          "land_val": "5 0 0",
+          "building_val": "0 15 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Thomas Connolly,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "12 1 25",
+          "land_val": "5 0 0",
+          "building_val": "1 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "5 A",
+          "occupier": "Luke Connolly(Barny),",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "11 1 25",
+          "land_val": "4 5 0",
+          "building_val": "0 15 0",
+          "total_val": "5 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "Luke Connolly(Barny),",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "1 2 30",
+          "land_val": "0 10 0",
+          "building_val": "—",
+          "total_val": "5 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "John Connolly (Luke),",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "9 1 15",
+          "land_val": "4 5 0",
+          "building_val": "0 15 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "John Charleton,",
+          "lessor": "In fee,",
+          "desc": "B",
+          "area": "5 0 34",
+          "land_val": "—",
+          "building_val": "—",
+          "total_val": "—"
+        },
+        {
+          "mr": "8",
+          "occupier": "John Connolly,",
+          "lessor": "John Charleton,",
+          "desc": "H,O,&L",
+          "area": "9 3 15",
+          "land_val": "2 15 0",
+          "building_val": "0 10 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Philip Smith,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "8 0 25",
+          "land_val": "3 5 0",
+          "building_val": "0 15 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "10 A",
+          "occupier": "Denis Smith,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "0 3 10",
+          "land_val": "0 10 0",
+          "building_val": "0 15 0",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "Denis Smith,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "7 1 25",
+          "land_val": "3 5 0",
+          "building_val": "—",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "11",
+          "occupier": "Luke Connolly,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "9 3 25",
+          "land_val": "4 10 0",
+          "building_val": "0 15 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "12 A",
+          "occupier": "Patrick Smith,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "6 2 0",
+          "land_val": "2 13 0",
+          "building_val": "0 15 0",
+          "total_val": "5 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "Patrick Smith,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "4 3 20",
+          "land_val": "1 17 0",
+          "building_val": "—",
+          "total_val": "5 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "13",
+          "occupier": "Margaret Smith,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "3 1 30",
+          "land_val": "1 15 0",
+          "building_val": "0 10 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Henry G. Johnston,",
+          "lessor": "In fee,",
+          "desc": "B",
+          "area": "10 2 25",
+          "land_val": "0 5 0",
+          "building_val": "—",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "James Cassidy,",
+          "lessor": "Henry G. Johnston,",
+          "desc": "H,O,&L",
+          "area": "9 2 35",
+          "land_val": "4 15 0",
+          "building_val": "0 15 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Bernard Short,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "12 0 0",
+          "land_val": "5 5 0",
+          "building_val": "0 15 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "17 A",
+          "occupier": "Philip Farmer,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "0 1 5",
+          "land_val": "0 3 0",
+          "building_val": "0 15 0",
+          "total_val": "5 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "— B",
+          "occupier": "Philip Farmer,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "6 0 5",
+          "land_val": "2 10 0",
+          "building_val": "—",
+          "total_val": "5 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "— C",
+          "occupier": "Philip Farmer,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "4 0 30",
+          "land_val": "1 17 0",
+          "building_val": "—",
+          "total_val": "5 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "18",
+          "occupier": "James Connolly,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "17 1 30",
+          "land_val": "7 5 0",
+          "building_val": "0 15 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Redmond Grant,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "9 2 25",
+          "land_val": "4 0 0",
+          "building_val": "0 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Felix Farmer,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "8 0 35",
+          "land_val": "4 0 0",
+          "building_val": "0 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "James Farmer,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "7 2 20",
+          "land_val": "3 10 0",
+          "building_val": "0 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "Henry G. Johnston,",
+          "lessor": "In fee,",
+          "desc": "Turbary,",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "—",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Mary Campbell,",
+          "lessor": "In fee,",
+          "desc": "B",
+          "area": "9 2 15",
+          "land_val": "—",
+          "building_val": "—",
+          "total_val": "—"
+        },
+        {
+          "mr": "23",
+          "occupier": "John Connolly,",
+          "lessor": "Mary Campbell,",
+          "desc": "H,O,&L",
+          "area": "18 1 30",
+          "land_val": "7 15 0",
+          "building_val": "0 15 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "John Magennis,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "19 0 25",
+          "land_val": "6 10 0",
+          "building_val": "0 15 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "260 0 24",
+          "land_val": "89 15 0",
+          "building_val": "14 0 0",
+          "total_val": "113 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DUNDRUMMAN",
+          "os": "8 & 5",
+          "occupier": "Rt. Hon. Edwd. Lucas,",
+          "lessor": "In fee,",
+          "desc": "B",
+          "area": "94 3 24",
+          "land_val": "1 0 0",
+          "building_val": "—",
+          "total_val": "1 0 0"
+        },
+        {
+          "occupier": "Rt. Hon. Edwd. Lucas,",
+          "lessor": "In fee,",
+          "desc": "Turbary,",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "—",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Patrick Corr,",
+          "lessor": "Rt. Hon. Edwd. Lucas,",
+          "desc": "H,O,&L",
+          "area": "13 0 25",
+          "land_val": "4 10 0",
+          "building_val": "0 5 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Peter Corr,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "16 0 15",
+          "land_val": "6 5 0",
+          "building_val": "0 15 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James Corr,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "14 1 35",
+          "land_val": "6 5 0",
+          "building_val": "0 15 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Francis Murphy,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "23 1 25",
+          "land_val": "5 15 0",
+          "building_val": "0 15 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Robert Farrell,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "29 1 5",
+          "land_val": "9 10 0",
+          "building_val": "0 15 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "Patrick Farmer,",
+          "lessor": "Robert Farrell,",
+          "desc": "H",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "John M'Carey,",
+          "lessor": "Rt. Hon. Edwd. Lucas,",
+          "desc": "H,O,&L",
+          "area": "7 2 25",
+          "land_val": "2 15 0",
+          "building_val": "0 10 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "8 A",
+          "occupier": "Patrick M'Guiggan,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "0 1 0",
+          "land_val": "0 3 0",
+          "building_val": "0 10 0",
+          "total_val": "5 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "Patrick M'Guiggan,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "10 1 15",
+          "land_val": "4 12 0",
+          "building_val": "—",
+          "total_val": "5 5 0",
+          "n_shared": 2
+        }
+      ]
+    }
+  ]
+}

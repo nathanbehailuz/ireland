@@ -1,0 +1,568 @@
+{
+  "parishes": [
+    {
+      "parish": "UNKNOWN",
+      "entries": [
+        {
+          "mr": "4",
+          "townland": "KILLEENYARDA",
+          "occupier": "Michael Kennedy,",
+          "lessor": "Rev. Garrett Wall,",
+          "desc": "H,O,&L",
+          "area": "9 2 35",
+          "land_val": "8 3 0",
+          "building_val": "1 17 0",
+          "total_val": "10 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "5",
+          "occupier": "Rev. Garrett Wall,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "79 1 6",
+          "land_val": "64 15 0",
+          "total_val": "64 15 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Vacant,",
+          "lessor": "Rev. Garrett Wall,",
+          "desc": "H&O",
+          "building_val": "5 6 0",
+          "total_val": "5 6 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Mrs. Bridget Gleeson,",
+          "lessor": "Robert Jones, Esq.",
+          "desc": "H,O,&L",
+          "area": "3 0 24",
+          "land_val": "2 17 0",
+          "building_val": "1 4 0",
+          "total_val": "4 1 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "William Hunt,",
+          "lessor": "Robert Jones, Esq.",
+          "desc": "H&G",
+          "area": "0 2 21",
+          "land_val": "0 11 0",
+          "building_val": "2 7 0",
+          "total_val": "2 18 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "John Ryan, sen.",
+          "lessor": "Rev. Garrett Wall,",
+          "desc": "H,O,&L",
+          "area": "52 1 12",
+          "land_val": "39 19 0",
+          "building_val": "7 12 0",
+          "total_val": "47 11 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Ryan, jun.",
+          "lessor": "John Ryan, sen.",
+          "desc": "H",
+          "building_val": "0 19 0",
+          "total_val": "0 19 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "231 1 17",
+          "land_val": "190 13 0",
+          "building_val": "32 9 0",
+          "total_val": "223 2 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "LISBOOK",
+          "occupier": "Catherine Wade,",
+          "lessor": "Major Morgill,",
+          "desc": "H,O,&L",
+          "area": "3 3 9",
+          "land_val": "2 17 0",
+          "building_val": "1 0 0",
+          "total_val": "2 17 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Richard Hennessey,",
+          "lessor": "Major Morgill,",
+          "desc": "H,O,&L",
+          "area": "46 2 23",
+          "land_val": "38 17 0",
+          "building_val": "2 1 0",
+          "total_val": "40 18 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Mrs. Margaret Ryan,",
+          "lessor": "Richard Hennessey,",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Patrick Guinan,",
+          "lessor": "Richard Hennessey,",
+          "desc": "H",
+          "building_val": "0 13 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "John Garrett,",
+          "lessor": "Richard Hennessey,",
+          "desc": "H,O,&G",
+          "area": "0 0 12",
+          "land_val": "0 1 0",
+          "building_val": "0 14 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "John Quinn,",
+          "lessor": "Richard Hennessey,",
+          "desc": "H&O",
+          "area": "0 0 15",
+          "land_val": "0 1 0",
+          "building_val": "0 11 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Hogan,",
+          "lessor": "Major Morgill,",
+          "desc": "H&L",
+          "area": "3 3 8",
+          "land_val": "2 13 0",
+          "building_val": "0 17 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Michael Kearney,",
+          "lessor": "Major Morgill,",
+          "desc": "H&L",
+          "area": "8 0 0",
+          "land_val": "5 15 0",
+          "building_val": "3 3 0",
+          "total_val": "8 18 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "William Garrett,",
+          "lessor": "Michael Kearney,",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "James Hogan,",
+          "lessor": "Major Morgill,",
+          "desc": "H&L",
+          "area": "7 1 28",
+          "land_val": "5 17 0",
+          "building_val": "2 5 0",
+          "total_val": "8 2 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Philip Meara,",
+          "lessor": "James Hogan,",
+          "desc": "H,O,&G",
+          "area": "0 0 36",
+          "land_val": "0 4 0",
+          "building_val": "0 10 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Mrs. P. Maher,",
+          "lessor": "James Hogan,",
+          "desc": "H&G",
+          "area": "0 2 18",
+          "land_val": "0 12 0",
+          "building_val": "0 10 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Anne M'Grath,",
+          "lessor": "James Hogan,",
+          "desc": "H&O",
+          "building_val": "0 14 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "John Doyle,",
+          "lessor": "Michael Slattery,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Catherine Quinlan,",
+          "lessor": "Major Morgill,",
+          "desc": "H&L",
+          "area": "2 1 29",
+          "land_val": "1 19 0",
+          "building_val": "1 9 0",
+          "total_val": "3 8 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "William Noble,",
+          "lessor": "Catherine Quinlan,",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Michael Slattery,",
+          "lessor": "Major Morgill,",
+          "desc": "H&L",
+          "area": "4 1 24",
+          "land_val": "3 10 0",
+          "building_val": "1 3 0",
+          "total_val": "4 13 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Catherine Ryan,",
+          "lessor": "Michael Slattery,",
+          "desc": "H&G",
+          "area": "0 0 27",
+          "land_val": "0 3 0",
+          "building_val": "0 14 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "William Brohan,",
+          "lessor": "Major Morgill,",
+          "desc": "H&G",
+          "area": "2 2 29",
+          "land_val": "1 12 0",
+          "building_val": "0 13 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Connors Ryan,",
+          "lessor": "Major Morgill,",
+          "desc": "H",
+          "building_val": "0 3 0",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Daniel Burke,",
+          "lessor": "Major Morgill,",
+          "desc": "H&L",
+          "land_val": "1 1 0",
+          "building_val": "0 3 0",
+          "total_val": "1 4 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Daniel M'Grath,",
+          "lessor": "William Brohan,",
+          "desc": "H",
+          "building_val": "0 13 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "80 1 18",
+          "land_val": "65 2 0",
+          "building_val": "20 9 0",
+          "total_val": "85 11 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "LISNAGONOE",
+          "occupier": "Patrick Dwyer, Esq.",
+          "lessor": "Dixon O'Keeffe, Esq.",
+          "desc": "L",
+          "area": "105 2 7",
+          "land_val": "73 5 0",
+          "total_val": "73 5 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "William Dunne,",
+          "lessor": "Patrick Dwyer, Esq.",
+          "desc": "H",
+          "building_val": "1 4 0",
+          "total_val": "1 4 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Vacant,",
+          "lessor": "Patrick Dwyer, Esq.",
+          "desc": "H&O",
+          "building_val": "0 17 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Daniel Kearney,",
+          "lessor": "Patrick Dwyer, Esq.",
+          "desc": "H",
+          "building_val": "0 17 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Vacant,",
+          "lessor": "Patrick Dwyer, Esq.",
+          "desc": "H",
+          "building_val": "0 14 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "James M'Bride,",
+          "lessor": "Patrick Dwyer, Esq.",
+          "desc": "H&O",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "2 A B",
+          "occupier": "Dixon O'Keeffe, Esq.",
+          "lessor": "John D. Byrne, Esq.",
+          "desc": "L",
+          "area": "36 2 12",
+          "land_val": "23 4 0",
+          "total_val": "23 4 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Martin Ryan,",
+          "lessor": "Dixon O'Keeffe, Esq.",
+          "desc": "L",
+          "area": "13 1 17",
+          "land_val": "10 5 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Thadeus Curran,",
+          "lessor": "Martin Ryan,",
+          "desc": "H&G",
+          "area": "0 0 8",
+          "land_val": "0 1 0",
+          "building_val": "0 7 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Ryan,",
+          "lessor": "Martin Ryan,",
+          "desc": "H,O,&G",
+          "area": "0 0 30",
+          "land_val": "0 2 0",
+          "building_val": "0 16 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Patrick Ryan,",
+          "lessor": "Martin Ryan,",
+          "desc": "H",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Martin Ryan,",
+          "lessor": "Thomas Godfrey, Esq.",
+          "desc": "H,O,&L",
+          "area": "42 2 4",
+          "land_val": "30 5 0",
+          "building_val": "3 5 0",
+          "total_val": "33 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Kearney,",
+          "lessor": "Martin Ryan,",
+          "desc": "H,O,&L",
+          "area": "2 3 29",
+          "land_val": "1 19 0",
+          "building_val": "1 2 0",
+          "total_val": "3 1 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "John Ryan,",
+          "lessor": "Thomas Godfrey, Esq.",
+          "desc": "H,O,&L",
+          "area": "6 3 2",
+          "land_val": "5 6 0",
+          "building_val": "1 4 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "7 A B",
+          "occupier": "Michael Mullany, Esq.",
+          "lessor": "Dixon O'Keeffe, Esq. & Patrick Dwyer, Esq.",
+          "desc": "L",
+          "area": "32 1 36",
+          "land_val": "22 9 0",
+          "total_val": "22 9 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Patrick Dwyer, Esq.",
+          "lessor": "Dixon O'Keeffe, Esq.",
+          "desc": "L",
+          "area": "11 3 9",
+          "land_val": "4 4 0",
+          "total_val": "4 4 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Denis Kelly,",
+          "lessor": "Patrick Dwyer, Esq.",
+          "desc": "H,O,&L",
+          "land_val": "4 18 0",
+          "building_val": "1 11 0",
+          "total_val": "6 9 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Mary Carroll,",
+          "lessor": "Patrick Dwyer, Esq.",
+          "desc": "H&O",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Great Southern and Western Railway Co.",
+          "lessor": "In fee,",
+          "desc": "Railway, 289 lin. pers.",
+          "area": "9 0 20",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total,",
+          "area": "261 1 14",
+          "land_val": "175 18 0",
+          "building_val": "14 16 0",
+          "total_val": "190 14 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "LISNAGROUGH",
+          "occupier": "Thomas Dwyer,",
+          "lessor": "Wm. B. Armstrong, Esq.",
+          "desc": "L",
+          "area": "6 0 4",
+          "land_val": "1 18 0",
+          "total_val": "1 18 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Dempsey,",
+          "lessor": "Wm. B. Armstrong, Esq.",
+          "desc": "L",
+          "land_val": "1 17 0",
+          "total_val": "1 17 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Wm. B. Armstrong, Esq.",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "30 1 8",
+          "land_val": "23 12 0",
+          "total_val": "23 12 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "John Sheany (Herd),",
+          "lessor": "Wm. B. Armstrong, Esq.",
+          "desc": "H&O",
+          "building_val": "2 3 0",
+          "total_val": "2 3 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Boyle,",
+          "lessor": "Wm. B. Armstrong, Esq.",
+          "desc": "H",
+          "building_val": "0 17 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Lawrence Long,",
+          "lessor": "Wm. B. Armstrong, Esq.",
+          "desc": "H,O,&L",
+          "area": "78 3 24",
+          "land_val": "23 16 0",
+          "building_val": "3 15 0",
+          "total_val": "27 11 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Mrs. Mary Long,",
+          "lessor": "Wm. B. Armstrong, Esq.",
+          "desc": "H,O,&L",
+          "area": "78 3 24",
+          "land_val": "23 17 0",
+          "building_val": "2 19 0",
+          "total_val": "26 16 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5",
+          "occupier": "John Doyle, sen.",
+          "lessor": "Wm. B. Armstrong, Esq.",
+          "desc": "L",
+          "area": "16 3 10",
+          "land_val": "2 2 0",
+          "total_val": "2 2 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "6",
+          "occupier": "John Doyle, jun.",
+          "lessor": "Wm. B. Armstrong, Esq.",
+          "desc": "L",
+          "area": "16 3 10",
+          "land_val": "2 2 0",
+          "total_val": "2 2 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "7",
+          "occupier": "Lawrence Doyle,",
+          "lessor": "Wm. B. Armstrong, Esq.",
+          "desc": "L",
+          "area": "16 3 10",
+          "land_val": "2 2 0",
+          "total_val": "2 2 0",
+          "n_shared": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF EGLISH",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "EGLISH",
+          "os": "30",
+          "occupier": "Smith M. Berry,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "6 1 20",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "1 a",
+          "occupier": "Vacant,",
+          "lessor": "Smith M. Berry,",
+          "desc": "Bleach-house,",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Francis Berry,",
+          "lessor": "In fee,",
+          "desc": "H,O,&L",
+          "area": "344 2 1",
+          "land_val": "200 0 0",
+          "building_val": "20 0 0"
+        },
+        {
+          "mr": "2 a",
+          "desc": "B",
+          "area": "226 0 0",
+          "land_val": "4 0 0",
+          "total_val": "224 0 0"
+        },
+        {
+          "mr": "2 b",
+          "lessor": "Francis Berry,",
+          "desc": "Church and grave-yard,",
+          "area": "1 3 0",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "2 c",
+          "occupier": "Constabulary Force,",
+          "lessor": "Same,",
+          "desc": "Police-barrack & O",
+          "building_val": "9 10 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "occupier": "Francis Berry,",
+          "lessor": "In fee,",
+          "desc": "Half rent of Police-barrack and office, £6 10s.",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "3 A",
+          "occupier": "George Ryall,",
+          "lessor": "Francis Berry,",
+          "desc": "H,O,&L",
+          "area": "36 1 8",
+          "land_val": "27 15 0",
+          "building_val": "9 5 0"
+        },
+        {
+          "mr": "3 B",
+          "desc": "L",
+          "area": "68 2 13",
+          "land_val": "31 0 0",
+          "total_val": "68 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Rev. Robert Healy,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "14 2 18",
+          "land_val": "10 10 0",
+          "building_val": "8 0 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Guilfoile,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "31 0 10",
+          "land_val": "20 0 0",
+          "building_val": "0 15 0",
+          "total_val": "20 15 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "729 0 30",
+          "land_val": "296 10 0",
+          "building_val": "51 5 0",
+          "total_val": "347 15 0",
+          "is_total": 1
+        },
+        {
+          "desc": "Church and grave-yard,",
+          "area": "1 3 0",
+          "land_val": "0 15 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Police-barrack & office,",
+          "building_val": "9 10 0",
+          "is_exemption": 1
+        },
+        {
+          "building_val": "2 0 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total of Exemptions,",
+          "area": "1 3 0",
+          "land_val": "0 15 0",
+          "building_val": "11 10 0",
+          "total_val": "12 5 0",
+          "is_total": 1,
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of Exemptions,",
+          "area": "727 1 30",
+          "land_val": "295 15 0",
+          "building_val": "39 15 0",
+          "total_val": "335 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "GABROS, EAST.",
+          "os": "30",
+          "occupier": "Smith Massey Berry,",
+          "lessor": "Robert Cassedy,",
+          "desc": "O&L",
+          "area": "127 0 3",
+          "land_val": "64 0 0",
+          "building_val": "0 5 0"
+        },
+        {
+          "mr": "1 a",
+          "desc": "B",
+          "area": "267 0 0",
+          "land_val": "6 0 0",
+          "total_val": "70 5 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Vacant,",
+          "lessor": "Smith M. Berry,",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "1 c",
+          "occupier": "Mary Robinson,",
+          "lessor": "Same,",
+          "desc": "H,O,&G",
+          "area": "0 1 24",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Cashin,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "4 1 38",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Michael Rice,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "2 0 25",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Denis Cashin,",
+          "lessor": "Same,",
+          "desc": "H&L",
+          "area": "3 0 22",
+          "land_val": "1 0 0",
+          "building_val": "0 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "5 A",
+          "occupier": "Michael Murray,",
+          "lessor": "Same,",
+          "desc": "H&L",
+          "area": "1 0 5",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0"
+        },
+        {
+          "mr": "5 B",
+          "desc": "L",
+          "area": "1 3 31",
+          "land_val": "0 15 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Michael Rice,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "5 b",
+          "occupier": "John Rigney,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "John Rigney,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "2 3 8",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Garrett Cassedy,",
+          "lessor": "Same,",
+          "desc": "H&L",
+          "area": "1 2 3",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "411 1 39",
+          "land_val": "76 7 0",
+          "building_val": "3 18 0",
+          "total_val": "80 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "GABROS, WEST.",
+          "os": "30",
+          "occupier": "Hannah Burke,",
+          "lessor": "Earl of Rosse,",
+          "desc": "H,O,&L",
+          "area": "73 1 35",
+          "land_val": "30 0 0",
+          "building_val": "2 10 0",
+          "total_val": "32 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Earl of Rosse,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "70 3 1",
+          "land_val": "27 0 0",
+          "total_val": "27 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Vacant,",
+          "lessor": "Earl of Rosse,",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "3 A",
+          "occupier": "Earl of Rosse,",
+          "lessor": "In fee,",
+          "desc": "B",
+          "area": "88 2 12",
+          "land_val": "2 0 0"
+        },
+        {
+          "mr": "3 B",
+          "area": "129 3 32",
+          "land_val": "3 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "362 3 0",
+          "land_val": "62 0 0",
+          "building_val": "3 5 0",
+          "total_val": "65 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "GLENAMONY GLEBE.",
+          "os": "30 & 31",
+          "occupier": "Peter Downey,",
+          "lessor": "Rev. Ralph Coote (Dean),",
+          "desc": "O&L",
+          "area": "24 3 33",
+          "land_val": "8 10 0",
+          "building_val": "0 5 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Roderick Dooley,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "23 2 30",
+          "land_val": "8 0 0",
+          "building_val": "0 15 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Marks Downey,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "41 2 23",
+          "land_val": "14 0 0",
+          "building_val": "0 10 0"
+        },
+        {
+          "desc": "B",
+          "area": "15 2 0",
+          "land_val": "1 0 0",
+          "total_val": "15 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Peter Downey,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "11 3 1",
+          "land_val": "0 15 0"
+        },
+        {
+          "occupier": "Patrick Horan,",
+          "land_val": "0 15 0"
+        },
+        {
+          "occupier": "Marks Downey,",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Coghlan,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "50 2 18",
+          "land_val": "21 0 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Patrick Coghlan,",
+          "lessor": "John Coghlan,",
+          "desc": "H,O,&L",
+          "area": "12 1 3",
+          "land_val": "5 0 0",
+          "building_val": "0 15 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "William Hanlon,",
+          "lessor": "Rev. Ralph Coote,",
+          "desc": "H,O,&L",
+          "area": "10 1 34",
+          "land_val": "4 10 0",
+          "building_val": "0 10 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "8 A",
+          "occupier": "Rev. Ralph Coote,",
+          "lessor": "Ecclesiastical Commrs.",
+          "desc": "B",
+          "area": "60 1 14",
+          "land_val": "2 10 0"
+        },
+        {
+          "mr": "8 B",
+          "area": "66 3 12",
+          "land_val": "0 15 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "333 0 17",
+          "land_val": "68 5 0",
+          "building_val": "2 15 0",
+          "total_val": "71 0 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,646 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF DANESFORT",
+      "entries": [
+        {
+          "mr": "43 & 23 a c",
+          "townland": "ANNAMULT",
+          "occupier": "Michael Reddy (James)",
+          "lessor": "Nicholas Lodge, Esq.",
+          "desc": "H & L",
+          "area": "1 3 34",
+          "land_val": "1 8 0",
+          "building_val": "0 17 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "44 a",
+          "occupier": "John Tynan",
+          "lessor": "Michael Murphy",
+          "desc": "O & L",
+          "area": "0 3 22",
+          "land_val": "0 14 0",
+          "building_val": "0 6 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Mary Fannin",
+          "lessor": "Michael Murphy",
+          "desc": "G",
+          "area": "0 0 32",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "45 A B",
+          "occupier": "Michael Murphy",
+          "lessor": "Henry Wemys, Esq.",
+          "desc": "L",
+          "area": "52 1 0",
+          "land_val": "38 0 0",
+          "building_val": "",
+          "total_val": "38 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Michael Corcoran",
+          "lessor": "Michael Murphy",
+          "desc": "H & G",
+          "area": "0 1 31",
+          "land_val": "0 8 0",
+          "building_val": "1 2 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "Alice Ryan",
+          "lessor": "Michael Murphy",
+          "desc": "H & L",
+          "area": "1 2 34",
+          "land_val": "1 6 0",
+          "building_val": "0 9 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "47",
+          "occupier": "James Hickey",
+          "lessor": "Abraham Briscoe, Esq.",
+          "desc": "H, O, & L",
+          "area": "7 0 21",
+          "land_val": "5 0 0",
+          "building_val": "1 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "48",
+          "occupier": "Denis Dunne",
+          "lessor": "Abraham Briscoe, Esq.",
+          "desc": "L",
+          "area": "26 3 18",
+          "land_val": "20 0 0",
+          "building_val": "",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "William Millea",
+          "lessor": "Denis Dunne",
+          "desc": "H & G",
+          "area": "0 0 38",
+          "land_val": "0 4 0",
+          "building_val": "0 16 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Michael Dwyer",
+          "lessor": "Denis Dunne",
+          "desc": "H & G",
+          "area": "0 0 35",
+          "land_val": "0 4 0",
+          "building_val": "0 16 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Vacant",
+          "lessor": "Denis Dunne",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Margaret Roche",
+          "lessor": "Denis Dunne",
+          "desc": "H & G",
+          "area": "0 0 32",
+          "land_val": "0 4 0",
+          "building_val": "2 1 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "49",
+          "occupier": "Thomas Sullivan",
+          "lessor": "Abraham Briscoe, Esq.",
+          "desc": "H, O, & L",
+          "area": "41 2 7",
+          "land_val": "28 5 0",
+          "building_val": "2 10 0",
+          "total_val": "30 15 0"
+        },
+        {
+          "mr": "50",
+          "occupier": "William Kealy",
+          "lessor": "Abraham Briscoe, Esq.",
+          "desc": "H, O, & L",
+          "area": "30 0 21",
+          "land_val": "20 10 0",
+          "building_val": "2 15 0",
+          "total_val": "23 5 0"
+        },
+        {
+          "mr": "51",
+          "occupier": "Laurence Ryan",
+          "lessor": "Abraham Briscoe, Esq.",
+          "desc": "H & L",
+          "area": "1 1 4",
+          "land_val": "0 17 0",
+          "building_val": "0 13 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "52",
+          "occupier": "John Lalor",
+          "lessor": "Abraham Briscoe, Esq.",
+          "desc": "H, O, & L",
+          "area": "13 0 11",
+          "land_val": "8 15 0",
+          "building_val": "2 0 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "53",
+          "occupier": "John Tynan",
+          "lessor": "John Perry, Esq.",
+          "desc": "H, O, & L",
+          "area": "1 0 19",
+          "land_val": "0 15 0",
+          "building_val": "1 10 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "54 A B a",
+          "occupier": "John Perry, Esq.",
+          "lessor": "Abraham Briscoe, Esq.",
+          "desc": "H, O, & L",
+          "area": "227 0 0",
+          "land_val": "150 0 0",
+          "building_val": "40 0 0",
+          "total_val": "190 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Vacant",
+          "lessor": "John Perry, Esq.",
+          "desc": "H & O",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Vacant",
+          "lessor": "John Perry, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Michael Reade",
+          "lessor": "John Perry, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "55",
+          "occupier": "James Power",
+          "lessor": "William Perry, Esq.",
+          "desc": "H, O, & L",
+          "area": "5 3 37",
+          "land_val": "4 12 0",
+          "building_val": "1 8 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "56 { a",
+          "occupier": "Michael Reddy, jun.",
+          "lessor": "Abram. Briscoe, Esq.",
+          "desc": "H, O, & L",
+          "area": "33 3 5",
+          "land_val": "11 10 0",
+          "building_val": "3 10 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "{ b",
+          "occupier": "Michael Reddy, sen.",
+          "lessor": "Abram. Briscoe, Esq.",
+          "desc": "H, O, & L",
+          "area": "",
+          "land_val": "11 10 0",
+          "building_val": "2 0 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "57",
+          "occupier": "Richard Bourke",
+          "lessor": "Abraham Briscoe, Esq.",
+          "desc": "H, O, & L",
+          "area": "33 3 31",
+          "land_val": "23 0 0",
+          "building_val": "2 0 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "58 & 57 b",
+          "occupier": "Kieran Reddy",
+          "lessor": "Abraham Briscoe, Esq.",
+          "desc": "H & L",
+          "area": "2 1 13",
+          "land_val": "1 16 0",
+          "building_val": "0 14 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "59 a",
+          "occupier": "Arthur Izod, Esq.",
+          "lessor": "Abraham Briscoe, Esq.",
+          "desc": "H, O, flour mill, & L",
+          "area": "60 2 39",
+          "land_val": "42 0 0",
+          "building_val": "140 0 0",
+          "total_val": "182 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "George Tobin",
+          "lessor": "Arthur Izod, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Vacant",
+          "lessor": "Arthur Izod, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Thomas Walsh",
+          "lessor": "Arthur Izod, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "- e",
+          "occupier": "Vacant",
+          "lessor": "Arthur Izod, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- f",
+          "occupier": "Daniel Doran",
+          "lessor": "Arthur Izod, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- g",
+          "occupier": "Vacant",
+          "lessor": "Arthur Izod, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 18 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "- h",
+          "occupier": "Margaret Gorman",
+          "lessor": "Arthur Izod, Esq.",
+          "desc": "H & G",
+          "area": "0 1 0",
+          "land_val": "0 3 0",
+          "building_val": "0 17 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- i",
+          "occupier": "Mark Grady",
+          "lessor": "Arthur Izod, Esq.",
+          "desc": "H & G",
+          "area": "0 0 24",
+          "land_val": "0 2 0",
+          "building_val": "1 0 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "- j",
+          "occupier": "Michael Murphy",
+          "lessor": "Arthur Izod, Esq.",
+          "desc": "H & G",
+          "area": "0 1 8",
+          "land_val": "0 4 0",
+          "building_val": "0 18 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "- k",
+          "occupier": "Vacant",
+          "lessor": "Arthur Izod, Esq.",
+          "desc": "H & G",
+          "area": "0 0 12",
+          "land_val": "0 1 0",
+          "building_val": "0 14 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "1351 2 2",
+          "land_val": "946 9 0",
+          "building_val": "291 6 0",
+          "total_val": "1237 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Exemptions : Grave-yard",
+          "area": "0 0 36",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 3 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total, exclusive of Exemptions",
+          "area": "1351 1 6",
+          "land_val": "946 6 0",
+          "building_val": "291 6 0",
+          "total_val": "1237 12 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BALLYDA",
+          "occupier": "John Maher",
+          "lessor": "Charles Kavanagh, Esq.",
+          "desc": "H, O, & L",
+          "area": "10 2 18",
+          "land_val": "5 5 0",
+          "building_val": "1 0 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "2 A B C D a",
+          "occupier": "Patrick Kelly",
+          "lessor": "Charles Kavanagh, Esq.",
+          "desc": "H, O, & L",
+          "area": "59 0 28",
+          "land_val": "37 10 0",
+          "building_val": "2 15 0",
+          "total_val": "40 5 0"
+        },
+        {
+          "mr": "- A a",
+          "occupier": "Patrick Cormack",
+          "lessor": "Patrick Kelly",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "3 A B a",
+          "occupier": "Patrick Maher, sen.",
+          "lessor": "Charles Kavanagh, Esq.",
+          "desc": "H, O, & L",
+          "area": "47 1 24",
+          "land_val": "29 0 0",
+          "building_val": "4 0 0",
+          "total_val": "33 0 0"
+        },
+        {
+          "mr": "- A a",
+          "occupier": "Thomas Corcoran",
+          "lessor": "Patrick Maher, sen.",
+          "desc": "H & G",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "0 16 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "4 A B C D a",
+          "occupier": "Michael Maher",
+          "lessor": "Charles Kavanagh, Esq.",
+          "desc": "H, O, & L",
+          "area": "50 1 35",
+          "land_val": "31 10 0",
+          "building_val": "4 5 0",
+          "total_val": "35 15 0"
+        },
+        {
+          "mr": "5 A B C & 3 B b",
+          "occupier": "Thomas Kealy",
+          "lessor": "Charles Kavanagh, Esq.",
+          "desc": "H, O, & L",
+          "area": "89 0 11",
+          "land_val": "54 10 0",
+          "building_val": "3 5 0",
+          "total_val": "57 15 0"
+        },
+        {
+          "mr": "6 A B & 3 B c",
+          "occupier": "James Maher",
+          "lessor": "Charles Kavanagh, Esq.",
+          "desc": "H, O, & L",
+          "area": "49 2 8",
+          "land_val": "29 0 0",
+          "building_val": "2 15 0",
+          "total_val": "31 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Pat. Maher and others",
+          "lessor": "Charles Kavanagh, Esq.",
+          "desc": "L (waste)",
+          "area": "1 1 6",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "8",
+          "occupier": "Eleanor Larkin",
+          "lessor": "Charles Kavanagh, Esq.",
+          "desc": "H, O, & L",
+          "area": "32 0 9",
+          "land_val": "20 10 0",
+          "building_val": "2 0 0",
+          "total_val": "22 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "339 2 39",
+          "land_val": "207 7 0",
+          "building_val": "21 11 0",
+          "total_val": "228 18 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "BENNETTSBRIDGE",
+          "occupier": "John Finlan",
+          "lessor": "John Harris, Esq.",
+          "desc": "H, O, & L",
+          "area": "81 0 27",
+          "land_val": "55 10 0",
+          "building_val": "5 5 0",
+          "total_val": "60 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "John M'Donnell",
+          "lessor": "John Harris, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Vacant",
+          "lessor": "John Harris, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 19 0",
+          "total_val": "0 19 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Vacant",
+          "lessor": "John and Owen Finlan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- e",
+          "occupier": "Patrick Cahill",
+          "lessor": "John and Owen Finlan",
+          "desc": "H & G",
+          "area": "0 0 30",
+          "land_val": "0 3 0",
+          "building_val": "0 17 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- f",
+          "occupier": "Edward Phelan",
+          "lessor": "John and Owen Finlan",
+          "desc": "H & G",
+          "area": "0 0 22",
+          "land_val": "0 2 0",
+          "building_val": "1 8 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "- g",
+          "occupier": "Andrew Egan",
+          "lessor": "John and Owen Finlan",
+          "desc": "H & G",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "1 8 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "2 A B a c",
+          "occupier": "Owen Finlan",
+          "lessor": "John Harris, Esq.",
+          "desc": "H, O, & L",
+          "area": "81 0 29",
+          "land_val": "58 0 0",
+          "building_val": "3 10 0",
+          "total_val": "61 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Andrew Keogh",
+          "lessor": "John Harris, Esq.",
+          "desc": "H, O, & L",
+          "area": "6 2 37",
+          "land_val": "4 15 0",
+          "building_val": "2 10 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Denis Murphy",
+          "lessor": "Henry Nixon, Esq.",
+          "desc": "L",
+          "area": "27 3 29",
+          "land_val": "19 15 0",
+          "building_val": "",
+          "total_val": "19 15 0"
+        },
+        {
+          "mr": "5 A a",
+          "occupier": "Thomas Hart",
+          "lessor": "Henry Nixon, Esq.",
+          "desc": "L",
+          "area": "36 1 24",
+          "land_val": "28 0 0",
+          "building_val": "",
+          "total_val": "28 0 0"
+        },
+        {
+          "mr": "- B a",
+          "occupier": "Kieran Murphy",
+          "lessor": "Thomas Hart",
+          "desc": "H & G",
+          "area": "0 0 29",
+          "land_val": "0 4 0",
+          "building_val": "2 11 0",
+          "total_val": "2 15 0"
+        }
+      ]
+    }
+  ]
+}

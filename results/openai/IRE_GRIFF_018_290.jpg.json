@@ -1,0 +1,99 @@
+{
+  "parishes": [
+    {
+      "parish": "KEADY",
+      "entries": [
+        {
+          "mr": "22 A",
+          "townland": "CROSSDENED",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "James Devine",
+          "lessor": "William Norton",
+          "desc": "H,O,&L",
+          "area": "11 3 20",
+          "land_val": "9 10 0",
+          "building_val": "1 0 0",
+          "total_val": "11 5 0",
+          "n_shared": 2,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 1
+        },
+        {
+          "mr": "22 B",
+          "townland": "",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "Arthur M'Ardle",
+          "lessor": "William Norton",
+          "desc": "H,O,&L",
+          "area": "0 2 20",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "11 5 0",
+          "n_shared": 2,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "23",
+          "townland": "",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "Bernard M'Ardle",
+          "lessor": "Bernard Devine",
+          "desc": "L",
+          "area": "10 1 0",
+          "land_val": "3 10 0",
+          "building_val": "1 0 0",
+          "total_val": "4 10 0",
+          "n_shared": 1,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "24",
+          "townland": "",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "John M'Bride",
+          "lessor": "William Norton",
+          "desc": "H,O,&L",
+          "area": "4 2 25",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "3 10 0",
+          "n_shared": 1,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "25",
+          "townland": "",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "Rubert M'Bride",
+          "lessor": "John M'Bride",
+          "desc": "L",
+          "area": "2 3 25",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0",
+          "n_shared": 1,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        }
+      ]
+    }
+  ]
+}

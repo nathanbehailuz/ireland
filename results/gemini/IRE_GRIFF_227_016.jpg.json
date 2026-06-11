@@ -1,0 +1,573 @@
+{
+  "parishes": [
+    {
+      "parish": "MUCKNO",
+      "entries": [
+        {
+          "mr": "6 A a",
+          "townland": "DRUMAKILL",
+          "is_continued": 1,
+          "occupier": "Anne Harrison",
+          "lessor": "Henry T. Hope",
+          "desc": "H,O,&L",
+          "area": "22 1 10",
+          "land_val": "13 0 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "occupier": "Anne Harrison",
+          "lessor": "Henry T. Hope",
+          "desc": "Land",
+          "area": "31 0 30",
+          "land_val": "17 0 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 A b",
+          "occupier": "Peter Farney",
+          "lessor": "Anne Harrison",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "building_val": "7 0 0",
+          "total_val": "37 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "A a",
+          "occupier": "Hugh M'Shane",
+          "lessor": "Henry T. Hope",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "James M'Elroy",
+          "lessor": "Henry T. Hope",
+          "desc": "H,O,&L",
+          "area": "12 1 25",
+          "land_val": "10 0 0",
+          "building_val": "0 15 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "7 b",
+          "occupier": "James Carraher",
+          "lessor": "James M'Elroy",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Peter M'Elroy",
+          "lessor": "Henry T. Hope",
+          "desc": "H,O,&L",
+          "area": "3 2 30",
+          "land_val": "2 15 0",
+          "building_val": "0 10 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "John Farney",
+          "lessor": "Henry T. Hope",
+          "desc": "H,O,&L",
+          "area": "4 1 30",
+          "land_val": "3 5 0",
+          "building_val": "0 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "John Gamble",
+          "lessor": "Henry T. Hope",
+          "desc": "H,O,&L",
+          "area": "27 2 25",
+          "land_val": "18 5 0",
+          "building_val": "0 15 0",
+          "total_val": "22 5 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "John Bailey",
+          "lessor": "Henry T. Hope",
+          "desc": "H,O,&L",
+          "area": "13 1 5",
+          "land_val": "8 10 0",
+          "building_val": "4 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Edward Rooney",
+          "lessor": "Henry T. Hope",
+          "desc": "H,O,&L",
+          "area": "4 3 20",
+          "land_val": "3 10 0",
+          "building_val": "1 10 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Arthur Rooney",
+          "lessor": "Henry T. Hope",
+          "desc": "H,O,&L",
+          "area": "17 2 20",
+          "land_val": "11 15 0",
+          "building_val": "0 5 0",
+          "total_val": "13 15 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "George Harrison",
+          "lessor": "Henry T. Hope",
+          "desc": "Houses and land",
+          "area": "33 1 25",
+          "land_val": "20 10 0",
+          "building_val": "2 0 0",
+          "total_val": "21 10 0"
+        },
+        {
+          "mr": "14 b",
+          "occupier": "Unoccupied",
+          "lessor": "George Harrison",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "14 c",
+          "occupier": "Patrick Cumasky",
+          "lessor": "George Harrison",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "14 d",
+          "occupier": "Thomas Akins",
+          "lessor": "George Harrison",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "14 e",
+          "occupier": "James M'Conville",
+          "lessor": "George Harrison",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "James Conlan",
+          "lessor": "Henry T. Hope",
+          "desc": "H,O,&L",
+          "area": "14 1 5",
+          "land_val": "10 15 0",
+          "building_val": "0 15 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "John Rooney",
+          "lessor": "Henry T. Hope",
+          "desc": "H,O,&L",
+          "area": "12 3 5",
+          "land_val": "9 5 0",
+          "building_val": "1 0 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Bridget Murtagh",
+          "lessor": "Henry T. Hope",
+          "desc": "H,O,&L",
+          "area": "8 2 20",
+          "land_val": "5 5 0",
+          "building_val": "0 10 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Michael Hanratty",
+          "lessor": "Henry T. Hope",
+          "desc": "H,O,&L",
+          "area": "0 3 10",
+          "land_val": "0 12 0",
+          "building_val": "0 8 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Peter Murtagh",
+          "lessor": "Henry T. Hope",
+          "desc": "Land",
+          "area": "3 2 15",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "20 A a",
+          "occupier": "Peter M'Gough",
+          "lessor": "Henry T. Hope",
+          "desc": "Ho.,forge, offs., & ld.",
+          "area": "12 0 20",
+          "land_val": "8 0 0",
+          "building_val": "1 10 0",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "20 A b",
+          "occupier": "Patrick M'Eteny",
+          "lessor": "Peter M'Gough",
+          "desc": "House,",
+          "area": "4 0 20",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "12 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "20 A c",
+          "occupier": "National School-house and yard",
+          "lessor": "(See Exemptions.)",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "21 A",
+          "occupier": "James Cumasky",
+          "lessor": "Henry T. Hope",
+          "desc": "House and land",
+          "area": "0 3 20",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "21 B a",
+          "occupier": "Unoccupied",
+          "lessor": "James Cumasky",
+          "desc": "House",
+          "area": "5 0 10",
+          "land_val": "3 0 0",
+          "building_val": "0 5 0",
+          "total_val": "3 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "21 B b",
+          "occupier": "Unoccupied",
+          "lessor": "James Cumasky",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "James Johnston",
+          "lessor": "Henry T. Hope",
+          "desc": "H,O,&L",
+          "area": "10 1 25",
+          "land_val": "7 0 0",
+          "building_val": "2 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "23 A, B",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Water",
+          "area": "3 3 15",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total of Rateable Property",
+          "area": "325 3 3",
+          "land_val": "202 2 0",
+          "building_val": "37 18 0",
+          "total_val": "250 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "EXEMPTIONS: National School-house and yard",
+          "area": "0 0 30",
+          "land_val": "0 5 0",
+          "building_val": "2 10 0",
+          "total_val": "2 15 0",
+          "is_total": 1,
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total, including Exemptions",
+          "area": "325 3 33",
+          "land_val": "202 7 0",
+          "building_val": "40 8 0",
+          "total_val": "252 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "DRUMLEEK, SOUTH",
+          "os": "20",
+          "occupier": "Parker & Jas. M'Watty",
+          "lessor": "Henry T. Hope",
+          "desc": "Land",
+          "area": "28 0 15",
+          "land_val": "20 0 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 B",
+          "occupier": "Parker M'Watty",
+          "lessor": "Henry T. Hope",
+          "desc": "Corn-mill, and offices",
+          "area": "4 2 5",
+          "land_val": "0 10 0",
+          "building_val": "25 0 0",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 B",
+          "occupier": "Parker M'Watty",
+          "lessor": "Henry T. Hope",
+          "desc": "Flax-mill and office",
+          "area": "",
+          "land_val": "",
+          "building_val": "40 0 0",
+          "total_val": "65 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 C a",
+          "occupier": "James Brady",
+          "lessor": "Parker & Jas. M'Watty",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "1 C b",
+          "occupier": "Denis Campbell",
+          "lessor": "Parker & Jas. M'Watty",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "1 C c",
+          "occupier": "Alexander Johnston",
+          "lessor": "Parker & Jas. M'Watty",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "1 C d",
+          "occupier": "Robert Reid",
+          "lessor": "Parker & Jas. M'Watty",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "1 C e",
+          "occupier": "John Cunningham",
+          "lessor": "Parker & Jas. M'Watty",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "1 C f",
+          "occupier": "Ellen M'Caldin",
+          "lessor": "Parker & Jas. M'Watty",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "1 C g",
+          "occupier": "Samuel Burns",
+          "lessor": "Parker & Jas. M'Watty",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "1 C h",
+          "occupier": "Cornelius Runahan",
+          "lessor": "Parker & Jas. M'Watty",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Alexander Harrison",
+          "lessor": "Henry T. Hope",
+          "desc": "H,O,&L",
+          "area": "17 0 35",
+          "land_val": "13 0 0",
+          "building_val": "0 10 0",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 b",
+          "occupier": "James Mars",
+          "lessor": "Henry T. Hope",
+          "desc": "House and garden",
+          "area": "0 1 20",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "13 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 A a",
+          "occupier": "Robert Summerville",
+          "lessor": "Henry T. Hope",
+          "desc": "H,O,&L",
+          "area": "10 1 35",
+          "land_val": "4 10 0",
+          "building_val": "3 0 0",
+          "total_val": "",
+          "n_shared": 3
+        },
+        {
+          "mr": "3 A b",
+          "occupier": "Unoccupied",
+          "lessor": "Robert Summerville",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "",
+          "n_shared": 3
+        },
+        {
+          "mr": "4 a",
+          "occupier": "William Harrison",
+          "lessor": "Henry T. Hope",
+          "desc": "H,O,&L",
+          "area": "21 0 30",
+          "land_val": "15 0 0",
+          "building_val": "0 15 0",
+          "total_val": "22 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "4 b",
+          "occupier": "Matthew Briens",
+          "lessor": "William Harrison",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "William Harrison",
+          "lessor": "Henry T. Hope",
+          "desc": "Land",
+          "area": "12 1 20",
+          "land_val": "8 10 0",
+          "building_val": "",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "William Harrison",
+          "lessor": "Henry T. Hope",
+          "desc": "Land",
+          "area": "13 3 10",
+          "land_val": "11 0 0",
+          "building_val": "",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Mary Harrison",
+          "lessor": "Henry T. Hope",
+          "desc": "Herd's ho., offs, &land",
+          "area": "38 3 27",
+          "land_val": "17 0 0",
+          "building_val": "1 0 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Thomas Harrison",
+          "lessor": "Henry T. Hope",
+          "desc": "H,O,&L",
+          "area": "42 1 15",
+          "land_val": "24 0 0",
+          "building_val": "2 10 0",
+          "total_val": "26 10 0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+{
+  "parishes": [
+    {
+      "parish": "BALLYWILLIN",
+      "entries": [
+        {
+          "mr": "A a",
+          "townland": "BALLYWILLIN",
+          "is_continued": 1,
+          "occupier": "Anne Cain",
+          "lessor": "James Dunlop",
+          "desc": "H & small G",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "B a",
+          "occupier": "James Murphy",
+          "lessor": "Same",
+          "desc": "H & forge",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "C b",
+          "occupier": "John Dunlop",
+          "lessor": "Samuel Laurence",
+          "desc": "H, O, & L",
+          "area": "0 0 20",
+          "land_val": "0 5 0",
+          "building_val": "1 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "John Dunlop",
+          "lessor": "Samuel Laurence",
+          "desc": "L",
+          "area": "11 3 10",
+          "land_val": "14 5 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "9 C c",
+          "occupier": "John Rancan",
+          "lessor": "Same",
+          "desc": "H, O, & L",
+          "building_val": "2 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "John Rancan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "13 1 12",
+          "land_val": "17 10 0",
+          "total_val": "19 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Alexander Dunlop",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "14 0 20",
+          "land_val": "16 15 0",
+          "total_val": "16 15 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "James Adams",
+          "lessor": "Same",
+          "desc": "H, O, & L",
+          "area": "37 3 10",
+          "land_val": "39 0 0",
+          "building_val": "3 5 0",
+          "total_val": "42 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "194 2 23",
+          "land_val": "217 0 0",
+          "building_val": "20 10 0",
+          "total_val": "237 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "MEADOW PARKS",
+          "os": "3",
+          "occupier": "Angus Cameron",
+          "lessor": "Earl of Antrim",
+          "desc": "H,O,&L",
+          "area": "10 1 0",
+          "land_val": "16 15 0",
+          "building_val": "5 0 0",
+          "total_val": "21 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Rebecca Rice",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 2 3",
+          "land_val": "6 5 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Robert Galbraith",
+          "lessor": "Rebecca Rice",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "26 3 3",
+          "land_val": "23 0 0",
+          "building_val": "5 10 0",
+          "total_val": "28 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A a",
+          "townland": "PORTRUSH",
+          "os": "3",
+          "occupier": "Thomas Clarke",
+          "lessor": "Earl of Antrim",
+          "desc": "H,O,&L",
+          "area": "30 3 0",
+          "land_val": "15 15 0",
+          "building_val": "2 5 0"
+        },
+        {
+          "occupier": "Thomas Clarke",
+          "lessor": "Earl of Antrim",
+          "desc": "L",
+          "area": "17 3 0",
+          "land_val": "3 0 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "Samuel Drain",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "60 3 35",
+          "land_val": "19 0 0",
+          "building_val": "2 0 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "John Kelly",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Patrick Kelly",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "Patrick Gallagher",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "— d",
+          "occupier": "John M'Gee",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "— e",
+          "occupier": "Alexander M'Fall",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "— f",
+          "occupier": "Daniel M'Cluskey",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "— g",
+          "occupier": "John Galbraith",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "— h",
+          "occupier": "James Campbell",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Campbell",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 0 20",
+          "land_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "occupier": "John Glenn",
+          "lessor": "Same",
+          "desc": "L",
+          "land_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Carr",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 5",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Robert Stewart",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 0",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "William Richardson",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 0 30",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Earl of Antrim",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "6 1 0",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Rebecca Rice",
+          "lessor": "Earl of Antrim",
+          "desc": "L",
+          "area": "5 1 10",
+          "land_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "John M'Conaghy",
+          "lessor": "Rebecca Rice",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Alexander M'Alister",
+          "lessor": "Earl of Antrim",
+          "desc": "L",
+          "area": "1 2 30",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Earl of Antrim",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "3 1 20",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Ballymena, Ballymoney, Coleraine, and Portrush Junction Railway Company (Jas. Thomson, Sec.)",
+          "lessor": "In fee",
+          "desc": "Railway (137 lin. per.)",
+          "area": "12 0 0",
+          "total_val": "24 0 0"
+        },
+        {
+          "occupier": "Ballymena, Ballymoney, Coleraine, and Portrush Junction Railway Company (Jas. Thomson, Sec.)",
+          "lessor": "In fee",
+          "desc": "Terminus and offices",
+          "building_val": "40 0 0",
+          "total_val": "40 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "James Campbell",
+          "lessor": "Earl of Antrim",
+          "desc": "L",
+          "area": "10 3 35",
+          "land_val": "6 15 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "William Richardson",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 3 0",
+          "land_val": "4 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Samuel Hazlett",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 0 30",
+          "land_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "John Williamson",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 1 20",
+          "land_val": "5 15 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "occupier": "Thomas Black",
+          "lessor": "Same",
+          "desc": "Right of fishing for salmon",
+          "total_val": "100 0 0"
+        },
+        {
+          "occupier": "Earl of Antrim",
+          "lessor": "In fee",
+          "desc": "Right of procuring and selling sand",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "16",
+          "sublocation_1": "TOWN OF PORTRUSH",
+          "sublocation_2": "MAIN-STREET",
+          "occupier": "Andrew Hunter",
+          "lessor": "John Lusk",
+          "desc": "H,O, & yard",
+          "building_val": "30 0 0",
+          "total_val": "30 0 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "Coast-guard's watch-house and yard",
+          "lessor": "(See Exemptions.)",
+          "desc": "H & yard",
+          "is_exemption": 1
+        },
+        {
+          "mr": "3",
+          "occupier": "Bernard Dinsmore",
+          "lessor": "Earl of Antrim",
+          "desc": "H & yard",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Daniel Fall",
+          "lessor": "Bernard Dinsmore",
+          "desc": "H & yard",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Gillespie",
+          "lessor": "Earl of Antrim",
+          "desc": "H, O, & yard",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "William Hunter and Angus Mann",
+          "lessor": "Rep. William Stewart",
+          "desc": "H & small G",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "—",
+          "occupier": "William Watton",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Archibald Boyle",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Hugh M'Neill",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        }
+      ]
+    }
+  ]
+}

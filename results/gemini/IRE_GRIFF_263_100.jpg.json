@@ -1,0 +1,601 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF TEMPLEMORE",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "KILLAWARDY",
+          "os": "29",
+          "occupier": "Edward Buckley",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "H,O,&L",
+          "area": "30 1 35",
+          "land_val": "26 0 0",
+          "building_val": "3 5 0",
+          "total_val": "29 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Buckley",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "L",
+          "area": "3 2 0",
+          "land_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Ophelia Costigan",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "H&L",
+          "area": "4 3 17",
+          "land_val": "3 5 0",
+          "building_val": "0 15 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Catherine Holleran",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "L",
+          "area": "0 2 34",
+          "land_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "George Lloyd, Esq.",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "L",
+          "area": "58 1 9",
+          "land_val": "54 15 0",
+          "total_val": "54 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "John Walsh",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "L",
+          "area": "3 1 29",
+          "land_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "101 1 4",
+          "land_val": "90 8 0",
+          "building_val": "4 0 0",
+          "total_val": "94 8 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "KILLOUGH",
+          "os": "23",
+          "occupier": "James Maher, sen.",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "L",
+          "area": "8 1 4",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "1 B",
+          "occupier": "James Maher, sen.",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "H,O,&L",
+          "area": "11 1 30",
+          "land_val": "7 0 0",
+          "building_val": "2 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "1 C a",
+          "occupier": "James Maher, sen.",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "L",
+          "area": "12 1 33",
+          "land_val": "8 5 0",
+          "total_val": "8 5 0"
+        },
+        {
+          "mr": "1 C b",
+          "occupier": "John Maher",
+          "lessor": "James Maher, sen.",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "Daniel Maher",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "L",
+          "area": "4 2 27",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "2 B a",
+          "occupier": "Daniel Maher",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "H,O,&L",
+          "area": "30 3 6",
+          "land_val": "19 5 0",
+          "building_val": "1 15 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "2 B b",
+          "occupier": "Timothy Kennedy",
+          "lessor": "Daniel Maher",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Lloyd, Esq.",
+          "lessor": "In fee",
+          "desc": "B",
+          "area": "55 2 39",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Lloyd, Esq.",
+          "lessor": "In fee",
+          "desc": "Plantation",
+          "area": "1 3 13",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "5 A",
+          "occupier": "Roger Maher",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "H,O,&L",
+          "area": "17 1 11",
+          "land_val": "10 0 0",
+          "building_val": "1 15 0",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "5 B",
+          "occupier": "Roger Maher",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "L",
+          "area": "21 0 27",
+          "land_val": "9 15 0",
+          "total_val": "9 15 0"
+        },
+        {
+          "mr": "6 A",
+          "occupier": "James Maher, jun.",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "L",
+          "area": "2 3 15",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "6 B a",
+          "occupier": "James Maher, jun.",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "H,O,&L",
+          "area": "6 1 21",
+          "land_val": "4 0 0",
+          "building_val": "1 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "6 B b",
+          "occupier": "James Corcoran",
+          "lessor": "James Maher, jun.",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "John Maher",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "H,O,&L",
+          "area": "17 2 31",
+          "land_val": "9 15 0",
+          "building_val": "1 5 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Edward Bowen and Connor Bowen",
+          "lessor": "Reps. Charles Curtis, Connor & Edw Bowen",
+          "desc": "H,O,&L",
+          "area": "56 3 29",
+          "land_val": "30 10 0",
+          "building_val": "2 10 0",
+          "total_val": "33 0 0"
+        },
+        {
+          "mr": "8 b",
+          "occupier": "Vacant",
+          "lessor": "Connor & Edw Bowen",
+          "desc": "H&O",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "8 c",
+          "occupier": "Vacant",
+          "lessor": "Connor & Edw. Bowen",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "8 d",
+          "occupier": "John Creed",
+          "lessor": "Connor & Edw. Bowen",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "8 e",
+          "occupier": "James M'Namara",
+          "lessor": "Connor & Edw. Bowen",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "8 f",
+          "occupier": "John Stapleton",
+          "lessor": "Connor & Edw. Bowen",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "8 g",
+          "occupier": "Mary Lahy",
+          "lessor": "Connor & Edw. Bowen",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "8 h",
+          "occupier": "Catherine Costigan",
+          "lessor": "Connor & Edw. Bowen",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "John Maher (Church)",
+          "lessor": "Reps. Charles Curtis",
+          "desc": "H,O,&L",
+          "area": "64 0 15",
+          "land_val": "45 5 0",
+          "building_val": "2 0 0",
+          "total_val": "47 5 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "John Maher (Church)",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "L",
+          "area": "16 3 0",
+          "land_val": "11 15 0",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Denis Maher (Ned)",
+          "lessor": "Reps. John Lloyd, Esq.",
+          "desc": "H,O,&L",
+          "area": "14 1 35",
+          "land_val": "8 15 0",
+          "building_val": "2 0 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "J. Morkham (Clontaaffe)",
+          "lessor": "Reps. Charles Curtis",
+          "desc": "L",
+          "area": "1 2 23",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "13 A a",
+          "occupier": "William Costigan",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "H,O,&L",
+          "area": "45 3 21",
+          "land_val": "35 5 0",
+          "building_val": "1 5 0",
+          "total_val": "36 10 0"
+        },
+        {
+          "mr": "13 A b",
+          "occupier": "William Costigan",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "L",
+          "area": "20 3 37",
+          "land_val": "15 5 0",
+          "total_val": "15 5 0"
+        },
+        {
+          "mr": "13 A b",
+          "occupier": "Vacant",
+          "lessor": "William Costigan",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "14 A",
+          "occupier": "Patrick Costigan",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "H,O,&L",
+          "area": "21 2 37",
+          "land_val": "14 10 0",
+          "building_val": "2 15 0",
+          "total_val": "17 5 0"
+        },
+        {
+          "mr": "14 B",
+          "occupier": "Patrick Costigan",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "L",
+          "area": "6 1 21",
+          "land_val": "4 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "15 A",
+          "occupier": "William Maher",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "H,O,&L",
+          "area": "14 2 16",
+          "land_val": "9 15 0",
+          "building_val": "1 10 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "15 B",
+          "occupier": "William Maher",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "L",
+          "area": "8 0 31",
+          "land_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "16 a",
+          "occupier": "Martin Maher",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "H,O,&L",
+          "area": "52 2 23",
+          "land_val": "33 15 0",
+          "building_val": "2 0 0",
+          "total_val": "35 15 0"
+        },
+        {
+          "mr": "16 b",
+          "occupier": "Vacant",
+          "lessor": "Martin Maher",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Sarah Kennedy",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "H,O,&L",
+          "area": "46 0 1",
+          "land_val": "25 0 0",
+          "building_val": "2 5 0",
+          "total_val": "27 5 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Denis Quinn",
+          "lessor": "Reps. Charles Curtis",
+          "desc": "L",
+          "area": "11 1 29",
+          "land_val": "4 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Michael Brien",
+          "lessor": "Reps. Charles Curtis",
+          "desc": "H&L",
+          "area": "8 3 14",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "20",
+          "occupier": "Timothy Brien",
+          "lessor": "Reps. Charles Curtis",
+          "desc": "L",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "21",
+          "occupier": "Timothy Brien",
+          "lessor": "Reps. Charles Curtis",
+          "desc": "H&L",
+          "area": "12 1 31",
+          "land_val": "6 0 0",
+          "building_val": "0 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "22 A",
+          "occupier": "Michael Brien",
+          "lessor": "Reps. Charles Curtis",
+          "desc": "L",
+          "area": "3 3 5",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "22 B",
+          "occupier": "Patrick Brien",
+          "lessor": "Reps. Charles Curtis",
+          "desc": "L",
+          "area": "2 0 4",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Patrick Brien",
+          "lessor": "Reps. Charles Curtis",
+          "desc": "L",
+          "area": "9 3 27",
+          "land_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Patrick Brien",
+          "lessor": "Reps. Charles Curtis",
+          "desc": "L",
+          "area": "6 1 11",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "25",
+          "occupier": "John Keeshan",
+          "lessor": "Reps. Charles Curtis",
+          "desc": "L",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "26",
+          "occupier": "John Keeshan",
+          "lessor": "Reps. Charles Curtis",
+          "desc": "H&L",
+          "area": "7 3 4",
+          "land_val": "3 5 0",
+          "building_val": "0 10 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "John Maher",
+          "lessor": "Reps. Charles Curtis",
+          "desc": "L",
+          "area": "4 3 28",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Reps. Charles Curtis",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "L",
+          "area": "12 2 22",
+          "land_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Hugh Kennedy",
+          "lessor": "Reps. Charles Curtis",
+          "desc": "H&L",
+          "area": "28 3 10",
+          "land_val": "16 0 0",
+          "building_val": "0 10 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "John Hennessy",
+          "lessor": "Reps. Charles Curtis",
+          "desc": "H&L",
+          "area": "28 1 20",
+          "land_val": "16 0 0",
+          "building_val": "0 10 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "John Kennedy",
+          "lessor": "Reps. Charles Curtis",
+          "desc": "H&L",
+          "area": "25 3 26",
+          "land_val": "11 15 0",
+          "building_val": "0 15 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "John Maher (Denis)",
+          "lessor": "Reps. Charles Curtis",
+          "desc": "L",
+          "area": "31 0 35",
+          "land_val": "7 10 0",
+          "total_val": "7 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "32",
+          "occupier": "Wm. Maher (Denis)",
+          "lessor": "Reps. Charles Curtis",
+          "desc": "L",
+          "land_val": "7 10 0",
+          "total_val": "7 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "33",
+          "occupier": "William Maher (Denis)",
+          "lessor": "Reps. Charles Curtis",
+          "desc": "L",
+          "area": "2 0 34",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Michael Fanning",
+          "lessor": "Reps. Charles Curtis",
+          "desc": "L",
+          "area": "14 2 25",
+          "land_val": "7 15 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Patrick Stapleton",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "H,O,&L",
+          "area": "54 1 26",
+          "land_val": "33 0 0",
+          "building_val": "1 0 0",
+          "total_val": "34 0 0"
+        }
+      ]
+    }
+  ]
+}

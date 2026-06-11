@@ -1,0 +1,562 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF CLONMACDUFF",
+      "entries": [
+        {
+          "mr": "3 a",
+          "townland": "MEADSTOWN",
+          "is_continued": 1,
+          "occupier": "John Garry,",
+          "lessor": "Thomas Barnwell,",
+          "desc": "H,O,&L",
+          "area": "31 1 0",
+          "land_val": "28 5 0",
+          "building_val": "0 15 0",
+          "total_val": "29 0 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Hugh Garry,",
+          "lessor": "John Garry,",
+          "desc": "H,O,&L",
+          "area": "1 2 26",
+          "land_val": "1 10 0",
+          "building_val": "0 5 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Sheppard,",
+          "lessor": "Hugh Garry,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Christopher Murray,",
+          "lessor": "Thomas Barnwell,",
+          "desc": "H,O,&L",
+          "area": "8 1 35",
+          "land_val": "8 5 0",
+          "building_val": "0 10 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "James Murray,",
+          "lessor": "Christopher Murray,",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 4 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Patrick Mulligan, (See also lot 8.)",
+          "lessor": "Thomas Barnwell,",
+          "desc": "H,O,&L",
+          "area": "3 1 30",
+          "land_val": "3 12 0",
+          "building_val": "0 8 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Mary Gannon, .",
+          "lessor": "Same, .",
+          "desc": "H,O,&G",
+          "area": "0 0 15",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Catherine Harold,",
+          "lessor": "Same, .",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Vacant, . .",
+          "lessor": "Patrick Mulligan,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Thomas Magee,",
+          "lessor": "Thomas Barnwell,",
+          "desc": "H,O,&L",
+          "area": "14 3 29",
+          "land_val": "11 10 0",
+          "building_val": "0 10 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Patrick Mulligan,",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "15 1 5",
+          "land_val": "14 10 0",
+          "total_val": "14 10 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Bridget Newman,",
+          "lessor": "Same, .",
+          "desc": "H&G",
+          "area": "0 1 30",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "James Leonard,",
+          "lessor": "Patrick Mulligan,",
+          "desc": "H&G",
+          "area": "0 0 8",
+          "land_val": "0 1 0",
+          "building_val": "0 4 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Bernard Murtagh,",
+          "lessor": "John Tisdall, .",
+          "desc": "H,O,&L",
+          "area": "61 2 35",
+          "land_val": "53 10 0",
+          "building_val": "1 10 0",
+          "total_val": "55 0 0"
+        },
+        {
+          "occupier": "Total, .",
+          "area": "1254 0 18",
+          "land_val": "1206 18 0",
+          "building_val": "20 9 0",
+          "total_val": "1227 7 0",
+          "is_total": 1
+        },
+        {
+          "occupier": "EXEMPTIONS: Grave-yard, .",
+          "area": "0 1 20",
+          "land_val": "0 2 0",
+          "total_val": "0 2 0",
+          "is_exemption": 1
+        },
+        {
+          "occupier": "Total, exclusive of Exemptions, .",
+          "area": "1253 2 38",
+          "land_val": "1206 16 0",
+          "building_val": "20 9 0",
+          "total_val": "1227 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "TULLAGHANSTOWN",
+          "os": "24 & 30",
+          "occupier": "Earl of Fingall, .",
+          "lessor": "In fee,",
+          "desc": "B (turbary)",
+          "area": "230 2 20",
+          "total_val": "70 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Rose Murray, .",
+          "lessor": "Earl of Fingall, .",
+          "desc": "H&G",
+          "area": "0 2 0",
+          "land_val": "0 1 0",
+          "building_val": "0 4 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "James Kelly, .",
+          "lessor": "Same, .",
+          "desc": "H&L",
+          "area": "3 0 3",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "James Treanor, .",
+          "lessor": "Same, .",
+          "desc": "H,O,&L",
+          "area": "10 3 31",
+          "land_val": "3 10 0",
+          "building_val": "0 5 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Finnegan,",
+          "lessor": "Same, .",
+          "desc": "H&G",
+          "area": "0 1 25",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "James Gaffney, .",
+          "lessor": "James Treanor, .",
+          "desc": "H&G",
+          "area": "0 1 0",
+          "land_val": "0 1 0",
+          "building_val": "0 4 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "4 A",
+          "occupier": "Edward Kelly, .",
+          "lessor": "Earl of Fingall, .",
+          "desc": "L",
+          "area": "2 1 22",
+          "land_val": "0 5 0",
+          "total_val": "1 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B",
+          "occupier": "Edward Kelly, .",
+          "lessor": "Earl of Fingall, .",
+          "desc": "H&L",
+          "area": "0 3 21",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 A",
+          "occupier": "Thomas Newman,",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "9 0 20",
+          "land_val": "4 5 0",
+          "total_val": "11 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B",
+          "occupier": "Thomas Newman,",
+          "lessor": "Same, .",
+          "desc": "H,O,&L",
+          "area": "11 0 9",
+          "land_val": "6 10 0",
+          "building_val": "0 15 0",
+          "total_val": "11 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 A a",
+          "occupier": "Brien Callaghan,",
+          "lessor": "Same, .",
+          "desc": "H,O,&L",
+          "area": "25 1 15",
+          "land_val": "14 0 0",
+          "building_val": "0 7 0",
+          "total_val": "24 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B",
+          "occupier": "Brien Callaghan,",
+          "lessor": "Same, .",
+          "desc": "Farm-H,O,&L",
+          "area": "20 2 34",
+          "land_val": "9 0 0",
+          "building_val": "0 13 0",
+          "total_val": "24 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Henry Callaghan,",
+          "lessor": "Same, .",
+          "desc": "H,O,&L",
+          "area": "7 0 10",
+          "land_val": "2 12 9",
+          "building_val": "0 8 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Michael Gallagher,",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "2 1 13",
+          "land_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Anne Fay, .",
+          "lessor": "Michael Gallagher,",
+          "desc": "H&L",
+          "area": "1 0 6",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "10 A",
+          "occupier": "Laurence Cregan, (See also lot 29.)",
+          "lessor": "Earl of Fingall,",
+          "desc": "L",
+          "area": "5 0 30",
+          "land_val": "0 10 0",
+          "total_val": "1 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B a",
+          "occupier": "Laurence Cregan, (See also lot 29.)",
+          "lessor": "Earl of Fingall,",
+          "desc": "H,O,&L",
+          "area": "1 2 15",
+          "land_val": "0 15 0",
+          "building_val": "0 10 0",
+          "total_val": "1 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Patrick Brien, .",
+          "lessor": "Same, .",
+          "desc": "H,O,&L",
+          "area": "3 3 7",
+          "land_val": "1 0 0",
+          "building_val": "0 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "12 -",
+          "occupier": "Mary Callaghan, .",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "4 3 15",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "Laurence Trevers,",
+          "lessor": "Same, .",
+          "desc": "H&L",
+          "area": "7 1 30",
+          "land_val": "1 12 0",
+          "building_val": "0 8 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "14 A",
+          "occupier": "Patrick Garry, .",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "5 1 37",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "B a",
+          "occupier": "James Garry, .",
+          "lessor": "Same, .",
+          "desc": "H,O,&L",
+          "area": "3 0 29",
+          "land_val": "1 5 0",
+          "building_val": "0 10 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "15 A",
+          "occupier": "John Fitzsimons,",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "1 3 21",
+          "land_val": "0 5 0",
+          "total_val": "2 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "B",
+          "occupier": "John Fitzsimons,",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "5 0 11",
+          "land_val": "0 15 0",
+          "total_val": "2 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "C a",
+          "occupier": "John Fitzsimons,",
+          "lessor": "Same, .",
+          "desc": "H,O,&L",
+          "area": "1 3 13",
+          "land_val": "0 15 0",
+          "building_val": "0 10 0",
+          "total_val": "2 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "16 A",
+          "occupier": "Patrick Sleavin,",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "1 2 10",
+          "land_val": "0 5 0",
+          "total_val": "1 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B a",
+          "occupier": "Patrick Sleavin,",
+          "lessor": "Same, .",
+          "desc": "H,O,&L",
+          "area": "2 0 36",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "17 a",
+          "occupier": "Commissioners of National Education,",
+          "lessor": "Same, .",
+          "desc": "National school-H&L attached",
+          "area": "2 1 19",
+          "land_val": "1 10 0",
+          "building_val": "1 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "18 A",
+          "occupier": "James Caffrey, .",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "2 0 14",
+          "land_val": "0 10 0",
+          "total_val": "3 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B a",
+          "occupier": "James Caffrey, .",
+          "lessor": "Same, .",
+          "desc": "H,O,&L",
+          "area": "4 0 31",
+          "land_val": "2 5 0",
+          "building_val": "0 5 0",
+          "total_val": "3 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "19 a",
+          "occupier": "Owen Treanor, .",
+          "lessor": "Same, .",
+          "desc": "H,O,&L",
+          "area": "1 2 23",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "20 a",
+          "occupier": "John Keirnan, .",
+          "lessor": "Same, .",
+          "desc": "H,O,&L",
+          "area": "60 0 0",
+          "land_val": "36 15 0",
+          "building_val": "0 15 0",
+          "total_val": "37 10 0"
+        },
+        {
+          "mr": "21 a",
+          "occupier": "Patrick Cosgrave,",
+          "lessor": "Same, .",
+          "desc": "H,O,&L",
+          "area": "7 3 29",
+          "land_val": "4 10 0",
+          "building_val": "0 10 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Andrew Cregan, (See also 23 A b.)",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "8 2 33",
+          "land_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "23 A a",
+          "occupier": "Anne Kean,",
+          "lessor": "Same, .",
+          "desc": "H,O,&L",
+          "area": "3 3 7",
+          "land_val": "2 0 0",
+          "building_val": "0 5 0",
+          "total_val": "4 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "B",
+          "occupier": "Anne Kean,",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "4 0 33",
+          "land_val": "2 5 0",
+          "total_val": "4 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "- A b",
+          "occupier": "Andrew Cregan,",
+          "lessor": "Same, .",
+          "desc": "H,O,&G",
+          "area": "0 1 15",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "24 A",
+          "occupier": "Thomas Masterson,",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "3 1 33",
+          "land_val": "1 5 0",
+          "total_val": "10 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B",
+          "occupier": "Thomas Masterson,",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "12 2 4",
+          "land_val": "8 15 0",
+          "total_val": "10 0 0",
+          "n_shared": 2
+        }
+      ]
+    }
+  ]
+}

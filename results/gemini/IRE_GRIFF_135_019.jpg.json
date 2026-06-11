@@ -1,0 +1,708 @@
+{
+  "parishes": [
+    {
+      "parish": "DUNMURRAGHILL",
+      "entries": [
+        {
+          "mr": "— i",
+          "townland": "DUNMURRAGHILL",
+          "occupier": "James Hunter",
+          "lessor": "Sir Gerald G. Aylmer, Bt.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "— k",
+          "occupier": "Henry Manders",
+          "lessor": "do.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "— l",
+          "occupier": "Patrick Beahan",
+          "lessor": "do.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 13 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "— m",
+          "occupier": "Thos. Fadden & Jn. Leary",
+          "lessor": "do.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 13 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "— n",
+          "occupier": "James King",
+          "lessor": "do.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 13 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "— o",
+          "occupier": "John Weekes",
+          "lessor": "do.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 13 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "— p",
+          "occupier": "Patrick Tully",
+          "lessor": "do.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 13 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "— q",
+          "occupier": "John Talbot",
+          "lessor": "do.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 13 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Anthony Dunne",
+          "lessor": "Alexander Weir",
+          "desc": "H,O,&L",
+          "area": "3 2 30",
+          "land_val": "1 10 0",
+          "building_val": "1 0 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Alexander Weir",
+          "lessor": "Sir Gerald G. Aylmer, Bt.",
+          "desc": "L",
+          "area": "72 2 30",
+          "land_val": "44 0 0",
+          "building_val": "",
+          "total_val": "44 0 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Constabulary Force",
+          "lessor": "do.",
+          "desc": "Police barrack and yard",
+          "area": "0 0 8",
+          "land_val": "",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "William Smith",
+          "lessor": "do.",
+          "desc": "H,O,&L",
+          "area": "30 1 11",
+          "land_val": "12 0 0",
+          "building_val": "1 10 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Walter Charles",
+          "lessor": "William Brereton",
+          "desc": "H,O,&L",
+          "area": "—",
+          "land_val": "0 15 0",
+          "building_val": "1 10 0",
+          "total_val": "2 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "6 b",
+          "occupier": "Patrick Monahan",
+          "lessor": "do.",
+          "desc": "H,O,&L",
+          "area": "2 0 5",
+          "land_val": "0 15 0",
+          "building_val": "1 10 0",
+          "total_val": "2 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "7",
+          "occupier": "William Brereton",
+          "lessor": "Sir Gerald G. Aylmer, Bt.",
+          "desc": "H,O,&L",
+          "area": "153 3 36",
+          "land_val": "127 0 0",
+          "building_val": "14 10 0",
+          "total_val": "141 10 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "—",
+          "occupier": "do.",
+          "lessor": "do.",
+          "desc": "Lime-kiln",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "—",
+          "total_val": "5 0 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "8 b",
+          "occupier": "Thomas M'Cann",
+          "lessor": "William Brereton",
+          "desc": "H",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "8 c",
+          "occupier": "Martin Murphy",
+          "lessor": "do.",
+          "desc": "H",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "8",
+          "occupier": "James Doherty",
+          "lessor": "do.",
+          "desc": "H,O,&L",
+          "area": "2 2 18",
+          "land_val": "2 0 0",
+          "building_val": "1 10 0",
+          "total_val": "3 10 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "9",
+          "occupier": "Alexander Grant",
+          "lessor": "Sir Gerald G. Aylmer, Bt.",
+          "desc": "H,O,&L",
+          "area": "127 3 34",
+          "land_val": "117 10 0",
+          "building_val": "7 15 0",
+          "total_val": "125 5 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "",
+          "occupier": "Total",
+          "lessor": "",
+          "desc": "",
+          "area": "501 3 30",
+          "land_val": "377 10 0",
+          "building_val": "62 3 0",
+          "total_val": "444 13 0",
+          "is_total": 1
+        }
+      ]
+    },
+    {
+      "parish": "SCULLOGESTOWN",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "BALLYTEIGE",
+          "os": "3 & 9",
+          "occupier": "James Reilly",
+          "lessor": "Sir William Hort, Bt.",
+          "desc": "L",
+          "area": "1 2 2",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Norton",
+          "lessor": "do.",
+          "desc": "L",
+          "area": "160 3 14",
+          "land_val": "156 0 0",
+          "building_val": "",
+          "total_val": "156 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Total",
+          "lessor": "",
+          "desc": "",
+          "area": "162 1 16",
+          "land_val": "157 10 0",
+          "building_val": "",
+          "total_val": "157 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "HORTLAND",
+          "os": "4 & 9",
+          "occupier": "John Donohoe",
+          "lessor": "Sir William Hort, Bt.",
+          "desc": "Herd's ho., offices, & land",
+          "area": "303 1 20",
+          "land_val": "355 0 0",
+          "building_val": "3 5 0",
+          "total_val": "358 5 0"
+        },
+        {
+          "mr": "2 A G B C",
+          "occupier": "Sir William Hort, Bt.",
+          "lessor": "In fee",
+          "desc": "H,O, Steward's house, &L",
+          "area": "694 3 4",
+          "land_val": "179 0 0",
+          "building_val": "54 0 0",
+          "total_val": "233 0 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Grave-yard",
+          "lessor": "Sir William Hort, Bt.",
+          "desc": "Grave-yard",
+          "area": "0 2 0",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0",
+          "n_shared": 9
+        },
+        {
+          "mr": "3",
+          "occupier": "William Coates, Esq.",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "3 1 33",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0",
+          "n_shared": 9
+        },
+        {
+          "mr": "4",
+          "occupier": "Anne Clare",
+          "lessor": "Sir William Hort, Bt.",
+          "desc": "L",
+          "area": "9 3 30",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 0 0",
+          "n_shared": 9
+        },
+        {
+          "mr": "—",
+          "occupier": "John Stewart",
+          "lessor": "do.",
+          "desc": "L",
+          "area": "—",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 0 0",
+          "n_shared": 9
+        },
+        {
+          "mr": "5",
+          "occupier": "John Meara",
+          "lessor": "do.",
+          "desc": "H,O,&L",
+          "area": "4 3 15",
+          "land_val": "3 15 0",
+          "building_val": "2 0 0",
+          "total_val": "5 15 0",
+          "n_shared": 9
+        },
+        {
+          "mr": "6",
+          "occupier": "John Stewart",
+          "lessor": "do.",
+          "desc": "H,O,&L",
+          "area": "4 3 31",
+          "land_val": "3 15 0",
+          "building_val": "1 15 0",
+          "total_val": "5 10 0",
+          "n_shared": 9
+        },
+        {
+          "mr": "7",
+          "occupier": "Anne Clare",
+          "lessor": "do.",
+          "desc": "H,O,&L",
+          "area": "31 0 15",
+          "land_val": "19 15 0",
+          "building_val": "4 10 0",
+          "total_val": "24 5 0",
+          "n_shared": 9
+        },
+        {
+          "mr": "8 A G B C",
+          "occupier": "Anne Colgan",
+          "lessor": "do.",
+          "desc": "H,O,&L",
+          "area": "46 1 22",
+          "land_val": "21 0 0",
+          "building_val": "1 15 0",
+          "total_val": "22 15 0",
+          "n_shared": 9
+        },
+        {
+          "mr": "9",
+          "occupier": "Patrick Darcy",
+          "lessor": "do.",
+          "desc": "H,O,&L",
+          "area": "26 2 34",
+          "land_val": "11 0 0",
+          "building_val": "0 15 0",
+          "total_val": "11 15 0",
+          "n_shared": 9
+        },
+        {
+          "mr": "10 A B C G",
+          "occupier": "Patrick Mallin, jun.",
+          "lessor": "do.",
+          "desc": "H,O,&L",
+          "area": "20 3 36",
+          "land_val": "5 15 0",
+          "building_val": "0 10 0",
+          "total_val": "6 5 0",
+          "n_shared": 9
+        },
+        {
+          "mr": "— b",
+          "occupier": "James Mallin",
+          "lessor": "Patrick Mallin, jun.",
+          "desc": "H",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "11 A B",
+          "occupier": "James Mallin",
+          "lessor": "Sir William Hort, Bt.",
+          "desc": "L",
+          "area": "16 0 4",
+          "land_val": "5 0 0",
+          "building_val": "",
+          "total_val": "5 0 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "12",
+          "occupier": "Margaret Devey",
+          "lessor": "do.",
+          "desc": "H&L",
+          "area": "6 3 27",
+          "land_val": "1 15 0",
+          "building_val": "0 5 0",
+          "total_val": "2 0 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "13 A B",
+          "occupier": "William Colgan",
+          "lessor": "do.",
+          "desc": "H&L",
+          "area": "28 1 37",
+          "land_val": "9 0 0",
+          "building_val": "—",
+          "total_val": "9 0 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "14",
+          "occupier": "Bridget Kerr",
+          "lessor": "do.",
+          "desc": "H&L",
+          "area": "6 2 20",
+          "land_val": "2 0 0",
+          "building_val": "0 5 0",
+          "total_val": "2 5 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "15",
+          "occupier": "Thomas Egan",
+          "lessor": "do.",
+          "desc": "H&L",
+          "area": "5 1 10",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "16",
+          "occupier": "John Norris",
+          "lessor": "do.",
+          "desc": "H&L",
+          "area": "2 3 10",
+          "land_val": "0 3 0",
+          "building_val": "0 5 0",
+          "total_val": "0 8 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "17",
+          "occupier": "Patrick Hester",
+          "lessor": "do.",
+          "desc": "H&L",
+          "area": "18 1 10",
+          "land_val": "4 10 0",
+          "building_val": "0 10 0",
+          "total_val": "5 0 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "18",
+          "occupier": "Peter Glennon",
+          "lessor": "do.",
+          "desc": "H&L",
+          "area": "3 0 39",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "19 A B G",
+          "occupier": "James Egan",
+          "lessor": "do.",
+          "desc": "H&L",
+          "area": "10 3 28",
+          "land_val": "2 10 0",
+          "building_val": "0 5 0",
+          "total_val": "2 15 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "20 A B",
+          "occupier": "Christr. Cunningham",
+          "lessor": "do.",
+          "desc": "L",
+          "area": "20 3 38",
+          "land_val": "13 0 0",
+          "building_val": "—",
+          "total_val": "13 0 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "21",
+          "occupier": "Michael Farrelly",
+          "lessor": "do.",
+          "desc": "L",
+          "area": "17 0 10",
+          "land_val": "7 10 0",
+          "building_val": "—",
+          "total_val": "7 10 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "22 A B G",
+          "occupier": "John Stapleton",
+          "lessor": "do.",
+          "desc": "H,O,&L",
+          "area": "10 0 37",
+          "land_val": "4 5 0",
+          "building_val": "1 5 0",
+          "total_val": "5 10 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "23, 26a & 28b",
+          "occupier": "Thomas Morris",
+          "lessor": "do.",
+          "desc": "H&L",
+          "area": "3 2 5",
+          "land_val": "0 10 0",
+          "building_val": "1 5 0",
+          "total_val": "1 15 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "24 A B & 28c",
+          "occupier": "Christopher Reilly",
+          "lessor": "do.",
+          "desc": "H&L",
+          "area": "4 1 29",
+          "land_val": "1 10 0",
+          "building_val": "1 5 0",
+          "total_val": "2 15 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "25 A B C & 28c",
+          "occupier": "Patrick Reilly",
+          "lessor": "do.",
+          "desc": "H&L",
+          "area": "5 0 14",
+          "land_val": "2 0 0",
+          "building_val": "1 5 0",
+          "total_val": "3 5 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "26 A G B",
+          "occupier": "Archibald M'Donald",
+          "lessor": "do.",
+          "desc": "H,O,&L",
+          "area": "16 3 27",
+          "land_val": "8 15 0",
+          "building_val": "2 5 0",
+          "total_val": "11 0 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "27 A B",
+          "occupier": "John White",
+          "lessor": "do.",
+          "desc": "L",
+          "area": "4 2 20",
+          "land_val": "1 15 0",
+          "building_val": "—",
+          "total_val": "1 15 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "28 — a",
+          "occupier": "Lewis Tellon",
+          "lessor": "do.",
+          "desc": "H&L",
+          "area": "3 3 5",
+          "land_val": "1 5 0",
+          "building_val": "1 5 0",
+          "total_val": "2 10 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "29 & 28 f",
+          "occupier": "William Reilly",
+          "lessor": "do.",
+          "desc": "H&L",
+          "area": "3 2 38",
+          "land_val": "1 0 0",
+          "building_val": "1 5 0",
+          "total_val": "2 5 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "30",
+          "occupier": "Michael Stapleton",
+          "lessor": "do.",
+          "desc": "H&L",
+          "area": "4 1 15",
+          "land_val": "1 10 0",
+          "building_val": "1 0 0",
+          "total_val": "2 10 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "31 & 28 g",
+          "occupier": "Lawrence Clinton",
+          "lessor": "do.",
+          "desc": "H&L",
+          "area": "3 2 25",
+          "land_val": "1 0 0",
+          "building_val": "1 5 0",
+          "total_val": "2 5 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "32",
+          "occupier": "Bridget Monahan",
+          "lessor": "do.",
+          "desc": "H&L",
+          "area": "5 0 21",
+          "land_val": "1 0 0",
+          "building_val": "0 5 0",
+          "total_val": "1 5 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "33",
+          "occupier": "John Reilly",
+          "lessor": "do.",
+          "desc": "L",
+          "area": "1 1 6",
+          "land_val": "0 5 0",
+          "building_val": "—",
+          "total_val": "0 5 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "34",
+          "occupier": "William Smith",
+          "lessor": "do.",
+          "desc": "H&L",
+          "area": "3 1 15",
+          "land_val": "0 15 0",
+          "building_val": "0 10 0",
+          "total_val": "1 5 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "35",
+          "occupier": "Michael Fallon",
+          "lessor": "do.",
+          "desc": "H&L",
+          "area": "5 2 37",
+          "land_val": "1 10 0",
+          "building_val": "0 5 0",
+          "total_val": "1 15 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "36 A B & 28 h",
+          "occupier": "James Stapleton",
+          "lessor": "do.",
+          "desc": "H&L",
+          "area": "4 3 14",
+          "land_val": "1 10 0",
+          "building_val": "1 5 0",
+          "total_val": "2 15 0",
+          "n_shared": 28
+        },
+        {
+          "mr": "37 & 28 j",
+          "occupier": "Susan Clare",
+          "lessor": "do.",
+          "desc": "H&L",
+          "area": "3 3 20",
+          "land_val": "1 0 0",
+          "building_val": "1 5 0",
+          "total_val": "2 5 0",
+          "n_shared": 28
+        }
+      ]
+    }
+  ]
+}

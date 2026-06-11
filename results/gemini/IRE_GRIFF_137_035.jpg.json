@@ -1,0 +1,555 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF GILLTOWN",
+      "entries": [
+        {
+          "mr": "7 k",
+          "townland": "GRANGEMORE",
+          "occupier": "Reps. M. C. Roberts",
+          "lessor": "John La Touche",
+          "desc": "L (plantation)",
+          "area": "0 3 10",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "8",
+          "occupier": "Marcus Toole",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "2 2 1",
+          "land_val": "2 5 0",
+          "building_val": "0 15 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Patrick Ryan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "3 1 1",
+          "land_val": "3 0 0",
+          "building_val": "1 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "John James",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "1 2 6",
+          "land_val": "1 10 0",
+          "building_val": "1 5 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "10 b",
+          "occupier": "Thomas Robertson",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "1 3 1",
+          "land_val": "1 15 0",
+          "building_val": "4 10 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Constabulary force",
+          "lessor": "Same",
+          "desc": "Police-barrack & offices",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "John La Touche",
+          "lessor": "",
+          "desc": "Half rent received for Police-barrack, £5.",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "11 A B",
+          "occupier": "Patrick Cardiff",
+          "lessor": "John La Touche",
+          "desc": "Offices and land",
+          "area": "7 2 3",
+          "land_val": "6 15 0",
+          "building_val": "0 15 0",
+          "total_val": "16 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "11 B a",
+          "occupier": "Peter Tipper",
+          "lessor": "Same",
+          "desc": "Land",
+          "area": "10 0 27",
+          "land_val": "8 10 0",
+          "building_val": "",
+          "total_val": "16 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "12",
+          "occupier": "James Shaughnessy",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 1 16",
+          "land_val": "0 5 0",
+          "building_val": "1 10 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "James Taylor",
+          "lessor": "Same",
+          "desc": "O&L",
+          "area": "2 3 2",
+          "land_val": "2 5 0",
+          "building_val": "0 15 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Kenny James",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "4 2 1",
+          "land_val": "3 10 0",
+          "building_val": "1 5 9",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Patrick Grehan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "4 2 2",
+          "land_val": "3 10 0",
+          "building_val": "1 15 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "James Pitchard",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "5 0 7",
+          "land_val": "3 10 0",
+          "building_val": "1 5 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "John Butterfield",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "1 2 0",
+          "land_val": "1 5 0",
+          "building_val": "2 0 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Christopher Toole",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "86 3 32",
+          "land_val": "52 0 0",
+          "building_val": "1 10 0",
+          "total_val": "53 10 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "James Conway",
+          "lessor": "John J. Turner",
+          "desc": "H,O,&L",
+          "area": "96 3 37",
+          "land_val": "57 0 0",
+          "building_val": "1 0 0",
+          "total_val": "58 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "James Conway",
+          "lessor": "John J. Turner",
+          "desc": "Office and land",
+          "area": "2 1 1",
+          "land_val": "1 10 0",
+          "building_val": "0 5 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "645 3 8",
+          "land_val": "488 5 0",
+          "building_val": "45 15 0",
+          "total_val": "534 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "",
+          "desc": "Police-barrack & offices",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "desc": "Total, exclusive of Exemptions",
+          "area": "645 3 8",
+          "land_val": "488 5 0",
+          "building_val": "41 15 0",
+          "total_val": "530 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "KENNYCOURT",
+          "os": "29",
+          "occupier": "Joseph Kilby",
+          "lessor": "Joseph Kilby",
+          "desc": "H,O,&L",
+          "area": "15 2 7",
+          "land_val": "17 0 0",
+          "building_val": "19 0 0",
+          "total_val": "36 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Ellen Maguirk",
+          "lessor": "James Lambert",
+          "desc": "H,O,&L",
+          "area": "238 0 38",
+          "land_val": "196 0 0",
+          "building_val": "2 10 0",
+          "total_val": "198 10 0"
+        },
+        {
+          "mr": "1 c",
+          "occupier": "John Deegan",
+          "lessor": "Joseph Kilby",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 2 0",
+          "building_val": "0 15 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "1 d",
+          "occupier": "Edward Maguirk",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "1 e",
+          "occupier": "Bridget Delany",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 1 10",
+          "land_val": "0 5 0",
+          "building_val": "1 0 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "1 f",
+          "occupier": "Charles Toole",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 0 25",
+          "land_val": "0 2 0",
+          "building_val": "0 15 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Richard Hornidge",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 1 0",
+          "building_val": "0 10 0",
+          "total_val": "0 11 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Henry Smith",
+          "lessor": "In fee",
+          "desc": "Herd's-ho., off., & land",
+          "area": "176 0 17",
+          "land_val": "125 10 0",
+          "building_val": "0 15 0",
+          "total_val": "126 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Richard Jackson",
+          "lessor": "Reps. Wm. Bookey",
+          "desc": "L",
+          "area": "20 1 20",
+          "land_val": "17 5 0",
+          "building_val": "",
+          "total_val": "17 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Michael M'Donnell",
+          "lessor": "Same",
+          "desc": "Herd's-ho., off., & land",
+          "area": "122 0 19",
+          "land_val": "100 0 0",
+          "building_val": "0 15 0",
+          "total_val": "100 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "",
+          "lessor": "John La Touche",
+          "desc": "Herd's-ho., off's., & land",
+          "area": "160 2 0",
+          "land_val": "160 0 0",
+          "building_val": "2 0 0",
+          "total_val": "162 0 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "733 2 21",
+          "land_val": "616 5 0",
+          "building_val": "28 15 0",
+          "total_val": "645 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "MILEMILL",
+          "os": "29",
+          "sublocation_1": "VILLAGE OF MILEMILL",
+          "occupier": "Christopher Toole",
+          "lessor": "Free",
+          "desc": "L",
+          "area": "1 2 39",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "1 {",
+          "occupier": "Elizabeth Price",
+          "lessor": "Free",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "1 {",
+          "occupier": "Thomas Collins",
+          "lessor": "Christopher Toole",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Thomas Keenan",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Timothy Carroll",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Thomas Byrne, jun.",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Comerford",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Catherine Conway",
+          "lessor": "Free",
+          "desc": "H&G",
+          "area": "0 1 30",
+          "land_val": "0 10 0",
+          "building_val": "0 10 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Julia Duff",
+          "lessor": "Free",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 2 0",
+          "building_val": "0 13 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Peter Keenan",
+          "lessor": "Matthew Byrne",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Thomas Toole",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Sarah Delany",
+          "lessor": "Peter Fally",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Mary Ellis",
+          "lessor": "Same",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Robert Hughes",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Elizabeth Murphy",
+          "lessor": "Free",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "1 10 0",
+          "total_val": "1 11 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Lawrence Byrne",
+          "lessor": "Free",
+          "desc": "H&G",
+          "area": "0 2 30",
+          "land_val": "0 15 0",
+          "building_val": "0 14 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Thomas Byrne",
+          "lessor": "Free",
+          "desc": "H,O,&G",
+          "area": "0 0 30",
+          "land_val": "0 4 0",
+          "building_val": "0 15 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Edward Flanagan",
+          "lessor": "Free",
+          "desc": "H&G",
+          "area": "0 1 10",
+          "land_val": "0 5 0",
+          "building_val": "1 16 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Robert Pitchard",
+          "lessor": "Free",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Eliza Martin",
+          "lessor": "Free",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "David Ellis",
+          "lessor": "Eliza Martin",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,441 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF JAGO",
+      "entries": [
+        {
+          "mr": "4 A",
+          "townland": "BOLEYBEG",
+          "is_continued": 1,
+          "occupier": "John Keogh",
+          "lessor": "Rev John Finley",
+          "desc": "H,O,&L",
+          "area": "57 3 3",
+          "land_val": "50 0 0",
+          "building_val": "1 5 0",
+          "total_val": "51 5 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "Mary Maguire",
+          "lessor": "Joseph Kilby",
+          "desc": "L",
+          "area": "11 3 20",
+          "land_val": "10 0 0",
+          "building_val": "",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "5 A",
+          "occupier": "Peter Keogh",
+          "lessor": "John Keogh",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "Peter Keogh",
+          "lessor": "Rev. John Finley",
+          "desc": "H,O,&L",
+          "area": "3 3 10",
+          "land_val": "3 5 0",
+          "building_val": "1 10 0",
+          "total_val": ""
+        },
+        {
+          "mr": "6 A",
+          "occupier": "William Norton",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "28 0 4",
+          "land_val": "24 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "— B",
+          "occupier": "William Norton",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "13 0 20",
+          "land_val": "6 10 0",
+          "building_val": "1 0 0",
+          "total_val": "29 5 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Thomas Whelan",
+          "lessor": "William Norton",
+          "desc": "L",
+          "area": "21 0 25",
+          "land_val": "13 15 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "— b",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": ""
+        },
+        {
+          "mr": "— a",
+          "occupier": "Elizabeth Burke",
+          "lessor": "Rev. John Finley",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": ""
+        },
+        {
+          "mr": "— b",
+          "occupier": "Michael Keogh",
+          "lessor": "Elizabeth Burke",
+          "desc": "H&L",
+          "area": "1 3 5",
+          "land_val": "0 18 0",
+          "building_val": "0 10 0",
+          "total_val": "21 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Thomas Walsh",
+          "lessor": "Rev. John Finley",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Lawrence Rochfort",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "49 1 20",
+          "land_val": "35 0 0",
+          "building_val": "1 0 0",
+          "total_val": "36 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Mary Nowlan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "9 0 30",
+          "land_val": "7 15 0",
+          "building_val": "0 15 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "James M'Evoy",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "13 3 0",
+          "land_val": "11 10 0",
+          "building_val": "0 15 0",
+          "total_val": "12 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "James M'Evoy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "69 1 14",
+          "land_val": "51 0 0",
+          "building_val": "2 0 0",
+          "total_val": "53 0 0"
+        },
+        {
+          "is_total": 1,
+          "desc": "Total",
+          "area": "593 0 0",
+          "land_val": "506 18 0",
+          "building_val": "20 5 0",
+          "total_val": "527 3 0"
+        },
+        {
+          "mr": "1",
+          "townland": "GAGANSTOWN",
+          "os": "29",
+          "occupier": "John M'Donnell",
+          "lessor": "William R. Brereton",
+          "desc": "H,O,&L",
+          "area": "17 2 25",
+          "land_val": "14 0 0",
+          "building_val": "1 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "Peter Brien",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "29 3 35",
+          "land_val": "25 10 0",
+          "building_val": "1 15 0",
+          "total_val": ""
+        },
+        {
+          "mr": "— B",
+          "occupier": "Peter Brien",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "43 3 22",
+          "land_val": "33 0 0",
+          "building_val": "",
+          "total_val": "60 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Margaret Higgins",
+          "lessor": "Peter Brien",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "William Kennedy",
+          "lessor": "George W. West",
+          "desc": "H,O,&L",
+          "area": "94 3 22",
+          "land_val": "96 10 0",
+          "building_val": "19 0 0",
+          "total_val": "115 10 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "William Kennedy",
+          "lessor": "William R. Brereton",
+          "desc": "Forge and land",
+          "area": "49 2 27",
+          "land_val": "45 10 0",
+          "building_val": "0 10 0",
+          "total_val": "46 0 0"
+        },
+        {
+          "mr": "3 b",
+          "occupier": "Grave-yard",
+          "desc": "Grave-yard",
+          "area": "0 1 20",
+          "land_val": "0 8 0",
+          "building_val": "",
+          "total_val": "0 8 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "4 b",
+          "occupier": "James Jordan",
+          "lessor": "William Kennedy",
+          "desc": "H,O,&G",
+          "area": "0 1 10",
+          "land_val": "0 5 0",
+          "building_val": "0 15 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "Eliza Jordan",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John La Touche",
+          "lessor": "In fee",
+          "desc": "L (fox cover)",
+          "area": "7 1 34",
+          "land_val": "5 0 0",
+          "building_val": "",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Crawford Hampton",
+          "lessor": "John La Touche",
+          "desc": "H,O,&L",
+          "area": "238 2 24",
+          "land_val": "200 0 0",
+          "building_val": "12 0 0",
+          "total_val": "212 0 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Moses Brien",
+          "lessor": "William R. Brereton",
+          "desc": "H,O,&L",
+          "area": "18 1 10",
+          "land_val": "13 0 0",
+          "building_val": "1 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Catherine Murray",
+          "lessor": "Moses Brien",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Catherine Murray",
+          "desc": "River Liffey",
+          "area": "11 2 32",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "is_total": 1,
+          "desc": "Total",
+          "area": "512 3 22",
+          "land_val": "433 3 0",
+          "building_val": "37 5 0",
+          "total_val": "470 8 0"
+        },
+        {
+          "is_exemption": 1,
+          "occupier": "Grave-yard",
+          "desc": "Grave-yard",
+          "area": "0 1 20",
+          "land_val": "0 8 0",
+          "building_val": "",
+          "total_val": "0 8 0"
+        },
+        {
+          "is_total": 1,
+          "is_exemption": 1,
+          "desc": "Total, exclusive of Exemptions",
+          "area": "512 2 2",
+          "land_val": "432 15 0",
+          "building_val": "37 5 0",
+          "total_val": "470 0 0"
+        },
+        {
+          "mr": "1",
+          "townland": "MOORHILL",
+          "os": "29",
+          "occupier": "Catherine Brownrigg",
+          "lessor": "John La Touche",
+          "desc": "L",
+          "area": "206 0 3",
+          "land_val": "140 0 0",
+          "building_val": "",
+          "total_val": "140 0 0"
+        },
+        {
+          "is_total": 1,
+          "desc": "Total",
+          "area": "206 0 3",
+          "land_val": "140 0 0",
+          "building_val": "",
+          "total_val": "140 0 0"
+        }
+      ]
+    },
+    {
+      "parish": "PARISH OF KILL",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "MORGANSTOWN",
+          "os": "24",
+          "occupier": "Sarah Shaw",
+          "lessor": "John Wilson",
+          "desc": "H,O,&L",
+          "area": "3 2 15",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Jeremiah Nowlan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 0 36",
+          "land_val": "4 5 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "3 b",
+          "occupier": "Jeremiah Nowlan",
+          "lessor": "Same",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Edward Brennan",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "3 3 28",
+          "land_val": "2 15 0",
+          "building_val": "0 5 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Michael Nowlan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "7 0 19",
+          "land_val": "5 0 0",
+          "building_val": "0 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Stephen Brophy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "73 2 12",
+          "land_val": "51 0 0",
+          "building_val": "",
+          "total_val": "51 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Martin Hayden",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "1 3 0",
+          "land_val": "1 5 0",
+          "building_val": "1 0 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "is_total": 1,
+          "desc": "Total",
+          "area": "96 0 30",
+          "land_val": "66 15 0",
+          "building_val": "2 10 0",
+          "total_val": "69 5 0"
+        }
+      ]
+    }
+  ]
+}

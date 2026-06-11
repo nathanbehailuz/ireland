@@ -1,0 +1,479 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF ST. JOHN BAPTIST",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "COOPER'S-LOT",
+          "os": "61",
+          "occupier": "John Feehan",
+          "lessor": "Reps. Austin Cooper, Esq.",
+          "desc": "L",
+          "area": "20 2 19",
+          "land_val": "37 0 0",
+          "total_val": "37 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Matthew Hanly",
+          "lessor": "Catherine Neville",
+          "desc": "L",
+          "area": "18 1 10",
+          "land_val": "23 12 0",
+          "total_val": "23 12 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Edmund Hogan",
+          "lessor": "Catherine Neville",
+          "desc": "L",
+          "area": "4 2 3",
+          "land_val": "6 16 0",
+          "total_val": "6 16 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Edmund Hogan",
+          "lessor": "Reps. Austin Cooper, Esq.",
+          "desc": "H&L",
+          "area": "31 3 18",
+          "land_val": "35 1 0",
+          "building_val": "4 8 0",
+          "total_val": "39 9 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Michael Stapleton",
+          "lessor": "Catherine Neville",
+          "desc": "L",
+          "area": "6 1 38",
+          "land_val": "12 6 0",
+          "total_val": "12 6 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Denis Ryan",
+          "lessor": "William Phelan, Esq.",
+          "desc": "H&L",
+          "area": "25 2 31",
+          "land_val": "40 19 0",
+          "building_val": "1 16 0",
+          "total_val": "42 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Thomas Maunsell",
+          "lessor": "William Phelan, Esq.",
+          "desc": "L",
+          "area": "1 1 35",
+          "land_val": "2 1 0",
+          "total_val": "2 1 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Judith Carey",
+          "lessor": "William Phelan, Esq.",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Timothy Ryan",
+          "lessor": "William Phelan, Esq.",
+          "desc": "L",
+          "area": "1 2 18",
+          "land_val": "2 2 0",
+          "total_val": "2 2 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Mary Maunsell",
+          "lessor": "William Phelan, Esq.",
+          "desc": "L",
+          "area": "4 1 17",
+          "land_val": "4 18 0",
+          "total_val": "4 18 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "William Phelan, Esq.",
+          "lessor": "Cashel Commissioners",
+          "desc": "L",
+          "area": "82 1 18",
+          "land_val": "78 2 0",
+          "total_val": "78 2 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Mary Ryan",
+          "lessor": "William Phelan, Esq.",
+          "desc": "H",
+          "building_val": "0 17 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Daniel Burns",
+          "lessor": "William Phelan, Esq.",
+          "desc": "H&G",
+          "area": "0 0 24",
+          "land_val": "0 2 0",
+          "building_val": "0 13 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "Mary Eustace",
+          "lessor": "Cashel Commissioners",
+          "desc": "H&G",
+          "area": "0 1 37",
+          "land_val": "0 6 0",
+          "building_val": "0 9 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Cashel Commissioners",
+          "lessor": "Cashel Commissioners",
+          "desc": "Grave-yard",
+          "area": "0 2 38",
+          "land_val": "0 17 0",
+          "total_val": "0 17 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "12",
+          "occupier": "Patrick Ryan",
+          "lessor": "William Phelan, Esq.",
+          "desc": "O&L",
+          "area": "0 2 34",
+          "land_val": "1 2 0",
+          "building_val": "0 6 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "desc": "Total",
+          "area": "199 1 20",
+          "land_val": "245 4 0",
+          "building_val": "8 19 0",
+          "total_val": "254 3 0",
+          "is_total": 1
+        },
+        {
+          "desc": "Exemptions : Grave-yard",
+          "area": "0 2 38",
+          "land_val": "0 17 0",
+          "total_val": "0 17 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of exemptions",
+          "area": "198 2 22",
+          "land_val": "244 7 0",
+          "building_val": "8 19 0",
+          "total_val": "253 6 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CORRALOUGH",
+          "os": "61",
+          "occupier": "Francis O'Ryan, Esq.",
+          "lessor": "Richard Jordan, Esq.",
+          "desc": "L",
+          "area": "52 2 9",
+          "land_val": "63 8 0",
+          "total_val": "63 8 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Vacant",
+          "lessor": "Francis O'Ryan, Esq.",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Pierce Grace",
+          "lessor": "— Blackwood, Esq.",
+          "desc": "L",
+          "area": "9 2 9",
+          "land_val": "19 2 0",
+          "total_val": "19 2 0"
+        },
+        {
+          "desc": "Total",
+          "area": "62 0 18",
+          "land_val": "82 10 0",
+          "building_val": "0 6 0",
+          "total_val": "82 16 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "GREEN",
+          "os": "61",
+          "sublocation_1": "TOWN OF CASHEL (part of)",
+          "sublocation_2": "FRIAR-STREET",
+          "occupier": "Connor Houraghan",
+          "lessor": "Reps. Daniel Perdrian",
+          "desc": "H,O,&yard",
+          "building_val": "1 7 0",
+          "total_val": "1 7 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Alice Ryan",
+          "lessor": "Reps. Daniel Perdrian",
+          "desc": "H&yard",
+          "building_val": "1 11 0",
+          "total_val": "1 11 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Ellen Cushen",
+          "lessor": "Reps. Daniel Perdrian",
+          "desc": "H&yard",
+          "building_val": "3 9 0",
+          "total_val": "3 9 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Thomas Warren",
+          "lessor": "Michael Horan",
+          "desc": "H&yard",
+          "building_val": "1 4 0",
+          "total_val": "1 4 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Thomas Nowlan",
+          "lessor": "Reps. Daniel Perdrian",
+          "desc": "H&yard",
+          "building_val": "1 8 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Edmund Ryan",
+          "lessor": "Reps. Daniel Perdrian",
+          "desc": "H&yard",
+          "building_val": "1 11 0",
+          "total_val": "1 11 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Jeremiah Connolly",
+          "lessor": "Reps. Daniel Perdrian",
+          "desc": "H&yard",
+          "building_val": "1 7 0",
+          "total_val": "1 7 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Mrs. Ryan",
+          "lessor": "Reps. Daniel Perdrian",
+          "desc": "H&yard",
+          "building_val": "1 11 0",
+          "total_val": "1 11 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "James Furtell",
+          "lessor": "Reps. Daniel Perdrian",
+          "desc": "O&yard",
+          "building_val": "0 19 0",
+          "total_val": "0 19 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Mary Mannsell",
+          "lessor": "Reps. Daniel Perdrian",
+          "desc": "H,O,&yard",
+          "building_val": "2 8 0",
+          "total_val": "2 8 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Patrick Dwyer",
+          "lessor": "Avary Jordan, Esq.",
+          "desc": "H,O,&yard",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "James Skehan",
+          "lessor": "Avary Jordan, Esq.",
+          "desc": "H&yard",
+          "building_val": "1 8 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "John Roche",
+          "lessor": "Avary Jordan, Esq.",
+          "desc": "H,ruins,&G",
+          "area": "0 2 4",
+          "land_val": "1 12 0",
+          "building_val": "1 4 0",
+          "total_val": "2 16 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Mary Hackett",
+          "lessor": "Free",
+          "desc": "H,O,&yard",
+          "building_val": "3 9 0",
+          "total_val": "3 9 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Maurice Luby",
+          "lessor": "Cashel Commissioners",
+          "desc": "H,O,&yard",
+          "building_val": "3 1 0",
+          "total_val": "3 1 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "James Stapleton",
+          "lessor": "Mary English",
+          "desc": "H",
+          "building_val": "0 19 0",
+          "total_val": "0 19 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Mary English",
+          "lessor": "Cashel Commissioners",
+          "desc": "H,yard,&G",
+          "area": "0 0 10",
+          "land_val": "0 4 0",
+          "building_val": "1 11 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Michael Eustace",
+          "lessor": "Cashel Commissioners",
+          "desc": "H,yard,&small G",
+          "building_val": "1 13 0",
+          "total_val": "1 13 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Thomas Mecain",
+          "lessor": "Michael Eustace",
+          "desc": "H",
+          "building_val": "0 14 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "John Rawlins, sen.",
+          "lessor": "Cashel Commissioners",
+          "desc": "H,forge,&yard",
+          "building_val": "0 19 0",
+          "total_val": "0 19 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "James Purtell",
+          "lessor": "Cashel Commissioners",
+          "desc": "Ruins&G",
+          "area": "0 0 3"
+        },
+        {
+          "mr": "22",
+          "occupier": "Timothy Ryan",
+          "lessor": "Cashel Commissioners",
+          "desc": "H,O,&small G"
+        },
+        {
+          "mr": "23",
+          "occupier": "Patrick Mullowney",
+          "lessor": "Cashel Commissioners",
+          "desc": "H,yard,&small G",
+          "building_val": "2 1 0",
+          "total_val": "2 1 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Thomas Rawlins",
+          "lessor": "Cashel Commissioners",
+          "desc": "H&yard",
+          "building_val": "1 16 0",
+          "total_val": "1 16 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Patrick Dunne",
+          "lessor": "Cashel Commissioners",
+          "desc": "H&yard",
+          "building_val": "2 3 0",
+          "total_val": "2 3 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "James Brook",
+          "lessor": "James Cashen",
+          "desc": "H&yard",
+          "building_val": "0 17 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Michael Connolly",
+          "lessor": "James Cashen",
+          "desc": "H&yard",
+          "building_val": "0 19 0",
+          "total_val": "0 19 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Catherine Ryall",
+          "lessor": "Cashel Commissioners",
+          "desc": "H&yard",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Margaret Power",
+          "lessor": "Cashel Commissioners",
+          "desc": "H",
+          "building_val": "1 11 0",
+          "total_val": "1 11 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Patrick Dea",
+          "lessor": "Margaret Power",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "William Harley",
+          "lessor": "Cashel Commissioners",
+          "desc": "H",
+          "building_val": "0 14 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "Edward Morrissy",
+          "lessor": "William Harley",
+          "desc": "H",
+          "building_val": "1 17 0",
+          "total_val": "1 17 0"
+        }
+      ]
+    }
+  ]
+}

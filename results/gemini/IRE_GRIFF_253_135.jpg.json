@@ -1,0 +1,381 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF CALRY",
+      "entries": [
+        {
+          "mr": "11",
+          "townland": "RATHQUARTER",
+          "occupier": "Dr. Johnson,",
+          "lessor": "The Immediate Lessor,",
+          "desc": "L",
+          "area": "11 1 25",
+          "land_val": "17 12 0",
+          "building_val": "",
+          "total_val": "17 12 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "12",
+          "occupier": "William Clarke,",
+          "lessor": "John Wynne,",
+          "desc": "L",
+          "area": "15 2 20",
+          "land_val": "24 0 0",
+          "building_val": "",
+          "total_val": "24 0 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "Owen Wynne,",
+          "lessor": "Captain James Martin,",
+          "desc": "L,H,gate-lodge,&O",
+          "area": "14 2 8",
+          "land_val": "18 0 0",
+          "building_val": "35 0 0",
+          "total_val": "53 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Owen Wynne,",
+          "lessor": "Robert Tyler,",
+          "desc": "L",
+          "area": "7 0 35",
+          "land_val": "14 0 0",
+          "building_val": "",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "15 a",
+          "occupier": "Owen Wynne,",
+          "lessor": "James Gillmor,",
+          "desc": "L,herd's ho.,&O",
+          "area": "12 1 10",
+          "land_val": "16 10 0",
+          "building_val": "0 10 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Owen Wynne,",
+          "lessor": "John Wynne,",
+          "desc": "L",
+          "area": "3 0 0",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Owen Wynne,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "0 0 16",
+          "land_val": "0 4 0",
+          "building_val": "",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Owen Wynne,",
+          "lessor": "Rev. William Noble,",
+          "desc": "L",
+          "area": "0 2 36",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Hugh O'Beirne,",
+          "lessor": "William Clarke,",
+          "desc": "L,H,&O, Orchard,",
+          "area": "1 1 1",
+          "land_val": "1 10 0",
+          "building_val": "4 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "20 a",
+          "occupier": "Thomas Henry,",
+          "lessor": "John Wynne,",
+          "desc": "L,H,&O, Orchard,",
+          "area": "1 3 10",
+          "land_val": "3 0 0",
+          "building_val": "2 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "21",
+          "desc": "Land in connexion with county infirmary and fever hospital (see Exemptions).",
+          "area": "1 2 0",
+          "land_val": "1 13 0",
+          "building_val": "",
+          "total_val": "1 13 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "22",
+          "occupier": "John Wynne,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "1 2 0",
+          "land_val": "0 11 0",
+          "building_val": "",
+          "total_val": "0 11 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "22",
+          "occupier": "Harpur Campbell,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "1 2 0",
+          "land_val": "0 11 0",
+          "building_val": "",
+          "total_val": "0 11 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "23 a",
+          "sublocation_1": "NORTH MUNICIPAL WARD (part of)",
+          "occupier": "Isaac Charlton,",
+          "lessor": "John Wynne,",
+          "desc": "L,H,&O, Pound,",
+          "area": "1 1 0",
+          "land_val": "1 7 0",
+          "building_val": "1 5 0",
+          "total_val": "2 12 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Francis Early,",
+          "lessor": "James Gillmore,",
+          "desc": "L",
+          "area": "3 1 10",
+          "land_val": "5 0 0",
+          "building_val": "",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Thomas Wm. Narry,",
+          "lessor": "Peter O'Connor,",
+          "desc": "L",
+          "area": "1 3 20",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "25 a",
+          "occupier": "John Torsney,",
+          "lessor": "Thomas Wm. Narry,",
+          "desc": "H",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "25 b",
+          "occupier": "Thaddeus Keegan,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "John West,",
+          "lessor": "Catherine Walker,",
+          "desc": "L",
+          "area": "7 2 4",
+          "land_val": "9 10 0",
+          "building_val": "",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Thomas Smith,",
+          "lessor": "Viscount Palmerston,",
+          "desc": "L",
+          "area": "0 3 30",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "28 a",
+          "occupier": "Robert M'Bride,",
+          "lessor": "James Duncan,",
+          "desc": "L,H,gate-lodge,&O",
+          "area": "22 0 12",
+          "land_val": "45 0 0",
+          "building_val": "15 0 0",
+          "total_val": "60 0 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Dr.Richd. Hand Wood,",
+          "lessor": "Joseph Holmes,",
+          "desc": "L",
+          "area": "3 0 0",
+          "land_val": "6 10 0",
+          "building_val": "",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Vernon Davis,",
+          "lessor": "Peter O'Connor,",
+          "desc": "L",
+          "area": "3 3 31",
+          "land_val": "8 0 0",
+          "building_val": "",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Charles Anderson,",
+          "lessor": "Rep.Capt.Geo.Dodwell,",
+          "desc": "L",
+          "area": "9 2 0",
+          "land_val": "16 15 0",
+          "building_val": "",
+          "total_val": "16 15 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "Dr. Johnson,",
+          "lessor": "The Immediate Lessor,",
+          "desc": "L",
+          "area": "0 1 5",
+          "land_val": "0 8 0",
+          "building_val": "",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "33",
+          "desc": "County infirmary, fever hospital, offices, and land (see Exemptions).",
+          "area": "2 0 0",
+          "land_val": "3 15 0",
+          "building_val": "10 10 0",
+          "total_val": "14 5 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "34",
+          "occupier": "Harper Campbell,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "2 0 0",
+          "land_val": "3 15 0",
+          "building_val": "",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Alexander Phillips,",
+          "lessor": "John Wynne,",
+          "desc": "L",
+          "area": "2 3 30",
+          "land_val": "5 10 0",
+          "building_val": "",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "36 a",
+          "occupier": "John Wynne,",
+          "lessor": "In fee,",
+          "desc": "L,H,&O",
+          "area": "4 0 25",
+          "land_val": "5 0 0",
+          "building_val": "50 0 0",
+          "total_val": "55 0 0"
+        },
+        {
+          "mr": "36 b",
+          "occupier": "Harper Campbell,",
+          "lessor": "In fee,",
+          "desc": "L,H,&O",
+          "land_val": "1 14 0",
+          "building_val": "3 0 0",
+          "total_val": "4 14 0"
+        },
+        {
+          "mr": "36 c",
+          "lessor": "Harper Campbell,",
+          "desc": "Parochial school-house (see Exemptions).",
+          "is_exemption": 1
+        },
+        {
+          "mr": "37",
+          "occupier": "Owen Wynne,",
+          "lessor": "John Wynne,",
+          "desc": "L",
+          "area": "5 0 10",
+          "land_val": "9 6 0",
+          "building_val": "",
+          "total_val": "9 6 0"
+        },
+        {
+          "mr": "38 1",
+          "sublocation_1": "TOWN OF SLIGO",
+          "sublocation_2": "HOLBORN-STREET",
+          "occupier": "Unoccupied,",
+          "lessor": "Michael Morris,",
+          "desc": "H",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "38 2",
+          "occupier": "Hugh Taylor,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "38 3",
+          "occupier": "James Devanny,",
+          "lessor": "Laurence M'Tiernan,",
+          "desc": "H&O",
+          "building_val": "4 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "38 4",
+          "occupier": "Mary Farmer,",
+          "lessor": "Same,",
+          "desc": "H&O",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "38 5",
+          "occupier": "William Fahy,",
+          "lessor": "Same,",
+          "desc": "H&yard",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "38 6",
+          "occupier": "Jeremiah Geraghty,",
+          "lessor": "Same,",
+          "desc": "H&yard",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "38 7",
+          "occupier": "John Watts,",
+          "lessor": "Committee of the Sligo Independent Chapel,",
+          "desc": "H,O,&yard",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        }
+      ]
+    }
+  ]
+}

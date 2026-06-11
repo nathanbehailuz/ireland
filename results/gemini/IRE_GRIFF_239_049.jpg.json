@@ -1,0 +1,529 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF KILLESHIN",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "GRAIGUE",
+          "is_continued": 1,
+          "sublocation_1": "LEIGHLIN-STREET",
+          "occupier": "Samuel Watters",
+          "lessor": "Bryan O'Neill",
+          "desc": "H and yard",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Patrick Mothelty",
+          "lessor": "Mrs. Elizabeth Moore",
+          "desc": "H, yard, & sm. G.",
+          "building_val": "1 4 0",
+          "total_val": "1 4 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Mary Hannaway",
+          "lessor": "Mrs. Elizabeth Moore",
+          "desc": "H, yard, & sm. G.",
+          "building_val": "1 8 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Judith Simmons",
+          "lessor": "Mrs. Elizabeth Moore",
+          "desc": "H, yard, & sm. G.",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Bolger",
+          "lessor": "Mrs. Elizabeth Moore",
+          "desc": "H, forge, yard & sm. G.",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Mary Carey",
+          "lessor": "Mary Lalor",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "James Hearne",
+          "lessor": "Adam Jackson, Esq.",
+          "desc": "H, O, yard, & G.",
+          "area": "0 0 22",
+          "land_val": "0 8 0",
+          "building_val": "2 0 0",
+          "total_val": "2 8 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "John Warren",
+          "lessor": "James Hearne",
+          "desc": "H and yard",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "James Goold",
+          "lessor": "James Hearne",
+          "desc": "H and yard",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Patrick Hutchinson",
+          "lessor": "Bryan O'Neill",
+          "desc": "H, O, yard, & G.",
+          "area": "0 0 11",
+          "land_val": "0 4 0",
+          "building_val": "1 10 0",
+          "total_val": "1 14 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Michael Hutchinson",
+          "lessor": "Bryan O'Neill",
+          "desc": "H, O, yard & sm. G.",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "James Walsh",
+          "lessor": "Bryan O'Neill",
+          "desc": "H, O, yard, & sm. G.",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "John Toole",
+          "lessor": "Thos. Haughton, Esq.",
+          "desc": "H, O, yard, & L",
+          "area": "2 0 20",
+          "land_val": "7 0 0",
+          "building_val": "6 15 0",
+          "total_val": "13 15 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Benj. Haughton, Esq.",
+          "lessor": "Humph. Mitchell, Esq.",
+          "desc": "H, O, yard, & L",
+          "area": "0 3 0",
+          "land_val": "1 10 0",
+          "building_val": "34 0 0",
+          "total_val": "35 10 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "George Wilson, Esq.",
+          "lessor": "Humph. Mitchell, Esq.",
+          "desc": "H, O, yard, & L",
+          "area": "8 1 0",
+          "land_val": "13 0 0",
+          "building_val": "21 15 0",
+          "total_val": "34 15 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Daniel Sunderland",
+          "lessor": "Benj. Haughton, Esq.",
+          "desc": "H, yard, & G.",
+          "area": "0 0 34",
+          "land_val": "0 15 0",
+          "building_val": "3 15 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Benj. Haughton, Esq.",
+          "lessor": "Chris. M'Donald, Esq.",
+          "desc": "L",
+          "area": "1 2 5",
+          "land_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Thomas Redmond and Vacant",
+          "lessor": "Barrow Navigation Co.",
+          "desc": "H, O, and yard",
+          "building_val": "10 0 0",
+          "total_val": "10 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "19",
+          "occupier": "Henry Cole",
+          "lessor": "Barrow Navigation Co.",
+          "desc": "H, O, yard, & G.",
+          "area": "0 1 5",
+          "land_val": "1 0 0",
+          "building_val": "28 0 0",
+          "total_val": "29 0 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Benj. Haughton & Co.",
+          "lessor": "Humph. Mitchell, Esq.",
+          "desc": "Flour mill, O, & yards.",
+          "building_val": "150 0 0",
+          "total_val": "150 0 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Vacant",
+          "lessor": "Benj. Haughton, Esq.",
+          "desc": "H, offices, and L",
+          "area": "0 0 24",
+          "land_val": "0 10 0",
+          "building_val": "13 10 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Benj. Haughton & Co.",
+          "lessor": "James Wilson, Esq.",
+          "desc": "Tannery, O & yard",
+          "building_val": "40 0 0",
+          "total_val": "40 0 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Garrett Kelly",
+          "lessor": "Adam Jackson, Esq.",
+          "desc": "H",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "occupier": "Garrett Kelly",
+          "lessor": "Adam Jackson, Esq.",
+          "desc": "Coal yard",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Richard Lynam",
+          "lessor": "Edward Wall",
+          "desc": "H",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "1 a",
+          "sublocation_1": "THE NUMBERS.",
+          "occupier": "National School",
+          "lessor": "Chris. M'Donald, Esq.",
+          "desc": "H and yard",
+          "area": "0 0 12",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "John Fenlon",
+          "lessor": "Trustees of National School",
+          "desc": "Teacher's apartments and G",
+          "area": "0 0 26",
+          "land_val": "0 10 0",
+          "building_val": "2 5 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Judith Kelly",
+          "lessor": "Chris. M'Donald, Esq.",
+          "desc": "H, O, and yard",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "1 2 0",
+          "total_val": "1 7 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Martin Whelan",
+          "lessor": "Chris. M'Donald, Esq.",
+          "desc": "H, O, and yard",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Denis Whelan",
+          "lessor": "Chris. M'Donald, Esq.",
+          "desc": "H, office, and yard",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Whelan",
+          "lessor": "Chris. M'Donald, Esq.",
+          "desc": "H and yard",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "John M'Donald",
+          "lessor": "Chris. M'Donald, Esq.",
+          "desc": "H and yard",
+          "building_val": "3 3 0",
+          "total_val": "3 3 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Patrick M'Donald",
+          "lessor": "Chris. M'Donald, Esq.",
+          "desc": "H and yard",
+          "building_val": "1 2 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "John Carter",
+          "lessor": "Patrick M'Donald",
+          "desc": "H and yard",
+          "building_val": "1 2 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Patrick Moore",
+          "lessor": "Chris. M'Donald, Esq.",
+          "desc": "H, O, and yard",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Vacant",
+          "lessor": "Anne Whelan",
+          "desc": "Building ground",
+          "area": "0 0 3",
+          "land_val": "0 1 0",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Thomas Prendergast",
+          "lessor": "Anne Whelan",
+          "desc": "H (unfinished), & yard",
+          "area": "0 0 3",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Vacant",
+          "lessor": "Anne Whelan",
+          "desc": "H",
+          "building_val": "0 13 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Anne Whelan",
+          "lessor": "Chris. M'Donald, Esq.",
+          "desc": "H and L",
+          "area": "0 3 10",
+          "land_val": "1 10 0",
+          "building_val": "1 5 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Catherine Nowlan",
+          "lessor": "Humph. Mitchell, Esq.",
+          "desc": "H and yard",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Susan Foley",
+          "lessor": "Humph. Mitchell, Esq.",
+          "desc": "H, office, and yard",
+          "building_val": "1 14 0",
+          "total_val": "1 14 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "James Doyle",
+          "lessor": "Humph. Mitchell, Esq.",
+          "desc": "H and yard",
+          "building_val": "1 14 0",
+          "total_val": "1 14 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Matthew Byrne",
+          "lessor": "Humph. Mitchell, Esq.",
+          "desc": "H and yard",
+          "building_val": "1 14 0",
+          "total_val": "1 14 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "John Fennell",
+          "lessor": "Humph. Mitchell, Esq.",
+          "desc": "H and yard",
+          "building_val": "1 14 0",
+          "total_val": "1 14 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Martin Sullivan",
+          "lessor": "Humph. Mitchell, Esq.",
+          "desc": "H and yard",
+          "building_val": "1 14 0",
+          "total_val": "1 14 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Richard Whittaker",
+          "lessor": "Humph. Mitchell, Esq.",
+          "desc": "H and yard",
+          "building_val": "1 14 0",
+          "total_val": "1 14 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Edward Nolan",
+          "lessor": "Humph. Mitchell, Esq.",
+          "desc": "H and yard",
+          "building_val": "1 14 0",
+          "total_val": "1 14 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "James Dowling",
+          "lessor": "Humph. Mitchell, Esq.",
+          "desc": "H and yard",
+          "building_val": "1 18 0",
+          "total_val": "1 18 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Murtagh Moore",
+          "lessor": "Humph. Mitchell, Esq.",
+          "desc": "H, office, and yard",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Edward Corcoran",
+          "lessor": "Humph. Mitchell, Esq.",
+          "desc": "H and yard",
+          "building_val": "2 2 0",
+          "total_val": "2 2 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Catherine Brennan",
+          "lessor": "Humph. Mitchell, Esq.",
+          "desc": "H and yard",
+          "building_val": "1 18 0",
+          "total_val": "1 18 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Alexander Doyle",
+          "lessor": "James M'Donald",
+          "desc": "H and yard",
+          "building_val": "1 8 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Richard Cantwell",
+          "lessor": "James M'Donald",
+          "desc": "H and yard",
+          "building_val": "1 6 0",
+          "total_val": "1 6 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Patrick King",
+          "lessor": "James M'Donald",
+          "desc": "H, office, and yard",
+          "building_val": "1 8 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Patrick Kelly",
+          "lessor": "James M'Donald",
+          "desc": "H and yard",
+          "building_val": "1 8 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Mary Hutchinson",
+          "lessor": "James M'Donald",
+          "desc": "H and yard",
+          "building_val": "1 12 0",
+          "total_val": "1 12 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Charles M'Donald",
+          "lessor": "James M'Donald",
+          "desc": "H and yard",
+          "building_val": "0 13 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "James M'Donald",
+          "lessor": "Chris. M'Donald, Esq.",
+          "desc": "H, O, yard, and L (orchard)",
+          "area": "0 3 27",
+          "land_val": "5 0 0",
+          "building_val": "3 5 0",
+          "total_val": "8 5 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "WASH-LANE OF WELL-LANE.",
+          "occupier": "Vacant",
+          "lessor": "Margaret Wall",
+          "desc": "H",
+          "building_val": "1 4 0",
+          "total_val": "1 4 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "William Gallagher",
+          "lessor": "Margaret Wall",
+          "desc": "H",
+          "building_val": "1 4 0",
+          "total_val": "1 4 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Michael Farrell",
+          "lessor": "Margaret Wall",
+          "desc": "H",
+          "building_val": "1 4 0",
+          "total_val": "1 4 0"
+        }
+      ]
+    }
+  ]
+}

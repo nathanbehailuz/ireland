@@ -1,0 +1,528 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF AGHNAMULLEN",
+      "entries": [
+        {
+          "mr": "2 a",
+          "townland": "EDENFORAN",
+          "is_continued": 1,
+          "occupier": "James Keely",
+          "lessor": "John Jackson",
+          "desc": "H&L",
+          "area": "2 3 29",
+          "land_val": "2 0 0",
+          "building_val": "0 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "William Smith",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "4 0 13",
+          "land_val": "2 10 0",
+          "building_val": "0 5 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "William Smith",
+          "lessor": "Lord Cremorne",
+          "desc": "L",
+          "area": "3 3 33",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "George Long",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 2 13",
+          "land_val": "11 5 0",
+          "building_val": "2 0 0",
+          "total_val": "13 5 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "James Duffy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "28 1 0",
+          "land_val": "16 0 0",
+          "building_val": "1 0 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "George Reid",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 0 6",
+          "land_val": "4 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "8 A a",
+          "occupier": "John Dillon",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "9 0 19",
+          "land_val": "5 10 0",
+          "building_val": "0 15 0",
+          "total_val": "7 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "8 B",
+          "desc": "L",
+          "area": "4 2 14",
+          "land_val": "1 10 0",
+          "total_val": "7 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9 A a",
+          "occupier": "Francis M'Gough",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 1 16",
+          "land_val": "6 15 0",
+          "building_val": "0 15 0",
+          "total_val": "7 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9 B",
+          "desc": "L",
+          "area": "1 1 18",
+          "land_val": "0 5 0",
+          "total_val": "7 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "10 a",
+          "occupier": "David Thompson",
+          "lessor": "Same",
+          "desc": "Herd's H&L",
+          "area": "75 0 0",
+          "land_val": "48 15 0",
+          "building_val": "0 15 0",
+          "total_val": "49 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "209 0 20",
+          "land_val": "130 0 0",
+          "building_val": "5 15 0",
+          "total_val": "135 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A a",
+          "townland": "GORTLANNA",
+          "os": "23",
+          "occupier": "Hugh M'Alroy",
+          "lessor": "The Right Hon. & Right Rev. Lord Plunkett",
+          "desc": "H,O,&L",
+          "area": "8 2 6",
+          "land_val": "5 10 0",
+          "building_val": "1 0 0",
+          "total_val": "12 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 B",
+          "desc": "L",
+          "area": "8 1 36",
+          "land_val": "5 15 0",
+          "total_val": "12 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Philip Clerken",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "13 0 26",
+          "land_val": "7 5 0",
+          "building_val": "0 10 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Clerken",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 0 0",
+          "land_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "William Deecher",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "4 2 29",
+          "land_val": "3 0 0",
+          "building_val": "0 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Connolly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 0 14",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Connolly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 0 14",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "6 A",
+          "occupier": "Patrick Connolly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 3 10",
+          "land_val": "3 10 0",
+          "total_val": "3 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 B",
+          "desc": "L",
+          "area": "0 3 2",
+          "land_val": "0 5 0",
+          "total_val": "3 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Peter Clery",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 0 34",
+          "land_val": "4 0 0",
+          "building_val": "0 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Henry Farmar",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "11 3 5",
+          "land_val": "8 10 0",
+          "building_val": "0 5 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "9 A a",
+          "occupier": "Thomas Clerken",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 2 1",
+          "land_val": "3 15 0",
+          "total_val": "9 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9 B a",
+          "desc": "H,O,&L",
+          "area": "6 3 35",
+          "land_val": "4 15 0",
+          "building_val": "0 10 0",
+          "total_val": "9 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "10 a",
+          "occupier": "John Clerken",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "9 2 0",
+          "land_val": "6 10 0",
+          "building_val": "0 10 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "92 1 36",
+          "land_val": "61 0 0",
+          "building_val": "3 10 0",
+          "total_val": "64 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "KEENOGBANE",
+          "os": "18 & 23",
+          "occupier": "Philip M'Mahon",
+          "lessor": "Henry Geo. Johnston",
+          "desc": "L (pt. plantation)",
+          "area": "1 3 6",
+          "land_val": "1 5 0",
+          "total_val": "22 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "1 B",
+          "area": "27 0 15",
+          "land_val": "20 0 0",
+          "total_val": "22 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "1 C",
+          "area": "1 3 26",
+          "land_val": "0 12 0",
+          "total_val": "22 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "1 D",
+          "area": "0 2 32",
+          "land_val": "0 3 0",
+          "total_val": "22 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "2 a",
+          "occupier": "John Magill",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "14 2 3",
+          "land_val": "10 5 0",
+          "building_val": "0 10 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "John Kennedy",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "4 1 38",
+          "land_val": "3 5 0",
+          "building_val": "0 5 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Patrick Tierney",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "13 3 38",
+          "land_val": "10 5 0",
+          "building_val": "0 15 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Patrick Duffy",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "4 0 28",
+          "land_val": "3 5 0",
+          "building_val": "0 5 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Thomas Kennedy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "7 2 22",
+          "land_val": "5 10 0",
+          "building_val": "0 15 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Edward Smith",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 2 25",
+          "land_val": "7 10 0",
+          "building_val": "0 10 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Edmund Smith",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "13 2 38",
+          "land_val": "10 0 0",
+          "building_val": "1 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "9 A",
+          "occupier": "Thomas Clarke",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 0 9",
+          "land_val": "1 5 0",
+          "total_val": "5 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9 B a",
+          "desc": "H&L",
+          "area": "4 1 18",
+          "land_val": "3 10 0",
+          "building_val": "0 5 0",
+          "total_val": "5 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "10 a",
+          "occupier": "George Long",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "21 3 19",
+          "land_val": "15 10 0",
+          "building_val": "1 0 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "11 A",
+          "desc": "White Lough, (pt. of)",
+          "area": "5 2 24",
+          "n_shared": 5
+        },
+        {
+          "mr": "11 B",
+          "desc": "Lough",
+          "area": "1 3 26",
+          "n_shared": 5
+        },
+        {
+          "mr": "11 C",
+          "desc": "Lough",
+          "area": "0 3 20",
+          "n_shared": 5
+        },
+        {
+          "mr": "11 D",
+          "desc": "Corkeeran Lough (pt. of)",
+          "area": "1 0 14",
+          "n_shared": 5
+        },
+        {
+          "mr": "11 E",
+          "desc": "Lough",
+          "area": "1 1 15",
+          "n_shared": 5
+        },
+        {
+          "desc": "Total",
+          "area": "139 3 16",
+          "land_val": "92 5 0",
+          "building_val": "5 5 0",
+          "total_val": "97 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "KEENOGDUFF",
+          "os": "23",
+          "occupier": "Bernard O'Neill",
+          "lessor": "Henry Geo. Johnston",
+          "desc": "H,O,&L",
+          "area": "15 1 22",
+          "land_val": "9 5 0",
+          "building_val": "0 5 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Anthony Fitzpatrick",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "16 2 17",
+          "land_val": "12 10 0",
+          "building_val": "1 0 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "John M'Atee",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "7 3 37",
+          "land_val": "5 10 0",
+          "building_val": "0 5 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "4 A",
+          "occupier": "Patrick Smith",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 0 14",
+          "land_val": "1 15 0",
+          "total_val": "23 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4 B a",
+          "desc": "H,O,&L",
+          "area": "26 0 23",
+          "land_val": "20 5 0",
+          "building_val": "1 5 0",
+          "total_val": "23 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 A a",
+          "occupier": "Henry M'Cabe",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "16 3 28",
+          "land_val": "13 0 0",
+          "building_val": "1 0 0",
+          "total_val": "17 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 B",
+          "desc": "L",
+          "area": "3 2 26",
+          "land_val": "3 0 0",
+          "total_val": "17 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Edward M'Glone",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "1 0 5",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Redmond M'Cabe",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "6 1 19",
+          "land_val": "3 15 0",
+          "building_val": "0 10 0",
+          "total_val": "4 5 0"
+        }
+      ]
+    }
+  ]
+}

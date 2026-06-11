@@ -1,0 +1,619 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF ADDERGOOLE",
+      "entries": [
+        {
+          "mr": "7 a",
+          "townland": "BALLYMOYOCK",
+          "os": "",
+          "occupier": "Anthony Corcoran",
+          "lessor": "Walter Bourke",
+          "desc": "H,O,&L",
+          "area": "11 0 16",
+          "land_val": "5 0 0",
+          "building_val": "0 5 0",
+          "total_val": "5 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Patrick Gilboy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "22 2 2",
+          "land_val": "11 0 0",
+          "building_val": "0 5 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Michael M'Gowan",
+          "lessor": "Patrick Gibbons",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Patrick Miles",
+          "lessor": "Walter Bourke",
+          "desc": "L",
+          "area": "11 3 15",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Patrick M'Hugh",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "6 0 23",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "4 10 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "11",
+          "occupier": "Patrick M'Hugh",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 3 5",
+          "land_val": "1 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Richard M'Hugh",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "6 3 14",
+          "land_val": "3 5 0",
+          "building_val": "0 10 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "13",
+          "occupier": "Richard M'Hugh",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 1 4",
+          "land_val": "0 15 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "14 a",
+          "occupier": "Patrick Burke",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "18 1 23",
+          "land_val": "5 10 0",
+          "building_val": "0 10 0",
+          "total_val": "6 15 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "15",
+          "occupier": "Patrick Burke",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 2 17",
+          "land_val": "0 10 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "16",
+          "occupier": "Patrick Burke",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 4",
+          "land_val": "0 5 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "17",
+          "occupier": "Patrick Burke",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 0 11",
+          "land_val": "3 15 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "18 a",
+          "occupier": "Thomas Queenan",
+          "lessor": "Same",
+          "desc": "H,&L",
+          "area": "6 3 26",
+          "land_val": "3 5 0",
+          "building_val": "0 5 0",
+          "total_val": "4 0 0",
+          "n_shared": 9
+        },
+        {
+          "mr": "19",
+          "occupier": "Thomas Queenan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 0 38",
+          "land_val": "0 10 0",
+          "n_shared": 9
+        },
+        {
+          "mr": "20 a",
+          "occupier": "Michael M'Namara",
+          "lessor": "Same",
+          "desc": "H,&L",
+          "area": "3 1 39",
+          "land_val": "1 10 0",
+          "building_val": "0 5 0",
+          "total_val": "2 5 0",
+          "n_shared": 9
+        },
+        {
+          "mr": "21",
+          "occupier": "Michael M'Namara",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 2 27",
+          "land_val": "0 10 0",
+          "n_shared": 9
+        },
+        {
+          "mr": "22 a",
+          "occupier": "Michael Meevy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 1 34",
+          "land_val": "4 10 0",
+          "building_val": "0 5 0",
+          "total_val": "5 10 0",
+          "n_shared": 9
+        },
+        {
+          "mr": "23",
+          "occupier": "Michael Meevy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 2 7",
+          "land_val": "0 8 0",
+          "n_shared": 9
+        },
+        {
+          "mr": "24",
+          "occupier": "Michael Meevy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 2 28",
+          "land_val": "0 7 0",
+          "n_shared": 9
+        },
+        {
+          "mr": "25 a",
+          "occupier": "John Queenan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 2 36",
+          "land_val": "4 5 0",
+          "building_val": "0 5 0",
+          "total_val": "4 17 0",
+          "n_shared": 9
+        },
+        {
+          "mr": "26",
+          "occupier": "John Queenan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 3 23",
+          "land_val": "0 7 0",
+          "n_shared": 9
+        },
+        {
+          "mr": "- a",
+          "occupier": "Catherine Burke",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 4 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Patrick M'Hugh",
+          "lessor": "Same",
+          "desc": "L",
+          "land_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Richard M'Hugh",
+          "lessor": "Same",
+          "desc": "L",
+          "land_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Patrick Burke",
+          "lessor": "Same",
+          "desc": "L",
+          "land_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Thomas Queenan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "80 0 25",
+          "land_val": "0 4 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Michael M'Namara",
+          "lessor": "Same",
+          "desc": "L",
+          "land_val": "0 2 0",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Michael Meevy",
+          "lessor": "Same",
+          "desc": "L",
+          "land_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "John Queenan",
+          "lessor": "Same",
+          "desc": "L",
+          "land_val": "0 4 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Patrick Callaghan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 2 15",
+          "land_val": "3 0 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "29 a",
+          "occupier": "Patrick Callaghan",
+          "lessor": "Same",
+          "desc": "H,&L",
+          "area": "3 2 18",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Michael M'Gowan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "12 3 9",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Walter Bourke",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "3 3 9",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "32 a",
+          "occupier": "Patrick Meevy",
+          "lessor": "Walter Bourke",
+          "desc": "H,&L",
+          "area": "10 0 5",
+          "land_val": "1 16 0",
+          "building_val": "0 4 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "320 1 9",
+          "land_val": "87 17 0",
+          "building_val": "4 15 0",
+          "total_val": "92 12 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "CUM",
+          "os": "47 & 38",
+          "occupier": "Edmund M'Hale",
+          "lessor": "Earl of Arran",
+          "desc": "H,O,&L",
+          "area": "26 1 15",
+          "land_val": "11 10 0",
+          "building_val": "1 0 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Mary M'Hale",
+          "lessor": "Edmund M'Hale",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Edmund M'Hale",
+          "lessor": "Earl of Arran",
+          "desc": "L",
+          "area": "7 0 10",
+          "land_val": "1 1 0",
+          "total_val": "1 1 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Anthony Mangan",
+          "lessor": "Same",
+          "desc": "L",
+          "land_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Anthony Mangan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "10 2 0",
+          "land_val": "4 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Anthony Mangan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "7 3 20",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Anthony Mangan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 0 10",
+          "land_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Anthony M'Hale, jun.",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "9 0 10",
+          "land_val": "3 10 0",
+          "building_val": "0 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "William M'Hale",
+          "lessor": "Same",
+          "desc": "H,&L",
+          "area": "8 3 10",
+          "land_val": "4 5 0",
+          "building_val": "0 5 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Bartholomew Monnelly",
+          "lessor": "Same",
+          "desc": "H,&L",
+          "area": "5 2 0",
+          "land_val": "2 15 0",
+          "building_val": "0 5 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Bryan Sheridan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 1 10",
+          "land_val": "3 10 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Bryan Sheridan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 1 30",
+          "land_val": "1 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "11",
+          "occupier": "Jeremiah Sheridan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 1 10",
+          "land_val": "1 5 0",
+          "total_val": "5 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "12",
+          "occupier": "Jeremiah Sheridan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "10 2 0",
+          "land_val": "4 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "13",
+          "occupier": "Patrick Mangan, jun.",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 0 25",
+          "land_val": "2 15 0",
+          "total_val": "3 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "14",
+          "occupier": "Patrick Mangan, jun.",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 3 0",
+          "land_val": "0 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "15",
+          "occupier": "Catherine Leonard",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "11 3 10",
+          "land_val": "4 5 0",
+          "total_val": "6 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "16",
+          "occupier": "Catherine Leonard",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 3 20",
+          "land_val": "2 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "17",
+          "occupier": "Patrick Mangan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 1 20",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "18 a",
+          "occupier": "Dominick Sheridan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "13 1 0",
+          "land_val": "4 0 0",
+          "building_val": "0 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Mary Ruane",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "9 2 0",
+          "land_val": "4 0 0",
+          "total_val": "5 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "20",
+          "occupier": "Mary Ruane",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 1 30",
+          "land_val": "1 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "21",
+          "occupier": "Anthony M'Hale",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "11 0 15",
+          "land_val": "4 10 0",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "22",
+          "occupier": "Denis Moran",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "11 2 20",
+          "land_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "23 a",
+          "occupier": "Matthew Leonard",
+          "lessor": "Same",
+          "desc": "H,&L",
+          "area": "8 1 10",
+          "land_val": "3 0 0",
+          "building_val": "0 5 0",
+          "total_val": "3 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "24",
+          "occupier": "Thomas Mangan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 3 30",
+          "land_val": "3 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "25 a",
+          "occupier": "Patrick Sheridan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "14 1 30",
+          "land_val": "4 0 0",
+          "building_val": "0 5 0",
+          "total_val": "4 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "-",
+          "occupier": "Anthony Mangan",
+          "lessor": "Same",
+          "desc": "L",
+          "land_val": "0 3 0",
+          "total_val": "0 3 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "-",
+          "occupier": "Anthony M'Hale, jun.",
+          "lessor": "Same",
+          "desc": "L",
+          "land_val": "0 3 0",
+          "total_val": "0 3 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "-",
+          "occupier": "William M'Hale",
+          "lessor": "Same",
+          "desc": "L",
+          "land_val": "0 3 0",
+          "total_val": "0 3 0",
+          "n_shared": 3
+        }
+      ]
+    }
+  ]
+}

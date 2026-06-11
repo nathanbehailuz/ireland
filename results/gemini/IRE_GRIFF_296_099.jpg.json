@@ -1,0 +1,723 @@
+{
+  "parishes": [
+    {
+      "parish": "GLENBANE",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "GLENBANE",
+          "os": "58 & 66",
+          "occupier": "Geo. J. O'Connell, Esq.",
+          "lessor": "Earl of Portarlington",
+          "desc": "L",
+          "area": "0 3 20",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "1 a",
+          "occupier": "Constabulary,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "Police barrack, yard, and garden",
+          "area": "0 1 14",
+          "land_val": "0 1 0",
+          "building_val": "4 14 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Geo. J. O'Connell, Esq.",
+          "lessor": "Earl of Portarlington",
+          "desc": "L",
+          "area": "26 1 38",
+          "land_val": "29 15 0",
+          "building_val": "",
+          "total_val": "29 15 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Edmond Foley,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H,O,&G",
+          "area": "0 0 23",
+          "land_val": "0 2 0",
+          "building_val": "0 13 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Geo. J. O'Connell, Esq.",
+          "lessor": "Earl of Portarlington",
+          "desc": "L",
+          "area": "12 2 29",
+          "land_val": "14 5 0",
+          "building_val": "",
+          "total_val": "14 5 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Christopher Russell,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3 b",
+          "occupier": "Patrick Quirk,",
+          "lessor": "Christopher Russell,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Geo. J. O'Connell, Esq.",
+          "lessor": "Earl of Portarlington",
+          "desc": "L",
+          "area": "14 0 8",
+          "land_val": "15 10 0",
+          "building_val": "",
+          "total_val": "15 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Michael Heffernan,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H,O,&L",
+          "area": "26 1 21",
+          "land_val": "29 0 0",
+          "building_val": "2 10 0",
+          "total_val": "31 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Mary O'Brien,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "O&L",
+          "area": "21 3 22",
+          "land_val": "25 10 0",
+          "building_val": "0 5 0",
+          "total_val": "25 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Michael Breen,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "L",
+          "area": "54 1 33",
+          "land_val": "61 5 0",
+          "building_val": "",
+          "total_val": "61 5 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Thomas Burns,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H&G",
+          "area": "0 0 16",
+          "land_val": "0 1 0",
+          "building_val": "0 9 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "7 b",
+          "occupier": "",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "National school-house",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "7 c",
+          "occupier": "Michael Mara,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H&G",
+          "area": "0 0 13",
+          "land_val": "0 2 0",
+          "building_val": "0 13 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Hugh Hogan,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H&L",
+          "area": "18 2 30",
+          "land_val": "21 0 0",
+          "building_val": "0 10 0",
+          "total_val": "21 10 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Judith Hogan,",
+          "lessor": "Hugh Hogan,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "John Hogan,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H&L",
+          "area": "12 2 17",
+          "land_val": "14 10 0",
+          "building_val": "0 15 0",
+          "total_val": "15 5 0"
+        },
+        {
+          "mr": "10 A",
+          "occupier": "William Humphries,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "L",
+          "area": "10 1 39",
+          "land_val": "12 10 0",
+          "building_val": "",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "10 B",
+          "occupier": "William Humphries,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H,O,&L",
+          "area": "17 0 6",
+          "land_val": "19 15 0",
+          "building_val": "1 15 0",
+          "total_val": "21 10 0"
+        },
+        {
+          "mr": "10 C",
+          "occupier": "William Humphries,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "L",
+          "area": "3 0 4",
+          "land_val": "3 15 0",
+          "building_val": "",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "William Heffernan,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H,O,&L",
+          "area": "15 1 0",
+          "land_val": "17 10 0",
+          "building_val": "1 0 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "John Heffernan,",
+          "lessor": "William Heffernan,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Cornelius O'Brien, sen.",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H,O,&L",
+          "area": "9 0 25",
+          "land_val": "10 10 0",
+          "building_val": "1 0 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Eleanor Fahy,",
+          "lessor": "Cornelius O'Brien, sen.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Cornelius O'Brien, jun.",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H&L",
+          "area": "11 3 23",
+          "land_val": "13 15 0",
+          "building_val": "1 0 0",
+          "total_val": "14 15 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Patrick O'Brien,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H,O,&L",
+          "area": "4 0 38",
+          "land_val": "4 15 0",
+          "building_val": "1 0 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Henry Fleming,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H,O,&L",
+          "area": "7 1 7",
+          "land_val": "8 10 0",
+          "building_val": "1 0 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "15 a",
+          "occupier": "Judith Birrane,",
+          "lessor": "Henry Fleming,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "16 A",
+          "occupier": "Christopher Russell,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H,O,&L",
+          "area": "20 0 14",
+          "land_val": "23 0 0",
+          "building_val": "1 15 0",
+          "total_val": "24 15 0"
+        },
+        {
+          "mr": "16 B",
+          "occupier": "Christopher Russell,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "L",
+          "area": "2 1 32",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "16 A a",
+          "occupier": "Catherine Maher,",
+          "lessor": "Christopher Russell,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "16 A b",
+          "occupier": "Johanna Carroll,",
+          "lessor": "Christopher Russell,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "16 A c",
+          "occupier": "Thomas O'Brien,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "G",
+          "area": "0 1 24",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "John Hayes,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H&L",
+          "area": "3 0 37",
+          "land_val": "3 15 0",
+          "building_val": "0 10 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "17 a",
+          "occupier": "John O'Brien,",
+          "lessor": "John Hayes,",
+          "desc": "House & small garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Michael Croagh,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "Herd's house, off., & land",
+          "area": "14 3 27",
+          "land_val": "17 15 0",
+          "building_val": "1 0 0",
+          "total_val": "18 15 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Michael Croagh,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H,O,&L",
+          "area": "25 3 27",
+          "land_val": "30 15 0",
+          "building_val": "2 0 0",
+          "total_val": "32 15 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "James Burns,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H,O,&L",
+          "area": "14 0 3",
+          "land_val": "16 10 0",
+          "building_val": "1 10 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "James Glasheen,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H,O,&L",
+          "area": "13 1 11",
+          "land_val": "15 5 0",
+          "building_val": "1 10 0",
+          "total_val": "16 15 0"
+        },
+        {
+          "mr": "22 A",
+          "occupier": "John Burns,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "L",
+          "area": "3 3 4",
+          "land_val": "4 5 0",
+          "building_val": "",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "22 B",
+          "occupier": "John Burns,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H,O,&L",
+          "area": "17 3 32",
+          "land_val": "21 5 0",
+          "building_val": "1 0 0",
+          "total_val": "22 5 0"
+        },
+        {
+          "mr": "22 B a",
+          "occupier": "Timothy Fitzgerald,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H&L",
+          "area": "0 3 18",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Mary Whelan,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H&L",
+          "area": "14 1 25",
+          "land_val": "16 10 0",
+          "building_val": "1 5 0",
+          "total_val": "17 15 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Timothy Bigly,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H&L",
+          "area": "12 3 37",
+          "land_val": "14 5 0",
+          "building_val": "0 15 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "James Fleming,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H,O,&L",
+          "area": "23 3 37",
+          "land_val": "26 0 0",
+          "building_val": "1 5 0",
+          "total_val": "27 5 0"
+        },
+        {
+          "mr": "25 a",
+          "occupier": "Eleanor Barron,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H&G",
+          "area": "0 1 3",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "25 b",
+          "occupier": "Roger Hogan,",
+          "lessor": "Eleanor Barron,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "25 c",
+          "occupier": "Patrick Croagh,",
+          "lessor": "James Fleming,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Garrett Maurnane,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "L",
+          "area": "2 2 27",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "William M'Grith,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H&L",
+          "area": "1 0 0",
+          "land_val": "1 5 0",
+          "building_val": "0 10 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Cornelius Reardon,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "Herd's house, off., & land",
+          "area": "16 0 8",
+          "land_val": "18 10 0",
+          "building_val": "1 0 0",
+          "total_val": "19 10 0"
+        },
+        {
+          "mr": "28 a",
+          "occupier": "Richard Buckley,",
+          "lessor": "Cornelius Reardon,",
+          "desc": "H&G",
+          "area": "0 0 35",
+          "land_val": "0 4 0",
+          "building_val": "0 8 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Mary Reardon,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H,O,&L",
+          "area": "19 2 5",
+          "land_val": "23 5 0",
+          "building_val": "1 10 0",
+          "total_val": "24 15 0"
+        },
+        {
+          "mr": "30 A",
+          "occupier": "Morgan O'Brien,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H,O,&L",
+          "area": "45 3 13",
+          "land_val": "52 15 0",
+          "building_val": "1 0 0",
+          "total_val": "53 15 0"
+        },
+        {
+          "mr": "30 B",
+          "occupier": "Morgan O'Brien,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "L",
+          "area": "6 2 35",
+          "land_val": "8 0 0",
+          "building_val": "",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "30 C",
+          "occupier": "Morgan O'Brien,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "L",
+          "area": "6 0 3",
+          "land_val": "5 15 0",
+          "building_val": "",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "30 C a",
+          "occupier": "Mary Kenna,",
+          "lessor": "Morgan O'Brien,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "30 C b",
+          "occupier": "Mary Hayes,",
+          "lessor": "Morgan O'Brien,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "John Heffernan,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H&L",
+          "area": "3 1 30",
+          "land_val": "4 0 0",
+          "building_val": "0 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "Denis Dwyer,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H&L",
+          "area": "8 2 22",
+          "land_val": "10 5 0",
+          "building_val": "0 10 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "Edmond Nugent,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H&L",
+          "area": "0 3 34",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Catherine Hayes,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H&L",
+          "area": "1 3 0",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Patrick Burns,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H,O,&L",
+          "area": "25 3 18",
+          "land_val": "29 15 0",
+          "building_val": "1 10 0",
+          "total_val": "31 5 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Terence O'Brien,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H,O,&L",
+          "area": "19 0 22",
+          "land_val": "22 15 0",
+          "building_val": "1 5 0",
+          "total_val": "24 0 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "David Connell,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H,O,&L",
+          "area": "44 3 33",
+          "land_val": "49 15 0",
+          "building_val": "2 15 0",
+          "total_val": "52 10 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Patrick Connell,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H,O,&L",
+          "area": "63 3 33",
+          "land_val": "68 10 0",
+          "building_val": "3 10 0",
+          "total_val": "72 0 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "James English,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H,O,&L",
+          "area": "26 3 26",
+          "land_val": "36 5 0",
+          "building_val": "1 5 0",
+          "total_val": "37 10 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "John Maher,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H,O,&L",
+          "area": "11 0 34",
+          "land_val": "11 5 0",
+          "building_val": "1 0 0",
+          "total_val": "12 5 0"
+        },
+        {
+          "mr": "41 A",
+          "occupier": "Laurence M'Grath,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "L",
+          "area": "3 0 11",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "41 B",
+          "occupier": "Laurence M'Grath,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H,O,&L",
+          "area": "11 1 33",
+          "land_val": "13 5 0",
+          "building_val": "1 5 0",
+          "total_val": "14 10 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "Patrick Dunne,",
+          "lessor": "Geo. J. O'Connell, Esq.",
+          "desc": "H&L",
+          "area": "35 1 36",
+          "land_val": "31 5 0",
+          "building_val": "1 5 0",
+          "total_val": "32 10 0"
+        }
+      ]
+    }
+  ]
+}

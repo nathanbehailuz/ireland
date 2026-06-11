@@ -1,0 +1,580 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF CORDANGAN",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "LISNAGAUL",
+          "os": "",
+          "occupier": "Judith Maunsell",
+          "lessor": "Trevor L. Ashe, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "2",
+          "occupier": "James Mullally",
+          "lessor": "Trevor L. Ashe, Esq.",
+          "desc": "H,O,&L",
+          "area": "24 3 8",
+          "land_val": "24 15 0",
+          "building_val": "2 10 0",
+          "total_val": "27 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Ellen Burke",
+          "lessor": "Benjamin Bunbury, Esq",
+          "desc": "H&L",
+          "area": "1 1 31",
+          "land_val": "0 8 0",
+          "building_val": "0 7 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James Sheehan",
+          "lessor": "Benjamin Bunbury, Esq",
+          "desc": "L",
+          "area": "1 0 0",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Hugh Burke",
+          "lessor": "Benjamin Bunbury, Esq",
+          "desc": "L",
+          "area": "0 2 17",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Hugh Burke",
+          "lessor": "Benjamin Bunbury, Esq",
+          "desc": "L",
+          "area": "1 1 13",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Hugh Burke",
+          "lessor": "Trevor L. Ashe, Esq.",
+          "desc": "H&L",
+          "area": "3 1 13",
+          "land_val": "1 10 0",
+          "building_val": "0 5 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Timothy Noonan (John)",
+          "lessor": "Benjamin Bunbury, Esq",
+          "desc": "H&L",
+          "area": "5 0 29",
+          "land_val": "2 5 0",
+          "building_val": "0 15 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Redmond Peters",
+          "lessor": "Benjamin Bunbury, Esq",
+          "desc": "H&L",
+          "area": "13 2 33",
+          "land_val": "5 10 0",
+          "building_val": "0 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Catherine Moroney",
+          "lessor": "Benjamin Bunbury, Esq",
+          "desc": "Mountain",
+          "area": "11 1 30",
+          "land_val": "5 10 0",
+          "building_val": "0 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Catherine Moroney",
+          "lessor": "Benjamin Bunbury, Esq",
+          "desc": "L",
+          "area": "1 0 0",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "James Noonan",
+          "lessor": "Benjamin Bunbury, Esq",
+          "desc": "L",
+          "area": "3 0 20",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "James Noonan",
+          "lessor": "Trevor L. Ashe, Esq.",
+          "desc": "H&L",
+          "area": "4 3 34",
+          "land_val": "2 5 0",
+          "building_val": "0 15 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Patrick Leary",
+          "lessor": "Trevor L. Ashe, Esq.",
+          "desc": "H&L",
+          "area": "6 3 12",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Michael Finnane",
+          "lessor": "Trevor L. Ashe, Esq.",
+          "desc": "H&L",
+          "area": "4 1 11",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Mary Noonan",
+          "lessor": "Trevor L. Ashe, Esq.",
+          "desc": "H&L",
+          "area": "4 3 5",
+          "land_val": "2 10 0",
+          "building_val": "0 15 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Daniel Quirk",
+          "lessor": "Trevor L. Ashe, Esq.",
+          "desc": "H,O,&L",
+          "area": "7 3 36",
+          "land_val": "3 10 0",
+          "building_val": "1 5 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "John Burke",
+          "lessor": "Trevor L. Ashe, Esq.",
+          "desc": "H,O,&L",
+          "area": "124 0 16",
+          "land_val": "78 5 0",
+          "building_val": "4 0 0",
+          "total_val": "82 5 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "John Burke",
+          "lessor": "Trevor L. Ashe, Esq.",
+          "desc": "L",
+          "area": "21 3 39",
+          "land_val": "7 10 0",
+          "building_val": "",
+          "total_val": "7 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "occupier": "Timothy Ryan",
+          "lessor": "Trevor L. Ashe, Esq.",
+          "desc": "L",
+          "area": "21 3 39",
+          "land_val": "7 10 0",
+          "building_val": "",
+          "total_val": "7 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "a",
+          "occupier": "Timothy Ryan",
+          "lessor": "Timothy Ryan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "occupier": "Vacant",
+          "lessor": "Timothy Ryan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "18 a",
+          "occupier": "James Sullivan",
+          "lessor": "Trevor L. Ashe, Esq.",
+          "desc": "H&L",
+          "area": "12 2 10",
+          "land_val": "3 15 0",
+          "building_val": "0 15 0",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "John Sullivan",
+          "lessor": "Trevor L. Ashe, Esq.",
+          "desc": "H&L",
+          "area": "12 2 10",
+          "land_val": "3 15 0",
+          "building_val": "0 15 0",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "c",
+          "occupier": "John M'Grath",
+          "lessor": "James Sullivan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "19 A",
+          "occupier": "Robert Noonan",
+          "lessor": "Trevor L. Ashe, Esq.",
+          "desc": "L",
+          "area": "2 0 39",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "B",
+          "occupier": "Robert Noonan",
+          "lessor": "Trevor L. Ashe, Esq.",
+          "desc": "H&L",
+          "area": "10 1 33",
+          "land_val": "6 10 0",
+          "building_val": "1 0 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Bridget Walsh",
+          "lessor": "Trevor L. Ashe, Esq.",
+          "desc": "H&L",
+          "area": "3 2 26",
+          "land_val": "2 5 0",
+          "building_val": "0 15 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Danl. Noonan (Black)",
+          "lessor": "Trevor L. Ashe, Esq.",
+          "desc": "H&L",
+          "area": "5 2 26",
+          "land_val": "3 0 0",
+          "building_val": "0 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "22 a",
+          "occupier": "Mary Noonan",
+          "lessor": "Benjamin Bunbury, Esq",
+          "desc": "H&L",
+          "area": "24 2 39",
+          "land_val": "6 5 0",
+          "building_val": "1 15 0",
+          "total_val": "8 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "occupier": "Danl. Noonan (Dan)",
+          "lessor": "Benjamin Bunbury, Esq",
+          "desc": "L",
+          "area": "24 2 39",
+          "land_val": "6 5 0",
+          "building_val": "",
+          "total_val": "6 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Richard Noonan",
+          "lessor": "Daniel Noonan (Dan)",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Thomas Kennedy",
+          "lessor": "Benjamin Bunbury, Esq",
+          "desc": "H,O,&L",
+          "area": "35 3 35",
+          "land_val": "28 5 0",
+          "building_val": "3 15 0",
+          "total_val": "32 0 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Patrick Byron",
+          "lessor": "Rev. William Green",
+          "desc": "L",
+          "area": "39 3 36",
+          "land_val": "36 0 0",
+          "building_val": "",
+          "total_val": "36 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "John Noonan",
+          "lessor": "Patrick Byron",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Ryan",
+          "lessor": "Patrick Byron",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "25 a",
+          "occupier": "Charles Byron",
+          "lessor": "Rev. William Green",
+          "desc": "H,O,&L",
+          "area": "74 2 21",
+          "land_val": "73 0 0",
+          "building_val": "1 10 0",
+          "total_val": "74 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Byron",
+          "lessor": "Charles Byron",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "590 0 1",
+          "land_val": "320 17 0",
+          "building_val": "28 17 0",
+          "total_val": "349 14 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "LONGFORD",
+          "os": "67",
+          "occupier": "Patk. Dwyer (Cooper)",
+          "lessor": "Patrick Hogan",
+          "desc": "H,O,&L",
+          "area": "0 3 8",
+          "land_val": "0 15 0",
+          "building_val": "1 10 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Patrick Hogan",
+          "lessor": "J. H. Smith Barry, Esq.",
+          "desc": "L",
+          "area": "9 1 9",
+          "land_val": "15 10 0",
+          "building_val": "",
+          "total_val": "15 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Thomas Hennessy",
+          "lessor": "Thomas Cotter",
+          "desc": "H&L",
+          "area": "4 1 13",
+          "land_val": "6 10 0",
+          "building_val": "0 15 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Patk. Dwyer (Tailor)",
+          "lessor": "Thomas Cotter",
+          "desc": "O&L",
+          "area": "15 2 10",
+          "land_val": "22 0 0",
+          "building_val": "0 15 0",
+          "total_val": "22 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Richard O'Donnell",
+          "lessor": "Patk. Dwyer (Tailor)",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Burke",
+          "lessor": "J. H. Smith Barry, Esq.",
+          "desc": "L",
+          "area": "25 2 25",
+          "land_val": "36 15 0",
+          "building_val": "",
+          "total_val": "36 15 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "John Rea",
+          "lessor": "John Burke",
+          "desc": "H&G",
+          "area": "0 0 37",
+          "land_val": "0 7 0",
+          "building_val": "0 11 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "John Morrissy",
+          "lessor": "Miss Honoria Scully",
+          "desc": "L",
+          "area": "19 2 33",
+          "land_val": "24 10 0",
+          "building_val": "",
+          "total_val": "24 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Michael Dwyer",
+          "lessor": "John Morrissy",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Rea",
+          "lessor": "John Morrissy",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "75 2 15",
+          "land_val": "106 7 0",
+          "building_val": "5 16 0",
+          "total_val": "112 3 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "MOANREAGH",
+          "os": "67",
+          "occupier": "James Sadlier, Esq.",
+          "lessor": "J. H. Smith Barry, Esq.",
+          "desc": "Herd's H&L",
+          "area": "54 1 26",
+          "land_val": "61 0 0",
+          "building_val": "2 0 0",
+          "total_val": "63 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Judith Peters",
+          "lessor": "James Sadlier, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "54 1 26",
+          "land_val": "61 0 0",
+          "building_val": "3 5 0",
+          "total_val": "64 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "RATHANNY",
+          "os": "67",
+          "occupier": "Thomas Riordan",
+          "lessor": "Thomas L. Sadlier, Esq.",
+          "desc": "H,O,&L",
+          "area": "154 1 6",
+          "land_val": "186 10 0",
+          "building_val": "6 0 0",
+          "total_val": "192 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "154 1 6",
+          "land_val": "186 10 0",
+          "building_val": "6 0 0",
+          "total_val": "192 10 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

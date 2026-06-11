@@ -1,0 +1,509 @@
+{
+  "parishes": [
+    {
+      "parish": "KILRUSH",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "GREATRATH",
+          "os": "32",
+          "occupier": "Patrick Cleary",
+          "lessor": "Edward F. Fitzgerald",
+          "desc": "H,O,&L",
+          "area": "63 0 12",
+          "land_val": "38 15 0",
+          "building_val": "1 5 0",
+          "total_val": "40 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Timothy Cleary",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "88 2 13",
+          "land_val": "48 0 0",
+          "building_val": "3 10 0",
+          "total_val": "51 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Peter Cleary",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "79 1 1",
+          "land_val": "40 0 0",
+          "building_val": "2 10 0",
+          "total_val": "42 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "230 3 26",
+          "land_val": "126 15 0",
+          "building_val": "7 5 0",
+          "total_val": "134 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "HILLFARM",
+          "os": "32",
+          "occupier": "Nicholas Walsh",
+          "lessor": "Edward F. Fitzgerald",
+          "desc": "L",
+          "area": "12 0 28",
+          "land_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Patrick Murray",
+          "lessor": "Nicholas Walsh",
+          "desc": "H,O,&L",
+          "area": "1 3 25",
+          "land_val": "1 0 0",
+          "building_val": "0 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Hayden",
+          "lessor": "John Toole",
+          "desc": "H,O,&L",
+          "area": "1 3 15",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Toole",
+          "lessor": "Edward F. Fitzgerald",
+          "desc": "H,O,&L",
+          "area": "26 1 22",
+          "land_val": "14 0 0",
+          "building_val": "1 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Michael Toole",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "78 3 26",
+          "land_val": "32 0 0",
+          "building_val": "1 5 0",
+          "total_val": "33 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "James Toole",
+          "lessor": "John Toole, jun.",
+          "desc": "H,O,&L",
+          "area": "1 2 24",
+          "land_val": "0 15 0",
+          "building_val": "0 10 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "John Toole, jun.",
+          "lessor": "Edward F. Fitzgerald",
+          "desc": "H,O,&L",
+          "area": "116 0 10",
+          "land_val": "51 10 0",
+          "building_val": "1 10 0",
+          "total_val": "53 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "238 3 30",
+          "land_val": "106 15 0",
+          "building_val": "5 10 0",
+          "total_val": "112 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "IRONHILLS",
+          "os": "27",
+          "occupier": "John Shaw",
+          "lessor": "William H. Magan",
+          "desc": "L (bog pasture), Turbary",
+          "area": "228 2 34",
+          "land_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Margaret Fitzgerald",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "1 3 39",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Thomas Callaghan",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3 b",
+          "occupier": "Edward Brennan",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "1 2 36",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Galvan",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 1 29",
+          "land_val": "0 2 0",
+          "building_val": "0 5 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Luke Nolan",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "2 3 38",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Patrick Deevy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 0 21",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "James Carr",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "1 1 3",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Agnes Cullen",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "1 2 34",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Edward Dillon",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "3 0 26",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Mary Shaw",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "8 3 25",
+          "land_val": "2 5 0",
+          "building_val": "0 5 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Michael Connell",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "9 0 6",
+          "land_val": "2 5 0",
+          "building_val": "0 10 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "David Dowling",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "4 3 12",
+          "land_val": "1 0 0",
+          "building_val": "0 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "John Whelan",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "5 1 34",
+          "land_val": "1 0 0",
+          "building_val": "0 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "Eliza Merin",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "4 2 11",
+          "land_val": "1 0 0",
+          "building_val": "0 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "14 b",
+          "occupier": "Patrick Merin",
+          "lessor": "Eliza Merin",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "15 A",
+          "occupier": "Bridget Clinch",
+          "lessor": "William H. Magan",
+          "desc": "H,O,&L",
+          "area": "42 2 36",
+          "land_val": "10 10 0",
+          "building_val": "0 15 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "15 B",
+          "occupier": "John Keane",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 0 23",
+          "land_val": "0 3 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "15 C",
+          "occupier": "John Keane",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 0 9",
+          "land_val": "0 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "15 C",
+          "occupier": "John Keane",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "1 1 13",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "1 3 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "16",
+          "occupier": "William Byrne",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 1 2",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Peter Clinch",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 0 17",
+          "land_val": "3 15 0",
+          "building_val": "0 10 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Thomas Lee",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "128 0 5",
+          "land_val": "44 15 0",
+          "building_val": "1 5 0",
+          "total_val": "46 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Thomas Shaw",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "253 2 7",
+          "land_val": "70 0 0",
+          "building_val": "7 10 0",
+          "total_val": "77 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "720 0 20",
+          "land_val": "144 15 0",
+          "building_val": "14 0 0",
+          "total_val": "168 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "KILBOGGAN",
+          "os": "31",
+          "occupier": "Richard Fitzgerald",
+          "lessor": "Frederick Hoysted",
+          "desc": "H,O,&L",
+          "area": "4 1 33",
+          "land_val": "2 15 0",
+          "building_val": "0 5 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "John More",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 2 0",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "1 c",
+          "occupier": "Peter Hanigan",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 2 9",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Thomas Trainer",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "3 0 37",
+          "land_val": "1 15 0",
+          "building_val": "0 10 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "3 A",
+          "occupier": "Frederick Hoysted",
+          "lessor": "William H. Magan",
+          "desc": "H,O,&L",
+          "area": "18 3 7",
+          "land_val": "18 15 0",
+          "building_val": "9 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 B",
+          "occupier": "Frederick Hoysted",
+          "lessor": "William H. Magan",
+          "desc": "L",
+          "area": "28 1 0",
+          "land_val": "23 10 0",
+          "total_val": "51 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4",
+          "occupier": "William Lee",
+          "lessor": "Frederick Hoysted",
+          "desc": "H,O,&L",
+          "area": "83 1 23",
+          "land_val": "50 0 0",
+          "building_val": "1 5 0",
+          "total_val": "51 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Scully",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "32 1 20",
+          "land_val": "18 0 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "171 2 9",
+          "land_val": "115 5 0",
+          "building_val": "12 5 0",
+          "total_val": "127 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "KILRUSH",
+          "os": "32",
+          "occupier": "John Gunnoud",
+          "lessor": "Edward F. Fitzgerald",
+          "desc": "H,O,&L",
+          "area": "2 1 19",
+          "land_val": "1 10 0",
+          "building_val": "1 0 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Peter Gunnoud",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "12 1 39",
+          "land_val": "8 0 0",
+          "building_val": "0 15 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Mary Moran",
+          "lessor": "Peter Gunnoud",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3 A",
+          "occupier": "Denis Brennan",
+          "lessor": "Edward F. Fitzgerald",
+          "desc": "H,O,&L",
+          "area": "15 1 35",
+          "land_val": "4 10 0",
+          "building_val": "4 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 B",
+          "occupier": "Denis Brennan",
+          "lessor": "Edward F. Fitzgerald",
+          "desc": "L",
+          "area": "10 1 12",
+          "land_val": "8 0 0",
+          "total_val": "16 10 0",
+          "n_shared": 2
+        }
+      ]
+    }
+  ]
+}

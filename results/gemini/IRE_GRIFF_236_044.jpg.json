@@ -1,0 +1,537 @@
+{
+  "parishes": [
+    {
+      "parish": "BALLINAKILL",
+      "entries": [
+        {
+          "mr": "21",
+          "townland": "BALLINAKILL",
+          "occupier": "Anastasin Mackey",
+          "lessor": "Thomas Austin",
+          "desc": "H",
+          "building_val": "0 14 0",
+          "total_val": "0 14 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "22",
+          "occupier": "Vacant",
+          "lessor": "Thomas Austin",
+          "desc": "Unfinished H & G",
+          "area": "0 0 27",
+          "land_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Matthew Wynne",
+          "lessor": "Thomas Austin",
+          "desc": "H & G",
+          "area": "0 0 27",
+          "land_val": "0 7 0",
+          "building_val": "2 3 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Martin Kavanagh",
+          "lessor": "Thomas Austin",
+          "desc": "H, yard, & G",
+          "area": "0 0 11",
+          "land_val": "0 3 0",
+          "building_val": "2 5 0",
+          "total_val": "2 8 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Anne Evans Austin",
+          "lessor": "Thomas Austin",
+          "desc": "H & G",
+          "area": "0 0 10",
+          "land_val": "0 3 0",
+          "building_val": "2 0 0",
+          "total_val": "2 3 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Thomas Austin",
+          "lessor": "Earl Stanhope",
+          "desc": "H, O, yd. & L",
+          "area": "1 2 16",
+          "land_val": "2 8 0",
+          "building_val": "2 10 0",
+          "total_val": "4 18 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Matthew Comerford",
+          "lessor": "Henry Wm. Whitehead",
+          "desc": "H, O, yd. & G",
+          "area": "0 1 14",
+          "land_val": "0 15 0",
+          "building_val": "13 10 0",
+          "total_val": "14 5 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "John Clendinning",
+          "lessor": "Henry Wm. Whitehead",
+          "desc": "H, yard, & G",
+          "area": "0 1 37",
+          "land_val": "0 17 0",
+          "building_val": "0 10 0",
+          "total_val": "1 7 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Vacant",
+          "lessor": "Henry Wm. Whitehead",
+          "desc": "Ruins (building-ground and yard)",
+          "area": "0 0 16",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Catherine Cuddihy and Judith Dowling",
+          "lessor": "Miss Mary E. S. Trench",
+          "desc": "H & G",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "31",
+          "occupier": "Miss Isabella Thompson",
+          "lessor": "Miss Mary E. S. Trench",
+          "desc": "H, yard, & G",
+          "area": "0 0 18",
+          "land_val": "0 6 0",
+          "building_val": "2 2 0",
+          "total_val": "2 8 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "James Delany",
+          "lessor": "Miss Mary E. S. Trench",
+          "desc": "L",
+          "area": "1 1 20",
+          "land_val": "2 2 0",
+          "total_val": "2 2 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "James Delany",
+          "lessor": "Earl Stanhope",
+          "desc": "H, O, yd. & L",
+          "area": "1 2 10",
+          "land_val": "2 6 0",
+          "building_val": "4 19 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "John Tobin",
+          "lessor": "James Delany",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "John Goss",
+          "lessor": "James Delany",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Vacant",
+          "lessor": "John Watson, Esq.",
+          "desc": "Building-ground",
+          "area": "0 0 2",
+          "land_val": "0 1 0",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "Patrick Lalor, sen.",
+          "lessor": "John Watson, Esq.",
+          "desc": "H, O, yd. & G",
+          "area": "0 1 15",
+          "land_val": "0 14 0",
+          "building_val": "6 16 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Miss Jane Jacob",
+          "lessor": "Miss M. E. S. Trench",
+          "desc": "H & G",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "James Foyle",
+          "lessor": "Miss M. E. S. Trench",
+          "desc": "H & G",
+          "building_val": "4 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "BREWERY-LANE",
+          "occupier": "John Coogan",
+          "lessor": "Free",
+          "desc": "H",
+          "building_val": "1 2 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Quigley",
+          "lessor": "Andrew Ryan",
+          "desc": "H",
+          "building_val": "0 13 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Thomas Coyle",
+          "lessor": "Andrew Ryan",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Martin Kane",
+          "lessor": "Andrew Ryan",
+          "desc": "H",
+          "building_val": "0 13 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Mrs. Mary Dalton",
+          "lessor": "Andrew Ryan",
+          "desc": "O & G (included with No.4, Church-st.)"
+        },
+        {
+          "mr": "6",
+          "occupier": "Miss Eliza Jacob",
+          "lessor": "Andrew Ryan",
+          "desc": "G (included with No.3, Church-street)"
+        },
+        {
+          "mr": "7",
+          "occupier": "Richard Byrne",
+          "lessor": "Andrew Ryan",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Constabulary Force",
+          "lessor": "Andrew Ryan",
+          "desc": "G (included with No.5, Church-street)"
+        },
+        {
+          "mr": "9",
+          "occupier": "Matthew Comerford",
+          "lessor": "Rt. Rev. Dr. Haly",
+          "desc": "O, yard, & L",
+          "area": "0 0 13",
+          "land_val": "0 4 0",
+          "building_val": "4 16 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Patrick Delany",
+          "lessor": "Mrs. Margt. Newsome",
+          "desc": "L",
+          "area": "0 0 25",
+          "land_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Daniel Byrne",
+          "lessor": "Mrs. Margt. Newsome",
+          "desc": "L",
+          "area": "0 2 4",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "John Cody",
+          "lessor": "Matthew Comerford",
+          "desc": "Corn-mill, kiln, & L",
+          "area": "0 2 0",
+          "land_val": "0 15 0",
+          "building_val": "4 10 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "BRIDE-STREET",
+          "occupier": "Charles White",
+          "lessor": "Earl Stanhope",
+          "desc": "H & G",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Bryan Meany",
+          "lessor": "Earl Stanhope",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Fitzpatrick",
+          "lessor": "Earl Stanhope",
+          "desc": "H, O, yd. & sm. G",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Robert Swaine",
+          "lessor": "Earl Stanhope",
+          "desc": "H, yard, & sm. G",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Thomas Guilfoyle",
+          "lessor": "Earl Stanhope",
+          "desc": "H, yard, & sm. G",
+          "building_val": "1 8 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Honoria Delany",
+          "lessor": "John Dunne",
+          "desc": "H, O, yd. & G",
+          "area": "0 0 10",
+          "land_val": "0 3 0",
+          "building_val": "2 0 0",
+          "total_val": "2 3 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "James Swaine",
+          "lessor": "John Dunne",
+          "desc": "H, O, yd. & G",
+          "area": "0 0 10",
+          "land_val": "0 3 0",
+          "building_val": "1 10 0",
+          "total_val": "1 13 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Patrick Moore",
+          "lessor": "John Dunne",
+          "desc": "H, yard, & G",
+          "area": "0 0 10",
+          "land_val": "0 3 0",
+          "building_val": "1 6 0",
+          "total_val": "1 9 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Bernard Dunne",
+          "lessor": "Earl Stanhope",
+          "desc": "H, yard, and G",
+          "area": "0 0 32",
+          "land_val": "0 8 0",
+          "building_val": "3 10 0",
+          "total_val": "3 18 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Mary Phelan",
+          "lessor": "Earl Stanhope",
+          "desc": "H & G",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Catherine Dowdall",
+          "lessor": "Earl Stanhope",
+          "desc": "H, yard, & sm. G",
+          "building_val": "0 18 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Ellen Keenan",
+          "lessor": "Earl Stanhope",
+          "desc": "H, yd. & sm. G",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Bridget Hipple",
+          "lessor": "Earl Stanhope",
+          "desc": "H & G",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "William Swaine",
+          "lessor": "Earl Stanhope",
+          "desc": "H, yard, & sm. G",
+          "area": "0 0 12",
+          "land_val": "0 4 0",
+          "building_val": "0 13 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Henry Moran",
+          "lessor": "Earl Stanhope",
+          "desc": "H, O, yd. & G",
+          "area": "0 0 36",
+          "land_val": "0 9 0",
+          "building_val": "3 5 0",
+          "total_val": "3 14 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Thomas Campion",
+          "lessor": "Earl Stanhope",
+          "desc": "H, O, yd. & G",
+          "area": "0 0 23",
+          "land_val": "0 6 0",
+          "building_val": "2 0 0",
+          "total_val": "2 6 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Michael Bowe",
+          "lessor": "Earl Stanhope",
+          "desc": "H, O, yd. & L",
+          "area": "2 2 10",
+          "land_val": "3 10 0",
+          "building_val": "3 5 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Samuel Wiley",
+          "lessor": "Earl Stanhope",
+          "desc": "H, O, yd. & G",
+          "area": "0 2 0",
+          "land_val": "0 18 0",
+          "building_val": "2 6 0",
+          "total_val": "3 4 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Catherine Hyland",
+          "lessor": "Earl Stanhope",
+          "desc": "H",
+          "building_val": "1 6 0",
+          "total_val": "1 6 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Mary Lalor",
+          "lessor": "Earl Stanhope",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Bernard Dunne",
+          "lessor": "Patrick M'Donnell",
+          "desc": "H & G",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Patrick M'Donnell",
+          "lessor": "Richard Lodge",
+          "desc": "H & G",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Vacant",
+          "lessor": "Patrick M'Donnell",
+          "desc": "H & G",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Judith Hely",
+          "lessor": "Patrick M'Donnell",
+          "desc": "H & G",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Patrick M'Donnell",
+          "lessor": "Earl Stanhope",
+          "desc": "G",
+          "area": "0 1 26",
+          "land_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Patrick Lawless",
+          "lessor": "Peter Delany",
+          "desc": "H",
+          "building_val": "0 14 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Peter Delany",
+          "lessor": "William Horan, Esq.",
+          "desc": "H, O, yard, & G",
+          "area": "0 0 17",
+          "land_val": "0 5 0",
+          "building_val": "2 5 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Vacant",
+          "lessor": "John Deegan",
+          "desc": "H & G",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Vacant",
+          "lessor": "John Deegan",
+          "desc": "H & G",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        }
+      ]
+    }
+  ]
+}

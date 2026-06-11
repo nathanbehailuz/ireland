@@ -1,0 +1,514 @@
+{
+  "parishes": [
+    {
+      "parish": "ST. JOHN'S",
+      "entries": [
+        {
+          "mr": "6",
+          "townland": "KNOCKNAGANNY",
+          "occupier": "William A. Woods, (See also lot 14.) (See also lot 17 of this Townland in East Poor Law Ward.)",
+          "lessor": "John Wynne,",
+          "desc": "L",
+          "area": "3 2 35",
+          "land_val": "8 5 0",
+          "building_val": "",
+          "total_val": "8 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "7",
+          "sublocation_1": "WEST MUNICIPAL WARD (part of)",
+          "occupier": "William Ward,",
+          "lessor": "William F. Burton,",
+          "desc": "L",
+          "area": "0 3 20",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Patrick Mullin,",
+          "lessor": "William Ward,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Farrell M'Manus,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Thomas M'Alynn,",
+          "lessor": "William F. Burton,",
+          "desc": "L&H",
+          "area": "2 0 30",
+          "land_val": "3 5 0",
+          "building_val": "2 0 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "James Moran, (See also lot 1.)",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "5 0 5",
+          "land_val": "7 10 0",
+          "building_val": "",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Farrell M'Manus,",
+          "lessor": "Maryanne O'Beirne,",
+          "desc": "L",
+          "area": "1 0 10",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "James Tighe,",
+          "lessor": "Cornelius O'Beirne,",
+          "desc": "L",
+          "area": "6 0 30",
+          "land_val": "9 10 0",
+          "building_val": "",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Michael Free,",
+          "lessor": "James Tighe,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Richard Hayes,",
+          "lessor": "Cornelius O'Beirne,",
+          "desc": "H,O,&G",
+          "area": "0 2 0",
+          "land_val": "1 0 0",
+          "building_val": "0 12 0",
+          "total_val": "1 12 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Hugh Rooney, (See also lot 5.)",
+          "lessor": "Edward J. Cooper,",
+          "desc": "L",
+          "area": "0 2 0",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "James Rooney, (See also lot 25 of this Townland in East Poor Law Ward.)",
+          "lessor": "John Wynne,",
+          "desc": "L",
+          "area": "1 3 10",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "William A. Woods, (See also lot 6.)",
+          "lessor": "John Wynne,",
+          "desc": "L,H,&O",
+          "area": "0 2 25",
+          "land_val": "1 5 0",
+          "building_val": "18 0 0",
+          "total_val": "19 5 0"
+        },
+        {
+          "mr": "1",
+          "townland": "TOWN OF SLIGO",
+          "sublocation_1": "OLD MAIL COACH-ROAD",
+          "occupier": "Lodgers,",
+          "lessor": "Eliza Winterscale,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Lodgers,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Matthew Feeney,",
+          "lessor": "Jane Vernon,",
+          "desc": "Yard,",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Daniel M'Cormick,",
+          "lessor": "Michael Monahan,",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Curly,",
+          "lessor": "Same,",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "James Freeman,",
+          "lessor": "James Daly,",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "James Cryan,",
+          "lessor": "Same,",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Anne M'Manus,",
+          "lessor": "Same,",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Ellen Henry,",
+          "lessor": "Same,",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Matthew Feeny,",
+          "lessor": "Same,",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "James Deignan,",
+          "lessor": "Matthew Feeny,",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Thomas Buckley,",
+          "lessor": "Same,",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Luke Conry,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "John Hudson,",
+          "lessor": "Same,",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "John Quinn,",
+          "lessor": "Same,",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Margaret M'Morrow,",
+          "lessor": "Denis M'Morrow,",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Mathew Mathews,",
+          "lessor": "Same,",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Unoccupied,",
+          "lessor": "James D. Vernon,",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Patrick Tyrrell,",
+          "lessor": "Same,",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Martin Hargedon,",
+          "lessor": "Same,",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Thomas Gillan,",
+          "lessor": "Same,",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Patrick Walsh,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Gregory Dunlevy,",
+          "lessor": "Same,",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Hugh Heuston,",
+          "lessor": "Same,",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Patrick Milmoe,",
+          "lessor": "Mary O'Beirne,",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Owen M'Lean,",
+          "lessor": "William Brady,",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "John Hanney,",
+          "lessor": "Mary O'Beirne,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Dominick Flatly,",
+          "lessor": "Same,",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Mary Begly,",
+          "lessor": "Patrick Kilmartin,",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Patrick Kilgallen,",
+          "lessor": "Same,",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Daniel M'Loughlin,",
+          "lessor": "Mary O'Beirne,",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "Catherine Kelly,",
+          "lessor": "Bryan Drum,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "Bryan Drum,",
+          "lessor": "Mary O'Beirne,",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Denis Monahan,",
+          "lessor": "Same,",
+          "desc": "H&small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Winifred Donohoe,",
+          "lessor": "Same,",
+          "desc": "H&small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Same,",
+          "lessor": "Same,",
+          "desc": "Ruins,",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "37",
+          "occupier": "Michael Hines,",
+          "lessor": "Same,",
+          "desc": "H&small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,656 @@
+{
+  "parishes": [
+    {
+      "entries": [
+        {
+          "mr": "31",
+          "townland": "THURLESTOWN",
+          "sublocation_1": "PARKS—con.",
+          "occupier": "Philip Stokes",
+          "lessor": "John Gorman",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "32",
+          "occupier": "James Gorman",
+          "lessor": "William Crow",
+          "desc": "H,O,&G",
+          "area": "0 0 4",
+          "land_val": "0 1 0",
+          "building_val": "2 6 0",
+          "total_val": "2 7 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "HICKEY'S LANE, OPPOSITE MILITARY BARRACKS.",
+          "occupier": "John Finn",
+          "lessor": "Viscount Chabot",
+          "desc": "O&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Michael Dunn",
+          "lessor": "Viscount Chabot",
+          "desc": "H&G",
+          "area": "0 0 2",
+          "land_val": "0 1 0",
+          "building_val": "0 12 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "William Kett",
+          "lessor": "Viscount Chabot",
+          "desc": "H&G",
+          "area": "0 0 2",
+          "land_val": "0 1 0",
+          "building_val": "0 12 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Edward Fitzgerald",
+          "lessor": "William Hickey",
+          "desc": "H&G",
+          "area": "0 0 2",
+          "land_val": "0 1 0",
+          "building_val": "0 15 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Cormack",
+          "lessor": "William Hickey",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 13 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Michael Whelan",
+          "lessor": "William Hickey",
+          "desc": "H&G",
+          "area": "0 0 4",
+          "land_val": "0 1 0",
+          "building_val": "0 13 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Patrick Mara",
+          "lessor": "William Hickey",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 13 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "William Hickey",
+          "lessor": "Viscount Chabot",
+          "desc": "L",
+          "area": "0 1 6",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "GARRYVICLEHEEN-STREET.",
+          "occupier": "Thomas Shaw",
+          "lessor": "Viscount Chabot",
+          "desc": "H,O,&G",
+          "area": "0 0 6",
+          "land_val": "0 3 0",
+          "building_val": "7 9 0",
+          "total_val": "7 12 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Sullivan",
+          "lessor": "Thomas Shaw",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 14 0",
+          "total_val": "5 14 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Mary Maher",
+          "lessor": "Viscount Chabot",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James Keaton",
+          "lessor": "Viscount Chabot",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 7 0",
+          "total_val": "4 7 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Connell",
+          "lessor": "Viscount Chabot",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Michael Mackey",
+          "lessor": "Viscount Chabot",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Philip Hennessy",
+          "lessor": "Michael Mackey",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 6 0",
+          "total_val": "3 6 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "John Cullen",
+          "lessor": "Viscount Chabot",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "William Lundrigan",
+          "lessor": "Viscount Chabot",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Jeremiah Ryan",
+          "lessor": "Viscount Chabot",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 16 0",
+          "total_val": "4 16 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Michael Finn",
+          "lessor": "Viscount Chabot",
+          "desc": "O&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 7 0",
+          "total_val": "4 7 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Walter Grace",
+          "lessor": "Viscount Chabot",
+          "desc": "H,O,&G",
+          "area": "0 0 18",
+          "land_val": "0 11 0",
+          "building_val": "7 17 0",
+          "total_val": "8 8 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Thomas Kirwan",
+          "lessor": "Viscount Chabot",
+          "desc": "Yard&G",
+          "area": "0 1 8",
+          "land_val": "1 8 0",
+          "building_val": "",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Mary Ryan",
+          "lessor": "Viscount Chabot",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 19 0",
+          "total_val": "3 19 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Michael Shannahan",
+          "lessor": "Viscount Chabot",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 19 0",
+          "total_val": "3 19 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Philip Ryan",
+          "lessor": "John Maher",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Anne Maher",
+          "lessor": "John Maher",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 4 0",
+          "total_val": "1 4 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Michael Shannahan",
+          "lessor": "In fee",
+          "desc": "Building-ground",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "19",
+          "occupier": "Michael Shannahan",
+          "lessor": "Viscount Chabot",
+          "desc": "O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 9 0",
+          "total_val": "1 9 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "James Cantwell",
+          "lessor": "Viscount Chabot",
+          "desc": "H,yard,&G",
+          "area": "0 0 6",
+          "land_val": "0 3 0",
+          "building_val": "5 5 0",
+          "total_val": "5 8 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Margaret Egan",
+          "lessor": "Viscount Chabot",
+          "desc": "H&G",
+          "area": "0 0 2",
+          "land_val": "0 1 0",
+          "building_val": "1 13 0",
+          "total_val": "1 14 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Thomas Ryan",
+          "lessor": "Viscount Chabot",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Patrick Fanning",
+          "lessor": "Viscount Chabot",
+          "desc": "O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 17 0",
+          "total_val": "1 17 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Ellen Ryan",
+          "lessor": "Patrick Fanning",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 13 0",
+          "total_val": "1 13 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Edmund Morris",
+          "lessor": "Patrick Fanning",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Michael Ryan",
+          "lessor": "Viscount Chabot",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 8 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Pierce Stakelman",
+          "lessor": "Viscount Chabot",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "James Fanning",
+          "lessor": "Denis Heenan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 6 0",
+          "total_val": "2 6 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "James Ryan",
+          "lessor": "Denis Heenan",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 17 0",
+          "total_val": "1 17 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "John Quinlan",
+          "lessor": "Denis Heenan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Denis Heenan",
+          "lessor": "Viscount Chabot",
+          "desc": "O,yard,&G",
+          "area": "0 1 16",
+          "land_val": "0 18 0",
+          "building_val": "1 10 0",
+          "total_val": "2 8 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "Michael Riordan",
+          "lessor": "Viscount Chabot",
+          "desc": "H&G",
+          "area": "0 0 21",
+          "land_val": "0 7 0",
+          "building_val": "2 8 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "Patrick Mowan",
+          "lessor": "Viscount Chabot",
+          "desc": "H,O,&L",
+          "area": "0 3 37",
+          "land_val": "2 12 0",
+          "building_val": "2 4 0",
+          "total_val": "4 16 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "John Brien",
+          "lessor": "Viscount Chabot",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 17 0",
+          "total_val": "1 17 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Patrick Leacy",
+          "lessor": "Viscount Chabot",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 17 0",
+          "total_val": "1 17 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Margaret Brien",
+          "lessor": "Viscount Chabot",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 1 0",
+          "total_val": "3 1 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "Eliza Kerwick and John Haughton",
+          "lessor": "Viscount Chabot",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 19 0",
+          "total_val": "3 19 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "38",
+          "occupier": "James Leacy",
+          "lessor": "Viscount Chabot",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 11 0",
+          "total_val": "2 11 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "Edmund Burke",
+          "lessor": "Viscount Chabot",
+          "desc": "H,O,&G",
+          "area": "0 0 20",
+          "land_val": "0 6 0",
+          "building_val": "4 7 0",
+          "total_val": "4 13 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "Edmund M'Grath",
+          "lessor": "Viscount Chabot",
+          "desc": "H,O,&G",
+          "area": "0 0 2",
+          "land_val": "0 1 0",
+          "building_val": "2 4 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "James Coppinger",
+          "lessor": "Viscount Chabot",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "Edmund Carney",
+          "lessor": "Viscount Chabot",
+          "desc": "H,O,&G",
+          "area": "0 0 3",
+          "land_val": "0 1 0",
+          "building_val": "1 12 0",
+          "total_val": "1 13 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "Ellen Maher",
+          "lessor": "Michael Griffin",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 8 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "44",
+          "occupier": "Michael Griffin and John Dunn",
+          "lessor": "Viscount Chabot",
+          "desc": "H,O,&G",
+          "area": "0 3 12",
+          "land_val": "2 3 0",
+          "building_val": "3 10 0",
+          "total_val": "5 13 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "45",
+          "occupier": "Kerin Kelly",
+          "lessor": "John Mulrooney",
+          "desc": "H&small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "Mary Cawley",
+          "lessor": "John Mulrooney",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "47",
+          "occupier": "John Mulrooney",
+          "lessor": "Viscount Chabot",
+          "desc": "H,O,&G",
+          "area": "1 0 30",
+          "land_val": "3 3 0",
+          "building_val": "4 7 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "48",
+          "occupier": "Thomas Sinnott and Owen Darmody",
+          "lessor": "Viscount Chabot",
+          "desc": "H,O,&G",
+          "area": "0 1 17",
+          "land_val": "0 18 0",
+          "building_val": "2 4 0",
+          "total_val": "3 2 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "49",
+          "occupier": "Timothy Mara",
+          "lessor": "Viscount Chabot",
+          "desc": "H&G",
+          "area": "1 1 0",
+          "land_val": "3 6 0",
+          "building_val": "1 17 0",
+          "total_val": "5 3 0"
+        },
+        {
+          "mr": "50",
+          "occupier": "Philip Brien",
+          "lessor": "Timothy Mara",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 4 0",
+          "total_val": "1 4 0"
+        },
+        {
+          "mr": "51",
+          "occupier": "Denis Leahy",
+          "lessor": "Viscount Chabot",
+          "desc": "H&G",
+          "area": "0 0 3",
+          "land_val": "0 1 0",
+          "building_val": "1 17 0",
+          "total_val": "1 18 0"
+        },
+        {
+          "mr": "52",
+          "occupier": "Patrick Ryan",
+          "lessor": "Viscount Chabot",
+          "desc": "H&G",
+          "area": "0 0 3",
+          "land_val": "0 1 0",
+          "building_val": "1 9 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "53",
+          "occupier": "Patrick Kennedy",
+          "lessor": "Viscount Chabot",
+          "desc": "G",
+          "area": "0 3 17",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "54",
+          "occupier": "John Doyle",
+          "lessor": "Patrick Kennedy",
+          "desc": "H&small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 13 0",
+          "total_val": "1 13 0"
+        }
+      ]
+    }
+  ]
+}

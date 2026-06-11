@@ -1,0 +1,634 @@
+{
+  "parishes": [
+    {
+      "parish": "DONAGHCUMPER",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "DONAGHCUMPER",
+          "os": "11",
+          "occupier": "Alex. R. Kirkpatrick, Esq.",
+          "lessor": "Robert C. Browne, Esq.",
+          "desc": "L",
+          "area": "26 2 18",
+          "land_val": "36 5 0",
+          "building_val": "",
+          "total_val": "36 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "2",
+          "occupier": "Alex. R. Kirkpatrick, Esq.",
+          "lessor": "In fee",
+          "desc": "H,O,&L",
+          "area": "71 3 1",
+          "land_val": "95 10 0",
+          "building_val": "78 0 0",
+          "total_val": "173 10 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Alex. R. Kirkpatrick, Esq.",
+          "lessor": "Rev. H. C. Keogh",
+          "desc": "Herd's ho., office, & land",
+          "area": "80 0 6",
+          "land_val": "88 0 0",
+          "building_val": "2 0 0",
+          "total_val": "90 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Isabella Prendergast",
+          "lessor": "Alex. R. Kirkpatrick, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Grave-yard",
+          "lessor": "Rev. Robert Pakenham",
+          "desc": "Grave-yard",
+          "area": "0 1 21",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "4",
+          "occupier": "Richard Cane, Esq.",
+          "lessor": "Rev. H. C. Keogh",
+          "desc": "L",
+          "area": "52 3 0",
+          "land_val": "51 15 0",
+          "building_val": "",
+          "total_val": "51 15 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "John Smith",
+          "lessor": "Richard Cane, Esq.",
+          "desc": "H&G",
+          "area": "0 0 32",
+          "land_val": "0 5 0",
+          "building_val": "0 13 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Michael Rosney",
+          "lessor": "Richard Cane, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Richard Keogh",
+          "lessor": "Richard Cane, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Arthur B. Cane, Esq.",
+          "lessor": "Richard Cane, Esq.",
+          "desc": "L",
+          "area": "23 3 7",
+          "land_val": "22 15 0",
+          "building_val": "",
+          "total_val": "22 15 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Rose Ryan",
+          "lessor": "Rev. H. C. Keogh",
+          "desc": "H,O,&L",
+          "area": "1 1 20",
+          "land_val": "2 0 0",
+          "building_val": "1 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Carroll",
+          "lessor": "Rose Ryan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 11 0",
+          "total_val": "0 11 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "John Hickey",
+          "lessor": "Rose Ryan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Julia Williams",
+          "lessor": "Robert C. Browne, Esq.",
+          "desc": "H,O,&L",
+          "area": "6 3 14",
+          "land_val": "9 5 0",
+          "building_val": "1 5 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Tracey",
+          "lessor": "Julia Williams",
+          "desc": "H&G",
+          "area": "0 0 24",
+          "land_val": "0 10 0",
+          "building_val": "0 15 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "James Leslie",
+          "lessor": "Robert C. Browne, Esq.",
+          "desc": "L",
+          "area": "23 1 29",
+          "land_val": "35 0 0",
+          "building_val": "",
+          "total_val": "35 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Thomas Byrne",
+          "lessor": "James Leslie",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Margaret Reilly",
+          "lessor": "Robert C. Browne, Esq.",
+          "desc": "H,O,&L",
+          "area": "2 0 36",
+          "land_val": "3 0 0",
+          "building_val": "1 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Christopher Tracy",
+          "lessor": "Margaret Reilly",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Patrick Grogan",
+          "lessor": "Margaret Reilly",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 9 0",
+          "total_val": "0 9 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "James Collisson",
+          "lessor": "Robert C. Browne, Esq.",
+          "desc": "H,O,&L",
+          "area": "3 3 9",
+          "land_val": "4 15 0",
+          "building_val": "1 15 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "James Collisson",
+          "lessor": "Robert C. Browne, Esq.",
+          "desc": "Limestone quarry & kiln",
+          "area": "0 3 30",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Kelly",
+          "lessor": "James Collisson",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Michael Collisson",
+          "lessor": "James Collisson",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Cecily Kennedy",
+          "lessor": "James Collisson",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "George Connellan",
+          "lessor": "James Collisson",
+          "desc": "H and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Mary Smith",
+          "lessor": "James Collisson",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "Christopher Collisson",
+          "lessor": "James Collisson",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Henry Holbrook",
+          "lessor": "Robert C. Browne, Esq.",
+          "desc": "L",
+          "area": "5 3 12",
+          "land_val": "9 15 0",
+          "building_val": "",
+          "total_val": "9 15 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Anne Madden",
+          "lessor": "Henry Holbrook",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John M'Cabe",
+          "lessor": "Henry Holbrook",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Thomas Kelly",
+          "lessor": "Henry Holbrook",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Vacant",
+          "lessor": "Henry Holbrook",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Edward Mahon",
+          "lessor": "Robert C. Browne, Esq.",
+          "desc": "H,O,&L",
+          "area": "7 0 0",
+          "land_val": "9 0 0",
+          "building_val": "1 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Edward Mahon",
+          "lessor": "Robert C. Browne, Esq.",
+          "desc": "H, forge, &L",
+          "area": "1 3 37",
+          "land_val": "3 0 0",
+          "building_val": "3 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "James Farrell",
+          "lessor": "Rev. H. C. Keogh",
+          "desc": "H,O,&L",
+          "area": "20 1 35",
+          "land_val": "16 10 0",
+          "building_val": "1 5 0",
+          "total_val": "17 15 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "TOWN OF CELBRIDGE",
+          "occupier": "Michl. Rourke & lodgers",
+          "lessor": "Alex. R. Kirkpatrick, Esq.",
+          "desc": "H and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Michael Rourke",
+          "lessor": "Alex. R. Kirkpatrick, Esq.",
+          "desc": "Ho., office, yard, & garden",
+          "area": "0 0 17",
+          "land_val": "0 5 0",
+          "building_val": "9 10 0",
+          "total_val": "9 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Tracy",
+          "lessor": "James Beahan",
+          "desc": "H and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Michael Nottingham",
+          "lessor": "James Beahan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Beahan",
+          "lessor": "Alex. R. Kirkpatrick, Esq.",
+          "desc": "H, forge, &G",
+          "area": "0 0 30",
+          "land_val": "0 10 0",
+          "building_val": "5 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Laurence Mullins",
+          "lessor": "Thomas Reilly",
+          "desc": "H,O,&G",
+          "area": "0 1 0",
+          "land_val": "0 15 0",
+          "building_val": "4 5 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Thomas Reilly",
+          "lessor": "Robert C. Browne, Esq.",
+          "desc": "G",
+          "area": "0 0 31",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Mary Carey",
+          "lessor": "Thomas Reilly",
+          "desc": "H and small garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Thomas Magee",
+          "lessor": "Richard Fay, sen.",
+          "desc": "H and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Patrick Mooney",
+          "lessor": "Richard Fay, sen.",
+          "desc": "H,O, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "John Ford",
+          "lessor": "John Collisson",
+          "desc": "H and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Vacant",
+          "lessor": "James Collisson",
+          "desc": "Ruins and garden",
+          "area": "0 0 6",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Ellen Cooney",
+          "lessor": "James Collisson",
+          "desc": "H and small garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Vacant",
+          "lessor": "James Collisson",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Henry M'Namara",
+          "lessor": "Richard Fay, sen.",
+          "desc": "H and small garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Richard Fay, jun.",
+          "lessor": "Richard Fay, sen.",
+          "desc": "H and small garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Richard Fay, sen.",
+          "lessor": "Robert C. Browne, Esq.",
+          "desc": "H,O,&G",
+          "area": "0 0 28",
+          "land_val": "0 10 0",
+          "building_val": "6 10 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Richard Fay, sen.",
+          "lessor": "Robert C. Browne, Esq.",
+          "desc": "Waste under houses, yards, streets, & small gardens",
+          "area": "1 1 25",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "occupier": "Richard Fay, sen.",
+          "lessor": "Robert C. Browne, Esq.",
+          "desc": "Waste of River Liffey",
+          "area": "5 2 0",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "337 1 28",
+          "land_val": "390 3 0",
+          "building_val": "172 13 0",
+          "total_val": "567 16 0",
+          "is_total": 1
+        },
+        {
+          "mr": "",
+          "desc": "Exemptions: Grave-yard",
+          "area": "0 1 21",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0",
+          "is_total": 1,
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "desc": "Total, exclusive of exemptions",
+          "area": "337 0 7",
+          "land_val": "389 18 0",
+          "building_val": "172 13 0",
+          "total_val": "567 11 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A a B",
+          "townland": "ELNHALL",
+          "os": "11",
+          "occupier": "Mrs. Anne Jane M'Keown",
+          "lessor": "George R. Keogh, Esq.",
+          "desc": "H,O,&L",
+          "area": "121 0 29",
+          "land_val": "131 15 0",
+          "building_val": "17 10 0",
+          "total_val": "149 5 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "b",
+          "occupier": "William Harvey",
+          "lessor": "Mrs. Anne Jane M'Keown",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "2 & 1 A c",
+          "occupier": "G. S. & W. Railway Co.",
+          "lessor": "In fee",
+          "desc": "Railway 113 lineal perches and waste land",
+          "area": "3 1 22",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "163 15 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "124 2 11",
+          "land_val": "131 15 0",
+          "building_val": "19 5 0",
+          "total_val": "314 15 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

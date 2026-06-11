@@ -1,0 +1,73 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF MONASTERANENAGH",
+      "entries": [
+        {
+          "mr": "1 d",
+          "townland": "MONASTER, NORTH",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "Constabulary Force,",
+          "lessor": "John Cantillon, Esq.",
+          "desc": "Police barrack & yard,",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 15 0",
+          "total_val": "3 15 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        }
+      ]
+    },
+    {
+      "parish": "PARISH OF MUNGRET",
+      "entries": [
+        {
+          "mr": "2 b",
+          "townland": "GOULDAVOHER",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "Constabulary Force,",
+          "lessor": "George Gough, Esq.",
+          "desc": "Police barrack & yard,",
+          "area": "",
+          "land_val": "",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        }
+      ]
+    },
+    {
+      "parish": "ST. MICHAEL'S PARISH",
+      "entries": [
+        {
+          "mr": "28",
+          "townland": "BALLINACURRA (Bowman)",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "James Morris, .",
+          "lessor": "Margt. D. Unthank,",
+          "desc": "Quaker's burial ground .",
+          "area": "0 3 8",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 0 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        }
+      ]
+    }
+  ]
+}

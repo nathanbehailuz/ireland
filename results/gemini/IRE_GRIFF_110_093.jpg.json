@@ -1,0 +1,538 @@
+{
+  "parishes": [
+    {
+      "parish": "AGHALURCHER",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "DRUMCRAMPH",
+          "os": "28",
+          "occupier": "James M'Manus",
+          "lessor": "Rev. John Grey Porter",
+          "desc": "H,O,&L",
+          "area": "15 2 30",
+          "land_val": "9 10 0",
+          "building_val": "1 0 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Anne Montgomery",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "60 3 0",
+          "land_val": "34 0 0",
+          "building_val": "1 5 0",
+          "total_val": "35 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Mulligan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 0 15",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Felix M'Elroy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 2 25",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Henry Bussell",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 30",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "William Bussell",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 1 35",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "James M'Mullin",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 2 15",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Hugh M'Mullin",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 0 6",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "92 3 36",
+          "land_val": "48 15 0",
+          "building_val": "2 5 0",
+          "total_val": "51 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DRUMLIFF",
+          "os": "28",
+          "occupier": "Edward & John Scallan",
+          "lessor": "Reps. A. Denny",
+          "desc": "H&L",
+          "area": "12 0 21",
+          "land_val": "10 15 0",
+          "building_val": "0 15 0",
+          "total_val": "11 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 A",
+          "occupier": "Robert Flanagan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "2 2 15",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "2 B",
+          "occupier": "Robert Flanagan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "5 3 20",
+          "land_val": "5 5 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "2 C",
+          "occupier": "Robert Flanagan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "24 0 25",
+          "land_val": "18 0 0",
+          "building_val": "2 15 0",
+          "total_val": "28 15 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Francis Willoughby",
+          "lessor": "Same",
+          "desc": "O&L",
+          "area": "8 0 13",
+          "land_val": "6 15 0",
+          "building_val": "0 10 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "3 b",
+          "occupier": "John Gallagher",
+          "lessor": "Francis Willoughby",
+          "desc": "H&G",
+          "area": "0 2 10",
+          "land_val": "0 10 0",
+          "building_val": "0 15 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "4 A",
+          "occupier": "Thomas Reilly",
+          "lessor": "Reps. A. Denny",
+          "desc": "H,O,&L",
+          "area": "19 0 30",
+          "land_val": "16 0 0",
+          "building_val": "1 5 0",
+          "total_val": ""
+        },
+        {
+          "mr": "4 B",
+          "occupier": "Thomas Reilly",
+          "lessor": "Reps. A. Denny",
+          "desc": "H,O,&L",
+          "area": "1 3 10",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "17 15 0"
+        },
+        {
+          "mr": "5 A",
+          "occupier": "Philip Murphy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 3 0",
+          "land_val": "8 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "5 B",
+          "occupier": "Philip Murphy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 3 0",
+          "land_val": "7 8 0",
+          "building_val": "1 15 0",
+          "total_val": ""
+        },
+        {
+          "mr": "5 C",
+          "occupier": "Philip Murphy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "1 0 10",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "17 15 0"
+        },
+        {
+          "mr": "6 A",
+          "occupier": "Patrick Murphy",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "7 1 13",
+          "land_val": "7 5 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "6 B",
+          "occupier": "Patrick Murphy",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "0 3 15",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "7 A a",
+          "occupier": "William Nixon",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 1 0",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": ""
+        },
+        {
+          "mr": "7 A b",
+          "occupier": "William Nixon",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 2 3",
+          "land_val": "6 10 0",
+          "building_val": "",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "7 B",
+          "occupier": "Charles Scallan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "1 1 35",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "8",
+          "occupier": "Charles Scallan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 3 0",
+          "land_val": "8 15 0",
+          "building_val": "1 0 0",
+          "total_val": "9 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Reps A. Denny",
+          "lessor": "In fee",
+          "desc": "B",
+          "area": "7 0 25",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "10",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Water",
+          "area": "4 3 35",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "136 1 0",
+          "land_val": "99 15 0",
+          "building_val": "9 0 0",
+          "total_val": "108 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "EDERDACURRAGH",
+          "os": "27 & 28",
+          "occupier": "John Chartres",
+          "lessor": "In fee",
+          "desc": "H,O,&L",
+          "area": "60 2 35",
+          "land_val": "47 0 0",
+          "building_val": "12 0 0",
+          "total_val": "59 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "William Breslin",
+          "lessor": "Michael Burke",
+          "desc": "H,O,&L",
+          "area": "48 1 22",
+          "land_val": "32 10 0",
+          "building_val": "1 10 0",
+          "total_val": "34 0 0"
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Robert Montgomery",
+          "lessor": "William Breslin",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Morrison",
+          "lessor": "Margaret Boyd",
+          "desc": "H,O,&L",
+          "area": "16 2 5",
+          "land_val": "11 0 0",
+          "building_val": "1 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Philip Cassidy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "32 0 5",
+          "land_val": "22 10 0",
+          "building_val": "2 10 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "4 b",
+          "occupier": "John Collins",
+          "lessor": "Philip Cassidy",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Water",
+          "area": "7 2 19",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "165 1 6",
+          "land_val": "113 0 0",
+          "building_val": "18 5 0",
+          "total_val": "131 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "GARVOGHILL",
+          "os": "28",
+          "occupier": "William Nixon",
+          "lessor": "Reps. A. Denny",
+          "desc": "H,O,&L",
+          "area": "40 1 12",
+          "land_val": "31 10 0",
+          "building_val": "2 0 0",
+          "total_val": "33 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Water",
+          "area": "2 0 0",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "42 1 12",
+          "land_val": "31 10 0",
+          "building_val": "2 0 0",
+          "total_val": "33 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "KILLYROVER",
+          "os": "28",
+          "occupier": "James Cassidy",
+          "lessor": "Reps. A. Denny",
+          "desc": "H,O,&L",
+          "area": "13 3 35",
+          "land_val": "8 15 0",
+          "building_val": "1 10 0",
+          "total_val": ""
+        },
+        {
+          "mr": "1 B",
+          "occupier": "James Cassidy",
+          "lessor": "Reps. A. Denny",
+          "desc": "H,O,&L",
+          "area": "1 2 7",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "Hugh Breslin",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "19 3 29",
+          "land_val": "11 15 0",
+          "building_val": "1 10 0",
+          "total_val": ""
+        },
+        {
+          "mr": "2 B",
+          "occupier": "Hugh Breslin",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "0 3 30",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Edward Cassidy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 3 15",
+          "land_val": "5 10 0",
+          "building_val": "1 0 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Cassidy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 0 25",
+          "land_val": "6 0 0",
+          "building_val": "1 5 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Thomas Breslin, sen.",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "16 2 20",
+          "land_val": "10 10 0",
+          "building_val": "1 0 0",
+          "total_val": ""
+        },
+        {
+          "mr": "5 b",
+          "occupier": "Thomas Breslin, sen.",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "1 2 0",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "6 b",
+          "occupier": "Thomas Breslin,sen.",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "21 0 30",
+          "land_val": "7 0 0",
+          "building_val": "1 0 0",
+          "total_val": "8 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 a",
+          "occupier": "John Breslin",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "7 0 0",
+          "building_val": "1 5 0",
+          "total_val": "8 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "7 a",
+          "occupier": "William M'Auley",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "31 1 35",
+          "land_val": "19 0 0",
+          "building_val": "1 5 0",
+          "total_val": "20 5 0"
+        },
+        {
+          "mr": "7 b",
+          "occupier": "Patrick M'Ilroy and others",
+          "lessor": "William M'Auley",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        }
+      ]
+    }
+  ]
+}

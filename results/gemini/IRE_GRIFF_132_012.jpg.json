@@ -1,0 +1,429 @@
+{
+  "parishes": [
+    {
+      "parish": "UNKNOWN",
+      "entries": [
+        {
+          "entries": [
+            {
+              "mr": "1 A B G",
+              "townland": "WHEATFIELD, UP.",
+              "occupier": "Richard Seagrave, Esq.",
+              "lessor": "Henry Pettigrew, Esq.",
+              "desc": "H,O,&L",
+              "area": "103 0 29",
+              "land_val": "119 5 0",
+              "building_val": "19 10 0",
+              "total_val": "138 15 0"
+            },
+            {
+              "mr": "1 b",
+              "occupier": "William Anderson",
+              "lessor": "Richard Seagrave, Esq.",
+              "desc": "H",
+              "building_val": "1 0 0",
+              "total_val": "1 0 0"
+            },
+            {
+              "mr": "2",
+              "occupier": "G.S.&W. Railway Co.",
+              "lessor": "In fee",
+              "desc": "Railway, 79 lineal perches, and waste land",
+              "area": "2 1 28",
+              "total_val": "114 11 0"
+            },
+            {
+              "mr": "3",
+              "occupier": "William Broe",
+              "lessor": "Rev. John Wm. Finlay",
+              "desc": "H,O,&L",
+              "area": "20 3 27",
+              "land_val": "23 0 0",
+              "building_val": "11 0 0",
+              "total_val": "34 0 0"
+            },
+            {
+              "mr": "4 & 1 b c",
+              "occupier": "Grand Canal Co.",
+              "lessor": "In fee",
+              "desc": "Canal banks, & canal, 52 lineal perches",
+              "area": "2 1 21",
+              "total_val": "6 10 0"
+            },
+            {
+              "mr": "4 a",
+              "occupier": "Rt. Hon. Ld. Cloncurry",
+              "lessor": "In fee",
+              "desc": "Canal bank",
+              "area": "0 3 25",
+              "land_val": "0 3 0",
+              "total_val": "0 3 0"
+            },
+            {
+              "mr": "5 a",
+              "occupier": "Bartholomew Madden",
+              "lessor": "Thomas Seagrave",
+              "desc": "H,O,&L",
+              "area": "2 1 32",
+              "land_val": "2 16 0",
+              "building_val": "0 19 0",
+              "total_val": "3 15 0"
+            },
+            {
+              "mr": "5 b",
+              "occupier": "Thomas Seagrave",
+              "lessor": "Rt. Hon. Ld. Cloncurry",
+              "desc": "Old limestone quarry",
+              "area": "1 0 13"
+            },
+            {
+              "mr": "5 c",
+              "occupier": "Ambrose Murray",
+              "lessor": "Thomas Seagrave",
+              "desc": "H,O,&G",
+              "area": "0 2 39",
+              "land_val": "0 14 0",
+              "building_val": "0 11 0",
+              "total_val": "1 5 0"
+            },
+            {
+              "mr": "5 d",
+              "occupier": "Joseph Madden",
+              "lessor": "Thomas Seagrave",
+              "desc": "H&G",
+              "area": "0 0 18",
+              "land_val": "0 3 0",
+              "building_val": "0 5 0",
+              "total_val": "0 8 0"
+            },
+            {
+              "mr": "5 e",
+              "occupier": "Patrick Carroll",
+              "lessor": "Thomas Seagrave",
+              "desc": "H&G",
+              "area": "0 2 3",
+              "land_val": "0 11 0",
+              "building_val": "0 8 0",
+              "total_val": "0 19 0"
+            },
+            {
+              "mr": "5 f",
+              "occupier": "Michael Quin",
+              "lessor": "Bryan Quin",
+              "desc": "H",
+              "building_val": "0 6 0",
+              "total_val": "0 6 0"
+            },
+            {
+              "mr": "5 g",
+              "occupier": "Bryan Quin",
+              "lessor": "Thomas Seagrave",
+              "desc": "H&G",
+              "area": "0 2 30",
+              "land_val": "0 14 0",
+              "building_val": "0 8 0",
+              "total_val": "1 2 0"
+            },
+            {
+              "mr": "5 h",
+              "occupier": "Catherine Dempsey",
+              "lessor": "Thomas Seagrave",
+              "desc": "H&G",
+              "area": "0 1 7",
+              "land_val": "0 6 0",
+              "building_val": "0 7 0",
+              "total_val": "0 13 0"
+            },
+            {
+              "mr": "5 i",
+              "occupier": "William M'Nally",
+              "lessor": "Thomas Seagrave",
+              "desc": "H&G",
+              "area": "0 1 17",
+              "land_val": "0 7 0",
+              "building_val": "0 8 0",
+              "total_val": "0 15 0"
+            },
+            {
+              "mr": "5 j",
+              "occupier": "Richard Dempsey",
+              "lessor": "Thomas Seagrave",
+              "desc": "H&G",
+              "area": "0 2 21",
+              "land_val": "0 12 0",
+              "building_val": "1 3 0",
+              "total_val": "1 15 0"
+            },
+            {
+              "desc": "Total",
+              "area": "136 2 30",
+              "land_val": "148 11 0",
+              "building_val": "36 5 0",
+              "total_val": "305 17 0",
+              "is_total": 1
+            }
+          ]
+        },
+        {
+          "parish": "CLONAGHLIS",
+          "entries": [
+            {
+              "mr": "1 A B",
+              "townland": "BALLYCOMMON.",
+              "occupier": "William Broe",
+              "lessor": "Mrs. Ellen Chapman",
+              "desc": "L",
+              "area": "33 1 10",
+              "land_val": "37 10 0",
+              "total_val": "37 10 0"
+            },
+            {
+              "mr": "2",
+              "occupier": "G.S.&W. Railway Co.",
+              "lessor": "In fee",
+              "desc": "Railway, 19 lineal perches, and waste land",
+              "area": "0 2 6",
+              "total_val": "27 11 0"
+            },
+            {
+              "desc": "Total",
+              "area": "33 3 16",
+              "land_val": "37 10 0",
+              "total_val": "65 1 0",
+              "is_total": 1
+            },
+            {
+              "mr": "1",
+              "townland": "CLONAGHLIS.",
+              "occupier": "Daniel M'Donnell",
+              "lessor": "Mrs. Ellen Chapman",
+              "desc": "H&L",
+              "area": "5 0 39",
+              "land_val": "4 10 0",
+              "building_val": "0 15 0",
+              "total_val": "5 5 0"
+            },
+            {
+              "mr": "2",
+              "occupier": "Robert Palmer",
+              "lessor": "Rev. John Warburton",
+              "desc": "L",
+              "area": "4 3 39",
+              "land_val": "5 5 0",
+              "total_val": "5 5 0"
+            },
+            {
+              "mr": "2 a",
+              "occupier": "John Delahunty",
+              "lessor": "Robert Palmer",
+              "desc": "H,O,&G",
+              "area": "0 0 30",
+              "land_val": "0 4 0",
+              "building_val": "0 16 0",
+              "total_val": "1 0 0"
+            },
+            {
+              "mr": "3 A a B",
+              "occupier": "Matthew M'Nally",
+              "lessor": "Mrs. Ellen Chapman",
+              "desc": "H,O,&L",
+              "area": "7 1 11",
+              "land_val": "6 5 0",
+              "building_val": "1 5 0",
+              "total_val": "7 10 0"
+            },
+            {
+              "mr": "4 A B",
+              "occupier": "Grand Canal Co.",
+              "lessor": "In fee",
+              "desc": "Canal and towing path, 217 lineal perches",
+              "area": "4 2 26",
+              "total_val": "27 2 0"
+            },
+            {
+              "mr": "5 A a B",
+              "occupier": "John Rispin",
+              "lessor": "Grand Canal Co.",
+              "desc": "H,O, canal bank, and garden",
+              "area": "4 3 36",
+              "land_val": "2 8 0",
+              "building_val": "2 17 0",
+              "total_val": "5 5 0"
+            },
+            {
+              "mr": "6 A B",
+              "occupier": "Rt. Hon. Ld. Cloncurry",
+              "lessor": "In fee",
+              "desc": "Canal banks",
+              "area": "3 3 6",
+              "land_val": "0 15 0",
+              "total_val": "0 15 0"
+            },
+            {
+              "mr": "6 B a",
+              "occupier": "James M'Nally",
+              "lessor": "Robert Palmer",
+              "desc": "H&O",
+              "building_val": "2 15 0",
+              "total_val": "2 15 0"
+            },
+            {
+              "mr": "6 b",
+              "occupier": "Richard Burke",
+              "lessor": "Robert Palmer",
+              "desc": "H",
+              "building_val": "1 5 0",
+              "total_val": "1 5 0"
+            },
+            {
+              "mr": "6 c",
+              "occupier": "Michael Kehoe",
+              "lessor": "Robert Palmer",
+              "desc": "H",
+              "building_val": "1 5 0",
+              "total_val": "1 5 0"
+            },
+            {
+              "mr": "7 A B C",
+              "occupier": "Rt. Hon. Ld. Cloncurry",
+              "lessor": "In fee",
+              "desc": "L (plantations)",
+              "area": "24 2 1",
+              "land_val": "16 0 0",
+              "total_val": "16 0 0"
+            },
+            {
+              "mr": "7 A a",
+              "occupier": "Constabulary",
+              "lessor": "Rt. Hon. Ld. Cloncurry",
+              "desc": "Barrack and office",
+              "building_val": "7 0 0",
+              "total_val": "7 0 0"
+            },
+            {
+              "mr": "8 a",
+              "occupier": "Hon. Edwd. Lawless",
+              "lessor": "Rt. Hon. Ld. Cloncurry",
+              "desc": "Gate lodge and land",
+              "area": "28 3 33",
+              "land_val": "28 5 0",
+              "building_val": "2 8 0",
+              "total_val": "30 13 0"
+            },
+            {
+              "mr": "8 b",
+              "occupier": "Robert Palmer",
+              "lessor": "Rt. Hon. Ld. Cloncurry",
+              "desc": "H,O, flour-mill, yard, and gar.",
+              "area": "0 0 25",
+              "land_val": "0 5 0",
+              "building_val": "64 15 0",
+              "total_val": "65 0 0"
+            },
+            {
+              "mr": "8 c",
+              "occupier": "Graveyard",
+              "lessor": "Rt. Hon. Ld. Cloncurry",
+              "desc": "Graveyard",
+              "area": "0 0 25",
+              "land_val": "0 2 0",
+              "total_val": "0 2 0",
+              "is_exemption": 1
+            },
+            {
+              "mr": "9 & 7 a b",
+              "occupier": "Patrick Barry",
+              "lessor": "Rt. Hon. Ld. Cloncurry",
+              "desc": "H,O,&L",
+              "area": "22 0 11",
+              "land_val": "23 5 0",
+              "building_val": "17 15 0",
+              "total_val": "41 0 0"
+            },
+            {
+              "mr": "10",
+              "occupier": "Patrick Barry",
+              "lessor": "Hon. Edwd. Lawless",
+              "desc": "L",
+              "area": "25 1 18",
+              "land_val": "18 0 0",
+              "total_val": "18 0 0"
+            },
+            {
+              "mr": "11 a",
+              "occupier": "Thomas Reade",
+              "lessor": "Rt. Hon. Ld. Cloncurry",
+              "desc": "H,O,&L",
+              "area": "269 1 17",
+              "land_val": "262 10 0",
+              "building_val": "18 0 0",
+              "total_val": "280 10 0"
+            },
+            {
+              "mr": "11 b",
+              "occupier": "Francis Maxwell",
+              "lessor": "Thomas Reade",
+              "desc": "H",
+              "building_val": "1 0 0",
+              "total_val": "1 0 0"
+            },
+            {
+              "mr": "11 c",
+              "occupier": "Mary M'Mahon",
+              "lessor": "Thomas Reade",
+              "desc": "H",
+              "building_val": "0 17 0",
+              "total_val": "0 17 0"
+            },
+            {
+              "mr": "12 a",
+              "occupier": "Thomas Dowling",
+              "lessor": "Thomas Reade",
+              "desc": "H,O,&L",
+              "area": "10 3 9",
+              "land_val": "8 10 0",
+              "building_val": "1 5 0",
+              "total_val": "9 15 0"
+            },
+            {
+              "mr": "12 b",
+              "occupier": "Richard Dempsey",
+              "lessor": "Thomas Reade",
+              "desc": "Forge",
+              "building_val": "0 15 0",
+              "total_val": "0 15 0"
+            },
+            {
+              "mr": "13",
+              "occupier": "Peter Power",
+              "lessor": "Mrs. Ellen Chapman",
+              "desc": "H,O,&L",
+              "area": "9 2 5",
+              "land_val": "6 15 0",
+              "building_val": "1 0 0",
+              "total_val": "7 15 0"
+            },
+            {
+              "mr": "14",
+              "occupier": "John Buggle",
+              "lessor": "Edwd. Glascott, Esq.",
+              "desc": "H,O,&L",
+              "area": "21 3 31",
+              "land_val": "19 10 0",
+              "building_val": "2 10 0",
+              "total_val": "22 0 0"
+            },
+            {
+              "desc": "Total",
+              "area": "444 0 2",
+              "land_val": "402 9 0",
+              "building_val": "128 3 0",
+              "total_val": "557 14 0",
+              "is_total": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

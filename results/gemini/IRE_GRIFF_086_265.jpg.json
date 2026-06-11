@@ -1,0 +1,605 @@
+{
+  "parishes": [
+    {
+      "parish": "ST. ANDREWS, ALIAS BALLYHALBERT",
+      "entries": [
+        {
+          "mr": "11 b",
+          "townland": "BALLYFRENCH",
+          "os": "",
+          "occupier": "William Fullerton",
+          "lessor": "Thomas Clements",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "12 A",
+          "occupier": "Robert Filson",
+          "lessor": "Robert Heron",
+          "desc": "H&L",
+          "area": "2 3 30",
+          "land_val": "3 5 0",
+          "building_val": "0 10 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "12 B",
+          "occupier": "Robert Filson",
+          "lessor": "Robert Heron",
+          "desc": "L",
+          "area": "0 3 20",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "12 C",
+          "occupier": "Robert Filson",
+          "lessor": "Robert Heron",
+          "desc": "L",
+          "area": "2 0 0",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "260 3 21",
+          "land_val": "327 10 0",
+          "building_val": "34 5 0",
+          "total_val": "361 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "BALLYGRAFFAN",
+          "os": "18",
+          "occupier": "Anne Keag",
+          "lessor": "Mary I. Blakiston Houston",
+          "desc": "H,O,&L",
+          "area": "94 2 10",
+          "land_val": "73 0 0",
+          "building_val": "7 0 0",
+          "total_val": "80 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Hugh Matier",
+          "lessor": "Anne Keag",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "1 c",
+          "occupier": "Catherine Clint",
+          "lessor": "Same",
+          "desc": "H&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "1 d",
+          "occupier": "John Little",
+          "lessor": "William Shaw",
+          "desc": "L",
+          "area": "0 2 0",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Edward M'Carthy",
+          "lessor": "Anne Keag",
+          "desc": "L",
+          "area": "1 1 15",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Adam Palmer",
+          "lessor": "Mary I. Blakiston Houston",
+          "desc": "O&L",
+          "area": "33 0 10",
+          "land_val": "28 0 0",
+          "building_val": "1 0 0",
+          "total_val": "29 0 0"
+        },
+        {
+          "mr": "4 A",
+          "occupier": "Hugh Edmonds",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "19 0 30",
+          "land_val": "17 0 0",
+          "building_val": "3 10 0",
+          "total_val": "38 10 0"
+        },
+        {
+          "mr": "4 B",
+          "occupier": "Hugh Edmonds",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "24 0 20",
+          "land_val": "18 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "5",
+          "occupier": "John Edmonds",
+          "lessor": "Same",
+          "desc": "O&L",
+          "area": "16 1 0",
+          "land_val": "12 10 0",
+          "building_val": "0 10 0",
+          "total_val": "13 15 0"
+        },
+        {
+          "mr": "6 b b",
+          "occupier": "John Edmonds",
+          "lessor": "Same",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": ""
+        },
+        {
+          "mr": "6 A",
+          "occupier": "Daniel M'Grattan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "20 3 35",
+          "land_val": "17 0 0",
+          "building_val": "2 0 0",
+          "total_val": "22 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 B a",
+          "occupier": "Daniel M'Grattan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 2 5",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "occupier": "Daniel M'Grattan",
+          "lessor": "Same",
+          "desc": "Common",
+          "area": "0 2 20",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 B c",
+          "occupier": "William Edmonds",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 B d",
+          "occupier": "James Edmonds",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 B e",
+          "occupier": "Mary Edmonds",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 B f",
+          "occupier": "Jane Edmonds",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "7 A a",
+          "occupier": "Bernard M'Grattan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "1 2 5",
+          "land_val": "1 5 0",
+          "building_val": "1 10 0",
+          "total_val": "17 0 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "7 A b",
+          "occupier": "Bernard M'Grattan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 1 5",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 5
+        },
+        {
+          "mr": "7 A c",
+          "occupier": "Bernard M'Grattan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 0 20",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 5
+        },
+        {
+          "mr": "7 A d",
+          "occupier": "Bernard M'Grattan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "9 2 35",
+          "land_val": "7 0 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 5
+        },
+        {
+          "mr": "7 A e",
+          "occupier": "Bernard M'Grattan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 1 25",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 5
+        },
+        {
+          "mr": "7 B b",
+          "occupier": "Margaret M'Grattan",
+          "lessor": "Bernard M'Grattan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "8",
+          "occupier": "Rose Edmonds",
+          "lessor": "Mary I. Blakiston Houston",
+          "desc": "L",
+          "area": "2 0 5",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "6 B g",
+          "occupier": "Rose Edmonds",
+          "lessor": "Mary I. Blakiston Houston",
+          "desc": "H,O,&G",
+          "area": "0 3 0",
+          "land_val": "0 15 0",
+          "building_val": "1 0 0",
+          "total_val": ""
+        },
+        {
+          "mr": "9 A a",
+          "occupier": "William Maxwell",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "43 0 30",
+          "land_val": "38 10 0",
+          "building_val": "5 0 0",
+          "total_val": "76 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9 B",
+          "occupier": "William Maxwell",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "41 3 35",
+          "land_val": "33 0 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "9 A a",
+          "occupier": "George M'Caughley",
+          "lessor": "William Maxwell",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "10",
+          "occupier": "James Branney",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "4 1 30",
+          "land_val": "3 15 0",
+          "building_val": "0 10 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "James Warnock",
+          "lessor": "Mary I. Blakiston Houston",
+          "desc": "H,O,&L",
+          "area": "71 2 8",
+          "land_val": "61 10 0",
+          "building_val": "7 0 0",
+          "total_val": "68 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "11 b",
+          "occupier": "Bernard Smith",
+          "lessor": "James Warnock",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "398 1 3",
+          "land_val": "325 10 0",
+          "building_val": "32 15 0",
+          "total_val": "358 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BALLYHALBERT",
+          "os": "18",
+          "occupier": "Henry Miller",
+          "lessor": "James Cleland",
+          "desc": "L",
+          "area": "2 0 0",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "47 5 0",
+          "n_shared": 6
+        },
+        {
+          "mr": "2",
+          "occupier": "Henry Miller",
+          "lessor": "James Cleland",
+          "desc": "L",
+          "area": "2 0 5",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 6
+        },
+        {
+          "mr": "3",
+          "occupier": "Henry Miller",
+          "lessor": "James Cleland",
+          "desc": "L",
+          "area": "1 2 10",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 6
+        },
+        {
+          "mr": "4",
+          "occupier": "Henry Miller",
+          "lessor": "James Cleland",
+          "desc": "L",
+          "area": "5 0 35",
+          "land_val": "7 0 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 6
+        },
+        {
+          "mr": "5",
+          "occupier": "Henry Miller",
+          "lessor": "James Cleland",
+          "desc": "L",
+          "area": "4 0 20",
+          "land_val": "5 10 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 6
+        },
+        {
+          "mr": "6",
+          "occupier": "Henry Miller",
+          "lessor": "James Cleland",
+          "desc": "L",
+          "area": "20 3 15",
+          "land_val": "26 15 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 6
+        },
+        {
+          "mr": "7",
+          "occupier": "Robert Miller",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "17 3 10",
+          "land_val": "23 0 0",
+          "building_val": "",
+          "total_val": "28 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Robert Miller",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 1 10",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "9",
+          "occupier": "Margaret M'Kelvey",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "9 2 15",
+          "land_val": "11 0 0",
+          "building_val": "",
+          "total_val": "36 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Margaret M'Kelvey",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "13 1 0",
+          "land_val": "17 15 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "11",
+          "occupier": "Margaret M'Kelvey",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 1 5",
+          "land_val": "3 15 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Thomas Quested",
+          "lessor": "Anne Blain",
+          "desc": "H&G",
+          "area": "0 1 10",
+          "land_val": "0 10 0",
+          "building_val": "2 10 0",
+          "total_val": "3 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "10 b",
+          "occupier": "David Smiley",
+          "lessor": "Margaret M'Kelvey",
+          "desc": "H&G",
+          "area": "0 0 25",
+          "land_val": "0 5 0",
+          "building_val": "1 5 0",
+          "total_val": "1 10 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "10 c",
+          "occupier": "James Ross",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 25",
+          "land_val": "0 5 0",
+          "building_val": "0 15 0",
+          "total_val": "1 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "10 d",
+          "occupier": "William Moreland",
+          "lessor": "James Cleland",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "1 10 0",
+          "total_val": "1 15 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "",
+          "occupier": "National School-house and yard",
+          "lessor": "(See Exemptions.)",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "",
+          "is_exemption": 1
+        },
+        {
+          "mr": "12",
+          "occupier": "Hugh Glen",
+          "lessor": "James Cleland",
+          "desc": "L",
+          "area": "1 2 10",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "James M'Kelvey",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "3 2 16",
+          "land_val": "4 10 0",
+          "building_val": "10 15 0",
+          "total_val": "15 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "13 b",
+          "occupier": "John Stockley",
+          "lessor": "James M'Kelvey",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "4 0 0",
+          "total_val": "4 5 0",
+          "n_shared": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,581 @@
+{
+  "parishes": [
+    {
+      "parish": "CROOM",
+      "entries": [
+        {
+          "mr": "2 a",
+          "townland": "MAGHERA",
+          "is_continued": 1,
+          "occupier": "Thomas Hanrahan",
+          "lessor": "John Watson",
+          "desc": "H,O,&L",
+          "area": "40 2 5",
+          "land_val": "35 17 0",
+          "building_val": "1 13 0",
+          "total_val": "37 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Mary Morrissey",
+          "lessor": "Thomas Hanrahan",
+          "desc": "H&G",
+          "area": "0 0 21",
+          "land_val": "0 4 0",
+          "building_val": "0 6 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "John Hanrahan",
+          "lessor": "Thomas Hanrahan",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 3 0",
+          "building_val": "0 7 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Thomas Nash",
+          "lessor": "Thomas Hanrahan",
+          "desc": "H&G",
+          "area": "0 0 5",
+          "land_val": "0 1 0",
+          "building_val": "0 7 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "85 1 6",
+          "land_val": "73 16 0",
+          "building_val": "5 2 0",
+          "total_val": "78 18 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "TORYHILL",
+          "os": "21 & 22",
+          "occupier": "John Hoolaghan",
+          "lessor": "Newingham, Esq.",
+          "desc": "H&L",
+          "area": "114 0 38",
+          "land_val": "0 15 0",
+          "building_val": "0 7 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Michael Dwyer",
+          "lessor": "Newingham, Esq.",
+          "desc": "L",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Daniel Higgins",
+          "lessor": "Newingham, Esq.",
+          "desc": "H&L",
+          "land_val": "1 8 0",
+          "building_val": "0 7 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "John M'Grath",
+          "lessor": "Newingham, Esq.",
+          "desc": "H&L",
+          "land_val": "5 2 0",
+          "building_val": "0 8 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "William Sullivan",
+          "lessor": "Newingham, Esq.",
+          "desc": "H&L",
+          "land_val": "4 16 0",
+          "building_val": "0 9 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "John Mulcahy",
+          "lessor": "William Sullivan",
+          "desc": "H",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "John O'Brien",
+          "lessor": "Newingham, Esq.",
+          "desc": "H&L",
+          "land_val": "7 7 0",
+          "building_val": "0 13 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "John Houraghan",
+          "lessor": "Newingham, Esq.",
+          "desc": "H&L",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "h",
+          "occupier": "Patrick Enright",
+          "lessor": "John Kiely",
+          "desc": "H",
+          "building_val": "0 9 0",
+          "total_val": "0 9 0"
+        },
+        {
+          "mr": "i",
+          "occupier": "James Burke",
+          "lessor": "Newingham, Esq.",
+          "desc": "H&L",
+          "land_val": "2 19 0",
+          "building_val": "0 6 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "j",
+          "occupier": "Mrs. Burke",
+          "lessor": "Newingham, Esq.",
+          "desc": "H,O,&L",
+          "land_val": "11 16 0",
+          "building_val": "0 14 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "k",
+          "occupier": "Patrick Hayes",
+          "lessor": "Newingham, Esq.",
+          "desc": "H,O,&L",
+          "land_val": "7 10 0",
+          "building_val": "1 5 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "l",
+          "occupier": "Mrs. Carroll",
+          "lessor": "Newingham, Esq.",
+          "desc": "H&L",
+          "land_val": "3 9 0",
+          "building_val": "0 6 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "m",
+          "occupier": "William Hayes",
+          "lessor": "Newingham, Esq.",
+          "desc": "H,O,&L",
+          "land_val": "6 0 0",
+          "building_val": "0 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "n",
+          "occupier": "Thomas Blake",
+          "lessor": "Newingham, Esq.",
+          "desc": "H&L",
+          "land_val": "2 19 0",
+          "building_val": "0 11 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Thomas Connors",
+          "lessor": "Newingham, Esq.",
+          "desc": "L",
+          "land_val": "5 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "o",
+          "occupier": "John Connors",
+          "lessor": "Newingham, Esq.",
+          "desc": "H&L",
+          "land_val": "2 18 0",
+          "building_val": "0 12 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "John Kiely",
+          "lessor": "Newingham, Esq.",
+          "desc": "L",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "p",
+          "occupier": "David Gore",
+          "lessor": "Newingham, Esq.",
+          "desc": "H&L",
+          "land_val": "2 17 0",
+          "building_val": "0 8 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "q",
+          "occupier": "Thomas Gore",
+          "lessor": "Newingham, Esq.",
+          "desc": "H&L",
+          "land_val": "1 9 0",
+          "building_val": "0 6 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "r",
+          "occupier": "Mrs. Hardin",
+          "lessor": "William Hayes",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "s",
+          "occupier": "David Sullivan",
+          "lessor": "Newingham, Esq.",
+          "desc": "H,O,&L",
+          "land_val": "4 9 0",
+          "building_val": "0 6 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Marcus Storin",
+          "lessor": "Newingham, Esq.",
+          "desc": "L",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "t",
+          "occupier": "James Regan",
+          "lessor": "Newingham, Esq.",
+          "desc": "H&L",
+          "land_val": "1 0 0",
+          "building_val": "0 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "u",
+          "occupier": "John Madden",
+          "lessor": "Newingham, Esq.",
+          "desc": "H&L",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "v",
+          "occupier": "Michael Woods",
+          "lessor": "Newingham, Esq.",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "w",
+          "occupier": "Mrs. Hartney",
+          "lessor": "Newingham, Esq.",
+          "desc": "H&L",
+          "land_val": "0 15 0",
+          "building_val": "0 7 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "x",
+          "occupier": "James Donovan",
+          "lessor": "Newingham, Esq.",
+          "desc": "H&L",
+          "land_val": "0 15 0",
+          "building_val": "0 7 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "James Hogan, (See also garden in lot 3)",
+          "lessor": "Rev. Lawr. Hartnett",
+          "desc": "H&L",
+          "area": "1 1 22",
+          "land_val": "0 11 0",
+          "building_val": "0 9 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Mary Quilty",
+          "lessor": "Rev. Lawr. Hartnett",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Patrick Quilty",
+          "lessor": "Rev. Lawr. Hartnett",
+          "desc": "H&G",
+          "area": "1 1 2",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Bridget Hogan",
+          "lessor": "Rev. Lawr. Hartnett",
+          "desc": "H&G",
+          "area": "0 0 33",
+          "land_val": "0 1 0",
+          "building_val": "0 7 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "3 A",
+          "occupier": "Rev. Lawr. Hartnett",
+          "lessor": "John Watson",
+          "desc": "L",
+          "area": "72 2 15",
+          "land_val": "12 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B",
+          "occupier": "Rev. Lawr. Hartnett",
+          "lessor": "John Watson",
+          "desc": "L",
+          "area": "3 2 0",
+          "land_val": "3 5 0",
+          "total_val": "16 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "-",
+          "occupier": "James Hogan",
+          "lessor": "Rev. Lawr. Hartnett",
+          "desc": "G",
+          "area": "0 0 39",
+          "land_val": "0 3 0",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Thomas Enright",
+          "lessor": "Rev. Lawr. Hartnett",
+          "desc": "H&L",
+          "area": "1 3 16",
+          "land_val": "1 3 0",
+          "building_val": "0 12 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Patrick Lysaght",
+          "lessor": "Court of Chancery",
+          "desc": "H&L",
+          "area": "1 0 28",
+          "land_val": "0 14 0",
+          "building_val": "0 6 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Edmund Hogan",
+          "lessor": "Patrick Lysaght",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Mary M'Namara",
+          "lessor": "Court of Chancery",
+          "desc": "H&L",
+          "area": "1 0 2",
+          "land_val": "0 12 0",
+          "building_val": "0 8 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Connors",
+          "lessor": "Mary M'Namara",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "7 c",
+          "occupier": "Mrs. Griffin",
+          "lessor": "Thomas Enright",
+          "desc": "O&G",
+          "area": "0 1 26",
+          "land_val": "0 8 0",
+          "building_val": "0 7 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Patrick Hogan",
+          "lessor": "Court of Chancery",
+          "desc": "H&L",
+          "area": "3 0 28",
+          "land_val": "2 4 0",
+          "building_val": "0 11 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Edmund Hogan",
+          "lessor": "Court of Chancery",
+          "desc": "H&L",
+          "area": "2 3 1",
+          "land_val": "1 9 0",
+          "building_val": "0 6 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Mrs. Leo",
+          "lessor": "Court of Chancery",
+          "desc": "H&L",
+          "area": "6 0 5",
+          "land_val": "1 15 0",
+          "building_val": "0 10 0",
+          "total_val": "2 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Leo",
+          "lessor": "Court of Chancery",
+          "desc": "H&L",
+          "land_val": "1 17 0",
+          "building_val": "0 8 0",
+          "total_val": "2 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "11",
+          "occupier": "Patrick Leo",
+          "lessor": "Thomas M'Adams",
+          "desc": "L",
+          "area": "3 2 31",
+          "land_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Jane Jackson",
+          "lessor": "Thomas M'Adams",
+          "desc": "H,O,&L",
+          "area": "13 1 2",
+          "land_val": "10 3 0",
+          "building_val": "0 17 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Michael Fitzgerald",
+          "lessor": "Jane Jackson",
+          "desc": "H",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "William Hayes",
+          "lessor": "Thomas M'Adams",
+          "desc": "H&L",
+          "area": "1 2 4",
+          "land_val": "1 7 0",
+          "building_val": "0 13 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Mrs. Nash",
+          "lessor": "William Hayes",
+          "desc": "H",
+          "building_val": "0 9 0",
+          "total_val": "0 9 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Daniel Cantney",
+          "lessor": "William Hayes",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Patrick Kenna",
+          "lessor": "William Hayes",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Mrs. Garry",
+          "lessor": "William Hayes",
+          "desc": "H",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Patrick Condon",
+          "lessor": "William Hayes",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "Thomas Kinna",
+          "lessor": "William Hayes",
+          "desc": "H",
+          "building_val": "0 9 0",
+          "total_val": "0 9 0"
+        },
+        {
+          "mr": "h",
+          "occupier": "James Toomey",
+          "lessor": "William Hayes",
+          "desc": "H",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "John Howard",
+          "lessor": "Thomas M'Adams",
+          "desc": "H&L",
+          "area": "2 2 0",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Clancey",
+          "lessor": "John Howard",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        }
+      ]
+    }
+  ]
+}

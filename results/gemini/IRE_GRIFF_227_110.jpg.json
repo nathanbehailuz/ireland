@@ -1,0 +1,586 @@
+{
+  "parishes": [
+    {
+      "parish": "AGHNAMULLEN",
+      "entries": [
+        {
+          "mr": "5",
+          "townland": "DOORAA",
+          "os": "",
+          "occupier": "John Daly.",
+          "lessor": "Thomas Rothwell,",
+          "desc": "H,O,&L",
+          "area": "32 0 25",
+          "land_val": "21 15 0",
+          "building_val": "0 15 0",
+          "total_val": "22 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Denis Boyle,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "24 0 0",
+          "land_val": "15 10 0",
+          "building_val": "0 15 0",
+          "total_val": "16 5 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Michael Smith, .",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "18 0 10",
+          "land_val": "13 5 0",
+          "building_val": "0 15 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Patrick Boyle,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "13 1 30",
+          "land_val": "10 5 0",
+          "building_val": "0 10 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "James Connolly,",
+          "lessor": "Same,",
+          "desc": "H&L",
+          "area": "3 1 25",
+          "land_val": "2 15 0",
+          "building_val": "0 5 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Philip Duffy,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "21 2 30",
+          "land_val": "15 15 0",
+          "building_val": "0 15 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Bridget Connolly,",
+          "lessor": "Same,",
+          "desc": "H&G",
+          "area": "0 1 35",
+          "land_val": "0 7 0",
+          "building_val": "0 3 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Owen Keskin, .",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "1 3 30",
+          "land_val": "1 7 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "12",
+          "occupier": "Owen Keskin, .",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "0 2 10",
+          "land_val": "0 7 0",
+          "total_val": "5 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "13",
+          "occupier": "Owen Keskin, .",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "4 2 20",
+          "land_val": "3 11 0",
+          "building_val": "0 10 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Bryan Keskin, .",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "1 2 20",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Bryan Keskin, .",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "4 2 35",
+          "land_val": "3 15 0",
+          "building_val": "0 10 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Bartly Gorman,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "14 3 35",
+          "land_val": "11 5 0",
+          "building_val": "1 0 0",
+          "total_val": "12 5 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Patrick Connolly (Big),",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "5 3 0",
+          "land_val": "3 10 0",
+          "building_val": "0 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Thomas Connolly,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "11 3 30",
+          "land_val": "9 10 0",
+          "building_val": "0 15 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "John Boyle,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "2 3 25",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "John Boyle,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "8 3 0",
+          "land_val": "6 10 0",
+          "building_val": "0 10 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Philip Boyle,",
+          "lessor": "Same,",
+          "desc": "H&L",
+          "area": "11 3 0",
+          "land_val": "8 0 0",
+          "building_val": "0 15 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "John Clegg,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "30 0 12",
+          "land_val": "24 0 0",
+          "building_val": "2 0 0",
+          "total_val": "26 0 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "John Duffy,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "6 1 35",
+          "land_val": "5 5 0",
+          "building_val": "0 5 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "265 0 2",
+          "land_val": "190 4 0",
+          "building_val": "12 3 0",
+          "total_val": "202 7 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DRUMILLARD",
+          "os": "24 & 27",
+          "occupier": "William Daly,",
+          "lessor": "Thomas Rothwell,",
+          "desc": "H,O,&L",
+          "area": "12 0 15",
+          "land_val": "8 15 0",
+          "building_val": "1 0 0",
+          "total_val": "9 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Patrick Connolly,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "36 0 35",
+          "land_val": "26 15 0",
+          "building_val": "1 0 0",
+          "total_val": "27 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Owen Daly,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "23 3 20",
+          "land_val": "16 5 0",
+          "building_val": "0 15 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Bridget Daly,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "6 2 10",
+          "land_val": "5 5 0",
+          "building_val": "0 10 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Anne Daly,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "26 0 30",
+          "land_val": "18 5 0",
+          "building_val": "1 0 0",
+          "total_val": "19 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Isaac Burgess, .",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "24 0 25",
+          "land_val": "16 10 0",
+          "building_val": "1 0 0",
+          "total_val": "17 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "John Finnegan,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "14 3 25",
+          "land_val": "11 10 0",
+          "building_val": "0 15 0",
+          "total_val": "12 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Bryan Duffy,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "13 3 20",
+          "land_val": "10 0 0",
+          "building_val": "0 10 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Thomas Duffy, .",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "16 0 36",
+          "land_val": "9 10 0",
+          "building_val": "0 10 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Joseph Oliver, .",
+          "lessor": "William Hughes,",
+          "desc": "H,O,&L",
+          "area": "16 0 25",
+          "land_val": "12 15 0",
+          "building_val": "5 0 0",
+          "total_val": "17 15 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "James M'Keone, .",
+          "lessor": "Thomas Rothwell,",
+          "desc": "L",
+          "area": "0 3 20",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Rev. Charles M'Clusky.",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "26 3 10",
+          "land_val": "19 10 0",
+          "building_val": "3 10 0",
+          "total_val": "23 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Bryan Daly,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "14 1 20",
+          "land_val": "12 0 0",
+          "building_val": "0 10 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Michael Daly, .",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "16 0 0",
+          "land_val": "11 0 0",
+          "building_val": "0 15 0",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "James M'Mahon, .",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "14 0 10",
+          "land_val": "10 0 0",
+          "building_val": "0 15 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Thomas Rothwell,",
+          "lessor": "In fee,",
+          "desc": "B",
+          "area": "1 0 20",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "17",
+          "desc": "Water,",
+          "area": "4 0 20"
+        },
+        {
+          "desc": "Total,",
+          "area": "267 2 21",
+          "land_val": "189 0 0",
+          "building_val": "17 10 0",
+          "total_val": "206 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "REDUFF",
+          "os": "24 & 27",
+          "occupier": "Martin Duffy, .",
+          "lessor": "Thomas Rothwell,",
+          "desc": "H&L",
+          "area": "11 1 30",
+          "land_val": "8 5 0",
+          "building_val": "0 10 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Mary M'Anally, .",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "10 3 15",
+          "land_val": "8 10 0",
+          "building_val": "0 10 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Duffy, .",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "12 0 25",
+          "land_val": "8 15 0",
+          "building_val": "0 15 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Thomas Rothwell,",
+          "lessor": "In fee,",
+          "desc": "L&plantation",
+          "area": "13 0 30",
+          "land_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Unoccupied,",
+          "lessor": "Thomas Rothwell,",
+          "desc": "H&O",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Joseph Oliver, .",
+          "lessor": "William Hughes,",
+          "desc": "Corn&flax mills,O,&L",
+          "area": "5 2 10",
+          "land_val": "3 0 0",
+          "building_val": "18 0 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Patrick Murray, .",
+          "lessor": "Thomas Rothwell,",
+          "desc": "H,O,&L",
+          "area": "10 0 20",
+          "land_val": "5 10 0",
+          "building_val": "1 5 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Terence Duffy, .",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "16 2 0",
+          "land_val": "11 15 0",
+          "building_val": "0 15 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Francis Duffy, .",
+          "lessor": "Same,",
+          "desc": "H&L",
+          "area": "6 0 20",
+          "land_val": "4 5 0",
+          "building_val": "0 10 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Philip Duffy, .",
+          "lessor": "Same,",
+          "desc": "H&L",
+          "area": "8 1 0",
+          "land_val": "5 5 0",
+          "building_val": "0 10 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "John Keann, .",
+          "lessor": "Same,",
+          "desc": "H&L",
+          "area": "5 0 5",
+          "land_val": "3 10 0",
+          "building_val": "0 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Francis Duffy, jun.,",
+          "lessor": "Same,",
+          "desc": "H&L",
+          "area": "4 3 10",
+          "land_val": "3 5 0",
+          "building_val": "0 10 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Anne M'Mahon, .",
+          "lessor": "Same,",
+          "desc": "H&L",
+          "area": "3 3 25",
+          "land_val": "2 10 0",
+          "building_val": "0 5 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "Francis M'Hugh,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "8 2 30",
+          "land_val": "6 0 0",
+          "building_val": "0 15 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Sarah Downey, .",
+          "lessor": "Same,",
+          "desc": "H&G",
+          "area": "0 1 25",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Christopher Brennan,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "21 1 0",
+          "land_val": "15 10 0",
+          "building_val": "0 10 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Robert M'Cabe, .",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "9 2 35",
+          "land_val": "6 10 0",
+          "building_val": "0 15 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "James Sheridan,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "2 1 0",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Hugh Swanzy, .",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "63 3 0",
+          "land_val": "51 0 0",
+          "building_val": "15 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "a b",
+          "occupier": "Hugh Swanzy, .",
+          "lessor": "Same,",
+          "desc": "Corn&flax mill,&miller's H",
+          "building_val": "35 0 0",
+          "total_val": "101 0 0",
+          "n_shared": 2
+        }
+      ]
+    }
+  ]
+}

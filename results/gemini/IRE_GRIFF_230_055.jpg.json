@@ -1,0 +1,628 @@
+{
+  "parishes": [
+    {
+      "parish": "EMATRIS",
+      "entries": [
+        {
+          "mr": "6",
+          "townland": "BOYHER",
+          "occupier": "Robert Lee",
+          "lessor": "Lord Cremorne",
+          "desc": "H,O,&L",
+          "area": "8 1 35",
+          "land_val": "6 0 0",
+          "build_val": "0 15 0",
+          "total_val": "6 15 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "7",
+          "occupier": "Jane Wilson",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 3 16",
+          "land_val": "3 0 0",
+          "build_val": "",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Robert D. Moore, M.D.",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 0 34",
+          "land_val": "2 15 0",
+          "build_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Rev. David Moore",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "11 1 7",
+          "land_val": "9 0 0",
+          "build_val": "",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Martha Anderson",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "7 2 1",
+          "land_val": "5 10 0",
+          "build_val": "1 0 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "John Connor",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "4 1 30",
+          "land_val": "3 10 0",
+          "build_val": "0 5 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "John Gibson",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "9 3 22",
+          "land_val": "7 10 0",
+          "build_val": "1 10 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "John M'Cormick",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 2 0",
+          "land_val": "3 0 0",
+          "build_val": "",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "William Deecher",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 1 20",
+          "land_val": "0 5 0",
+          "build_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Anne Jane Shannon",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "11 3 9",
+          "land_val": "9 5 0",
+          "build_val": "",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Charles Maxwell",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 3 29",
+          "land_val": "5 5 0",
+          "build_val": "",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "James Browne",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 2 23",
+          "land_val": "2 0 0",
+          "build_val": "",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "William Mills",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 1 30",
+          "land_val": "0 5 0",
+          "build_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "17 a",
+          "occupier": "Rebecca Murray",
+          "lessor": "Same",
+          "desc": "H,O,gate-lodge,&L",
+          "area": "12 2 13",
+          "land_val": "10 0 0",
+          "build_val": "25 0 0",
+          "total_val": "35 0 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Lord Cremorne",
+          "lessor": "In fee",
+          "desc": "L(plantation)",
+          "area": "8 1 35",
+          "land_val": "6 0 0",
+          "build_val": "",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Lord Cremorne",
+          "lessor": "In fee",
+          "desc": "G",
+          "area": "0 2 22",
+          "land_val": "0 15 0",
+          "build_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "John Hughes",
+          "lessor": "Lord Cremorne",
+          "desc": "H&G",
+          "area": "0 1 22",
+          "land_val": "0 10 0",
+          "build_val": "0 15 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Baxter",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 31",
+          "land_val": "0 5 0",
+          "build_val": "0 15 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "James Connor",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 31",
+          "land_val": "0 5 0",
+          "build_val": "0 15 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "TOWN OF ROCKCORRY",
+          "occupier": "(See Exemptions)",
+          "lessor": "Same",
+          "desc": "Market & court-house",
+          "area": "",
+          "land_val": "",
+          "build_val": "",
+          "total_val": "",
+          "is_exemption": 1
+        },
+        {
+          "mr": "2",
+          "occupier": "James Leslie",
+          "lessor": "Same",
+          "desc": "H,O,Y,&G",
+          "area": "0 0 17",
+          "land_val": "0 5 0",
+          "build_val": "7 5 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Wilson",
+          "lessor": "Jane Wilson",
+          "desc": "H&Y",
+          "area": "",
+          "land_val": "",
+          "build_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "William Mills",
+          "lessor": "Lord Cremorne",
+          "desc": "H,O,Y,&G",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "build_val": "12 10 0",
+          "total_val": "12 15 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Anne Jane Shannon",
+          "lessor": "Same",
+          "desc": "H,O,Y,&G",
+          "area": "0 0 20",
+          "land_val": "0 5 0",
+          "build_val": "8 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "5 b",
+          "occupier": "Anne Jane Shannon",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 1 28",
+          "land_val": "0 15 0",
+          "build_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "6",
+          "occupier": "Andrew Sloane",
+          "lessor": "Anne Jane Shannon",
+          "desc": "H&Y",
+          "area": "",
+          "land_val": "",
+          "build_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "(See Exemptions)",
+          "lessor": "Lord Cremorne",
+          "desc": "Presbyterian Church and garden, Church & burial ground",
+          "area": "",
+          "land_val": "",
+          "build_val": "",
+          "total_val": "",
+          "is_exemption": 1
+        },
+        {
+          "mr": "8",
+          "occupier": "(See Exemptions)",
+          "lessor": "Same",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "build_val": "",
+          "total_val": "",
+          "is_exemption": 1
+        },
+        {
+          "mr": "9",
+          "occupier": "Vacant",
+          "lessor": "Joseph Griffith",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "build_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "build_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Joseph Griffith",
+          "lessor": "Lord Cremorne",
+          "desc": "H,Y,&G",
+          "area": "0 1 18",
+          "land_val": "0 10 0",
+          "build_val": "5 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Vacant",
+          "lessor": "Joseph Griffith",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "build_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Rev. James Kelly",
+          "lessor": "William Mills",
+          "desc": "H,O,&G",
+          "area": "0 0 36",
+          "land_val": "0 10 0",
+          "build_val": "5 0 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "(See Exemptions)",
+          "lessor": "Lord Cremorne",
+          "desc": "Nat.school-house & yd.",
+          "area": "",
+          "land_val": "",
+          "build_val": "",
+          "total_val": "",
+          "is_exemption": 1
+        },
+        {
+          "mr": "15",
+          "occupier": "Charles Maxwell",
+          "lessor": "Same",
+          "desc": "H,O,Y,&G",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "build_val": "10 0 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "16 a",
+          "occupier": "Rev. David Moore",
+          "lessor": "Same",
+          "desc": "H,O,Y,&G",
+          "area": "0 1 20",
+          "land_val": "0 10 0",
+          "build_val": "10 0 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "16 b",
+          "occupier": "William Hall",
+          "lessor": "William Williamson",
+          "desc": "H&Y",
+          "area": "",
+          "land_val": "",
+          "build_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "18 a",
+          "occupier": "Patrick Renihan",
+          "lessor": "Lord Cremorne",
+          "desc": "H&Y",
+          "area": "",
+          "land_val": "",
+          "build_val": "4 5 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "18 b",
+          "occupier": "Patrick Renihan",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 1 3",
+          "land_val": "0 10 0",
+          "build_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "19",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "Building-ground (waste)",
+          "area": "",
+          "land_val": "",
+          "build_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "20",
+          "occupier": "John Reilly",
+          "lessor": "John White",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "build_val": "1 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "John Maginn",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "build_val": "1 15 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "James Browne",
+          "lessor": "Lord Cremorne",
+          "desc": "H,O,corn-mill,&G",
+          "area": "1 1 10",
+          "land_val": "1 10 0",
+          "build_val": "53 10 0",
+          "total_val": "55 0 0"
+        },
+        {
+          "mr": "23 a",
+          "occupier": "Matthew Reilly",
+          "lessor": "Same",
+          "desc": "H,O,&Y",
+          "area": "",
+          "land_val": "",
+          "build_val": "1 15 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "23 b",
+          "occupier": "Matthew Reilly",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 30",
+          "land_val": "0 5 0",
+          "build_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "24",
+          "occupier": "Margaret Dignam",
+          "lessor": "Same",
+          "desc": "H&small G",
+          "area": "",
+          "land_val": "",
+          "build_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "John M'Cabe",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "build_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Ellen Drummond",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "build_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Patrick M'Corker",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "build_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "James Leslie",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 16",
+          "land_val": "0 5 0",
+          "build_val": "0 15 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Edward Drummond",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 2 5",
+          "land_val": "0 10 0",
+          "build_val": "1 0 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 2 5",
+          "land_val": "0 10 0",
+          "build_val": "0 15 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "build_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "build_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "build_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "William Davis (lodgers)",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "build_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Catherine Renihan",
+          "lessor": "Same",
+          "desc": "H,O,Y,&G",
+          "area": "0 2 15",
+          "land_val": "0 15 0",
+          "build_val": "4 5 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Catherine Renihan",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 2 7",
+          "land_val": "0 10 0",
+          "build_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "37",
+          "occupier": "(See Exemptions)",
+          "lessor": "Same",
+          "desc": "Methodist Meeting-house and yard (see Exemptions)",
+          "area": "",
+          "land_val": "",
+          "build_val": "",
+          "total_val": "",
+          "is_exemption": 1
+        },
+        {
+          "mr": "38",
+          "occupier": "Constabulary Force",
+          "lessor": "George Hallam",
+          "desc": "Police-barrack & yard (see Exemptions.)",
+          "area": "",
+          "land_val": "",
+          "build_val": "",
+          "total_val": "",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "George Hallam",
+          "lessor": "As Lessor",
+          "desc": "Half annual rentcharge",
+          "area": "",
+          "land_val": "",
+          "build_val": "",
+          "total_val": "-6 0 0"
+        }
+      ]
+    }
+  ]
+}

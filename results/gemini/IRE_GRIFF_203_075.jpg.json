@@ -1,0 +1,508 @@
+{
+  "parishes": [
+    {
+      "parish": "MAPASTOWN",
+      "entries": [
+        {
+          "mr": "- c",
+          "townland": "DOWDSTOWN",
+          "is_continued": 1,
+          "occupier": "Patrick Callan",
+          "lessor": "Nicholas Callan",
+          "desc": "H & G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Andrew Murphy",
+          "lessor": "Same",
+          "desc": "H & G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "- e",
+          "occupier": "Hugh Curtis",
+          "lessor": "Same",
+          "desc": "H & G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "- f",
+          "occupier": "Peter Byrne",
+          "lessor": "Same",
+          "desc": "H & G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "- g",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H & G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "- h",
+          "occupier": "Owen M'Connan",
+          "lessor": "Same",
+          "desc": "H & G",
+          "area": "0 0 12",
+          "land_val": "0 2 0",
+          "building_val": "0 7 0",
+          "total_val": "0 9 0"
+        },
+        {
+          "mr": "- i",
+          "occupier": "Patrick Ryder",
+          "lessor": "Same",
+          "desc": "H & G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 10 0",
+          "total_val": "0 11 0"
+        },
+        {
+          "mr": "- k",
+          "occupier": "Commissioners of National Education",
+          "lessor": "Same",
+          "desc": "School-ho. and ground",
+          "area": "0 0 15",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "1 B a",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Peter Fagan",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Catherine Lee",
+          "lessor": "Same",
+          "desc": "H, O, & L",
+          "area": "5 2 12",
+          "land_val": "4 7 0",
+          "building_val": "0 8 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Peter Coffey",
+          "lessor": "Same",
+          "desc": "H, O, & L",
+          "area": "17 3 25",
+          "land_val": "21 10 0",
+          "building_val": "1 10 0",
+          "total_val": "23 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Bernard Byrne",
+          "lessor": "Peter Coffey",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "218 0 15",
+          "land_val": "243 10 0",
+          "building_val": "28 10 0",
+          "total_val": "272 0 0",
+          "is_total": 1
+        },
+        {
+          "desc": "National school-house and ground",
+          "area": "0 0 15",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of Exemptions",
+          "area": "218 0 0",
+          "land_val": "243 10 0",
+          "building_val": "27 10 0",
+          "total_val": "271 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "IRISHTOWN",
+          "os": "14",
+          "is_continued": 0,
+          "occupier": "Bernard Byrne",
+          "lessor": "Charles Cobbe",
+          "desc": "L",
+          "area": "2 3 20",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "27 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "Bernard Byrne",
+          "lessor": "Same",
+          "desc": "H, O, & L",
+          "area": "25 1 24",
+          "land_val": "25 10 0",
+          "building_val": "1 10 0",
+          "total_val": "27 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 a",
+          "occupier": "James Byrne",
+          "lessor": "Same",
+          "desc": "H, O, & L",
+          "area": "27 2 8",
+          "land_val": "25 10 0",
+          "building_val": "3 0 0",
+          "total_val": "28 10 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Owen Callan",
+          "lessor": "Same",
+          "desc": "H, O, & L",
+          "area": "232 0 11",
+          "land_val": "205 0 0",
+          "building_val": "8 0 0",
+          "total_val": "213 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Hugh Byrne",
+          "lessor": "Owen Callan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Michael M'Loughlin",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Bryan Martin",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "- e",
+          "occupier": "James Duff",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "- f",
+          "occupier": "Michael Laressy",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "desc": "Total",
+          "area": "287 3 23",
+          "land_val": "256 15 0",
+          "building_val": "15 5 0",
+          "total_val": "272 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "LAMBTOWN",
+          "os": "14",
+          "is_continued": 0,
+          "occupier": "Bernard Sandes",
+          "lessor": "Charles Cobbe",
+          "desc": "L",
+          "area": "29 2 4",
+          "land_val": "21 0 0",
+          "building_val": "",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Laurence Hoey",
+          "lessor": "Bernard Sandes",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Thomas Daly",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "William Dornan",
+          "lessor": "Charles Cobbe",
+          "desc": "H, O, & L",
+          "area": "12 1 14",
+          "land_val": "12 10 0",
+          "building_val": "1 0 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Patrick Carroll",
+          "lessor": "Same",
+          "desc": "H & O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Carroll",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "14 2 26",
+          "land_val": "15 10 0",
+          "building_val": "",
+          "total_val": "15 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Patrick Byrne",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "17 1 17",
+          "land_val": "15 10 0",
+          "building_val": "",
+          "total_val": "15 10 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "John Carolan",
+          "lessor": "Patrick Byrne",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "73 3 21",
+          "land_val": "64 10 0",
+          "building_val": "2 15 0",
+          "total_val": "67 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "MAPASTOWN",
+          "os": "14",
+          "is_continued": 0,
+          "occupier": "Charles Cobbe",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "0 1 12",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "Bernard Sandes",
+          "lessor": "Charles Cobbe",
+          "desc": "H, O, & L",
+          "area": "50 1 22",
+          "land_val": "48 0 0",
+          "building_val": "2 0 0",
+          "total_val": "50 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "Bernard Sandes",
+          "lessor": "Same",
+          "desc": "L (bog)",
+          "area": "1 2 10",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "50 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 a",
+          "occupier": "James Smyth",
+          "lessor": "Same",
+          "desc": "H, O, & L",
+          "area": "105 2 16",
+          "land_val": "93 0 0",
+          "building_val": "3 0 0",
+          "total_val": "96 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "John Mulroy",
+          "lessor": "James Smyth",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Michael Dromgoole",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Michael Carr",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "- e",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "- f",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "- g",
+          "occupier": "-",
+          "lessor": "Same",
+          "desc": "Old grave-yard",
+          "area": "0 0 30",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "4",
+          "occupier": "Nicholas Callan",
+          "lessor": "Charles Cobbe",
+          "desc": "L",
+          "area": "66 1 17",
+          "land_val": "65 0 0",
+          "building_val": "",
+          "total_val": "65 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Vacant",
+          "lessor": "Nicholas Callan",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "desc": "Total",
+          "area": "224 1 36",
+          "land_val": "206 10 0",
+          "building_val": "7 8 0",
+          "total_val": "213 18 0",
+          "is_total": 1
+        },
+        {
+          "desc": "Old grave-yard",
+          "area": "0 0 30",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of Exemptions",
+          "area": "224 1 6",
+          "land_val": "206 10 0",
+          "building_val": "7 8 0",
+          "total_val": "213 18 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

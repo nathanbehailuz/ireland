@@ -1,0 +1,620 @@
+{
+  "parishes": [
+    {
+      "parish": "ACHONRY",
+      "entries": [
+        {
+          "mr": "19 a",
+          "townland": "CLOONDRIHARA",
+          "os": "",
+          "occupier": "James Henry, jun.,",
+          "lessor": "Major Charles O'Hara,",
+          "desc": "L,H,&O",
+          "area": "26 0 14",
+          "land_val": "10 10 0",
+          "building_val": "0 10 0",
+          "total_val": "11 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "20 a",
+          "occupier": "Patrick Brennan, -",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "66 0 0",
+          "land_val": "11 0 0",
+          "building_val": "0 10 0",
+          "total_val": "11 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "20 b",
+          "occupier": "Thomas Roddy,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "",
+          "land_val": "5 10 0",
+          "building_val": "0 15 0",
+          "total_val": "6 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "20 c",
+          "occupier": "Hugh May,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "",
+          "land_val": "5 10 0",
+          "building_val": "0 10 0",
+          "total_val": "6 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "21 a",
+          "occupier": "Martin Henry,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "43 1 21",
+          "land_val": "15 15 0",
+          "building_val": "1 5 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Martin Henry,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "15 0 19",
+          "land_val": "10 0 0",
+          "building_val": "",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "23 a",
+          "occupier": "Edward Henry, jun.,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "13 1 0",
+          "land_val": "5 10 0",
+          "building_val": "0 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "24 a",
+          "occupier": "Patrick Morrow,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "12 2 19",
+          "land_val": "5 0 0",
+          "building_val": "0 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "25 a",
+          "occupier": "Walter Henry,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "15 1 10",
+          "land_val": "5 10 0",
+          "building_val": "0 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "26 a",
+          "occupier": "Edward Henry, sen.,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "17 1 30",
+          "land_val": "6 0 0",
+          "building_val": "0 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "27 a",
+          "occupier": "Robert Henry,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "11 3 10",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "10 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "28",
+          "occupier": "Robert Henry,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "11 2 20",
+          "land_val": "7 0 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "29",
+          "occupier": "",
+          "lessor": "Major Charles O'Hara, In fee,",
+          "desc": "L (mountain)",
+          "area": "1567 0 22",
+          "land_val": "8 10 0",
+          "building_val": "",
+          "total_val": "11 10 0",
+          "n_shared": 6
+        },
+        {
+          "mr": "30",
+          "occupier": "",
+          "lessor": "Major Charles O'Hara, In fee,",
+          "desc": "L (plantation)",
+          "area": "0 3 0",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 6
+        },
+        {
+          "mr": "31",
+          "occupier": "",
+          "lessor": "Major Charles O'Hara, In fee,",
+          "desc": "L (plantation)",
+          "area": "0 2 10",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 6
+        },
+        {
+          "mr": "32",
+          "occupier": "",
+          "lessor": "Major Charles O'Hara, In fee,",
+          "desc": "L (plantation)",
+          "area": "4 3 10",
+          "land_val": "2 3 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 6
+        },
+        {
+          "mr": "33",
+          "occupier": "",
+          "lessor": "Major Charles O'Hara, In fee,",
+          "desc": "L (plantation)",
+          "area": "0 3 10",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 6
+        },
+        {
+          "mr": "34",
+          "occupier": "",
+          "lessor": "Major Charles O'Hara, In fee,",
+          "desc": "B",
+          "area": "20 0 20",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 6
+        },
+        {
+          "desc": "Total,",
+          "area": "2168 3 12",
+          "land_val": "194 0 0",
+          "building_val": "11 15 0",
+          "total_val": "205 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "LAUGHIL",
+          "os": "24, 25, 31, & 32",
+          "occupier": "Major Charles O'Hara,",
+          "lessor": "In fee,",
+          "desc": "L&herd's H",
+          "area": "1817 3 18",
+          "land_val": "18 0 0",
+          "building_val": "0 10 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Major Charles O'Hara,",
+          "lessor": "In fee,",
+          "desc": "Lodge",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Major Charles O'Hara,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "58 2 21",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick M'Carrick,",
+          "lessor": "Major Charles O'Hara,",
+          "desc": "L,H,&O",
+          "area": "47 1 8",
+          "land_val": "16 0 0",
+          "building_val": "1 0 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Patrick Neilan,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "10 2 8",
+          "land_val": "3 5 0",
+          "building_val": "0 15 0",
+          "total_val": "8 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Neilan,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "9 0 0",
+          "land_val": "4 15 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "Ellen O'Donnell,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "1 3 0",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Thomas Henry,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "18 1 34",
+          "land_val": "7 10 0",
+          "building_val": "1 0 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Martin Henry,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "12 2 39",
+          "land_val": "5 15 0",
+          "building_val": "0 15 0",
+          "total_val": "9 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9",
+          "occupier": "Martin Henry,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "9 0 9",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Michael Henry,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "11 3 20",
+          "land_val": "3 17 0",
+          "building_val": "0 8 0",
+          "total_val": "7 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "11",
+          "occupier": "Michael Henry,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "4 1 0",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "12 a",
+          "occupier": "John Henry,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "26 0 3",
+          "land_val": "11 15 0",
+          "building_val": "1 15 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "Michael Henry (Jack),",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "21 1 5",
+          "land_val": "9 10 0",
+          "building_val": "0 10 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "Margaret Henry,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "34 2 1",
+          "land_val": "8 10 0",
+          "building_val": "0 15 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "15 a",
+          "occupier": "John Feehely,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "14 1 21",
+          "land_val": "4 10 0",
+          "building_val": "0 10 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Michael O'Donnell,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "1 3 21",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "17 a",
+          "occupier": "Richard Henry,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "34 0 26",
+          "land_val": "9 10 0",
+          "building_val": "0 5 0",
+          "total_val": "9 15 0"
+        },
+        {
+          "mr": "18 a",
+          "occupier": "Thomas Coggins,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "18 1 0",
+          "land_val": "6 10 0",
+          "building_val": "0 5 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "19 a",
+          "occupier": "Michael Henry (Pat),",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "6 2 10",
+          "land_val": "3 10 0",
+          "building_val": "0 10 0",
+          "total_val": "8 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "20",
+          "occupier": "Michael Henry (Pat),",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "13 3 0",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "21",
+          "occupier": "Thomas Henry, jun.,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "7 2 38",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "5 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "22 a",
+          "occupier": "Thomas Henry, jun.,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "4 1 0",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "desc": "Total,",
+          "area": "2184 1 2",
+          "land_val": "131 12 0",
+          "building_val": "12 8 0",
+          "total_val": "144 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "CLOONBANIFF",
+          "os": "32",
+          "occupier": "John Neilan,",
+          "lessor": "Major Chas. K. O'Hara,",
+          "desc": "L,H,&O",
+          "area": "15 3 17",
+          "land_val": "7 10 0",
+          "building_val": "0 10 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Mary Henry,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "18 1 6",
+          "land_val": "7 5 0",
+          "building_val": "0 15 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Major Chas. K. O'Hara,",
+          "lessor": "In fee,",
+          "desc": "L (plantation)",
+          "area": "0 2 7",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Thomas Gillespie,",
+          "lessor": "Major Chas. K. O'Hara,",
+          "desc": "L",
+          "area": "14 3 15",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Thomas Gillespie,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "8 2 20",
+          "land_val": "4 0 0",
+          "building_val": "0 15 0",
+          "total_val": "5 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "Thomas Gillespie,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "19 1 30",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Walter Henery,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "105 1 30",
+          "land_val": "22 10 0",
+          "building_val": "2 10 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Patrick Callaghan,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "85 1 13",
+          "land_val": "12 0 0",
+          "building_val": "1 10 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Edward Gray,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "83 3 0",
+          "land_val": "9 15 0",
+          "building_val": "0 15 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "James Gordan,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "21 2 14",
+          "land_val": "2 7 0",
+          "building_val": "0 8 0",
+          "total_val": "2 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "10 b",
+          "occupier": "Henry Woods,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "",
+          "land_val": "2 7 0",
+          "building_val": "0 8 0",
+          "total_val": "2 15 0",
+          "n_shared": 2
+        },
+        {
+          "desc": "Total,",
+          "area": "371 2 32",
+          "land_val": "69 9 0",
+          "building_val": "7 11 0",
+          "total_val": "77 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "KILCUMMIN",
+          "os": "24 & 31",
+          "occupier": "Andrew Seery,",
+          "lessor": "Edward J. Cooper,",
+          "desc": "L,H,&O",
+          "area": "7 0 15",
+          "land_val": "1 5 0",
+          "building_val": "0 10 0",
+          "total_val": "7 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "2",
+          "occupier": "Andrew Seery,",
+          "lessor": "Edward J. Cooper,",
+          "desc": "L",
+          "area": "1 0 31",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 3
+        },
+        {
+          "mr": "3",
+          "occupier": "Andrew Seery,",
+          "lessor": "Edward J. Cooper,",
+          "desc": "L",
+          "area": "13 2 30",
+          "land_val": "5 10 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 3
+        }
+      ]
+    }
+  ]
+}

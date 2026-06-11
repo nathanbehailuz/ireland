@@ -1,0 +1,527 @@
+{
+  "parishes": [
+    {
+      "parish": "ARDEE",
+      "entries": [
+        {
+          "mr": "16",
+          "townland": "TOWNPARKS",
+          "sublocation_1": "DROGHEDA-ROAD (East Side.)",
+          "occupier": "Patrick M'Guiggan,",
+          "lessor": "James Gray,",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "17",
+          "occupier": "Owen Duffy,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Ellen M'Kenna and",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Thomas Halfpenny and Mary Maguinness, .",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Patrick Boylan and Thomas Connellan,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "James M'Cabe, .",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "William Grogan,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Patrick Duffy,",
+          "lessor": "James Monaghan,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Hester Robinson,",
+          "lessor": "Same,",
+          "desc": "H and yard,",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "John Hand,",
+          "lessor": "Thomas Crinnian,",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Vacant,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "John Traynor,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Thomas Crinnian,",
+          "lessor": "Edward Richards,",
+          "desc": "H,O, and yard,",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "JOHN-STREET",
+          "occupier": "Rev. John Levins,",
+          "lessor": "Fras. Manning (minor),",
+          "desc": "R. C. Chapel,",
+          "building_val": "50 0 0",
+          "total_val": "50 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Anne Leonard, .",
+          "lessor": "John Farrell,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Bridget Tighe, .",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Mary Boyle, .",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Farrell,",
+          "lessor": "Fras. Manning (minor),",
+          "desc": "G",
+          "area": "0 0 18",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "James Conaghy,",
+          "lessor": "Same,",
+          "desc": "H,O,&G",
+          "area": "0 0 30",
+          "land_val": "0 10 0",
+          "building_val": "1 5 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Terence Rourke,",
+          "lessor": "Matthew Casey,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Anne Connor, .",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Matthew Casey,",
+          "lessor": "Fras. Manning (minor),",
+          "desc": "G",
+          "area": "0 0 32",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Patrick Cravan,",
+          "lessor": "Same,",
+          "desc": "H and G, .",
+          "area": "0 0 18",
+          "land_val": "0 5 0",
+          "building_val": "1 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Thomas Linn,",
+          "lessor": "Matthew Casey,",
+          "desc": "H and G",
+          "area": "0 0 18",
+          "land_val": "0 5 0",
+          "building_val": "1 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "George Campbell",
+          "lessor": "Fras. Manning (minor),",
+          "desc": "H and G",
+          "area": "0 0 16",
+          "land_val": "0 5 0",
+          "building_val": "1 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Bryan Murphy, .",
+          "lessor": "Same,",
+          "desc": "H and G",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "1 0 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Vacant, .",
+          "lessor": "Same,",
+          "desc": "Site of building & G",
+          "area": "0 0 20",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Owen Campbell,",
+          "lessor": "Same,",
+          "desc": "H and G",
+          "area": "0 0 20",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Anne Burn,",
+          "lessor": "Owen Campbell,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Mary Marry,",
+          "lessor": "Fras. Manning (minor),",
+          "desc": "H and G",
+          "area": "0 0 28",
+          "land_val": "0 8 0",
+          "building_val": "1 2 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "James M'Carroll,",
+          "lessor": "Mary Marry,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Vacant, .",
+          "lessor": "Francis Manning,",
+          "desc": "Site of building & G",
+          "area": "0 0 28",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "James Butterly,",
+          "lessor": "Same,",
+          "desc": "H and G",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Mary Robertson,",
+          "lessor": "Same,",
+          "desc": "H and G",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "0 15 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Thomas Harmon,",
+          "lessor": "Matthew Casey,",
+          "desc": "H and G",
+          "area": "0 0 30",
+          "land_val": "0 10 0",
+          "building_val": "0 15 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "John Rice,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Nicholas Carney,",
+          "lessor": "Fras. Manning (minor),",
+          "desc": "H and G",
+          "area": "0 0 24",
+          "land_val": "0 8 0",
+          "building_val": "0 17 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Anne Crawley,",
+          "lessor": "Patrick Finnegan,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "George O'Neill,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Patrick Finnegan,",
+          "lessor": "Fras. Manning (minor),",
+          "desc": "G",
+          "area": "0 0 30",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Thomas Rafter,",
+          "lessor": "Same,",
+          "desc": "H,O,&G",
+          "area": "0 0 12",
+          "land_val": "0 3 0",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Vacant, .",
+          "lessor": "Peter Mathews, .",
+          "desc": "Site of building,"
+        },
+        {
+          "mr": "30",
+          "occupier": "Peter Mathews, .",
+          "lessor": "Fras Manning (minor),",
+          "desc": "H and G",
+          "area": "0 0 32",
+          "land_val": "0 10 0",
+          "building_val": "1 0 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "James Thornton,",
+          "lessor": "Same,",
+          "desc": "H and G",
+          "area": "0 0 32",
+          "land_val": "0 10 0",
+          "building_val": "0 15 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "Owen M'Partland,",
+          "lessor": "Same,",
+          "desc": "H and G",
+          "area": "0 0 23",
+          "land_val": "0 6 0",
+          "building_val": "0 14 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "John Cahill,",
+          "lessor": "Owen M'Partland,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Patrick Campbell,",
+          "lessor": "Fras. Manning (minor),",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Alice Hamill,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Bernard Murphy,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "Edward M'Ardle,",
+          "lessor": "Same,",
+          "desc": "Ruins of H and G",
+          "area": "0 1 10",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Edmund Leary,",
+          "lessor": "Same,",
+          "desc": "H (of no value),"
+        },
+        {
+          "mr": "39",
+          "occupier": "Thomas Marks,",
+          "lessor": "Same,",
+          "desc": "Ruins of H and G",
+          "area": "0 0 28",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "John M'Geogh,",
+          "lessor": "Alexander Eaton,",
+          "desc": "H and G",
+          "area": "0 0 12",
+          "land_val": "0 3 0",
+          "building_val": "0 12 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "John Halfpenny,",
+          "lessor": "Edward Richards and Thomas L. Norman,",
+          "desc": "H,O, and yard,",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "John Halfpenny,",
+          "lessor": "Edward Richards and Thomas L. Norman,",
+          "desc": "Limekiln.",
+          "building_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "Patrick Lennon,",
+          "lessor": "John Halfpenny,",
+          "desc": "H & small G.",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "Philip Fay,",
+          "lessor": "Same,",
+          "desc": "H,O, and yard,",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "44",
+          "occupier": "Vacant,",
+          "lessor": "Same,",
+          "desc": "H and yard,",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "45",
+          "occupier": "Patrick Doyle,",
+          "lessor": "Same,",
+          "desc": "H and yard,",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "Patrick Lavery, .",
+          "lessor": "Same,",
+          "desc": "H and yard,",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        }
+      ]
+    }
+  ]
+}

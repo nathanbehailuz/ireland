@@ -1,0 +1,223 @@
+{
+  "parishes": [
+    {
+      "parish": "TALLANSTOWN",
+      "entries": [
+        {
+          "mr": "14 a",
+          "townland": "RATHBODY",
+          "os": "",
+          "occupier": "Robert Newit",
+          "lessor": "Charles Fortescue",
+          "desc": "H,O,&L",
+          "area": "15 3 4",
+          "land_val": "16 5 0",
+          "building_val": "0 15 0",
+          "total_val": "17 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "15 a",
+          "occupier": "William Mooney",
+          "lessor": "Frederick Pilkington",
+          "desc": "H,O,&L",
+          "area": "11 2 38",
+          "land_val": "12 10 0",
+          "building_val": "0 10 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Mooney",
+          "lessor": "William Mooney",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "16 a",
+          "occupier": "Rev. James Tierney",
+          "lessor": "Frederick Pilkington",
+          "desc": "H,O,&L",
+          "area": "14 3 36",
+          "land_val": "15 0 0",
+          "building_val": "5 0 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "17 A a",
+          "occupier": "Francis Kearney",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "3 2 18",
+          "land_val": "2 0 0",
+          "building_val": "0 15 0",
+          "total_val": "13 15 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "- B",
+          "occupier": "Francis Kearney",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "10 3 18",
+          "land_val": "11 0 0",
+          "building_val": "",
+          "total_val": "13 15 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "284 1 4",
+          "land_val": "263 2 0",
+          "building_val": "22 8 0",
+          "total_val": "285 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "RATHORY",
+          "os": "13 & 14",
+          "occupier": "Patrick Kirley",
+          "lessor": "John Coleman",
+          "desc": "L",
+          "area": "5 3 35",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "3 0 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "2 a",
+          "occupier": "John Coleman",
+          "lessor": "Lord Norbury",
+          "desc": "H,O,&L",
+          "area": "221 0 17",
+          "land_val": "226 0 0",
+          "building_val": "19 0 0",
+          "total_val": "245 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Conlon",
+          "lessor": "John Coleman",
+          "desc": "H&G",
+          "area": "0 0 11",
+          "land_val": "0 2 0",
+          "building_val": "1 3 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Peter Kelly",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "1 3 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Owen Murphy",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "1 3 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Catherine M'Cue",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "John Hoey",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "h",
+          "occupier": "Michael M'Keever",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "i",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "227 1 13",
+          "land_val": "229 8 0",
+          "building_val": "24 5 0",
+          "total_val": "253 13 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "THOMASTOWN",
+          "os": "11",
+          "occupier": "Myles William O'Reilly",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "65 1 5",
+          "land_val": "75 0 0",
+          "building_val": "",
+          "total_val": "75 0 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "65 1 5",
+          "land_val": "75 0 0",
+          "building_val": "",
+          "total_val": "75 0 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

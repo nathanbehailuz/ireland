@@ -1,0 +1,512 @@
+{
+  "parishes": [
+    {
+      "parish": "ST. PATRICK'S",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "REVIEWFIELDS",
+          "os": "19",
+          "occupier": "Samson Carter, jun. Esq",
+          "lessor": "Mrs. Mary Kingsmill",
+          "desc": "H,O,&L",
+          "area": "21 3 15",
+          "land_val": "25 15 0",
+          "building_val": "20 0 0",
+          "total_val": "45 15 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "2 A B a",
+          "occupier": "Anastasia Meany",
+          "lessor": "Richd. Smithwick, Esq.",
+          "desc": "H,O,&L",
+          "area": "8 1 28",
+          "land_val": "10 5 0",
+          "building_val": "2 5 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Leonard Naddy",
+          "lessor": "Richd. Smithwick, Esq.",
+          "desc": "H,O,&L",
+          "area": "8 1 37",
+          "land_val": "10 7 0",
+          "building_val": "1 8 0",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Walton",
+          "lessor": "Wm. Kingsmill, Esq.",
+          "desc": "L",
+          "area": "8 2 36",
+          "land_val": "11 10 0",
+          "building_val": "",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Michael Butler",
+          "lessor": "Wm. Kingsmill, Esq.",
+          "desc": "L",
+          "area": "6 2 30",
+          "land_val": "8 15 0",
+          "building_val": "",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Robert Carroll",
+          "lessor": "Wm. Kingsmill, Esq.",
+          "desc": "L",
+          "area": "6 1 25",
+          "land_val": "8 15 0",
+          "building_val": "",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "James Carroll",
+          "lessor": "Richd. Smithwick, Esq.",
+          "desc": "H,O,&L",
+          "area": "23 2 10",
+          "land_val": "27 15 0",
+          "building_val": "3 0 0",
+          "total_val": "30 15 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "James Carroll",
+          "lessor": "Richd. Smithwick, Esq.",
+          "desc": "L",
+          "area": "8 0 8",
+          "land_val": "8 5 0",
+          "building_val": "",
+          "total_val": "8 5 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Richd. Smithwick, Esq.",
+          "lessor": "In fee",
+          "desc": "O&L",
+          "area": "46 0 21",
+          "land_val": "46 15 0",
+          "building_val": "1 5 0",
+          "total_val": "48 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Roche",
+          "lessor": "Richd. Smithwick, Esq.",
+          "desc": "H&G",
+          "area": "0 1 4",
+          "land_val": "0 9 0",
+          "building_val": "1 16 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "138 2 14",
+          "land_val": "158 11 0",
+          "building_val": "29 14 0",
+          "total_val": "188 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "SHELLUMSRATH",
+          "os": "19",
+          "occupier": "William Neill",
+          "lessor": "Thomas Neville, Esq.",
+          "desc": "H,O,&L",
+          "area": "67 3 33",
+          "land_val": "79 10 0",
+          "building_val": "5 0 0",
+          "total_val": "84 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Maher",
+          "lessor": "Thomas Neville, Esq.",
+          "desc": "H,O,&L",
+          "area": "60 3 8",
+          "land_val": "64 0 0",
+          "building_val": "10 0 0",
+          "total_val": "74 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "128 3 1",
+          "land_val": "143 10 0",
+          "building_val": "15 0 0",
+          "total_val": "158 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "SMITHSLAND, NORTH",
+          "os": "19",
+          "occupier": "Rev. Robert O'Keeffe",
+          "lessor": "Reps. James Downey",
+          "desc": "L",
+          "area": "8 1 16",
+          "land_val": "15 10 0",
+          "building_val": "",
+          "total_val": "15 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Vacant",
+          "lessor": "Reps. James Downey",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 5 0",
+          "building_val": "1 10 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Vacant",
+          "lessor": "Reps. James Downey",
+          "desc": "G",
+          "area": "0 0 15",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Vacant",
+          "lessor": "Reps. James Downey",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 3 0",
+          "building_val": "1 17 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "William Mihan",
+          "lessor": "Reps. James Downey",
+          "desc": "H,O,&yard",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "1 13 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Butler",
+          "lessor": "Sir Richd. Musgrave, Bt.",
+          "desc": "L",
+          "area": "4 2 21",
+          "land_val": "7 0 0",
+          "building_val": "",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Michael Madigan",
+          "lessor": "John Butler",
+          "desc": "H,O,&G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "1 18 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Andrew Quigley",
+          "lessor": "John Butler",
+          "desc": "H,O,&G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "2 3 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Mihan",
+          "lessor": "Sir Richd. Musgrave, Bt.",
+          "desc": "H,O,&L",
+          "area": "20 2 16",
+          "land_val": "30 0 0",
+          "building_val": "2 10 0",
+          "total_val": "32 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James Murphy",
+          "lessor": "Sir Richd. Musgrave, Bt.",
+          "desc": "H&L",
+          "area": "8 2 14",
+          "land_val": "10 13 0",
+          "building_val": "1 7 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Martin Bolger",
+          "lessor": "Earl of Normanton",
+          "desc": "L",
+          "area": "1 3 16",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Thomas Grace",
+          "lessor": "Earl of Normanton",
+          "desc": "H&G",
+          "area": "0 0 14",
+          "land_val": "0 3 0",
+          "building_val": "1 7 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "David Murphy",
+          "lessor": "Miss Julia Glascott and Mrs. Henrietta Babington",
+          "desc": "L",
+          "area": "4 3 10",
+          "land_val": "7 5 0",
+          "building_val": "",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Thomas Hoyne",
+          "lessor": "Sir Richd. Musgrave, Bt.",
+          "desc": "H,O,&L",
+          "area": "30 1 18",
+          "land_val": "36 15 0",
+          "building_val": "4 10 0",
+          "total_val": "41 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Michael Hoyne",
+          "lessor": "Thomas Hoyne",
+          "desc": "H&G",
+          "area": "0 0 12",
+          "land_val": "0 1 0",
+          "building_val": "0 9 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "William Bryan",
+          "lessor": "Thomas Hoyne",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Patrick Breen",
+          "lessor": "Miss Julia Glascott and Mrs. Henrietta Babington",
+          "desc": "L",
+          "area": "9 1 20",
+          "land_val": "12 15 0",
+          "building_val": "",
+          "total_val": "12 15 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Constabulary Force",
+          "lessor": "Patrick Breen",
+          "desc": "Police barrack & G",
+          "area": "0 0 12",
+          "land_val": "0 2 0",
+          "building_val": "6 3 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "David Murphy",
+          "lessor": "Cornelius Maxwell, Esq.",
+          "desc": "L",
+          "area": "8 1 14",
+          "land_val": "10 15 0",
+          "building_val": "",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "James Keeffe",
+          "lessor": "David Murphy",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "1 13 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Patrick Hoyne",
+          "lessor": "Sir Richd. Musgrave, Bt.",
+          "desc": "H,O,&L",
+          "area": "8 2 5",
+          "land_val": "10 10 0",
+          "building_val": "3 10 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "106 1 5",
+          "land_val": "144 18 0",
+          "building_val": "30 16 0",
+          "total_val": "175 14 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "SMITHSLAND, SOUTH",
+          "os": "19",
+          "occupier": "William Purtle",
+          "lessor": "Cornelius Maxwell, Esq.",
+          "desc": "H,O,&L",
+          "area": "0 3 27",
+          "land_val": "1 8 0",
+          "building_val": "5 2 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "John Sullivan",
+          "lessor": "William Purtle",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 2 0",
+          "building_val": "0 13 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Patrick Healy",
+          "lessor": "William Purtle",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Andrew Keating",
+          "lessor": "William Purtle",
+          "desc": "H,O,&G",
+          "area": "0 0 15",
+          "land_val": "0 2 0",
+          "building_val": "1 18 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "James Keating",
+          "lessor": "William Purtle",
+          "desc": "H,O,&G",
+          "area": "0 0 15",
+          "land_val": "0 2 0",
+          "building_val": "1 18 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "John Corcoran",
+          "lessor": "William Purtle",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "1 9 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "Michael Mulhall",
+          "lessor": "William Purtle",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "h",
+          "occupier": "Vacant",
+          "lessor": "William Purtle",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "i",
+          "occupier": "Michael Ryan",
+          "lessor": "William Purtle",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "j",
+          "occupier": "William Walsh",
+          "lessor": "Thomas Keeffe",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "k",
+          "occupier": "Vacant",
+          "lessor": "Thomas Keeffe",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "l",
+          "occupier": "Wm. Foley",
+          "lessor": "William Purtle",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "m",
+          "occupier": "John Dunne",
+          "lessor": "William Purtle",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "n",
+          "occupier": "Martin Foley",
+          "lessor": "William Purtle",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        }
+      ]
+    }
+  ]
+}

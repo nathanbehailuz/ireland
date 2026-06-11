@@ -1,0 +1,359 @@
+{
+  "parishes": [
+    {
+      "parish": "BALLYPHILIP",
+      "entries": [
+        {
+          "mr": "22",
+          "townland": "BALLYPHILIP",
+          "is_continued": 1,
+          "sublocation_1": "TOWN OF PORTAFERRY",
+          "sublocation_2": "FERRY-STREET—con.",
+          "occupier": "Unoccupied",
+          "lessor": "Peter Brown",
+          "desc": "H,O,&yard",
+          "building_val": "12 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Robert Crangle",
+          "lessor": "Andrew Nugent",
+          "desc": "H,O,&yard",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Robert Lowry",
+          "lessor": "Henry Coates",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "John Jeffrey & another",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "26",
+          "occupier": "Jane M'Comb",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "William Clarke",
+          "lessor": "Same",
+          "desc": "H,O,&yard",
+          "building_val": "12 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "CASTLE-STREET. (T. P. 3.)",
+          "occupier": "Andrew Nugent",
+          "lessor": "In fee",
+          "desc": "Shambles and yard",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Unoccupied",
+          "lessor": "Andrew Nugent",
+          "desc": "Corn-mill (dilapidated)",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Unoccupied",
+          "lessor": "John R. Allen",
+          "desc": "Stores and yard",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "4",
+          "desc": "Gate-lodge (valued with No. 60, Church-street)"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "MARKET-SQUARE. (T. P. 3.)",
+          "occupier": "Jane Wilson",
+          "lessor": "James Moreland",
+          "desc": "H,O,yard,&sm.G",
+          "building_val": "9 10 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Francis M'Cracken",
+          "lessor": "Same",
+          "desc": "H,O,&yard",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Moreland",
+          "lessor": "Andrew Nugent",
+          "desc": "H,O,yard,&sm.G",
+          "building_val": "11 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Cavan",
+          "lessor": "John Bailie",
+          "desc": "H,O,yard,&sm.G",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "William Hood",
+          "lessor": "Same",
+          "desc": "H,yard,&sm.G",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Catherine Murray",
+          "lessor": "William Maxwell",
+          "desc": "H,O,yard,&sm.G",
+          "building_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Sarah Anne Watson",
+          "lessor": "Andrew Nugent",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 25",
+          "land_val": "1 5 0",
+          "building_val": "14 15 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Mary Morris",
+          "lessor": "M'Cleary & M'Kibben",
+          "desc": "H,O,yard,&sm.G",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "William Donnan",
+          "lessor": "Andrew Nugent",
+          "desc": "H,O,yard,&sm.G",
+          "building_val": "13 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Anne M'Kerry",
+          "lessor": "Andw. M'Nab & others",
+          "desc": "H,yard,&sm.G",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H,yard,&sm.G",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Alexander Baxter",
+          "lessor": "Same",
+          "desc": "House, forge, yard, and small garden",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "13",
+          "sublocation_2": "(High-street intersects.)",
+          "occupier": "James Stoop",
+          "lessor": "James Moreland",
+          "desc": "H,O,yard,&sm.G",
+          "building_val": "15 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "James Moreland",
+          "lessor": "Andrew Nugent",
+          "desc": "H,O,yard,&sm.G",
+          "building_val": "15 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Hugh Magrath",
+          "lessor": "Henry Dougherty",
+          "desc": "H&yard",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Henry Dougherty",
+          "lessor": "Andrew Nugent",
+          "desc": "H,O,yard,&sm.G",
+          "building_val": "8 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "John Moore",
+          "lessor": "John M'Nab",
+          "desc": "H,O,yard,&sm.G",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Hugh Donnan",
+          "lessor": "Same",
+          "desc": "G (in rear)",
+          "area": "0 0 28",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Dispensary, John M'Nab,",
+          "lessor": "(See Exemptions.)",
+          "desc": "Half annual rent of Dispensary,",
+          "total_val": "4 15 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "19",
+          "occupier": "Eliza M'Cleery",
+          "lessor": "Andrew Nugent",
+          "desc": "H,O,yard,&sm.G",
+          "building_val": "18 0 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "20",
+          "sublocation_2": "(Church-street intersects.)",
+          "occupier": "John Lawson",
+          "lessor": "Same",
+          "desc": "H,O,yard,&sm.G",
+          "building_val": "13 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "John Bailie",
+          "lessor": "Same",
+          "desc": "H,O,yard,&sm.G",
+          "building_val": "10 10 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "William M'Cleery",
+          "lessor": "Same",
+          "desc": "H,O,yard,&sm.G",
+          "building_val": "15 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Unoccupied",
+          "lessor": "Northern Banking Co.",
+          "desc": "H,O,yard,&sm.G",
+          "building_val": "25 0 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "John Finnegan",
+          "lessor": "Andrew Nugent",
+          "desc": "H,O,yard,&sm.G",
+          "building_val": "12 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "James Geddis",
+          "lessor": "John Finnegan",
+          "desc": "H",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Eliza Warnock",
+          "lessor": "Andrew Nugent",
+          "desc": "House, stores, offices, yard, and sm. garden",
+          "building_val": "28 0 0",
+          "total_val": "28 0 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Andrew Nugent",
+          "lessor": "In fee",
+          "desc": "Plantation",
+          "area": "0 1 11",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Andrew Nugent",
+          "lessor": "In fee",
+          "desc": "Market-house",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "part 28",
+          "occupier": "Petty Sessions-house, Andrew Nugent,",
+          "lessor": "(See Exemptions.)",
+          "desc": "Half annual rent of Petty Sessions-house,",
+          "total_val": "5 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "MEETING-HOUSE-LANE. (T. P. 3 & 4.)",
+          "occupier": "Unoccupied",
+          "lessor": "Andrew M'Nab and others",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Primitive Wesleyan Meeting-house and yard",
+          "lessor": "(See Exemptions.)",
+          "is_exemption": 1
+        },
+        {
+          "mr": "3",
+          "occupier": "Presbyterian Church and yard",
+          "lessor": "(See Exemptions.)",
+          "is_exemption": 1
+        }
+      ]
+    }
+  ]
+}

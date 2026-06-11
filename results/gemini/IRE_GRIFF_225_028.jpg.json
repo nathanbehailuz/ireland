@@ -1,0 +1,425 @@
+{
+  "parishes": [
+    {
+      "parish": "TRIM",
+      "entries": [
+        {
+          "mr": "13",
+          "townland": "TOWNPARKS, NORTH",
+          "sublocation_1": "TOWN OF TRIM",
+          "sublocation_2": "CHAMBERS'-LANE",
+          "occupier": "Anne Weldon",
+          "lessor": "John Proctor",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "14",
+          "occupier": "James Hussey",
+          "lessor": "Same",
+          "desc": "H,O,yard,& sm.gar",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Vacant",
+          "lessor": "Cecilia Connolly",
+          "desc": "H,yard,& sm.gar.",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H,yard,& sm.gar.",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H,yard,& sm.gar.",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "MILL-LANE",
+          "occupier": "Thomas Blake",
+          "lessor": "Edward E. Chambers",
+          "desc": "O,yard",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Patrick Kennedy",
+          "lessor": "In fee",
+          "desc": "O,G",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "1 10 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Kennedy",
+          "lessor": "Edward E. Chambers",
+          "desc": "H,O,flour,corn,and tuck-mill,& yard",
+          "building_val": "55 0 0",
+          "total_val": "55 0 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Patrick Kennedy",
+          "lessor": "In fee",
+          "desc": "Flour and corn-mill,O,yard",
+          "building_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Kennedy",
+          "lessor": "Charles P. Leslie",
+          "desc": "O,yard",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Patrick Kennedy",
+          "lessor": "Edward E. Chambers",
+          "desc": "O,yard",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Patrick Kennedy",
+          "lessor": "Same",
+          "desc": "O,L",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Bridget Lucas",
+          "lessor": "Free",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "-",
+          "sublocation_2": "TENEMENTS OFF MILL-LANE",
+          "occupier": "Richard Odlum",
+          "lessor": "Charles P. Leslie",
+          "desc": "O,L",
+          "area": "0 1 20",
+          "land_val": "1 0 0",
+          "building_val": "1 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Richard Odlum",
+          "lessor": "Edward E. Chambers",
+          "desc": "L",
+          "area": "0 1 20",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Richard Odlum",
+          "lessor": "Reps. John Thompson",
+          "desc": "L",
+          "area": "0 0 35",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Richard Odlum",
+          "lessor": "Edward E. Chambers",
+          "desc": "L",
+          "area": "0 2 0",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "CHURCH-STREET",
+          "occupier": "William Derham",
+          "lessor": "Patrick Smith",
+          "desc": "Church and grave-yard",
+          "area": "0 2 33",
+          "land_val": "1 0 0",
+          "building_val": "30 0 0",
+          "total_val": "31 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "2",
+          "occupier": "Patrick Smith",
+          "lessor": "John Goodman",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Walter Jones",
+          "lessor": "Patrick Smith",
+          "desc": "H,O,G",
+          "area": "0 1 17",
+          "land_val": "1 10 0",
+          "building_val": "2 0 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Anne Stanley",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Thomas Adair",
+          "lessor": "Michael Mooney",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Judith Fox & another",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "James Reilly",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Bartholomew M'Grue",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Patrick Bligh",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Anne Smith",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Luke Moore",
+          "lessor": "Charles P. Leslie",
+          "desc": "H,O,yard",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Luke Moore",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 0 12",
+          "land_val": "0 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Luke Moore",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "4 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Very Rev. Rchd. Butler",
+          "lessor": "Lord Bishop of Meath",
+          "desc": "H,O,yard,pleasure ground,G",
+          "area": "4 0 20",
+          "land_val": "9 10 0",
+          "building_val": "30 10 0",
+          "total_val": "40 0 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Very Rev. Rchd. Butler",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 1 20",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "Anne Tamley",
+          "lessor": "Very Rev. Rchd. Butler",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Hans Higginbotham",
+          "lessor": "Michael Kiernan",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Margaret Carpenter",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Michael Kiernan",
+          "lessor": "Edward E. Chambers",
+          "desc": "H,O,G",
+          "area": "0 2 35",
+          "land_val": "3 0 0",
+          "building_val": "3 15 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "John Ward",
+          "lessor": "Same",
+          "desc": "H,O,yard,& sm.gar.",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Bridget Brady",
+          "lessor": "Same",
+          "desc": "H,O,yard,& sm.gar.",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "-",
+          "desc": "Waste of houses, yards, streets, &c.",
+          "area": "15 2 27"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "NAVAN-GATE",
+          "occupier": "Matthew Farrelly",
+          "lessor": "Patrick Kennedy",
+          "desc": "G",
+          "area": "0 0 12",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "William Drury",
+          "lessor": "Matthew Farrelly",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Catherine Fitzpatrick",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Adair",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Thomas Noble",
+          "lessor": "Patrick Kennedy",
+          "desc": "H,yard,& sm.gar.",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Catherine Griffin",
+          "lessor": "William Reilly",
+          "desc": "H,yard,& sm.gar.",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Elizabeth Gibney",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Thomas Reilly",
+          "lessor": "William Thornton",
+          "desc": "H,O,yard",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Matthew Morrin",
+          "lessor": "Same",
+          "desc": "H,O,yard",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Patrick Brogan",
+          "lessor": "Same",
+          "desc": "H,O,& sm.gar.",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0",
+          "n_shared": 2
+        }
+      ]
+    }
+  ]
+}

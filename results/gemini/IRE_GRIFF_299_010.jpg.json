@@ -1,0 +1,173 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF DONERAILE",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "DONERAILE",
+          "os": "",
+          "sublocation_1": "TOWN OF DONERAILE",
+          "sublocation_2": "MAIN-STREET",
+          "occupier": "Constabulary Force,",
+          "lessor": "Miss Mary Duane,",
+          "desc": "Police barrack, yard, & G",
+          "area": "0 0 13",
+          "land_val": "0 5 0",
+          "building_val": "9 10 0",
+          "total_val": "9 15 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 1,
+          "is_continued": 0
+        },
+        {
+          "mr": "1 a",
+          "townland": "",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "Petty Sessions Court,",
+          "lessor": "Viscount Doneraile,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "6 15 0",
+          "total_val": "6 15 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 1,
+          "is_continued": 0
+        }
+      ]
+    },
+    {
+      "parish": "PARISH OF GLANWORTH",
+      "entries": [
+        {
+          "mr": "35",
+          "townland": "GLANWORTH",
+          "os": "",
+          "sublocation_1": "TOWN OF GLANWORTH",
+          "sublocation_2": "MARKET-SQUARE",
+          "occupier": "Constabulary Force,",
+          "lessor": "Edward S. Cranwell,",
+          "desc": "Police barrack & G",
+          "area": "0 0 18",
+          "land_val": "0 5 0",
+          "building_val": "5 0 0",
+          "total_val": "5 5 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 1,
+          "is_continued": 0
+        }
+      ]
+    },
+    {
+      "parish": "PARISH OF KILCRUMPER",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "BALLYVOSKILLAKEEN",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "Board of Poor law Guardians,",
+          "lessor": "John O'Sullivan,",
+          "desc": "Auxiliary workhouse & O",
+          "area": "",
+          "land_val": "",
+          "building_val": "9 0 0",
+          "total_val": "9 0 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 1,
+          "is_continued": 0
+        }
+      ]
+    },
+    {
+      "parish": "PARISH OF MALLOW",
+      "entries": [
+        {
+          "mr": "19 2",
+          "townland": "MALLOW",
+          "os": "",
+          "sublocation_1": "TOWN OF MALLOW",
+          "sublocation_2": "CARMICHAEL'S-LANE",
+          "occupier": "Board of Guardians of Mallow Union,",
+          "lessor": "Mrs. Frances M. Roche,",
+          "desc": "Auxiliary work-house & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "35 0 0",
+          "total_val": "35 0 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 1,
+          "is_continued": 0
+        },
+        {
+          "mr": "19 12",
+          "townland": "",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "NEW-STREET",
+          "occupier": "Constabulary force,",
+          "lessor": "Miss Berry,",
+          "desc": "Police-barrack, O, & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "18 0 0",
+          "total_val": "18 0 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 1,
+          "is_continued": 0
+        },
+        {
+          "mr": "19 10",
+          "townland": "",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "BARRACK-LANE",
+          "occupier": "The Hon. Board of Ordnance,",
+          "lessor": "Reps. Sir W. W. Becher,",
+          "desc": "Military-barracks, O, & parade-ground",
+          "area": "1 0 0",
+          "land_val": "2 0 0",
+          "building_val": "53 0 0",
+          "total_val": "55 0 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 1,
+          "is_continued": 0
+        }
+      ]
+    },
+    {
+      "parish": "PARISH OF MONANIMY",
+      "entries": [
+        {
+          "mr": "26 30",
+          "townland": "BALLYMACMOY",
+          "os": "",
+          "sublocation_1": "VILLAGE OF KILLAWILLIN",
+          "sublocation_2": "MAIN-STREET",
+          "occupier": "Constabulary force,",
+          "lessor": "Henry B. Foote, Esq.",
+          "desc": "Police-barrack, O, & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "6 5 0",
+          "total_val": "6 5 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 1,
+          "is_continued": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF KILDROUGHT",
+      "entries": [
+        {
+          "mr": "38",
+          "townland": "CELBRIDGE",
+          "occupier": "Edward Dunne",
+          "lessor": "Messrs. Shaw and Houghton",
+          "desc": "H, O, & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "39",
+          "occupier": "Thomas Fegan",
+          "lessor": "Messrs. Shaw and Houghton",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 13 0",
+          "total_val": "1 13 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "Martin Lalor",
+          "lessor": "Messrs. Shaw and Houghton",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "Matthew Masterson",
+          "lessor": "Messrs. Shaw and Houghton",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "Anne Joyce",
+          "lessor": "Messrs. Shaw and Houghton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "Catherine Warren",
+          "lessor": "Messrs. Shaw and Houghton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "44",
+          "occupier": "Catherine Kavanagh",
+          "lessor": "Messrs. Shaw and Houghton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "45",
+          "occupier": "Michael Reilly",
+          "lessor": "Messrs. Shaw and Houghton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "Catherine Scully",
+          "lessor": "Messrs. Shaw and Houghton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "47",
+          "occupier": "Patrick Kilbride",
+          "lessor": "Messrs. Shaw and Houghton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "48",
+          "occupier": "Mary Rooney",
+          "lessor": "Messrs. Shaw and Houghton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Waste under houses, yards, streets, and small gardens",
+          "area": "19 1 21",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "212 0 37",
+          "land_val": "317 12 0",
+          "building_val": "1438 12 0",
+          "total_val": "1764 4 0",
+          "is_total": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Workhouse, offices, and land attached",
+          "area": "5 0 20",
+          "land_val": "6 0 0",
+          "building_val": "160 0 0",
+          "total_val": "166 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Wesleyan Methodist Chapel and Infant-school-house",
+          "area": "",
+          "land_val": "",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Fever Hospital, and land",
+          "area": "1 0 9",
+          "land_val": "3 0 0",
+          "building_val": "26 0 0",
+          "total_val": "29 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "R. C. Chapel & yard",
+          "area": "0 0 20",
+          "land_val": "",
+          "building_val": "12 0 0",
+          "total_val": "12 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Parochial Free-school-house",
+          "area": "",
+          "land_val": "",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total of Exemptions",
+          "area": "6 1 9",
+          "land_val": "9 0 0",
+          "building_val": "211 0 0",
+          "total_val": "220 0 0",
+          "is_total": 1,
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total, exclusive of Exemptions",
+          "area": "205 3 28",
+          "land_val": "308 12 0",
+          "building_val": "1222 12 0",
+          "total_val": "1544 4 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "CELBRIDGEABBEY",
+          "os": "11",
+          "occupier": "Henry Grattan, Esq.",
+          "lessor": "In fee",
+          "desc": "H, O, & L",
+          "area": "112 1 30",
+          "land_val": "126 15 0",
+          "building_val": "44 0 0",
+          "total_val": "170 15 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Bridget Healy",
+          "lessor": "Henry Grattan, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Mary Jaggars",
+          "lessor": "Henry Grattan, Esq.",
+          "desc": "H, O, & L",
+          "area": "6 2 31",
+          "land_val": "8 5 0",
+          "building_val": "1 5 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "2 b",
+          "occupier": "John Downey",
+          "lessor": "Mary Jaggars",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "2 c",
+          "occupier": "Catherine Flanagan",
+          "lessor": "Mary Jaggars",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "2 d",
+          "occupier": "Louisa Duggan",
+          "lessor": "Mary Jaggars",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "2 e",
+          "occupier": "Michael Duggan",
+          "lessor": "Mary Jaggars",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "2 f",
+          "occupier": "William Flanagan",
+          "lessor": "Mary Jaggars",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "2 g",
+          "occupier": "James Williams",
+          "lessor": "Mary Jaggars",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "119 0 21",
+          "land_val": "135 0 0",
+          "building_val": "51 15 0",
+          "total_val": "186 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CRODAUN",
+          "os": "11",
+          "occupier": "Richard Heir",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "L",
+          "area": "78 2 11",
+          "land_val": "76 0 0",
+          "building_val": "",
+          "total_val": "76 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "78 2 11",
+          "land_val": "76 0 0",
+          "building_val": "",
+          "total_val": "76 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "KILWOGHAN",
+          "os": "11",
+          "occupier": "John Byrne",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "H, O, & L",
+          "area": "20 0 2",
+          "land_val": "9 0 0",
+          "building_val": "1 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Byrne",
+          "lessor": "John Boyd",
+          "desc": "L",
+          "area": "2 2 17",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Boyd",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "L",
+          "area": "1 0 0",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Lawrence Treacy",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "H & L",
+          "area": "1 0 15",
+          "land_val": "0 12 0",
+          "building_val": "0 8 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "4 b",
+          "occupier": "William Donnellan",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "L",
+          "area": "0 3 8",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4 c",
+          "occupier": "James Malone",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "H, O, & L",
+          "area": "0 3 1",
+          "land_val": "0 8 0",
+          "building_val": "0 9 0",
+          "total_val": "0 17 0"
+        }
+      ]
+    }
+  ]
+}

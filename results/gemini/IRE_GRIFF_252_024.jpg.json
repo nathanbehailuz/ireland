@@ -1,0 +1,578 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF EASKY",
+      "entries": [
+        {
+          "mr": "18",
+          "townland": "KILLEENDUFF",
+          "os": "",
+          "occupier": "Hugh Kirlican",
+          "lessor": "Trustees of Endowed School",
+          "desc": "L",
+          "area": "6 3 25",
+          "land_val": "6 15 0",
+          "building_val": "",
+          "total_val": "6 15 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "19 a",
+          "occupier": "(See Exemptions)",
+          "lessor": "",
+          "desc": "Endowed school, office, and land",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "",
+          "is_exemption": 1
+        },
+        {
+          "mr": "20",
+          "occupier": "Richard Brinkley",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "2 0 10",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "21 a",
+          "occupier": "Stephen Dalton",
+          "lessor": "Richard Beatty",
+          "desc": "L,H,&O",
+          "area": "38 2 30",
+          "land_val": "31 10 0",
+          "building_val": "1 10 0",
+          "total_val": "33 0 0"
+        },
+        {
+          "mr": "22 a",
+          "occupier": "Richard Beatty",
+          "lessor": "In fee",
+          "desc": "L,herd's ho.,&offs.",
+          "area": "108 3 30",
+          "land_val": "82 10 0",
+          "building_val": "2 10 0",
+          "total_val": "85 0 0"
+        },
+        {
+          "mr": "22 b",
+          "occupier": "Andrew Connolly",
+          "lessor": "Richard Beatty",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Michael Molony",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "21 1 15",
+          "land_val": "12 0 0",
+          "building_val": "",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Michael Molony",
+          "lessor": "",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "7 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "occupier": "William O'Hara",
+          "lessor": "",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "7 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "24",
+          "occupier": "William O'Hara",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "26 0 10",
+          "land_val": "21 0 0",
+          "building_val": "",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Mary Conway",
+          "lessor": "",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "7 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "occupier": "William O'Hara",
+          "lessor": "",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "7 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "25 a",
+          "occupier": "Samuel M'Munn",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "18 0 30",
+          "land_val": "16 10 0",
+          "building_val": "1 0 0",
+          "total_val": "17 10 0"
+        },
+        {
+          "mr": "26 a",
+          "occupier": "William Morrison",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "17 2 30",
+          "land_val": "15 10 0",
+          "building_val": "1 0 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "27 a",
+          "occupier": "Thomas Kilduff",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "14 2 30",
+          "land_val": "13 0 0",
+          "building_val": "1 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "28 a",
+          "occupier": "Dominick Kilduff",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "17 0 30",
+          "land_val": "14 0 0",
+          "building_val": "1 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Robert Mallon",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "1 3 30",
+          "land_val": "1 10 0",
+          "building_val": "0 10 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "30 a",
+          "occupier": "George Wilson",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "4 1 5",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "31 a",
+          "occupier": "Owen Mullen",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "20 0 35",
+          "land_val": "11 0 0",
+          "building_val": "1 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "32 {a",
+          "occupier": "John Connolly",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "67 0 10",
+          "land_val": "26 1 0",
+          "building_val": "1 5 0",
+          "total_val": "27 6 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "32 {",
+          "occupier": "James Connolly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "67 0 10",
+          "land_val": "8 14 0",
+          "building_val": "",
+          "total_val": "8 14 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "33",
+          "occupier": "Michael Molony",
+          "lessor": "Peter Hale",
+          "desc": "L&H",
+          "area": "13 0 11",
+          "land_val": "7 0 0",
+          "building_val": "0 15 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Michael Harte",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "13 0 30",
+          "land_val": "5 15 0",
+          "building_val": "",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Laurence Moloney",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 3 30",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "James Wallace",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "33 2 10",
+          "land_val": "35 0 0",
+          "building_val": "1 10 0",
+          "total_val": "36 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total of Rateable Property",
+          "area": "974 0 14",
+          "land_val": "703 15 0",
+          "building_val": "41 5 0",
+          "total_val": "745 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "EXEMPTIONS:",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "",
+          "is_exemption": 1
+        },
+        {
+          "mr": "19 a",
+          "occupier": "Trus.of EndowedSchool",
+          "lessor": "",
+          "desc": "Land, Endowed school and offices",
+          "area": "2 3 10",
+          "land_val": "2 10 0",
+          "building_val": "4 0 0",
+          "total_val": "6 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total, including Exemptions",
+          "area": "976 3 24",
+          "land_val": "706 5 0",
+          "building_val": "45 5 0",
+          "total_val": "751 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "SHANNONSPARK, EAST",
+          "os": "11",
+          "occupier": "Thomas Ray",
+          "lessor": "Thomas Ormsby",
+          "desc": "L,H,&O",
+          "area": "34 0 7",
+          "land_val": "15 0 0",
+          "building_val": "1 10 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Patrick Morrin",
+          "lessor": "Thomas Ray",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "1 c",
+          "occupier": "James M'Munn",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "34 0 7",
+          "land_val": "15 0 0",
+          "building_val": "2 0 0",
+          "total_val": "17 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "BALLYMEENY JONES",
+          "os": "11",
+          "occupier": "John Kilcullen",
+          "lessor": "Edward Howley",
+          "desc": "L&O",
+          "area": "26 2 20",
+          "land_val": "11 0 0",
+          "building_val": "0 5 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Patrick Murray",
+          "lessor": "John Kilcullen",
+          "desc": "G&H",
+          "area": "0 1 0",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "1 c",
+          "occupier": "Peter Geraghty",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Thomas Collery",
+          "lessor": "Edward Howley",
+          "desc": "L",
+          "area": "5 0 20",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "3",
+          "occupier": "Thomas Collery",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "7 3 28",
+          "land_val": "6 10 0",
+          "building_val": "0 10 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Patrick Morron",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "16 1 30",
+          "land_val": "7 0 0",
+          "building_val": "0 5 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Peter Hunt",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "5 3 25",
+          "land_val": "3 5 0",
+          "building_val": "0 5 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Daniel Hunt",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "9 3 10",
+          "land_val": "5 0 0",
+          "building_val": "0 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "7 b",
+          "occupier": "John Hunt",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "John Hunt",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 1 15",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Thomas Carty",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "1 2 10",
+          "land_val": "1 0 0",
+          "building_val": "0 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Roger Connolly",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "2 0 25",
+          "land_val": "1 10 0",
+          "building_val": "0 5 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Roger Connolly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 2 25",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Edward Howley",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "7 0 5",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "Michael Burns",
+          "lessor": "Edward Howley",
+          "desc": "L,H,&O",
+          "area": "10 3 9",
+          "land_val": "2 15 0",
+          "building_val": "0 5 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "Patrick Hunt, jun.",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "10 2 30",
+          "land_val": "5 10 0",
+          "building_val": "0 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "15 a",
+          "occupier": "Thomas Kilcullen",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "9 1 5",
+          "land_val": "5 0 0",
+          "building_val": "0 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "16 a",
+          "occupier": "Owen Hunt",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "9 3 5",
+          "land_val": "6 10 0",
+          "building_val": "0 5 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "17 a",
+          "occupier": "Patrick Hunt",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "14 1 35",
+          "land_val": "8 10 0",
+          "building_val": "0 10 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "18 a",
+          "occupier": "John Gilroy",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "9 2 15",
+          "land_val": "5 5 0",
+          "building_val": "0 5 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "19 a",
+          "occupier": "James Dowd",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "21 2 6",
+          "land_val": "5 10 0",
+          "building_val": "0 5 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "19 a",
+          "occupier": "Thomas Taylor",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "14 1 30",
+          "land_val": "2 15 0",
+          "building_val": "0 5 0",
+          "total_val": "3 0 0"
+        }
+      ]
+    }
+  ]
+}

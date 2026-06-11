@@ -1,0 +1,638 @@
+{
+  "parishes": [
+    {
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "CLONERASSIL",
+          "occupier": "John Laffin,",
+          "lessor": "Earl of Portarlington, .",
+          "desc": "H,O,&L",
+          "area": "53 3 30",
+          "land_val": "14 19 0",
+          "building_val": "2 1 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Michael Laffin,",
+          "lessor": "Earl of Portarlington, .",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "14 19 0",
+          "building_val": "2 3 0",
+          "total_val": "17 2 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "53 3 30",
+          "land_val": "29 18 0",
+          "building_val": "4 4 0",
+          "total_val": "34 2 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A a E",
+          "townland": "CLONISMULLEN",
+          "occupier": "John Tracey,",
+          "lessor": "Thomas F. Cahill, Esq.",
+          "desc": "H,O,&L",
+          "area": "25 0 26",
+          "land_val": "25 0 0",
+          "building_val": "1 4 0",
+          "total_val": "26 4 0"
+        },
+        {
+          "mr": "2 A B C",
+          "occupier": "Catherine Ryan,",
+          "lessor": "Thomas F. Cahill, Esq.",
+          "desc": "L",
+          "area": "14 1 32",
+          "land_val": "14 9 0",
+          "building_val": "",
+          "total_val": "14 9 0"
+        },
+        {
+          "mr": "3 A B C D a",
+          "occupier": "Thomas F. Cahill, Esq.",
+          "lessor": "Earl of Portarlington, .",
+          "desc": "H,O,&L",
+          "area": "101 3 22",
+          "land_val": "94 7 0",
+          "building_val": "6 10 0",
+          "total_val": "100 17 0"
+        },
+        {
+          "mr": "- A a",
+          "occupier": "William Carroll,",
+          "lessor": "Thomas F. Cahill, Esq.",
+          "desc": "H,O,&G",
+          "area": "0 1 18",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- A b",
+          "occupier": "John Breen,",
+          "lessor": "Thomas F. Cahill, Esq.",
+          "desc": "H,O,&G",
+          "area": "0 1 31",
+          "land_val": "0 6 0",
+          "building_val": "0 6 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "- D b",
+          "occupier": "Vacant,",
+          "lessor": "Thomas F. Cahill, Esq.",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- D c",
+          "occupier": "Catherine Tracey,",
+          "lessor": "Thomas F. Cahill, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- D d",
+          "occupier": "John Tracey,",
+          "lessor": "Thomas F. Cahill, Esq.",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Catherine Ryan,",
+          "lessor": "Thomas F. Cahill, Esq.",
+          "desc": "H,O,&L",
+          "area": "0 3 3",
+          "land_val": "0 10 0",
+          "building_val": "0 18 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Mary Connors,",
+          "lessor": "Thomas F. Cahill, Esq.",
+          "desc": "H,O,&L",
+          "area": "1 2 26",
+          "land_val": "1 2 0",
+          "building_val": "0 11 0",
+          "total_val": "1 13 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Mary Connors,",
+          "lessor": "Thomas F. Cahill, Esq.",
+          "desc": "L",
+          "area": "7 0 27",
+          "land_val": "8 0 0",
+          "building_val": "",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Daniel Gleeson,",
+          "lessor": "Thomas F. Cahill, Esq.",
+          "desc": "H,O,&L",
+          "area": "14 1 36",
+          "land_val": "14 0 0",
+          "building_val": "1 2 0",
+          "total_val": "15 2 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "William Dooley,",
+          "lessor": "Thomas F. Cahill, Esq.",
+          "desc": "H,O,&L",
+          "area": "41 3 31",
+          "land_val": "45 3 0",
+          "building_val": "5 2 0",
+          "total_val": "50 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "John Mathews,",
+          "lessor": "William Dooley,",
+          "desc": "H&G",
+          "area": "1 0 4",
+          "land_val": "0 17 0",
+          "building_val": "0 13 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Catherine Carroll,",
+          "lessor": "Thomas F. Cahill, Esq.",
+          "desc": "H&L",
+          "area": "6 3 37",
+          "land_val": "8 1 0",
+          "building_val": "0 11 0",
+          "total_val": "8 12 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "George Pratt,",
+          "lessor": "Thomas F. Cahill, Esq.",
+          "desc": "H&L",
+          "area": "1 3 12",
+          "land_val": "2 1 0",
+          "building_val": "0 18 0",
+          "total_val": "2 19 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Anne Carroll,",
+          "lessor": "George Pratt,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 3 0",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Jeremiah Mathews,",
+          "lessor": "Thomas F. Cahill, Esq.",
+          "desc": "H&L",
+          "area": "7 3 19",
+          "land_val": "7 10 0",
+          "building_val": "1 0 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Jeremiah Ryan,",
+          "lessor": "Jeremiah Mathews,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "11 A B a",
+          "occupier": "Jeremiah Connor,",
+          "lessor": "Thomas F. Cahill, Esq.",
+          "desc": "H,O,&L",
+          "area": "15 3 4",
+          "land_val": "14 6 0",
+          "building_val": "1 9 0",
+          "total_val": "15 15 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "241 3 8",
+          "land_val": "235 17 0",
+          "building_val": "23 5 0",
+          "total_val": "259 2 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DROM",
+          "occupier": "Mary Gleeson,",
+          "lessor": "William Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "16 1 14",
+          "land_val": "17 17 0",
+          "building_val": "2 11 0",
+          "total_val": "20 8 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Philip Ryan,",
+          "lessor": "William Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "6 2 4",
+          "land_val": "7 5 0",
+          "building_val": "1 7 0",
+          "total_val": "8 12 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Ryan, jun.",
+          "lessor": "William Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "5 1 11",
+          "land_val": "5 17 0",
+          "building_val": "1 8 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Anne Ryan,",
+          "lessor": "William Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "25 3 5",
+          "land_val": "29 15 0",
+          "building_val": "2 13 0",
+          "total_val": "32 8 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Thomas Ryan,",
+          "lessor": "William Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "26 3 28",
+          "land_val": "28 9 0",
+          "building_val": "3 16 0",
+          "total_val": "32 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Patrick Long,",
+          "lessor": "William Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "25 1 14",
+          "land_val": "27 13 0",
+          "building_val": "2 0 0",
+          "total_val": "29 13 0"
+        },
+        {
+          "mr": "7 A a B",
+          "occupier": "James Johnson,",
+          "lessor": "William Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "7 3 20",
+          "land_val": "8 4 0",
+          "building_val": "1 9 0",
+          "total_val": "9 13 0"
+        },
+        {
+          "mr": "8 A B a c",
+          "occupier": "James Russell,",
+          "lessor": "William Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "11 3 30",
+          "land_val": "13 8 0",
+          "building_val": "2 3 0",
+          "total_val": "15 11 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Judith Ryan,",
+          "lessor": "William Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "22 3 0",
+          "land_val": "25 8 0",
+          "building_val": "2 0 0",
+          "total_val": "27 8 0"
+        },
+        {
+          "mr": "10 A B a",
+          "occupier": "William Fogarty,",
+          "lessor": "William Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "37 3 20",
+          "land_val": "39 11 0",
+          "building_val": "3 0 0",
+          "total_val": "42 11 0"
+        },
+        {
+          "mr": "- B b",
+          "occupier": "John Bannon,",
+          "lessor": "William Butler, Esq.",
+          "desc": "H&L",
+          "area": "1 0 2",
+          "land_val": "1 3 0",
+          "building_val": "1 8 0",
+          "total_val": "2 11 0"
+        },
+        {
+          "mr": "11 A B a c",
+          "occupier": "John Laffin,",
+          "lessor": "William Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "11 0 14",
+          "land_val": "11 13 0",
+          "building_val": "1 1 0",
+          "total_val": "12 14 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Ellen Ryan,",
+          "lessor": "William Butler, Esq.",
+          "desc": "H&L",
+          "area": "0 2 23",
+          "land_val": "0 14 0",
+          "building_val": "0 8 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Mary Spillane,",
+          "lessor": "William Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "0 2 35",
+          "land_val": "0 16 0",
+          "building_val": "0 12 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Mary Ryan,",
+          "lessor": "William Butler, Esq.",
+          "desc": "H&L",
+          "area": "4 1 5",
+          "land_val": "4 13 0",
+          "building_val": "0 19 0",
+          "total_val": "5 12 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "John Carroll,",
+          "lessor": "William Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "7 0 4",
+          "land_val": "7 14 0",
+          "building_val": "1 13 0",
+          "total_val": "9 7 0"
+        },
+        {
+          "mr": "16 a",
+          "occupier": "Michael Carroll,",
+          "lessor": "William Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "24 1 17",
+          "land_val": "27 11 0",
+          "building_val": "2 6 0",
+          "total_val": "29 17 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Mary Sweeney,",
+          "lessor": "Michael Carroll,",
+          "desc": "H,O,&G",
+          "area": "0 2 6",
+          "land_val": "0 12 0",
+          "building_val": "1 3 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "John Ryan,",
+          "lessor": "Michael Carroll,",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Rev. Thomas Mullany,",
+          "lessor": "William Butler, Esq.",
+          "desc": "L",
+          "area": "22 2 8",
+          "land_val": "23 13 0",
+          "building_val": "",
+          "total_val": "23 13 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Vacant,",
+          "lessor": "Rev. Thomas Mullany,",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "18 A B",
+          "occupier": "Edmund Ryan,",
+          "lessor": "William Butler, Esq.",
+          "desc": "L",
+          "area": "15 3 23",
+          "land_val": "16 14 0",
+          "building_val": "",
+          "total_val": "16 14 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Edmund Ryan,",
+          "lessor": "Mrs. O'Callaghan,",
+          "desc": "H,O,&L",
+          "area": "7 0 5",
+          "land_val": "7 14 0",
+          "building_val": "1 10 0",
+          "total_val": "9 4 0"
+        },
+        {
+          "mr": "20 A B part of 20 C a",
+          "occupier": "Daniel Troy, sen.",
+          "lessor": "William Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "14 2 14",
+          "land_val": "15 14 0",
+          "building_val": "1 10 0",
+          "total_val": "17 4 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Jeremiah Long,",
+          "lessor": "William Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "4 2 8",
+          "land_val": "2 10 0",
+          "building_val": "1 8 0",
+          "total_val": "3 18 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "William Fogarty,",
+          "lessor": "William Butler, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Jeremiah Long,",
+          "lessor": "William Butler, Esq.",
+          "desc": "L",
+          "area": "2 1 29",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Margaret Troy,",
+          "lessor": "Mrs. O'Callaghan,",
+          "desc": "L",
+          "area": "7 0 5",
+          "land_val": "7 18 0",
+          "building_val": "",
+          "total_val": "7 18 0"
+        },
+        {
+          "mr": "25 a",
+          "occupier": "Margaret Troy,",
+          "lessor": "William Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "21 3 37",
+          "land_val": "24 16 0",
+          "building_val": "3 10 0",
+          "total_val": "28 6 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Thomas Lanigan,",
+          "lessor": "William Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "22 0 5",
+          "land_val": "25 13 0",
+          "building_val": "2 2 0",
+          "total_val": "27 15 0"
+        },
+        {
+          "mr": "26 A B part of 28 A a",
+          "occupier": "Margaret Murray,",
+          "lessor": "Thomas Lanigan,",
+          "desc": "H,O,&G",
+          "area": "0 0 22",
+          "land_val": "0 3 0",
+          "building_val": "1 8 0",
+          "total_val": "1 11 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "William Russell,",
+          "lessor": "William Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "13 3 1",
+          "land_val": "17 17 0",
+          "building_val": "2 11 0",
+          "total_val": "20 8 0"
+        },
+        {
+          "mr": "28 A B C a",
+          "occupier": "Grave-yard,",
+          "lessor": "William Butler, Esq.",
+          "desc": "Grave-yard,",
+          "area": "1 0 33",
+          "land_val": "1 1 0",
+          "building_val": "",
+          "total_val": "1 1 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "- A b",
+          "occupier": "Anastasia Russell,",
+          "lessor": "William Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "17 2 0",
+          "land_val": "20 3 0",
+          "building_val": "1 16 0",
+          "total_val": "21 19 0"
+        },
+        {
+          "mr": "- C a",
+          "occupier": "Mary Kean,",
+          "lessor": "Anastasia Russell,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 2 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "29 A a B C",
+          "occupier": "Anne Ryan,",
+          "lessor": "William Butler, Esq.",
+          "desc": "H&G",
+          "area": "0 1 24",
+          "land_val": "0 10 0",
+          "building_val": "1 2 0",
+          "total_val": "1 12 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Denis Ryan,",
+          "lessor": "William Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "25 0 39",
+          "land_val": "28 0 0",
+          "building_val": "5 5 0",
+          "total_val": "33 5 0"
+        },
+        {
+          "mr": "31 A B",
+          "occupier": "Denis Ryan,",
+          "lessor": "Mrs. O'Callaghan,",
+          "desc": "L",
+          "area": "3 0 26",
+          "land_val": "4 5 0",
+          "building_val": "",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Daniel Purcell,",
+          "lessor": "Mrs. O'Callaghan,",
+          "desc": "L",
+          "area": "9 3 0",
+          "land_val": "10 18 0",
+          "building_val": "",
+          "total_val": "10 18 0"
+        }
+      ]
+    }
+  ]
+}

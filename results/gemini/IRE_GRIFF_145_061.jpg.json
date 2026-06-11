@@ -1,0 +1,548 @@
+{
+  "parishes": [
+    {
+      "parish": "DANESFORT",
+      "entries": [
+        {
+          "mr": "16",
+          "townland": "DANESFORT",
+          "os": "",
+          "occupier": "James Corcoran",
+          "lessor": "Court of Chancery",
+          "desc": "H&L",
+          "area": "4 2 22",
+          "land_val": "2 16 0",
+          "building_val": "0 14 0",
+          "total_val": "3 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "17",
+          "occupier": "James Nowlan",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "area": "1 2 11",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Richard Roche",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "area": "1 3 1",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "John Martin",
+          "lessor": "Court of Chancery",
+          "desc": "H&L",
+          "area": "1 0 31",
+          "land_val": "0 17 0",
+          "building_val": "0 13 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Patrick Hickey",
+          "lessor": "Court of Chancery",
+          "desc": "H,O,&L",
+          "area": "8 3 30",
+          "land_val": "5 6 0",
+          "building_val": "0 19 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Patrick Delany",
+          "lessor": "Court of Chancery",
+          "desc": "H&L",
+          "area": "4 0 13",
+          "land_val": "2 8 0",
+          "building_val": "0 7 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Richard Murphy",
+          "lessor": "Court of Chancery",
+          "desc": "H&L",
+          "area": "3 1 21",
+          "land_val": "1 19 0",
+          "building_val": "0 6 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "William Mackey",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "area": "3 2 14",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "24 a",
+          "occupier": "John Lanigan",
+          "lessor": "Court of Chancery",
+          "desc": "H,O,&L",
+          "area": "137 0 26",
+          "land_val": "88 0 0",
+          "building_val": "5 10 0",
+          "total_val": "93 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick M'Evoy",
+          "lessor": "John Lanigan",
+          "desc": "H&G",
+          "area": "0 1 23",
+          "land_val": "0 8 0",
+          "building_val": "0 17 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "John Dollard",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "area": "18 3 32",
+          "land_val": "13 0 0",
+          "building_val": "",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Nicholas Lanigan",
+          "lessor": "Court of Chancery",
+          "desc": "H&L",
+          "area": "4 3 39",
+          "land_val": "3 13 0",
+          "building_val": "0 12 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Thomas Howell",
+          "lessor": "Court of Chancery",
+          "desc": "H,O,&L",
+          "area": "7 2 13",
+          "land_val": "5 2 0",
+          "building_val": "1 8 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Michael Hoben",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "area": "6 2 31",
+          "land_val": "4 15 0",
+          "building_val": "",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Denis Lanigan",
+          "lessor": "Michael Hoben",
+          "desc": "H,O,&gar.",
+          "area": "0 1 0",
+          "land_val": "0 3 0",
+          "building_val": "1 10 0",
+          "total_val": "1 13 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Bolger",
+          "lessor": "Michael Hoben",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "29 a",
+          "occupier": "Rev. Edmd. Kavanagh",
+          "lessor": "Court of Chancery",
+          "desc": "H,O,&L",
+          "area": "31 0 15",
+          "land_val": "20 10 0",
+          "building_val": "6 5 0",
+          "total_val": "26 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "R. C. Chapel",
+          "lessor": "Court of Chancery",
+          "desc": "R. C. Chapel and yard",
+          "area": "0 1 0",
+          "land_val": "0 3 0",
+          "building_val": "10 7 0",
+          "total_val": "10 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "c",
+          "occupier": "National School",
+          "lessor": "Court of Chancery",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "30",
+          "occupier": "John Murphy",
+          "lessor": "Court of Chancery",
+          "desc": "H,O,&L",
+          "area": "28 2 6",
+          "land_val": "16 0 0",
+          "building_val": "4 0 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Bridget Walsh",
+          "lessor": "Rev. Edmd. Kavanagh",
+          "desc": "H&L",
+          "area": "1 0 3",
+          "land_val": "0 15 0",
+          "building_val": "0 10 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "Michael Martin",
+          "lessor": "Rev. Edmd. Kavanagh",
+          "desc": "L",
+          "area": "51 1 2",
+          "land_val": "30 0 0",
+          "building_val": "",
+          "total_val": "30 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "546 1 39",
+          "land_val": "338 9 0",
+          "building_val": "54 9 0",
+          "total_val": "392 18 0",
+          "is_total": 1
+        },
+        {
+          "mr": "",
+          "occupier": "R. C. Chapel and yard",
+          "lessor": "",
+          "desc": "Exemptions",
+          "area": "0 1 0",
+          "land_val": "0 3 0",
+          "building_val": "10 7 0",
+          "total_val": "10 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "National School-house",
+          "lessor": "",
+          "desc": "Exemptions",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total of exemptions",
+          "area": "0 1 0",
+          "land_val": "0 3 0",
+          "building_val": "12 17 0",
+          "total_val": "13 0 0",
+          "is_total": 1,
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total, exclusive of exemptions",
+          "area": "546 0 39",
+          "land_val": "338 6 0",
+          "building_val": "41 12 0",
+          "total_val": "379 18 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "MAIDENHALL",
+          "os": "24",
+          "occupier": "Michael Murphy",
+          "lessor": "Rev. Ambrose Smyth",
+          "desc": "H,O,&L",
+          "area": "46 0 17",
+          "land_val": "25 15 0",
+          "building_val": "4 10 0",
+          "total_val": "30 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Daniel Murphy",
+          "lessor": "Rev. Ambrose Smyth",
+          "desc": "H,O,&L",
+          "area": "65 0 1",
+          "land_val": "42 0 0",
+          "building_val": "6 5 0",
+          "total_val": "48 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Edward Hunt, Esq.",
+          "lessor": "Rev. Ambrose Smyth",
+          "desc": "H,O,&L",
+          "area": "49 3 14",
+          "land_val": "40 0 0",
+          "building_val": "25 5 0",
+          "total_val": "65 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "160 3 32",
+          "land_val": "107 15 0",
+          "building_val": "36 0 0",
+          "total_val": "143 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a & j",
+          "townland": "PIGEONPARK",
+          "os": "23",
+          "occupier": "Thomas Sexton",
+          "lessor": "Court of Chancery",
+          "desc": "H,O,&L",
+          "area": "257 1 32",
+          "land_val": "173 10 0",
+          "building_val": "20 0 0",
+          "total_val": "193 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "William Murphy",
+          "lessor": "Thomas Sexton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "James Fleming",
+          "lessor": "Thomas Sexton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "John Doyle",
+          "lessor": "Thomas Sexton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Patrick Tracy",
+          "lessor": "Thomas Sexton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Edward Rice",
+          "lessor": "Thomas Sexton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "John Dollard",
+          "lessor": "Thomas Sexton",
+          "desc": "H&G",
+          "area": "0 0 14",
+          "land_val": "0 2 0",
+          "building_val": "1 8 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "h",
+          "occupier": "Mary Hogan",
+          "lessor": "Thomas Sexton",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 2 0",
+          "building_val": "0 18 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "i",
+          "occupier": "Vacant",
+          "lessor": "Thomas Sexton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Patrick Whelan",
+          "lessor": "Thomas Sexton",
+          "desc": "H,O,&L",
+          "area": "3 0 17",
+          "land_val": "2 10 0",
+          "building_val": "7 0 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "William Whelan",
+          "lessor": "Thomas Sexton",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "William Maher",
+          "lessor": "Thomas Sexton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "260 2 38",
+          "land_val": "176 4 0",
+          "building_val": "36 2 0",
+          "total_val": "212 6 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "RATHCLOGH",
+          "os": "23",
+          "occupier": "Tobias Harte",
+          "lessor": "Henry Wemys, Esq.",
+          "desc": "H,O,&L",
+          "area": "75 1 20",
+          "land_val": "58 10 0",
+          "building_val": "2 10 0",
+          "total_val": "61 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Vacant",
+          "lessor": "Tobias Harte",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "2 A B a",
+          "occupier": "Thomas Murphy",
+          "lessor": "Henry Wemys, Esq.",
+          "desc": "H,O,&L",
+          "area": "171 1 22",
+          "land_val": "115 0 0",
+          "building_val": "3 10 0",
+          "total_val": "118 10 0"
+        },
+        {
+          "mr": "A a",
+          "occupier": "John Corcoran",
+          "lessor": "Thomas Murphy",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "0 18 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Richard Roche",
+          "lessor": "Henry Wemys, Esq.",
+          "desc": "H&L",
+          "area": "67 1 4",
+          "land_val": "43 0 0",
+          "building_val": "1 5 0",
+          "total_val": "44 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "William Eustace",
+          "lessor": "Henry Wemys, Esq.",
+          "desc": "H&L",
+          "area": "5 2 9",
+          "land_val": "3 10 0",
+          "building_val": "0 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Thomas Finnigan",
+          "lessor": "Henry Wemys, Esq.",
+          "desc": "H&L",
+          "area": "5 2 39",
+          "land_val": "3 15 0",
+          "building_val": "1 5 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Henry Wemys, Esq.",
+          "lessor": "In fee",
+          "desc": "L (plantation)",
+          "area": "18 3 19",
+          "land_val": "8 15 0",
+          "building_val": "",
+          "total_val": "8 15 0"
+        }
+      ]
+    }
+  ]
+}

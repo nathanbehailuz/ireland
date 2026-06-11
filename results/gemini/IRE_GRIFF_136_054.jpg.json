@@ -1,0 +1,529 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF KILPATRICK",
+      "entries": [
+        {
+          "mr": "11",
+          "townland": "KILLINAGH, UPPER",
+          "os": "",
+          "occupier": "Martha Logan,",
+          "lessor": "Daniel Logan,",
+          "desc": "H&L",
+          "area": "3 0 20",
+          "land_val": "0 15 0",
+          "building_val": "0 10 0",
+          "total_val": "1 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "12",
+          "occupier": "Peter Keegan,",
+          "lessor": "Thomas Holt,",
+          "desc": "H&L",
+          "area": "1 0 25",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "John Danger,",
+          "lessor": "Same,",
+          "desc": "H&L",
+          "area": "1 1 5",
+          "land_val": "0 7 0",
+          "building_val": "0 11 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "14 A",
+          "occupier": "Daniel Logan,",
+          "lessor": "Provost and Fellows of T.C.D.,",
+          "desc": "H,O,&L",
+          "area": "18 2 7",
+          "land_val": "9 10 0",
+          "building_val": "1 10 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Daniel Logan,",
+          "lessor": "Provost and Fellows of T.C.D.,",
+          "desc": "Turbary,",
+          "area": "4 1 0",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "15 A",
+          "occupier": "Thomas Holt,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "16 3 10",
+          "land_val": "9 10 0",
+          "building_val": "1 10 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Thomas Holt,",
+          "lessor": "Same,",
+          "desc": "Turbary,",
+          "area": "1 2 4",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Grand Canal Company,",
+          "lessor": "In fee,",
+          "desc": "Canal and banks (150 lineal perches),",
+          "area": "7 3 0",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "15 0 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "507 2 1",
+          "land_val": "138 2 0",
+          "building_val": "10 15 0",
+          "total_val": "176 7 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "KILKEASKIN",
+          "os": "8",
+          "occupier": "John Dowdall,",
+          "lessor": "Francis L. Dames,",
+          "desc": "H,O,&L",
+          "area": "33 3 18",
+          "land_val": "20 10 0",
+          "building_val": "1 10 0",
+          "total_val": "22 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "James Murphy,",
+          "lessor": "Same,",
+          "desc": "Herd's-H,O,&L",
+          "area": "413 3 29",
+          "land_val": "245 0 0",
+          "building_val": "3 10 0",
+          "total_val": "248 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Vacant,",
+          "lessor": "James Murphy,",
+          "desc": "O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Mary Gilshenan.",
+          "lessor": "Same,",
+          "desc": "H&L",
+          "area": "1 0 24",
+          "land_val": "0 3 0",
+          "building_val": "0 9 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "John Byrne,",
+          "lessor": "Same,",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 10 0",
+          "total_val": "0 11 0"
+        },
+        {
+          "mr": "- e",
+          "occupier": "Peter Craven,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "- f",
+          "occupier": "Elizabeth Dunne,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- g",
+          "occupier": "John Smullen,",
+          "lessor": "Same,",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "0 9 0",
+          "total_val": "0 11 0"
+        },
+        {
+          "mr": "- h",
+          "occupier": "Thomas Percival,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "- i",
+          "occupier": "Vacant,",
+          "lessor": "Same,",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- j",
+          "occupier": "Eliza Flanagan,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "0 0 15",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Thomas Hackett,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "30 2 30",
+          "land_val": "3 15 0",
+          "building_val": "0 15 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "William Hackett,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "30 2 30",
+          "land_val": "3 15 0",
+          "building_val": "0 15 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Daniel Dunne,",
+          "lessor": "William Hackett,",
+          "desc": "H&G",
+          "area": "0 1 25",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Whelahan,",
+          "lessor": "James Murphy,",
+          "desc": "H&L",
+          "area": "2 3 15",
+          "land_val": "0 9 0",
+          "building_val": "0 8 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Murphy,",
+          "lessor": "Francis L. Dames,",
+          "desc": "L (bog pasture),",
+          "area": "507 0 20",
+          "land_val": "4 5 0",
+          "building_val": "",
+          "total_val": "4 5 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "990 1 6",
+          "land_val": "278 4 0",
+          "building_val": "11 8 0",
+          "total_val": "289 12 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "KILPATRICK",
+          "os": "12",
+          "occupier": "William Seale,",
+          "lessor": "Robert Dalyell,",
+          "desc": "H,O,&L",
+          "area": "153 1 12",
+          "land_val": "92 10 0",
+          "building_val": "7 10 0",
+          "total_val": "100 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Daniel Foran,",
+          "lessor": "William Seale,",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Grand Canal Company,",
+          "lessor": "In fee,",
+          "desc": "Canal and banks (356 lineal perches),",
+          "area": "11 2 1",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "25 12 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Stapleton,",
+          "lessor": "Robert Dalyell,",
+          "desc": "L",
+          "area": "14 3 0",
+          "land_val": "7 0 0",
+          "building_val": "",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "4 A",
+          "occupier": "James Murphy,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "46 1 30",
+          "land_val": "46 0 0",
+          "building_val": "",
+          "total_val": "117 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "James Murphy,",
+          "lessor": "In fee,",
+          "desc": "Herd's-H&L",
+          "area": "131 1 32",
+          "land_val": "70 0 0",
+          "building_val": "1 10 0",
+          "total_val": "117 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "-",
+          "occupier": "James Murphy,",
+          "lessor": "In fee,",
+          "desc": "L (bog pasture),",
+          "area": "36 0 28",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "A a",
+          "occupier": "Grave-yard,",
+          "lessor": "",
+          "desc": "Grave-yard,",
+          "area": "0 1 20",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total,",
+          "area": "394 0 18",
+          "land_val": "216 2 0",
+          "building_val": "9 10 0",
+          "total_val": "251 4 0",
+          "is_total": 1
+        },
+        {
+          "desc": "EXEMPTIONS: Grave-yard,",
+          "area": "0 1 20",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of Exemptions,",
+          "area": "393 2 38",
+          "land_val": "215 17 0",
+          "building_val": "9 10 0",
+          "total_val": "250 19 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "TICKNEVIN",
+          "os": "12",
+          "occupier": "Grand Canal Company,",
+          "lessor": "In fee,",
+          "desc": "L (bog pasture),",
+          "area": "24 3 18",
+          "land_val": "0 12 0",
+          "building_val": "",
+          "total_val": "1 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "Grand Canal Company,",
+          "lessor": "In fee,",
+          "desc": "L (bog pasture),",
+          "area": "44 1 10",
+          "land_val": "0 8 0",
+          "building_val": "",
+          "total_val": "1 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- C",
+          "occupier": "Grand Canal Company,",
+          "lessor": "In fee,",
+          "desc": "Canal and banks (365 lineal perches),",
+          "area": "26 2 15",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "36 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Patrick Kenny,",
+          "lessor": "Grand Canal Company,",
+          "desc": "H&L",
+          "area": "3 3 32",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Henry Healy,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "6 0 10",
+          "land_val": "1 2 0",
+          "building_val": "1 8 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Corns. D. M'Guinness,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "8 2 16",
+          "land_val": "3 10 0",
+          "building_val": "6 0 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Constabulary Force,",
+          "lessor": "Corns. D. M'Guinness,",
+          "desc": "Police barrack and yard,",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "5 A",
+          "occupier": "Robert Dalyell,",
+          "lessor": "In fee,",
+          "desc": "L (bog pasture),",
+          "area": "10 1 13",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "10 15 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "- B",
+          "occupier": "Robert Dalyell,",
+          "lessor": "In fee,",
+          "desc": "L (bog pasture),",
+          "area": "400 0 0",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "10 15 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "- C",
+          "occupier": "Robert Dalyell,",
+          "lessor": "In fee,",
+          "desc": "L (bog pasture),",
+          "area": "973 2 20",
+          "land_val": "7 12 0",
+          "building_val": "",
+          "total_val": "10 15 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "- D",
+          "occupier": "Robert Dalyell,",
+          "lessor": "In fee,",
+          "desc": "L (bog pasture),",
+          "area": "2 2 30",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "10 15 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "- a",
+          "occupier": "Maurice Mullally,",
+          "lessor": "Free,",
+          "desc": "L",
+          "area": "0 3 20",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "6 A",
+          "occupier": "Bridget Coyne,",
+          "lessor": "Robert Dalyell,",
+          "desc": "L",
+          "area": "14 2 35",
+          "land_val": "7 10 0",
+          "building_val": "",
+          "total_val": "76 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "Bridget Coyne,",
+          "lessor": "Robert Dalyell,",
+          "desc": "H,O,&L",
+          "area": "200 1 10",
+          "land_val": "61 0 0",
+          "building_val": "8 0 0",
+          "total_val": "76 10 0",
+          "n_shared": 2
+        }
+      ]
+    }
+  ]
+}

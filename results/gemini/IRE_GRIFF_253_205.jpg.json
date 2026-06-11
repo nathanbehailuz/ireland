@@ -1,0 +1,488 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF BALLYSADARE",
+      "entries": [
+        {
+          "mr": "12",
+          "townland": "COLLOONEY",
+          "occupier": "James M'Kim, .",
+          "lessor": "Edward J. Cooper,",
+          "desc": "L",
+          "area": "6 2 30",
+          "land_val": "6 10 0",
+          "total_val": "6 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "13",
+          "occupier": "William M'Kim, jun.,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "4 2 30",
+          "land_val": "4 15 0",
+          "total_val": "14 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "14",
+          "occupier": "William M'Kim, jun.,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "9 2 0",
+          "land_val": "10 0 0",
+          "total_val": "14 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "15",
+          "occupier": "William Armstrong,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "9 2 11",
+          "land_val": "11 10 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "William M'Namara, .",
+          "lessor": "William Armstrong, .",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Owen Leyden, .",
+          "lessor": "Free,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "16 a",
+          "occupier": "John Rorke, .",
+          "lessor": "Edward J. Cooper,",
+          "desc": "L & O",
+          "area": "9 1 10",
+          "land_val": "9 10 0",
+          "building_val": "0 5 0",
+          "total_val": "9 15 0"
+        },
+        {
+          "mr": "17 a",
+          "occupier": "William Noble, .",
+          "lessor": "Same,",
+          "desc": "L, H, & O",
+          "area": "9 0 20",
+          "land_val": "8 10 0",
+          "building_val": "2 10 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Bartholomew Morrow,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "14 2 3",
+          "land_val": "14 10 0",
+          "total_val": "14 10 0"
+        },
+        {
+          "mr": "19 a",
+          "occupier": "Bridget M'Andrew, .",
+          "lessor": "Same,",
+          "desc": "L, H, & O",
+          "area": "3 2 0",
+          "land_val": "2 15 0",
+          "building_val": "0 10 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "20 a",
+          "occupier": "Connor Healy, .",
+          "lessor": "Same,",
+          "desc": "L & H",
+          "area": "10 0 23",
+          "land_val": "8 5 0",
+          "building_val": "0 5 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Henry Hunt, .",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "7 3 3",
+          "land_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "22 { a",
+          "occupier": "Stephen M'Fadden, .",
+          "lessor": "Same,",
+          "desc": "L, H, & O",
+          "area": "11 2 35",
+          "land_val": "4 0 0",
+          "building_val": "0 10 0",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "{ b",
+          "occupier": "Andrew Lawson,",
+          "lessor": "Same,",
+          "desc": "L, H, & O",
+          "area": "11 2 35",
+          "land_val": "4 0 0",
+          "building_val": "0 10 0",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "23",
+          "occupier": "Patrick Harrison,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "11 3 0",
+          "land_val": "7 10 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Edward J. Cooper, .",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "31 0 24",
+          "land_val": "36 0 0",
+          "total_val": "38 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "25",
+          "occupier": "Edward J. Cooper, .",
+          "lessor": "In fee,",
+          "desc": "Tolls & customs of fairs.",
+          "area": "5 2 30",
+          "land_val": "2 5 0",
+          "total_val": "38 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "-",
+          "desc": "Female school-house & gar. (see Exemptions).",
+          "total_val": "15 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "24 a",
+          "occupier": "Thomas Coleman, sen.",
+          "lessor": "Edward J. Cooper,",
+          "desc": "L",
+          "area": "0 3 33",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "James Healy, .",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "0 2 35",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "25 1,2,3,4",
+          "sublocation_1": "TOWN OF COLLOONEY",
+          "occupier": "Alexander Sims,",
+          "lessor": "Edward J. Cooper,",
+          "desc": "Ld.,ho., offs., flour-mill, kiln,corn-mill,& stores",
+          "area": "1 3 0",
+          "land_val": "2 0 0",
+          "building_val": "900 0 0",
+          "total_val": "902 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Alexander Sims,",
+          "lessor": "Same,",
+          "desc": "G",
+          "area": "0 1 20",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Alexander Sims,",
+          "lessor": "Same,",
+          "desc": "G",
+          "area": "0 1 10",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Richard Tighe, .",
+          "lessor": "Edward Monsell,",
+          "desc": "H",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Thomas Coleman,",
+          "lessor": "Edward J. Cooper,",
+          "desc": "H & yard,",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Patrick Blake, .",
+          "lessor": "Thomas Coleman,",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "John Bree, .",
+          "lessor": "Edward J. Cooper,",
+          "desc": "H & small G",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Unoccupied, .",
+          "lessor": "Same,",
+          "desc": "H & small G",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Bryan Gilhooly, .",
+          "lessor": "John Gilhooly, .",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "John Rorke, .",
+          "lessor": "Edward J. Cooper,",
+          "desc": "H",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Patrick Harte, .",
+          "lessor": "Same,",
+          "desc": "Ho., offs., & sm. G",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "William Whiteside,",
+          "lessor": "Same,",
+          "desc": "Ho., off., & sm. G",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Alexander Sims,",
+          "lessor": "Same,",
+          "desc": "H & G",
+          "area": "0 0 31",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Terence Latimer,",
+          "lessor": "Same,",
+          "desc": "H & G",
+          "area": "0 0 16",
+          "land_val": "0 3 0",
+          "building_val": "0 12 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "18 {",
+          "occupier": "Anne Martin, .",
+          "lessor": "Same,",
+          "desc": "H & G",
+          "area": "0 0 12",
+          "land_val": "0 2 0",
+          "building_val": "0 18 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "{",
+          "occupier": "Unoccupied, .",
+          "lessor": "Anne Martin, .",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Letitia Allen, .",
+          "lessor": "Daniel Bree, .",
+          "desc": "H",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Daniel Bree, .",
+          "lessor": "Edward J. Cooper,",
+          "desc": "H & G",
+          "area": "0 0 19",
+          "land_val": "0 3 0",
+          "building_val": "3 7 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "John Johnston, .",
+          "lessor": "Same,",
+          "desc": "Ho., off., & sm. G",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Thomas Dennison,",
+          "lessor": "Same,",
+          "desc": "H & small G",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Charles Higgins,",
+          "lessor": "Same,",
+          "desc": "H, O, & yard,",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "John Lang, .",
+          "lessor": "Same,",
+          "desc": "Ho., off., & sm. G",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "John Magee, .",
+          "lessor": "Mary Anne Benson,",
+          "desc": "H",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Mary Anne Benson,",
+          "lessor": "Edward J. Cooper,",
+          "desc": "H, O, & G",
+          "area": "0 0 24",
+          "land_val": "0 5 0",
+          "building_val": "6 15 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Thomas M'Kim, .",
+          "lessor": "Same,",
+          "desc": "Ho., off., & sm. G",
+          "area": "0 0 15",
+          "land_val": "0 3 0",
+          "building_val": "12 17 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "28",
+          "lessor": "Same,",
+          "desc": "Old market ho., public meeting and school ho. (see Exemptions).",
+          "is_exemption": 1
+        },
+        {
+          "mr": "29",
+          "occupier": "Charles Gregg, .",
+          "lessor": "Same,",
+          "desc": "H, O, & G",
+          "area": "0 1 6",
+          "land_val": "0 8 0",
+          "building_val": "2 12 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Charles Gregg, .",
+          "lessor": "Same,",
+          "desc": "G",
+          "area": "0 2 0",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "William M'Kim, sen.,",
+          "lessor": "Same,",
+          "desc": "G",
+          "area": "0 1 0",
+          "land_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "Ormsby Hamilton,",
+          "lessor": "Same,",
+          "desc": "G",
+          "area": "0 1 14",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "33",
+          "lessor": "Edward J. Cooper,",
+          "desc": "Court-house and yard (see Exemptions).",
+          "is_exemption": 1
+        },
+        {
+          "mr": "-",
+          "desc": "Half the annual rent derived from Court-house and yard,",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Edward J. Cooper, .",
+          "lessor": "In fee,",
+          "desc": "O",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "34",
+          "lessor": "Edward J. Cooper,",
+          "desc": "Constabulary barrack, O, and yard (see Exemptions).",
+          "is_exemption": 1
+        },
+        {
+          "mr": "-",
+          "desc": "Half the annual rent derived from Constabulary barrack, offices, & yard,",
+          "total_val": "6 0 0"
+        }
+      ]
+    }
+  ]
+}

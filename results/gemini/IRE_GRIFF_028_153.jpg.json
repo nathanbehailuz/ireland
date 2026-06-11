@@ -1,0 +1,642 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF ANNAGH",
+      "entries": [
+        {
+          "mr": "45",
+          "townland": "CORPORATION LANDS",
+          "occupier": "Robert Hinkston,",
+          "lessor": "Town Commissioners (Belturbet),",
+          "desc": "L",
+          "area": "4 1 27",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 3,
+          "is_continued": 1
+        },
+        {
+          "mr": "46",
+          "occupier": "Hugh Hinkston,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "18 0 1",
+          "land_val": "15 15 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 3
+        },
+        {
+          "mr": "47",
+          "occupier": "Luke Reilly,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "17 2 2",
+          "land_val": "14 15 0",
+          "building_val": "",
+          "total_val": "18 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "48",
+          "occupier": "John Morton,",
+          "lessor": "Town Commissioners (Belturbet),",
+          "desc": "L",
+          "area": "17 0 16",
+          "land_val": "15 0 0",
+          "building_val": "",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "49",
+          "occupier": "George Reilly,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "15 1 0",
+          "land_val": "13 10 0",
+          "building_val": "",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "50",
+          "occupier": "John Erne,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "6 2 15",
+          "land_val": "6 5 0",
+          "building_val": "",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "51",
+          "occupier": "Land occupied by Town Commrs. (Belturbet),",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "13 1 5",
+          "land_val": "6 15 0",
+          "building_val": "",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "52",
+          "occupier": "(No rent, see Exemptions).",
+          "lessor": "",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "",
+          "is_exemption": 1
+        },
+        {
+          "mr": "53 1",
+          "sublocation_1": "RED BOG",
+          "occupier": "Thomas Cox,",
+          "lessor": "George M. Knipe,",
+          "desc": "H,O,&L",
+          "area": "2 3 26",
+          "land_val": "1 10 0",
+          "building_val": "0 5 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Alexander Lang,",
+          "lessor": "Captain H. Butler,",
+          "desc": "L (bog pasture)",
+          "area": "1 2 3",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Reilly,",
+          "lessor": "Bernard Fitzpatrick,",
+          "desc": "H&L",
+          "area": "1 0 16",
+          "land_val": "0 7 0",
+          "building_val": "0 5 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Bernard Fitzpatrick,",
+          "lessor": "Free,",
+          "desc": "B",
+          "area": "0 2 14",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "James Browne,",
+          "lessor": "Eleanor Atkinson,",
+          "desc": "H&G",
+          "area": "0 2 34",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Eleanor Atkinson,",
+          "lessor": "Free,",
+          "desc": "B",
+          "area": "0 1 30",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Henry Mervyn,",
+          "lessor": "Hugh M'Kenny,",
+          "desc": "B",
+          "area": "0 3 8",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Thomas Clarke,",
+          "lessor": "Free,",
+          "desc": "B",
+          "area": "0 3 9",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Robert Harman,",
+          "lessor": "Free,",
+          "desc": "B",
+          "area": "0 3 18",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Thomas Knipe,",
+          "lessor": "Free,",
+          "desc": "B",
+          "area": "2 2 35",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "William Johnston,",
+          "lessor": "John Gumley,",
+          "desc": "H&L",
+          "area": "1 1 18",
+          "land_val": "0 10 0",
+          "building_val": "0 10 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "John Gumley,",
+          "lessor": "In fee,",
+          "desc": "B",
+          "area": "0 3 19",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "- a",
+          "occupier": "John Gumley,",
+          "lessor": "In fee,",
+          "desc": "B",
+          "area": "0 2 24",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "12",
+          "occupier": "Thomas Knipe,",
+          "lessor": "In fee,",
+          "desc": "B",
+          "area": "1 3 37",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "James Teevan,",
+          "lessor": "Thomas Knipe,",
+          "desc": "L",
+          "area": "0 2 23",
+          "land_val": "0 6 0",
+          "building_val": "",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Hugh Moane,",
+          "lessor": "Free,",
+          "desc": "B",
+          "area": "0 1 24",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "James Teevan,",
+          "lessor": "Hugh Moane,",
+          "desc": "H&L",
+          "area": "0 1 13",
+          "land_val": "0 2 0",
+          "building_val": "0 5 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "William Johnston,",
+          "lessor": "Catherine Mills,",
+          "desc": "L",
+          "area": "0 3 8",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "George Reilly,",
+          "lessor": "Free,",
+          "desc": "B",
+          "area": "0 2 39",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Patrick Slavin,",
+          "lessor": "Free,",
+          "desc": "B",
+          "area": "6 3 8",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "William Read,",
+          "lessor": "Free,",
+          "desc": "L (bog pasture)",
+          "area": "1 0 38",
+          "land_val": "0 8 0",
+          "building_val": "",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "18 a",
+          "occupier": "Thomas Flannagan,",
+          "lessor": "John Fawls,",
+          "desc": "H&L",
+          "area": "0 2 4",
+          "land_val": "0 2 0",
+          "building_val": "0 5 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "John Fawls,",
+          "lessor": "Free,",
+          "desc": "B (of no value)",
+          "area": "0 0 39",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "19",
+          "occupier": "James Elliot,",
+          "lessor": "John Rogers,",
+          "desc": "L",
+          "area": "0 1 33",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "John Rogers,",
+          "lessor": "Free,",
+          "desc": "B (of no value)",
+          "area": "0 0 35",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "20 a",
+          "occupier": "James Elliot,",
+          "lessor": "Eleanor Atkinson,",
+          "desc": "H&G",
+          "area": "0 2 39",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Eleanor Atkinson,",
+          "lessor": "Free,",
+          "desc": "B (of no value)",
+          "area": "0 1 4",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "21",
+          "occupier": "James Campbell,",
+          "lessor": "Free,",
+          "desc": "L (bog pasture)",
+          "area": "0 2 19",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "James Williams,",
+          "lessor": "Free,",
+          "desc": "L (bog pasture)",
+          "area": "0 2 24",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "William Reade,",
+          "lessor": "Free,",
+          "desc": "L (bog pasture)",
+          "area": "0 3 18",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "John Gumley,",
+          "lessor": "Free,",
+          "desc": "L (bog pasture)",
+          "area": "2 2 18",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "William Browne,",
+          "lessor": "John Gumley,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Thomas Phillips,",
+          "lessor": "Free,",
+          "desc": "L (bog pasture)",
+          "area": "0 3 8",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "James Reilly,",
+          "lessor": "Free,",
+          "desc": "L (bog pasture)",
+          "area": "0 3 3",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "John Rogers,",
+          "lessor": "Free,",
+          "desc": "B",
+          "area": "0 3 38",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "James Follis,",
+          "lessor": "Free,",
+          "desc": "L (bog pasture)",
+          "area": "1 0 18",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Patrick Slavin,",
+          "lessor": "Free,",
+          "desc": "B",
+          "area": "0 3 9",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Thomas M'Caul,",
+          "lessor": "Free,",
+          "desc": "B (of no value)",
+          "area": "0 1 30",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "occupier": "Edward Reilly,",
+          "lessor": "Free,",
+          "desc": "B (of no value)",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "31",
+          "occupier": "Mary Fitzpatrick,",
+          "lessor": "Captain H. Butler,",
+          "desc": "L (bog pasture)",
+          "area": "1 0 18",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "Thomas Duignan,",
+          "lessor": "George M. Knipe,",
+          "desc": "B",
+          "area": "0 2 4",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "Mary Fitzpatrick,",
+          "lessor": "Captain H. Butler,",
+          "desc": "B",
+          "area": "0 1 34",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "John Morton,",
+          "lessor": "Captain H. Butler,",
+          "desc": "B",
+          "area": "0 3 8",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "George M. Knipe,",
+          "lessor": "In fee,",
+          "desc": "B",
+          "area": "0 3 28",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Captain Bedel Stanford,",
+          "lessor": "Immediate Lessor,",
+          "desc": "B",
+          "area": "0 1 25",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Thomas M'Grath,",
+          "lessor": "Captain Bedel Stanford,",
+          "desc": "H&G",
+          "area": "0 1 24",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "Capt. Humphry Butler,",
+          "lessor": "In fee",
+          "desc": "B",
+          "area": "0 2 23",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Edward Taylor,",
+          "lessor": "Captain H. Butler,",
+          "desc": "B",
+          "area": "0 2 28",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "George Marshall Knipe,",
+          "lessor": "Free,",
+          "desc": "B",
+          "area": "1 1 18",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Geo. M. Knipe,",
+          "lessor": "Free,",
+          "desc": "L (bog pasture)",
+          "area": "0 1 10",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "Alexander Lang,",
+          "lessor": "George M. Knipe,",
+          "desc": "B",
+          "area": "1 0 18",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "Thomas Clarke,",
+          "lessor": "Free,",
+          "desc": "B",
+          "area": "0 1 39",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "0 1 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "occupier": "Joseph Tilson,",
+          "lessor": "Free,",
+          "desc": "B",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "42",
+          "occupier": "John Meenan,",
+          "lessor": "Joseph Tilson, Thomas Clarke, Alexander Lang,",
+          "desc": "H&L",
+          "area": "0 3 8",
+          "land_val": "0 10 0",
+          "building_val": "0 10 0",
+          "total_val": "1 0 0"
+        }
+      ]
+    }
+  ]
+}

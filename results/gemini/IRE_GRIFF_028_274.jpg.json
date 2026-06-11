@@ -1,0 +1,490 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF DENN",
+      "entries": [
+        {
+          "mr": "3",
+          "townland": "AGHAVADDY",
+          "occupier": "Thomas Heaslip,",
+          "lessor": "William Cosby, .",
+          "desc": "H,O,&L",
+          "area": "23 3 34",
+          "land_val": "16 0 0",
+          "building_val": "1 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "4",
+          "occupier": "Thomas Heaslip,",
+          "lessor": "William Cosby, .",
+          "desc": "L",
+          "area": "1 2 38",
+          "land_val": "1 5 0",
+          "total_val": "18 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Bryan Smith,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "12 3 13",
+          "land_val": "10 0 0",
+          "building_val": "1 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Bryan Smith,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "1 1 5",
+          "land_val": "0 15 0",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "John Smith,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "12 2 30",
+          "land_val": "10 0 0",
+          "building_val": "1 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Heaslip,",
+          "lessor": "Same,",
+          "desc": "H&G",
+          "area": "0 0 22",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "William Cosby,",
+          "lessor": "In fee,",
+          "desc": "L (bog)",
+          "area": "18 2 18",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "occupier": "William Cosby,",
+          "lessor": "In fee,",
+          "desc": "Turbary,"
+        },
+        {
+          "desc": "Total,",
+          "area": "92 0 33",
+          "land_val": "53 0 0",
+          "building_val": "3 10 0",
+          "total_val": "67 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "AGHNAHAIA GLEBE",
+          "os": "31",
+          "occupier": "Patrick Tully,",
+          "lessor": "Rev. Edmund Nugent,",
+          "desc": "H,O,&L",
+          "area": "13 0 34",
+          "land_val": "7 15 0",
+          "building_val": "1 0 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Galligan,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "0 3 24",
+          "land_val": "0 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Galligan,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "12 0 21",
+          "land_val": "7 0 0",
+          "building_val": "1 0 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Patrick Finegan,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "1 0 14",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Connellan,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "1 0 14",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "Patrick Finegan,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "4 1 8",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Patrick Connellan,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "18 2 10",
+          "land_val": "11 15 0",
+          "building_val": "1 5 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "James Connellan,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "43 0 0",
+          "land_val": "25 15 0",
+          "building_val": "1 5 0",
+          "total_val": "27 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John M'Cormack,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "0 2 5",
+          "land_val": "0 10 0"
+        },
+        {
+          "occupier": "John M'Cormack,",
+          "lessor": "Same,",
+          "desc": "O&L",
+          "area": "5 2 9",
+          "land_val": "3 0 0",
+          "building_val": "0 5 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Anne M'Evoy, .",
+          "lessor": "Same,",
+          "desc": "H&L",
+          "area": "8 0 21",
+          "land_val": "5 0 0",
+          "building_val": "0 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "107 1 26",
+          "land_val": "64 5 0",
+          "building_val": "5 15 0",
+          "total_val": "70 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "ARDKILL BEG",
+          "os": "31 & 32",
+          "occupier": "James Corr,",
+          "lessor": "Richard Saunders,",
+          "desc": "H,O,&L (part mountain)",
+          "area": "67 0 36",
+          "land_val": "5 0 0",
+          "building_val": "1 0 0",
+          "total_val": "6 0 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "b",
+          "occupier": "John Corr,",
+          "lessor": "Richard Saunders,",
+          "desc": "H,O,&L (part mountain)",
+          "area": "67 0 36",
+          "land_val": "5 0 0",
+          "building_val": "1 0 0",
+          "total_val": "6 0 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "c",
+          "occupier": "Edward Boylan,",
+          "lessor": "Richard Saunders,",
+          "desc": "H,O,&L (part mountain)",
+          "area": "67 0 36",
+          "land_val": "6 0 0",
+          "building_val": "1 5 0",
+          "total_val": "7 5 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "d",
+          "occupier": "Matthew Boylan,",
+          "lessor": "Richard Saunders,",
+          "desc": "H,O,&L (part mountain)",
+          "area": "67 0 36",
+          "land_val": "4 5 0",
+          "building_val": "0 15 0",
+          "total_val": "5 0 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "e",
+          "occupier": "Peter Corr,",
+          "lessor": "Richard Saunders,",
+          "desc": "H,O,&L (part mountain)",
+          "area": "67 0 36",
+          "land_val": "3 10 0",
+          "building_val": "0 15 0",
+          "total_val": "4 5 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "f",
+          "occupier": "Mary Galligan,",
+          "lessor": "James and John Corr,",
+          "desc": "H&G",
+          "area": "0 1 25",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Andrew Galligan,",
+          "lessor": "Richard Saunders,",
+          "desc": "H,O,&L (part mountain)",
+          "area": "48 3 8",
+          "land_val": "3 15 0",
+          "building_val": "0 15 0",
+          "total_val": "4 10 0",
+          "n_shared": 6
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Galligan,",
+          "lessor": "Richard Saunders,",
+          "desc": "H,O,&L (part mountain)",
+          "area": "48 3 8",
+          "land_val": "4 10 0",
+          "building_val": "0 15 0",
+          "total_val": "5 5 0",
+          "n_shared": 6
+        },
+        {
+          "mr": "c",
+          "occupier": "Peter Galligan, .",
+          "lessor": "Richard Saunders,",
+          "desc": "H,O,&L (part mountain)",
+          "area": "48 3 8",
+          "land_val": "4 10 0",
+          "building_val": "1 0 0",
+          "total_val": "5 10 0",
+          "n_shared": 6
+        },
+        {
+          "mr": "d",
+          "occupier": "Patrick Galligan,",
+          "lessor": "Richard Saunders,",
+          "desc": "H,O,&L (part mountain)",
+          "area": "48 3 8",
+          "land_val": "3 15 0",
+          "building_val": "1 0 0",
+          "total_val": "4 15 0",
+          "n_shared": 6
+        },
+        {
+          "mr": "e",
+          "occupier": "Michael Galligan,",
+          "lessor": "Richard Saunders,",
+          "desc": "H,O,&L (part mountain)",
+          "area": "48 3 8",
+          "land_val": "3 15 0",
+          "building_val": "1 0 0",
+          "total_val": "4 15 0",
+          "n_shared": 6
+        },
+        {
+          "mr": "f",
+          "occupier": "James Boylan, .",
+          "lessor": "Richard Saunders,",
+          "desc": "H&L (part mountain)",
+          "area": "48 3 8",
+          "land_val": "2 5 0",
+          "building_val": "0 10 0",
+          "total_val": "2 15 0",
+          "n_shared": 6
+        },
+        {
+          "mr": "g",
+          "occupier": "Bridget Lee,",
+          "lessor": "James Boylan, .",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Andrew Galligan,",
+          "lessor": "Richard Saunders, .",
+          "desc": "L",
+          "area": "2 2 18",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0",
+          "n_shared": 6
+        },
+        {
+          "occupier": "Thomas Galligan,",
+          "lessor": "Richard Saunders, .",
+          "desc": "L",
+          "area": "2 2 18",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0",
+          "n_shared": 6
+        },
+        {
+          "occupier": "Peter Galligan,",
+          "lessor": "Richard Saunders, .",
+          "desc": "L",
+          "area": "2 2 18",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0",
+          "n_shared": 6
+        },
+        {
+          "occupier": "Patrick Galligan,",
+          "lessor": "Richard Saunders, .",
+          "desc": "L",
+          "area": "2 2 18",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0",
+          "n_shared": 6
+        },
+        {
+          "occupier": "Michael Galligan,",
+          "lessor": "Richard Saunders, .",
+          "desc": "L",
+          "area": "2 2 18",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0",
+          "n_shared": 6
+        },
+        {
+          "occupier": "James Boylan,",
+          "lessor": "Richard Saunders, .",
+          "desc": "L",
+          "area": "2 2 18",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 6
+        },
+        {
+          "mr": "4",
+          "occupier": "Mary Deane,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "11 1 0",
+          "land_val": "6 9 0",
+          "building_val": "1 6 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Mary Deane,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "1 0 22",
+          "land_val": "0 15 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Thomas M'Evoy,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "13 2 32",
+          "land_val": "8 15 0",
+          "building_val": "1 5 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Cornelius Reilly,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "0 0 35",
+          "land_val": "0 2 0",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Mary Deane,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Thomas M'Evoy,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "4 3 13",
+          "land_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "occupier": "Vacant,",
+          "lessor": "Thomas M'Evoy,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Francis Smith, .",
+          "lessor": "Richard Saunders, .",
+          "desc": "H,O,&L",
+          "area": "11 2 36",
+          "land_val": "7 15 0",
+          "building_val": "1 5 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Cornelius Reilly,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "7 0 7",
+          "land_val": "4 18 0",
+          "building_val": "1 2 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "169 0 2",
+          "land_val": "80 15 0",
+          "building_val": "15 13 0",
+          "total_val": "96 8 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

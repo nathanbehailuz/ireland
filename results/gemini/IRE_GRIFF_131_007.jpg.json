@@ -1,0 +1,258 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF DONAGHCUMPER",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "PARSONSTOWN",
+          "os": "11",
+          "occupier": "John Smith",
+          "lessor": "Humphries Peare",
+          "desc": "H,O,&L",
+          "area": "103 2 32",
+          "land_val": "90 0 0",
+          "building_val": "17 10 0",
+          "total_val": "107 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "George Warburton",
+          "lessor": "William P. Conolly, Esq.",
+          "desc": "H,O,&L",
+          "area": "8 3 31",
+          "land_val": "8 5 0",
+          "building_val": "3 5 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Miss Cath. Jameson",
+          "lessor": "Charles Sharp",
+          "desc": "L",
+          "area": "0 3 11",
+          "land_val": "0 15 0",
+          "building_val": "—",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "William Hopkins, Esq.",
+          "lessor": "Richard Foss, Esq.",
+          "desc": "H,O,flour-mill,&L",
+          "area": "10 2 35",
+          "land_val": "10 0 0",
+          "building_val": "120 0 0",
+          "total_val": "130 0 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Michael Glennon",
+          "lessor": "William Hopkins, Esq.",
+          "desc": "H",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "Richard Pembroke",
+          "lessor": "William Hopkins, Esq.",
+          "desc": "H",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "— d",
+          "occupier": "Matthew Lynch",
+          "lessor": "William Hopkins, Esq.",
+          "desc": "H,O,&G",
+          "area": "0 0 15",
+          "land_val": "0 2 0",
+          "building_val": "1 0 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "— e",
+          "occupier": "Patrick Doyle",
+          "lessor": "William Hopkins, Esq.",
+          "desc": "H&G",
+          "area": "0 0 12",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "— f",
+          "occupier": "John Kelly",
+          "lessor": "William Hopkins, Esq.",
+          "desc": "H&G",
+          "area": "0 0 12",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "— g",
+          "occupier": "Patrick Farrell",
+          "lessor": "William Hopkins, Esq.",
+          "desc": "H&G",
+          "area": "0 0 14",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "— h",
+          "occupier": "John Garvan & John Pembroke",
+          "lessor": "William Hopkins, Esq.",
+          "desc": "H",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— i",
+          "occupier": "Thomas Clarendon",
+          "lessor": "William Hopkins, Esq.",
+          "desc": "H",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "5 15 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "—",
+          "desc": "River Liffey",
+          "area": "2 1 8",
+          "land_val": "—",
+          "building_val": "—",
+          "total_val": "—"
+        },
+        {
+          "mr": "—",
+          "desc": "Total",
+          "area": "126 3 10",
+          "land_val": "109 8 0",
+          "building_val": "154 6 0",
+          "total_val": "263 14 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "RINAWADE, LOWER",
+          "os": "11",
+          "occupier": "Edward Coley",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "L",
+          "area": "47 1 17",
+          "land_val": "45 0 0",
+          "building_val": "—",
+          "total_val": "45 0 0"
+        },
+        {
+          "mr": "—",
+          "desc": "Total",
+          "area": "47 1 17",
+          "land_val": "45 0 0",
+          "building_val": "—",
+          "total_val": "45 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "RINAWADE, UPPER",
+          "os": "11",
+          "occupier": "Thomas Conolly, Esq.",
+          "lessor": "In fee",
+          "desc": "Gate-lodge and land",
+          "area": "16 1 31",
+          "land_val": "13 0 0",
+          "building_val": "2 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "William Coley",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "L",
+          "area": "22 0 30",
+          "land_val": "19 0 0",
+          "building_val": "—",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "William Geraghty",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "G",
+          "area": "0 0 30",
+          "land_val": "0 3 0",
+          "building_val": "—",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "George Coley",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "L",
+          "area": "5 3 12",
+          "land_val": "4 15 0",
+          "building_val": "—",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Edward Coley",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "L",
+          "area": "43 0 14",
+          "land_val": "30 0 0",
+          "building_val": "—",
+          "total_val": "30 0 0"
+        },
+        {
+          "mr": "—",
+          "desc": "Total",
+          "area": "87 2 37",
+          "land_val": "66 18 0",
+          "building_val": "2 0 0",
+          "total_val": "68 18 0",
+          "is_total": 1
+        }
+      ]
+    },
+    {
+      "parish": "PARISH OF KILDROUGHT",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "AGHARDS",
+          "os": "11",
+          "occupier": "Edward Dunne",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "L",
+          "area": "36 2 33",
+          "land_val": "40 0 0",
+          "building_val": "—",
+          "total_val": "40 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Thomas Byrne",
+          "lessor": "Edward Dunne",
+          "desc": "L",
+          "area": "14 1 30",
+          "land_val": "16 15 0",
+          "building_val": "—",
+          "total_val": "16 15 0"
+        }
+      ]
+    }
+  ]
+}

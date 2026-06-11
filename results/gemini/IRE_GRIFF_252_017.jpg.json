@@ -1,0 +1,495 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF EASKY",
+      "entries": [
+        {
+          "mr": "21 b",
+          "townland": "CARROWNROD",
+          "os": "",
+          "occupier": "Darby Mahon",
+          "lessor": "Charles Tottenham",
+          "desc": "H & O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "6 10 0",
+          "n_shared": 2,
+          "is_continued": 1
+        },
+        {
+          "mr": "22",
+          "occupier": "Darby Mahon",
+          "lessor": "Charles Tottenham",
+          "desc": "L",
+          "area": "8 3 28",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "6 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "23",
+          "occupier": "Charles Tottenham",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "6 1 11",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "23",
+          "occupier": "Charles Tottenham",
+          "lessor": "In fee",
+          "desc": "Water",
+          "area": "6 3 0",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "489 2 11",
+          "land_val": "168 10 0",
+          "building_val": "8 10 0",
+          "total_val": "177 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "OLDGRANGE",
+          "os": "11",
+          "occupier": "Peter Hale",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "1 2 30",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "1 a",
+          "occupier": "Timothy Langan",
+          "lessor": "Peter Hale",
+          "desc": "Ho. (part of), & O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Michael Keveny",
+          "lessor": "Peter Hale",
+          "desc": "H (part of)",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Hon. A. G. Stuart",
+          "lessor": "In fee",
+          "desc": "L & gate-lodge",
+          "area": "3 1 10",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "George S. Fenton",
+          "lessor": "Peter Hale",
+          "desc": "L",
+          "area": "21 0 0",
+          "land_val": "15 0 0",
+          "building_val": "",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Philip Keavney",
+          "lessor": "Peter Hale",
+          "desc": "L",
+          "area": "50 1 17",
+          "land_val": "38 0 0",
+          "building_val": "",
+          "total_val": "38 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Michael Byrne",
+          "lessor": "Peter Hale",
+          "desc": "L",
+          "area": "20 2 19",
+          "land_val": "9 0 0",
+          "building_val": "",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Anne Magee",
+          "lessor": "Peter Hale",
+          "desc": "L, H, & O",
+          "area": "20 3 0",
+          "land_val": "11 0 0",
+          "building_val": "1 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Thomas Magee",
+          "lessor": "Peter Hale",
+          "desc": "L, H, & O",
+          "area": "23 0 0",
+          "land_val": "6 10 0",
+          "building_val": "0 15 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "7 b",
+          "occupier": "William Murray",
+          "lessor": "Peter Hale",
+          "desc": "L, H, & O",
+          "area": "23 0 0",
+          "land_val": "6 10 0",
+          "building_val": "0 15 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "John Carty",
+          "lessor": "Peter Hale",
+          "desc": "L & H",
+          "area": "25 3 19",
+          "land_val": "6 0 0",
+          "building_val": "0 5 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Charles Harlow",
+          "lessor": "Peter Hale",
+          "desc": "L",
+          "area": "17 0 0",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Darby Conlon",
+          "lessor": "Peter Hale",
+          "desc": "L",
+          "area": "20 0 0",
+          "land_val": "5 0 0",
+          "building_val": "",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Michael Kilcawley",
+          "lessor": "Peter Hale",
+          "desc": "L & H",
+          "area": "27 1 8",
+          "land_val": "3 7 0",
+          "building_val": "0 5 0",
+          "total_val": "3 12 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Matthew Hanly",
+          "lessor": "Peter Hale",
+          "desc": "L",
+          "area": "27 1 8",
+          "land_val": "3 8 0",
+          "building_val": "",
+          "total_val": "3 8 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Anthony Conlan",
+          "lessor": "Peter Hale",
+          "desc": "L, H, & O",
+          "area": "31 3 2",
+          "land_val": "9 10 0",
+          "building_val": "0 10 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "262 2 25",
+          "land_val": "121 10 0",
+          "building_val": "4 15 0",
+          "total_val": "126 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "CASTLETOWN",
+          "os": "11",
+          "occupier": "Owen Keveny, jun.",
+          "lessor": "James Fenton",
+          "desc": "L, H, & O",
+          "area": "29 0 29",
+          "land_val": "10 10 0",
+          "building_val": "1 0 0",
+          "total_val": "21 10 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Owen Keveny",
+          "lessor": "James Fenton",
+          "desc": "L, H, & O",
+          "area": "29 0 29",
+          "land_val": "10 5 0",
+          "building_val": "0 15 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Michael Keveny",
+          "lessor": "James Fenton",
+          "desc": "L, H, & O",
+          "area": "32 3 25",
+          "land_val": "24 0 0",
+          "building_val": "1 0 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Timothy Langan",
+          "lessor": "James Fenton",
+          "desc": "L",
+          "area": "32 3 25",
+          "land_val": "12 0 0",
+          "building_val": "",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Michael Magee",
+          "lessor": "Timothy Langan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2 c",
+          "occupier": "Mary Gowran",
+          "lessor": "Michael Keveny",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2 d",
+          "occupier": "Bridget Reilly",
+          "lessor": "Michael Keveny",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Timothy Langan",
+          "lessor": "James Fenton",
+          "desc": "L (pt. of), ho., & O",
+          "area": "16 0 35",
+          "land_val": "18 0 0",
+          "building_val": "0 15 0",
+          "total_val": "18 15 0"
+        },
+        {
+          "mr": "3 b",
+          "occupier": "Michael Keveny",
+          "lessor": "James Fenton",
+          "desc": "G",
+          "area": "0 3 10",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Ellen O'Donnell",
+          "lessor": "James Fenton",
+          "desc": "L, H, & O",
+          "area": "19 1 20",
+          "land_val": "21 0 0",
+          "building_val": "0 15 0",
+          "total_val": "21 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "George Fenton",
+          "lessor": "James Fenton",
+          "desc": "L, H, & O",
+          "area": "63 1 5",
+          "land_val": "60 0 0",
+          "building_val": "10 0 0",
+          "total_val": "70 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "James Fenton",
+          "lessor": "Godfrey Brereton",
+          "desc": "L (and part of Fin-ned River)",
+          "area": "11 2 30",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "7",
+          "occupier": "James Fenton",
+          "lessor": "Godfrey Brereton",
+          "desc": "L (and part of Easky River)",
+          "area": "1 1 20",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "2 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "8 a",
+          "occupier": "James Fenton",
+          "lessor": "James Fenton",
+          "desc": "L & O",
+          "area": "171 3 29",
+          "land_val": "200 0 0",
+          "building_val": "1 0 0",
+          "total_val": "201 0 0"
+        },
+        {
+          "mr": "8 b",
+          "occupier": "Robert Ormsby",
+          "lessor": "James Fenton",
+          "desc": "H & O",
+          "area": "",
+          "land_val": "",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "8 c",
+          "occupier": "(See Exemptions)",
+          "lessor": "James Fenton",
+          "desc": "Constabulary barrack, offices, and yard. Half the annual rent derived from Constabulary-bar., offs., & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "8 d",
+          "occupier": "Patrick Langan",
+          "lessor": "James Fenton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "8 e",
+          "occupier": "David Rolleston",
+          "lessor": "James Fenton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "8 f",
+          "occupier": "Philip Lewis",
+          "lessor": "James Fenton",
+          "desc": "G & H",
+          "area": "0 1 0",
+          "land_val": "0 10 0",
+          "building_val": "0 10 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "8 g",
+          "occupier": "Charles Atkinson",
+          "lessor": "George Fenton",
+          "desc": "H & O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Michael Burns",
+          "lessor": "James Fenton",
+          "desc": "L",
+          "area": "43 2 30",
+          "land_val": "28 0 0",
+          "building_val": "",
+          "total_val": "28 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Michael Gilligan",
+          "lessor": "James Fenton",
+          "desc": "L, H, & O",
+          "area": "4 0 30",
+          "land_val": "2 15 0",
+          "building_val": "0 15 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total of Rateable Property",
+          "area": "394 3 14",
+          "land_val": "400 0 0",
+          "building_val": "26 15 0",
+          "total_val": "434 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "8 c",
+          "occupier": "Constabulary Force",
+          "lessor": "James Fenton",
+          "desc": "Constabulary barrack, offices, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total, including Exemptions",
+          "area": "394 3 14",
+          "land_val": "400 0 0",
+          "building_val": "33 15 0",
+          "total_val": "441 15 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

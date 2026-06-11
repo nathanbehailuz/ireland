@@ -1,0 +1,583 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF URNEY",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "DERRYLINA",
+          "os": "15",
+          "occupier": "Andrew Sheehan",
+          "lessor": "John Beresford",
+          "desc": "H,O,L",
+          "area": "11 1 20",
+          "land_val": "6 5 0",
+          "building_val": "1 0 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Rosanna M'Connell",
+          "lessor": "Same",
+          "desc": "H,O,L",
+          "area": "5 3 21",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Philip Orwell",
+          "lessor": "Same",
+          "desc": "H,O,L",
+          "area": "9 0 27",
+          "land_val": "4 5 0",
+          "building_val": "0 15 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Shannon, sen.",
+          "lessor": "Same",
+          "desc": "H,O,L",
+          "area": "16 3 37",
+          "land_val": "8 15 0",
+          "building_val": "0 15 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "David Brady",
+          "lessor": "Same",
+          "desc": "H,O,L",
+          "area": "11 0 4",
+          "land_val": "6 0 0",
+          "building_val": "1 15 0",
+          "total_val": "15 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "John Shannon, jun.",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "11 1 33",
+          "land_val": "7 15 0",
+          "total_val": "15 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "7",
+          "occupier": "Catherine M'Dowell",
+          "lessor": "Same",
+          "desc": "H,O,L",
+          "area": "9 1 23",
+          "land_val": "8 5 0",
+          "building_val": "0 15 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Margaret Fitzpatrick",
+          "lessor": "Same",
+          "desc": "H,O,L",
+          "area": "6 3 19",
+          "land_val": "4 10 0",
+          "building_val": "0 10 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Margaret Fitzpatrick",
+          "lessor": "Same",
+          "desc": "H,O,L",
+          "area": "7 1 25",
+          "land_val": "5 0 0",
+          "building_val": "0 15 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "10",
+          "desc": "Water",
+          "area": "1 1 0"
+        },
+        {
+          "mr": "11",
+          "area": "8 3 36"
+        },
+        {
+          "desc": "Total",
+          "area": "99 3 7",
+          "land_val": "53 15 0",
+          "building_val": "6 15 0",
+          "total_val": "60 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DRUMALEE",
+          "os": "20",
+          "occupier": "Bernard Smith",
+          "lessor": "Richard Ellis",
+          "desc": "L",
+          "area": "3 3 8",
+          "land_val": "2 5 0",
+          "total_val": "5 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2",
+          "occupier": "Catherine Cassidy",
+          "lessor": "Bernard Smith",
+          "desc": "H,O,L",
+          "area": "4 3 10",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "5 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Thomas M'Keon",
+          "lessor": "Same",
+          "desc": "H,O",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3 b",
+          "occupier": "Philip Kelly",
+          "lessor": "Richard Ellis",
+          "desc": "H",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "John Reilly",
+          "lessor": "Philip Kelly",
+          "desc": "H,L",
+          "area": "3 2 3",
+          "land_val": "2 12 0",
+          "building_val": "0 13 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "James Flood",
+          "lessor": "Richard Ellis",
+          "desc": "H",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Bernard Smith",
+          "lessor": "Same",
+          "desc": "L (reclaimed bog)",
+          "area": "0 1 8",
+          "land_val": "0 2 0",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "James Flood",
+          "lessor": "Same",
+          "desc": "L (reclaimed bog)",
+          "area": "0 1 8",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Thomas Reilly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 0 15",
+          "land_val": "1 10 0",
+          "total_val": "5 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5",
+          "occupier": "John Brady",
+          "lessor": "Same",
+          "desc": "H,L",
+          "area": "2 3 37",
+          "land_val": "3 0 0",
+          "building_val": "0 15 0",
+          "total_val": "5 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "Hugh Brady",
+          "lessor": "Same",
+          "desc": "H,O,L",
+          "area": "9 3 23",
+          "land_val": "8 0 0",
+          "building_val": "0 15 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Edward Brady",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "10 2 3",
+          "land_val": "7 10 0",
+          "total_val": "23 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "8",
+          "occupier": "Vacant",
+          "lessor": "James Parker",
+          "desc": "L",
+          "area": "17 3 38",
+          "land_val": "15 10 0",
+          "total_val": "23 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Thomas Browne",
+          "lessor": "Edward Brady",
+          "desc": "H,O,L",
+          "area": "22 2 25",
+          "land_val": "20 0 0",
+          "building_val": "2 0 0",
+          "total_val": "23 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "9 b",
+          "occupier": "James Parker",
+          "lessor": "Richard Ellis",
+          "desc": "H,O,G",
+          "building_val": "2 0 0",
+          "total_val": "14 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "10",
+          "occupier": "Timothy Delaney",
+          "lessor": "James Parker",
+          "desc": "L",
+          "area": "6 0 34",
+          "land_val": "5 15 0",
+          "total_val": "14 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "11",
+          "occupier": "Patrick Carleton",
+          "lessor": "Timothy Delaney",
+          "desc": "L",
+          "area": "6 2 10",
+          "land_val": "6 10 0",
+          "total_val": "14 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Matthew Mulvany",
+          "lessor": "Richard Ellis",
+          "desc": "H,G",
+          "area": "0 2 1",
+          "land_val": "0 10 0",
+          "building_val": "1 0 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "12 b",
+          "occupier": "James Simons",
+          "lessor": "Same",
+          "desc": "H,G",
+          "area": "0 0 1",
+          "land_val": "0 10 0",
+          "building_val": "1 0 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "James Moore",
+          "lessor": "Same",
+          "desc": "H,L",
+          "area": "15 0 38",
+          "land_val": "21 10 0",
+          "building_val": "0 10 0",
+          "total_val": "22 0 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "William Hague, jun.",
+          "lessor": "Same",
+          "desc": "H,L",
+          "area": "1 2 17",
+          "land_val": "1 10 0",
+          "building_val": "0 15 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "14 b",
+          "occupier": "Charles Halpin, M.D.",
+          "lessor": "Same",
+          "desc": "H,G",
+          "area": "0 0 16",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Patrick M'Mahon",
+          "lessor": "Same",
+          "desc": "H,L",
+          "area": "4 3 0",
+          "land_val": "4 10 0",
+          "building_val": "0 15 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Thomas Darby",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 3 31",
+          "land_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Fanny Murray",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 1 29",
+          "land_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Thomas Warrington",
+          "lessor": "Thomas Warrington",
+          "desc": "H,O,L",
+          "area": "10 0 12",
+          "land_val": "9 0 0",
+          "building_val": "1 10 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H,O,L",
+          "area": "9 1 20",
+          "land_val": "10 0 0",
+          "building_val": "1 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Hugh Fitzpatrick",
+          "lessor": "Richard Ellis",
+          "desc": "H,L",
+          "area": "9 1 32",
+          "land_val": "12 0 0",
+          "building_val": "1 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Peter Brady",
+          "lessor": "Same",
+          "desc": "H,O,L",
+          "area": "3 1 17",
+          "land_val": "4 10 0",
+          "building_val": "1 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Thomas M'Cabe",
+          "lessor": "Same",
+          "desc": "H,O,L",
+          "area": "5 2 23",
+          "land_val": "7 10 0",
+          "building_val": "1 5 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Patrick Fay",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 2 18",
+          "land_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "24 a",
+          "occupier": "John King",
+          "lessor": "John King",
+          "desc": "H,L",
+          "area": "2 2 3",
+          "land_val": "2 15 0",
+          "building_val": "0 15 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "24 b",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "24 c",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "John Trevor",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 0 16",
+          "land_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "John Trevor",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 1 19",
+          "land_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "John Trevor",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 2 39",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "John Trevor",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 0 8",
+          "land_val": "8 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "John Trevor",
+          "lessor": "Same",
+          "desc": "H,O",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Trevor",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "John Trevor",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "John Trevor",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "192 3 11",
+          "land_val": "191 16 0",
+          "building_val": "22 0 0",
+          "total_val": "213 16 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "DRUMAVANAGH",
+          "os": "20",
+          "occupier": "Catherine M'Gauran",
+          "lessor": "Rev. Henry Cottingham",
+          "desc": "O,L",
+          "area": "14 2 6",
+          "land_val": "25 10 0",
+          "building_val": "0 10 0",
+          "total_val": "26 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Bridget Reilly",
+          "lessor": "Catherine M'Gauran",
+          "desc": "H,O,G",
+          "area": "0 0 30",
+          "land_val": "0 7 0",
+          "building_val": "2 3 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Reps. John Clemenger",
+          "lessor": "Rev. Henry Cottingham",
+          "desc": "L",
+          "area": "8 0 31",
+          "land_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "William Moore",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 3 20",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "3 b",
+          "occupier": "Robert Fagan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Dr. Wm. Babington",
+          "lessor": "Thomas Babington",
+          "desc": "H,O,L",
+          "area": "17 0 4",
+          "land_val": "30 0 0",
+          "building_val": "11 10 0",
+          "total_val": "41 10 0"
+        }
+      ]
+    }
+  ]
+}

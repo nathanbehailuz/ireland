@@ -1,0 +1,506 @@
+{
+  "parishes": [
+    {
+      "parish": "ATHBOY",
+      "entries": [
+        {
+          "mr": "h",
+          "townland": "CASTLETOWN",
+          "os": "",
+          "occupier": "John Foster",
+          "lessor": "Patrick Barnwall",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "i",
+          "occupier": "Bridget Byrne",
+          "lessor": "Same",
+          "desc": "H,O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "desc": "Total",
+          "area": "540 2 10",
+          "land_val": "715 4 0",
+          "building_val": "61 4 0",
+          "total_val": "776 8 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "CAUSESTOWN",
+          "os": "29",
+          "occupier": "Patrick Barnwall",
+          "lessor": "The Lord Primate of Ireland",
+          "desc": "L",
+          "area": "30 0 20",
+          "land_val": "45 0 0",
+          "building_val": "",
+          "total_val": "525 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Barnwall",
+          "lessor": "The Lord Primate of Ireland",
+          "desc": "H,O,&L",
+          "area": "612 0 18",
+          "land_val": "450 0 0",
+          "building_val": "30 0 0",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "c",
+          "occupier": "Richard Allen",
+          "lessor": "Patrick Barnwall",
+          "desc": "H,O,&G",
+          "area": "0 0 30",
+          "land_val": "0 5 0",
+          "building_val": "1 15 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Matthew Brien",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 1 0",
+          "land_val": "0 7 0",
+          "building_val": "0 10 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "John Smith",
+          "lessor": "Same",
+          "desc": "H&small garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Patrick Doran",
+          "lessor": "Same",
+          "desc": "H&small garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "William M'Keon",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "4 1 10",
+          "land_val": "1 15 0",
+          "building_val": "0 15 0",
+          "total_val": "5 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B",
+          "occupier": "William M'Keon",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "9 3 18",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "A b",
+          "occupier": "Michael Carolan",
+          "lessor": "Same",
+          "desc": "H&small garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Peter Lynch",
+          "lessor": "Same",
+          "desc": "H&small garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Peter Lynch and Michael Carolan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 2 30",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Hugh Macartney",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "10 0 25",
+          "land_val": "5 15 0",
+          "building_val": "0 5 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Byrne",
+          "lessor": "Same",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Patrick Drake",
+          "lessor": "Same",
+          "desc": "H&small garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "669 3 0",
+          "land_val": "506 7 0",
+          "building_val": "36 8 0",
+          "total_val": "542 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CHAPEL LAND",
+          "os": "29",
+          "occupier": "Thomas Roe",
+          "lessor": "Earl of Darnley",
+          "desc": "H,O,&L",
+          "area": "30 0 27",
+          "land_val": "27 0 0",
+          "building_val": "3 10 0",
+          "total_val": "30 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Lynch",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "24 3 28",
+          "land_val": "18 0 0",
+          "building_val": "",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Laurence Cassidy, jun. (See also 5 b.)",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 0 15",
+          "land_val": "3 5 0",
+          "building_val": "",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Joseph Moore",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 2 30",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Laurence Cassidy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "14 1 0",
+          "land_val": "9 0 0",
+          "building_val": "1 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Laurence Cassidy, jun.",
+          "lessor": "Same",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "John Geraghty",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 1 35",
+          "land_val": "5 5 0",
+          "building_val": "1 15 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Joseph Moore",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 5 0",
+          "building_val": "1 0 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "82 3 5",
+          "land_val": "63 5 0",
+          "building_val": "9 5 0",
+          "total_val": "72 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "CURLEYLAND AND MILL LAND",
+          "os": "23, 24, & 29",
+          "occupier": "James Higgins",
+          "lessor": "Thomas Rotheram",
+          "desc": "L",
+          "area": "119 0 39",
+          "land_val": "146 10 0",
+          "building_val": "",
+          "total_val": "146 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Mary Growny",
+          "lessor": "James Higgins",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Edward Hefferan",
+          "lessor": "Earl of Darnley",
+          "desc": "L",
+          "area": "10 2 11",
+          "land_val": "15 0 0",
+          "building_val": "",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Margaret Finnegan",
+          "lessor": "Edward Hefferan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Catherine Smith",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "James Stanley",
+          "lessor": "Earl of Darnley",
+          "desc": "H&L",
+          "area": "2 3 10",
+          "land_val": "3 15 0",
+          "building_val": "0 10 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Anne Marlay",
+          "lessor": "James Stanley",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "John Stanley",
+          "lessor": "Earl of Darnley",
+          "desc": "H&small garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "John Murtagh",
+          "lessor": "Same",
+          "desc": "H&small garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "William Stanley",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 0 9",
+          "land_val": "13 10 0",
+          "building_val": "0 15 0",
+          "total_val": "14 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Macan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "28 0 2",
+          "land_val": "40 0 0",
+          "building_val": "",
+          "total_val": "40 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "John Dyas",
+          "lessor": "Same",
+          "desc": "Plantation",
+          "area": "2 1 10",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "173 0 1",
+          "land_val": "219 15 0",
+          "building_val": "4 17 0",
+          "total_val": "224 12 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DERLANGAN",
+          "os": "30",
+          "occupier": "Edward Tuite",
+          "lessor": "Earl of Darnley",
+          "desc": "L",
+          "area": "3 1 10",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Dardes",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "6 1 7",
+          "land_val": "3 15 0",
+          "building_val": "0 15 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Oliver Tuite",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "15 0 10",
+          "land_val": "10 0 0",
+          "building_val": "1 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Edward Tuite",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "44 2 38",
+          "land_val": "30 0 0",
+          "building_val": "",
+          "total_val": "30 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Christopher Smith",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "55 2 25",
+          "land_val": "39 0 0",
+          "building_val": "1 10 0",
+          "total_val": "40 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "William Reilly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "44 2 1",
+          "land_val": "32 15 0",
+          "building_val": "1 15 0",
+          "total_val": "34 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "James Reilly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "67 2 16",
+          "land_val": "50 10 0",
+          "building_val": "2 0 0",
+          "total_val": "52 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Bernard Reilly (See also 11.)",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "22 2 25",
+          "land_val": "20 15 0",
+          "building_val": "",
+          "total_val": "20 15 0"
+        }
+      ]
+    }
+  ]
+}

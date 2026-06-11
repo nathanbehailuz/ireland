@@ -1,0 +1,390 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF GREATCONNELL",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "HERBERTSTOWN",
+          "os": "23 & 24",
+          "occupier": "James Heffernan,",
+          "lessor": "Jane Brunton,",
+          "desc": "H,O,&L",
+          "area": "48 2 28",
+          "land_val": "30 0 0",
+          "building_val": "0 10 0",
+          "total_val": "30 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Patrick Casey,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "430 2 35",
+          "land_val": "350 0 0",
+          "building_val": "9 0 0",
+          "total_val": "359 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Thomas Hyland,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "5 3 27",
+          "land_val": "2 5 0",
+          "building_val": "0 10 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Grand Canal Company,",
+          "lessor": "In fee,",
+          "desc": "Canal and towing-path (96 lineal perches),",
+          "area": "8 2 10",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Grand Canal Company,",
+          "lessor": "In fee,",
+          "desc": "O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "493 3 20",
+          "land_val": "382 5 0",
+          "building_val": "11 10 0",
+          "total_val": "463 7 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "HILLSBOROUGH",
+          "os": "23",
+          "occupier": "Daniel Brennan,",
+          "lessor": "John La Touche,",
+          "desc": "O&L",
+          "area": "97 1 29",
+          "land_val": "90 0 0",
+          "building_val": "1 15 0",
+          "total_val": "91 15 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "George Higgins,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "1 c",
+          "occupier": "Luke Prendergast,",
+          "lessor": "Same,",
+          "desc": "H&G",
+          "area": "0 0 22",
+          "land_val": "0 3 0",
+          "building_val": "0 15 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Martin Donagan,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "44 0 0",
+          "land_val": "17 10 0",
+          "building_val": "1 0 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Bartholomew Carthy,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "61 2 22",
+          "land_val": "14 0 0",
+          "building_val": "1 0 0",
+          "total_val": "15 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4",
+          "occupier": "Edward Carthy,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "48 2 32",
+          "land_val": "14 0 0",
+          "building_val": "1 0 0",
+          "total_val": "15 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "-",
+          "occupier": "Nicholas Dunne,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "21 0 0",
+          "building_val": "1 5 0",
+          "total_val": "22 5 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "251 3 25",
+          "land_val": "156 13 0",
+          "building_val": "10 5 0",
+          "total_val": "166 18 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "KILBELIN",
+          "os": "23",
+          "occupier": "Cornelius Hannan,",
+          "lessor": "Maria Butler,",
+          "desc": "H,O,&L",
+          "area": "259 3 28",
+          "land_val": "220 0 0",
+          "building_val": "12 0 0",
+          "total_val": "232 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "James M'Grath,",
+          "lessor": "Cornelius Hannan,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "1 c",
+          "occupier": "Margaret Ganly,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "1 d",
+          "occupier": "Thomas Lannery,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Elizabeth Brien,",
+          "lessor": "Same,",
+          "desc": "H,O,&G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "0 13 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Butler,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "1 2 23",
+          "land_val": "1 5 0",
+          "building_val": "1 0 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Simon Nowlan,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "2 1 4",
+          "land_val": "1 15 0",
+          "building_val": "0 15 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "4 b",
+          "occupier": "Patrick Russell,",
+          "lessor": "Simon Nolan,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Bartholomew Carey,",
+          "lessor": "Cornelius Hannan,",
+          "desc": "H,O,&L",
+          "area": "4 1 8",
+          "land_val": "3 0 0",
+          "building_val": "0 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Thomas Lalor,",
+          "lessor": "Same,",
+          "desc": "H&L",
+          "area": "3 2 22",
+          "land_val": "2 15 0",
+          "building_val": "0 10 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Thomas Lalor,",
+          "lessor": "Same,",
+          "desc": "River Liffey,",
+          "area": "10 1 2",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "7 1",
+          "sublocation_1": "TOWN OF NEWBRIDGE",
+          "occupier": "Board of Ordnance,",
+          "lessor": "Cornelius Hannan,",
+          "desc": "Military-barracks & yard (part of), (Remainder in Townlands of Great Connell and Moorfield.)",
+          "area": "6 2 8",
+          "land_val": "",
+          "building_val": "60 0 0",
+          "total_val": "60 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Cornelius Hannan,",
+          "lessor": "",
+          "desc": "Half ground rent received for Military-barracks and yard, £0 5s. 4d.",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "desc": "Total,",
+          "area": "288 2 25",
+          "land_val": "228 17 0",
+          "building_val": "77 18 0",
+          "total_val": "306 15 0",
+          "is_total": 1
+        },
+        {
+          "desc": "EXEMPTIONS: Military-barracks & yard (part of),",
+          "area": "6 2 8",
+          "land_val": "",
+          "building_val": "60 0 0",
+          "total_val": "60 0 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of Exemptions,",
+          "area": "282 0 17",
+          "land_val": "228 17 0",
+          "building_val": "17 18 0",
+          "total_val": "246 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "OLDTOWN",
+          "os": "23",
+          "occupier": "Joseph R. Reeves,",
+          "lessor": "Theophilus Jones,",
+          "desc": "L",
+          "area": "158 3 13",
+          "land_val": "70 0 0",
+          "building_val": "",
+          "total_val": "70 0 0"
+        },
+        {
+          "mr": "1 a",
+          "occupier": "Vacant,",
+          "lessor": "Joseph R. Reeves,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Thomas Flood,",
+          "lessor": "Theophilus Jones,",
+          "desc": "L",
+          "area": "20 2 37",
+          "land_val": "14 10 0",
+          "building_val": "",
+          "total_val": "14 10 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "179 2 10",
+          "land_val": "84 10 0",
+          "building_val": "0 10 0",
+          "total_val": "85 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "ROSETOWN",
+          "os": "23",
+          "occupier": "Edward Bateman,",
+          "lessor": "Theophilus Jones,",
+          "desc": "H,O,&L",
+          "area": "277 1 7",
+          "land_val": "212 0 0",
+          "building_val": "25 0 0",
+          "total_val": "237 0 0"
+        },
+        {
+          "mr": "1 a",
+          "occupier": "Vacant,",
+          "lessor": "Edward Bateman,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "William Kelly,",
+          "lessor": "Same,",
+          "desc": "Herd's H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "1 c",
+          "occupier": "Catherine Carroll,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        }
+      ]
+    }
+  ]
+}

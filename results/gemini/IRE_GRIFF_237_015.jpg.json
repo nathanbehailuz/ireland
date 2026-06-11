@@ -1,0 +1,401 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF BORRIS",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "COOLTORAN",
+          "os": "13",
+          "occupier": "Anne Dwyer",
+          "lessor": "Henry D. Carden, Esq.",
+          "desc": "H,O,&L",
+          "area": "50 3 6",
+          "land_val": "33 0 0",
+          "building_val": "2 10 0",
+          "total_val": "35 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Conroy",
+          "lessor": "Henry D. Carden, Esq.",
+          "desc": "H,O,&L",
+          "area": "20 0 9",
+          "land_val": "12 0 0",
+          "building_val": "1 10 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Finton Kilfoyle",
+          "lessor": "Henry D. Carden, Esq.",
+          "desc": "H,O,&L",
+          "area": "20 0 29",
+          "land_val": "11 10 0",
+          "building_val": "1 0 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "William Dwyer",
+          "lessor": "Henry D. Carden, Esq.",
+          "desc": "H,O,&L",
+          "area": "77 0 37",
+          "land_val": "37 10 0",
+          "building_val": "2 15 0",
+          "total_val": "40 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Kirwan",
+          "lessor": "Henry D. Carden, Esq.",
+          "desc": "H,O,&L",
+          "area": "7 3 8",
+          "land_val": "4 0 0",
+          "building_val": "1 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "John Mulhall",
+          "lessor": "William Dwyer",
+          "desc": "H&L",
+          "area": "1 3 4",
+          "land_val": "0 7 0",
+          "building_val": "0 8 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Joseph Tracy",
+          "lessor": "Henry D. Carden, Esq.",
+          "desc": "L",
+          "area": "10 2 19",
+          "land_val": "5 15 0",
+          "building_val": "",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "William Finn",
+          "lessor": "Joseph Tracy",
+          "desc": "H,O,&L",
+          "area": "3 2 30",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "192 0 22",
+          "land_val": "106 2 0",
+          "building_val": "9 13 0",
+          "total_val": "115 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "CURRIERSBOG",
+          "os": "13",
+          "occupier": "Michael Dunne",
+          "lessor": "Miss Amelia Kimmins & John Lyster, Esq.",
+          "desc": "H&L",
+          "area": "3 3 17",
+          "land_val": "1 7 0",
+          "building_val": "0 13 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "John Tyrrell",
+          "lessor": "Michael Dunne",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Daniel Delany",
+          "lessor": "Miss Amelia Kimmins & John Lyster, Esq.",
+          "desc": "L",
+          "area": "3 1 11",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Christopher Beale",
+          "lessor": "Miss Amelia Kimmins & John Lyster, Esq.",
+          "desc": "L",
+          "area": "2 2 5",
+          "land_val": "0 18 0",
+          "building_val": "",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Thomas Pigott, Esq.",
+          "lessor": "Miss Amelia Kimmins & John Lyster, Esq.",
+          "desc": "L",
+          "area": "2 3 0",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "5 A B",
+          "occupier": "John Fitzpatrick",
+          "lessor": "Miss Amelia Kimmins & John Lyster, Esq.",
+          "desc": "L",
+          "area": "4 2 38",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "- A a",
+          "occupier": "John Gorman",
+          "lessor": "John Fitzpatrick",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "- B a",
+          "occupier": "James Flynn",
+          "lessor": "John Fitzpatrick",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Edward Meagher",
+          "lessor": "Miss Amelia Kimmins & John Lyster, Esq.",
+          "desc": "H&L",
+          "area": "5 2 10",
+          "land_val": "2 14 0",
+          "building_val": "0 6 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "6 b",
+          "occupier": "John Meagher",
+          "lessor": "Mary Dunne",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 2 0",
+          "building_val": "0 11 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "6 c",
+          "occupier": "Bridget Whelan",
+          "lessor": "Mary Dunne",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "John M'Evoy",
+          "lessor": "Reps. of the late Lady Jane Coote",
+          "desc": "L",
+          "area": "31 2 1",
+          "land_val": "20 0 0",
+          "building_val": "",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "James Fitzpatrick",
+          "lessor": "John M'Evoy",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "John O'Brien",
+          "lessor": "Miss Amelia Kimmins & John Lyster, Esq.",
+          "desc": "Office &L",
+          "area": "4 2 8",
+          "land_val": "2 13 0",
+          "building_val": "0 7 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "8 b",
+          "occupier": "Denis Donohoe",
+          "lessor": "John Brien",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Denis Donohoe",
+          "lessor": "Denis Meagher",
+          "desc": "L",
+          "area": "7 0 28",
+          "land_val": "4 5 0",
+          "building_val": "",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Catherine Whelan",
+          "lessor": "Miss Amelia Kimmins & John Lyster, Esq.",
+          "desc": "H,O,&L",
+          "area": "4 3 24",
+          "land_val": "2 15 0",
+          "building_val": "0 10 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Mary Meagher",
+          "lessor": "Miss Amelia Kimmins & John Lyster, Esq.",
+          "desc": "H,O,&L",
+          "area": "2 2 24",
+          "land_val": "1 10 0",
+          "building_val": "0 10 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "73 2 36",
+          "land_val": "40 9 0",
+          "building_val": "5 15 0",
+          "total_val": "46 4 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DOWNS",
+          "os": "13",
+          "occupier": "Michael Johnson",
+          "lessor": "Sir Brooke W. Bridges, Bart.",
+          "desc": "L",
+          "area": "71 3 7",
+          "land_val": "41 0 0",
+          "building_val": "",
+          "total_val": "41 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "John Fitzpatrick",
+          "lessor": "Michael Johnson",
+          "desc": "H&G",
+          "area": "0 0 18",
+          "land_val": "0 1 0",
+          "building_val": "0 14 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Patrick Whelan",
+          "lessor": "Michael Johnson",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "71 3 25",
+          "land_val": "41 1 0",
+          "building_val": "1 9 0",
+          "total_val": "42 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "GORTEEN",
+          "os": "13",
+          "occupier": "Robert Downey",
+          "lessor": "Henry D. Carden, Esq.",
+          "desc": "H,O,&L",
+          "area": "43 1 25",
+          "land_val": "38 0 0",
+          "building_val": "2 0 0",
+          "total_val": "40 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Mary Costigan",
+          "lessor": "Robert Downey",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "43 1 25",
+          "land_val": "38 0 0",
+          "building_val": "2 10 0",
+          "total_val": "40 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A B C D",
+          "townland": "KNOCKMAY",
+          "os": "13",
+          "occupier": "William Jessop",
+          "lessor": "Viscount De Vesci",
+          "desc": "L",
+          "area": "19 0 2",
+          "land_val": "17 15 0",
+          "building_val": "",
+          "total_val": "17 15 0"
+        },
+        {
+          "mr": "2 A B",
+          "occupier": "William Jessop",
+          "lessor": "Viscount De Vesci",
+          "desc": "L",
+          "area": "10 2 39",
+          "land_val": "23 0 0",
+          "building_val": "",
+          "total_val": "23 0 0"
+        },
+        {
+          "mr": "- A a",
+          "occupier": "Michael Lalor",
+          "lessor": "William Jessop",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 17 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "John Connor",
+          "lessor": "William Jessop",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 17 0",
+          "total_val": "0 17 0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,507 @@
+{
+  "parishes": [
+    {
+      "parish": "RATHMULLAN",
+      "entries": [
+        {
+          "mr": "17",
+          "townland": "KILLOUGH",
+          "is_continued": 1,
+          "sublocation_1": "TOWN OF KILLOUGH",
+          "sublocation_2": "CASTLE STREET",
+          "occupier": "James Duggan",
+          "lessor": "Hugh Crawford",
+          "desc": "H,O,Y,&G",
+          "area": "0 0 25",
+          "land_val": "0 5 0",
+          "building_val": "2 5 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Catherine Vaughan and Hugh Ranagan",
+          "lessor": "Same",
+          "desc": "H,O,Y,&G",
+          "area": "0 0 25",
+          "land_val": "0 5 0",
+          "building_val": "2 5 0",
+          "total_val": "2 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "19",
+          "occupier": "Unoccupied",
+          "lessor": "Anne and Catherine Russell",
+          "desc": "H,O,Y,&G",
+          "area": "0 1 0",
+          "land_val": "0 10 0",
+          "building_val": "7 0 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Thomas Russell",
+          "lessor": "Same",
+          "desc": "H,O,Y,&G",
+          "area": "0 2 10",
+          "land_val": "1 10 0",
+          "building_val": "14 10 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Patrick Smith",
+          "lessor": "Thomas Russell",
+          "desc": "H,O,&Y",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "George Allen",
+          "lessor": "Same",
+          "desc": "H,O,&Y",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "William Corriston",
+          "lessor": "Viscount Bangor",
+          "desc": "G",
+          "area": "0 1 35",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Unoccupied",
+          "lessor": "Catherine M'Cartan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Catherine M'Cartan",
+          "lessor": "Bernard Fitzsimons",
+          "desc": "H,O,Y,&G",
+          "area": "0 2 0",
+          "land_val": "1 5 0",
+          "building_val": "4 5 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Hugh M'Clinchy",
+          "lessor": "Viscount Bangor",
+          "desc": "H,O,Y,&G",
+          "area": "0 0 35",
+          "land_val": "0 10 0",
+          "building_val": "7 0 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "27, 28",
+          "occupier": "Hugh M'Clinchy",
+          "lessor": "Viscount Bangor",
+          "desc": "G (in rear)",
+          "area": "0 2 20",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "William Corriston",
+          "lessor": "Same",
+          "desc": "O&Y",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "Stores&Y",
+          "area": "",
+          "land_val": "",
+          "building_val": "13 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "William M'Conn",
+          "lessor": "William Quaile",
+          "desc": "H,O,Y,&G",
+          "area": "0 0 33",
+          "land_val": "0 10 0",
+          "building_val": "15 10 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "Jane Hicks",
+          "lessor": "William M'Conn",
+          "desc": "H,O,&Y",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "Charles Killen",
+          "lessor": "Same",
+          "desc": "H,O,&Y",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Elizabeth Cotter",
+          "lessor": "Viscount Bangor",
+          "desc": "H,O,Y,&G",
+          "area": "0 0 25",
+          "land_val": "0 10 0",
+          "building_val": "11 0 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Thomas Russell",
+          "lessor": "Bernard Fitzsimons",
+          "desc": "Store",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Edward Duffy",
+          "lessor": "Viscount Bangor",
+          "desc": "H,O,Y,&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "National School-house, yard, and sm. garden",
+          "lessor": "(See Exemptions.)",
+          "desc": "Half annual rent of National School-house,Y,&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "2 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "38",
+          "occupier": "Thomas Russell",
+          "lessor": "Anne and Catherine Russell",
+          "desc": "Stores",
+          "area": "",
+          "land_val": "",
+          "building_val": "14 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "Coast Guards' station, offices, yard, & small garden",
+          "lessor": "(See Exemptions.)",
+          "desc": "Half annual rent of Coast Guards' station,O,Y,&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "4 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "40",
+          "occupier": "Unoccupied",
+          "lessor": "Viscount Bangor",
+          "desc": "H(dilapidated)&G",
+          "area": "0 0 34",
+          "land_val": "0 10 0",
+          "building_val": "2 0 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "Rev. Richard Killen",
+          "lessor": "Same",
+          "desc": "H,O,Y,&G",
+          "area": "0 1 10",
+          "land_val": "0 15 0",
+          "building_val": "13 5 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "John W. Hamilton",
+          "lessor": "Anne Parkinson",
+          "desc": "H,O,Y,&G",
+          "area": "0 0 35",
+          "land_val": "0 10 0",
+          "building_val": "15 0 0",
+          "total_val": "15 10 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "Edward Blake",
+          "lessor": "Viscount Bangor",
+          "desc": "H,O,Y,&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "44",
+          "occupier": "James Surch",
+          "lessor": "Anne and Catherine Russell",
+          "desc": "H,O,Y,&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "45",
+          "occupier": "Arthur Atkinson",
+          "lessor": "Viscount Bangor",
+          "desc": "H,O,Y,&G",
+          "area": "2 0 0",
+          "land_val": "4 10 0",
+          "building_val": "31 0 0",
+          "total_val": "35 10 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "Christianna Robinson",
+          "lessor": "Same",
+          "desc": "H,O,Y,&G",
+          "area": "0 0 23",
+          "land_val": "0 10 0",
+          "building_val": "3 0 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "47",
+          "occupier": "Robert Nelson",
+          "lessor": "Arthur Atkinson",
+          "desc": "O&Y",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "48",
+          "occupier": "Adam Seeds",
+          "lessor": "Same",
+          "desc": "H,Y,&G",
+          "area": "0 1 0",
+          "land_val": "0 10 0",
+          "building_val": "1 10 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "49",
+          "occupier": "Robert Dorm",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "50",
+          "occupier": "Phoebe Hems",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "51",
+          "occupier": "Bernard Blaney",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "52",
+          "occupier": "Susan Duggan",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "53",
+          "occupier": "Robert Nelson",
+          "lessor": "Viscount Bangor",
+          "desc": "H,O,Y,&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "54",
+          "occupier": "William Corriston",
+          "lessor": "Same",
+          "desc": "H,O,Y,&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "55",
+          "occupier": "Patrick Dinver",
+          "lessor": "Same",
+          "desc": "H,Y,&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "56",
+          "occupier": "George Braney",
+          "lessor": "Same",
+          "desc": "H,O,Y,&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "PALATINE-LANE",
+          "occupier": "Rose M'Grady",
+          "lessor": "Mary M'Mahon",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Robert Nelson",
+          "lessor": "Robt. Nelson (Dromore)",
+          "desc": "O,Y,&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John West",
+          "lessor": "Viscount Bangor",
+          "desc": "H,O,Y,&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Rose M'Murray",
+          "lessor": "John West",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Thomas West",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "James M'Mullan",
+          "lessor": "William M'Mullan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "William M'Mullan",
+          "lessor": "Viscount Bangor",
+          "desc": "H,O,Y,&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "John M'Grath",
+          "lessor": "Same",
+          "desc": "H,Y,&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "James Harrison",
+          "lessor": "Same",
+          "desc": "H,Y,&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Margaret Keon",
+          "lessor": "Same",
+          "desc": "H,Y,&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        }
+      ]
+    }
+  ]
+}

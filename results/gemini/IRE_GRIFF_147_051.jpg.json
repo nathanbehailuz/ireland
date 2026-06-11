@@ -1,0 +1,389 @@
+{
+  "parishes": [
+    {
+      "parish": "UNKNOWN",
+      "entries": [
+        {
+          "parish": "POLLRONE",
+          "entries": [
+            {
+              "mr": "23ABC & 24 D C A a",
+              "townland": "POLLRONE",
+              "occupier": "James Comerford,",
+              "lessor": "H.W. Briscoe, and E. C. Villiers, Esqs.",
+              "desc": "H,O,&L",
+              "area": "8 3 29",
+              "land_val": "10 5 0",
+              "building_val": "1 15 0",
+              "total_val": "12 0 0",
+              "n_shared": 2,
+              "is_continued": 1
+            },
+            {
+              "mr": "",
+              "townland": "POLLRONE",
+              "occupier": "Catherine Carroll,",
+              "lessor": "H.W. Briscoe, and E. C. Villiers, Esqs.",
+              "desc": "H",
+              "area": "",
+              "land_val": "",
+              "building_val": "0 15 0",
+              "total_val": "0 15 0",
+              "n_shared": 2,
+              "is_continued": 0
+            },
+            {
+              "mr": "",
+              "townland": "POLLRONE",
+              "occupier": "",
+              "lessor": "",
+              "desc": "Total",
+              "area": "699 2 35",
+              "land_val": "836 1 0",
+              "building_val": "127 15 0",
+              "total_val": "963 16 0",
+              "is_total": 1
+            },
+            {
+              "mr": "",
+              "townland": "POLLRONE",
+              "occupier": "",
+              "lessor": "",
+              "desc": "Exemptions: Grave-yard,",
+              "area": "0 1 10",
+              "land_val": "0 5 0",
+              "building_val": "",
+              "total_val": "0 5 0",
+              "is_exemption": 1
+            },
+            {
+              "mr": "",
+              "townland": "POLLRONE",
+              "occupier": "",
+              "lessor": "",
+              "desc": "Total, exclusive of exemptions,",
+              "area": "699 1 25",
+              "land_val": "835 16 0",
+              "building_val": "127 15 0",
+              "total_val": "963 11 0",
+              "is_total": 1
+            },
+            {
+              "mr": "1",
+              "townland": "PORTNASCULLY",
+              "os": "42",
+              "occupier": "Denis Fielding,",
+              "lessor": "Thomas Boyce, Robert Backas, Chas. Newport, and Wm. Moore, Esqs.",
+              "desc": "L",
+              "area": "39 1 13",
+              "land_val": "35 10 0",
+              "building_val": "",
+              "total_val": "35 10 0",
+              "n_shared": 2
+            },
+            {
+              "mr": "",
+              "townland": "PORTNASCULLY",
+              "os": "42",
+              "occupier": "Edmund Fielding,",
+              "lessor": "",
+              "desc": "L",
+              "area": "",
+              "land_val": "17 15 0",
+              "building_val": "",
+              "total_val": "17 15 0",
+              "n_shared": 2
+            },
+            {
+              "mr": "a",
+              "townland": "PORTNASCULLY",
+              "os": "42",
+              "occupier": "Walter Merry,",
+              "lessor": "Denis Fielding,",
+              "desc": "H&G",
+              "area": "0 1 4",
+              "land_val": "0 7 0",
+              "building_val": "0 13 0",
+              "total_val": "1 0 0"
+            },
+            {
+              "mr": "2 a",
+              "townland": "PORTNASCULLY",
+              "os": "42",
+              "occupier": "Thomas Henneberry, Richard Walsh, Thomas Walsh,",
+              "lessor": "Thomas Boyce, Robert Backas, Chas. Newport, and Wm. Moore, Esqs.",
+              "desc": "Corn-mill and land",
+              "area": "8 3 36",
+              "land_val": "11 5 0",
+              "building_val": "6 0 0",
+              "total_val": "17 5 0",
+              "n_shared": 3
+            },
+            {
+              "mr": "b",
+              "townland": "PORTNASCULLY",
+              "os": "42",
+              "occupier": "Edmund Henneberry,",
+              "lessor": "Richard Walsh, and partners,",
+              "desc": "H",
+              "area": "",
+              "land_val": "",
+              "building_val": "0 12 0",
+              "total_val": "0 12 0"
+            },
+            {
+              "mr": "3 a",
+              "townland": "PORTNASCULLY",
+              "os": "42",
+              "occupier": "Thomas Walsh,",
+              "lessor": "Thomas Boyce, Robert Backas, Chas. Newport, and Wm. Moore, Esqs.",
+              "desc": "H,O,&L",
+              "area": "42 2 13",
+              "land_val": "25 10 0",
+              "building_val": "3 10 0",
+              "total_val": "29 0 0",
+              "n_shared": 2
+            },
+            {
+              "mr": "b",
+              "townland": "PORTNASCULLY",
+              "os": "42",
+              "occupier": "Richard Walsh,",
+              "lessor": "",
+              "desc": "H,O,&L",
+              "area": "",
+              "land_val": "25 10 0",
+              "building_val": "3 0 0",
+              "total_val": "28 10 0",
+              "n_shared": 2
+            },
+            {
+              "mr": "4",
+              "townland": "PORTNASCULLY",
+              "os": "42",
+              "occupier": "John Walsh,",
+              "lessor": "Thomas Boyce, Robert Backas, Chas. Newport, and Wm. Moore, Esqs.",
+              "desc": "H,O,corn-mill,&L",
+              "area": "40 2 24",
+              "land_val": "55 0 0",
+              "building_val": "22 0 0",
+              "total_val": "77 0 0"
+            },
+            {
+              "mr": "",
+              "townland": "PORTNASCULLY",
+              "os": "42",
+              "occupier": "",
+              "lessor": "",
+              "desc": "Total",
+              "area": "131 3 10",
+              "land_val": "170 17 0",
+              "building_val": "35 15 0",
+              "total_val": "206 12 0",
+              "is_total": 1
+            }
+          ]
+        },
+        {
+          "parish": "PORTNASCULLY",
+          "entries": [
+            {
+              "mr": "1",
+              "townland": "BALLYGOREY",
+              "os": "45",
+              "occupier": "Thomas Delahunty,",
+              "lessor": "Hugh Power, Esq.",
+              "desc": "L",
+              "area": "4 0 21",
+              "land_val": "5 0 0",
+              "building_val": "",
+              "total_val": "5 0 0"
+            },
+            {
+              "mr": "a",
+              "townland": "BALLYGOREY",
+              "os": "45",
+              "occupier": "Richard Walsh,",
+              "lessor": "Thomas Delahunty,",
+              "desc": "H&O",
+              "area": "",
+              "land_val": "",
+              "building_val": "1 0 0",
+              "total_val": "1 0 0"
+            },
+            {
+              "mr": "b",
+              "townland": "BALLYGOREY",
+              "os": "45",
+              "occupier": "Margaret Lenehan,",
+              "lessor": "Thomas Delahunty,",
+              "desc": "H",
+              "area": "",
+              "land_val": "",
+              "building_val": "1 0 0",
+              "total_val": "1 0 0"
+            },
+            {
+              "mr": "2 a",
+              "townland": "BALLYGOREY",
+              "os": "45",
+              "occupier": "Patrick Walsh,",
+              "lessor": "Hugh Power, Esq.",
+              "desc": "H&L",
+              "area": "1 3 6",
+              "land_val": "2 5 0",
+              "building_val": "0 15 0",
+              "total_val": "3 0 0"
+            },
+            {
+              "mr": "b",
+              "townland": "BALLYGOREY",
+              "os": "45",
+              "occupier": "John Broaders,",
+              "lessor": "Thomas Delahunty,",
+              "desc": "H&O",
+              "area": "",
+              "land_val": "",
+              "building_val": "0 15 0",
+              "total_val": "0 15 0"
+            },
+            {
+              "mr": "c",
+              "townland": "BALLYGOREY",
+              "os": "45",
+              "occupier": "Edmund Walsh,",
+              "lessor": "Hugh Power, Esq.",
+              "desc": "H&O",
+              "area": "",
+              "land_val": "",
+              "building_val": "1 0 0",
+              "total_val": "1 0 0"
+            },
+            {
+              "mr": "d",
+              "townland": "BALLYGOREY",
+              "os": "45",
+              "occupier": "Richard Maher,",
+              "lessor": "Hugh Power, Esq.",
+              "desc": "H&O",
+              "area": "",
+              "land_val": "",
+              "building_val": "0 15 0",
+              "total_val": "0 15 0"
+            },
+            {
+              "mr": "e",
+              "townland": "BALLYGOREY",
+              "os": "45",
+              "occupier": "Michael Cody,",
+              "lessor": "Hugh Power, Esq.",
+              "desc": "H",
+              "area": "",
+              "land_val": "",
+              "building_val": "0 15 0",
+              "total_val": "0 15 0"
+            },
+            {
+              "mr": "f",
+              "townland": "BALLYGOREY",
+              "os": "45",
+              "occupier": "Richard Mackey,",
+              "lessor": "Hugh Power, Esq.",
+              "desc": "H,O,&G",
+              "area": "0 0 27",
+              "land_val": "0 4 0",
+              "building_val": "0 16 0",
+              "total_val": "1 0 0"
+            },
+            {
+              "mr": "g",
+              "townland": "BALLYGOREY",
+              "os": "45",
+              "occupier": "John Holden,",
+              "lessor": "Hugh Power, Esq.",
+              "desc": "H",
+              "area": "",
+              "land_val": "",
+              "building_val": "0 15 0",
+              "total_val": "0 15 0"
+            },
+            {
+              "mr": "3ABa CDE & 10 Fa",
+              "townland": "BALLYGOREY",
+              "os": "45",
+              "occupier": "Edmund Dunphy,",
+              "lessor": "Hugh Power, Esq.",
+              "desc": "H,O,&L",
+              "area": "25 2 10",
+              "land_val": "25 15 0",
+              "building_val": "3 15 0",
+              "total_val": "29 10 0"
+            },
+            {
+              "mr": "4ABC D&16 ac",
+              "townland": "BALLYGOREY",
+              "os": "45",
+              "occupier": "Edmund Mackey,",
+              "lessor": "Hugh Power, Esq.",
+              "desc": "H,O,&L",
+              "area": "18 1 8",
+              "land_val": "18 5 0",
+              "building_val": "3 5 0",
+              "total_val": "21 10 0"
+            },
+            {
+              "mr": "5",
+              "townland": "BALLYGOREY",
+              "os": "45",
+              "occupier": "Edmund Mackey,",
+              "lessor": "Hugh Power, Esq.",
+              "desc": "L",
+              "area": "1 3 25",
+              "land_val": "1 5 0",
+              "building_val": "",
+              "total_val": "1 5 0",
+              "n_shared": 2
+            },
+            {
+              "mr": "",
+              "townland": "BALLYGOREY",
+              "os": "45",
+              "occupier": "Patrick Kelly,",
+              "lessor": "",
+              "desc": "L",
+              "area": "",
+              "land_val": "1 5 0",
+              "building_val": "",
+              "total_val": "1 5 0",
+              "n_shared": 2
+            },
+            {
+              "mr": "6ABC D&18 aj",
+              "townland": "BALLYGOREY",
+              "os": "45",
+              "occupier": "Patrick Kelly,",
+              "lessor": "Hugh Power, Esq.",
+              "desc": "H,O,&L",
+              "area": "16 2 31",
+              "land_val": "16 0 0",
+              "building_val": "4 0 0",
+              "total_val": "20 0 0"
+            },
+            {
+              "mr": "7ABC DEF GHE 3ab",
+              "townland": "BALLYGOREY",
+              "os": "45",
+              "occupier": "Patrick Dunphy,",
+              "lessor": "Hugh Power, Esq.",
+              "desc": "H,O,&L",
+              "area": "28 3 1",
+              "land_val": "30 0 0",
+              "building_val": "3 15 0",
+              "total_val": "33 15 0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF DUNLUCE",
+      "entries": [
+        {
+          "mr": "3",
+          "townland": "BOOTOWN",
+          "occupier": "William Thompson",
+          "lessor": "John Montgomery",
+          "desc": "H,O,&L",
+          "area": "48 3 0",
+          "land_val": "27 5 0",
+          "building_val": "1 10 0",
+          "total_val": "28 15 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "4",
+          "occupier": "John Montgomery",
+          "lessor": "In fee",
+          "desc": "L&B",
+          "area": "245 2 29",
+          "land_val": "7 5 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "John Montgomery",
+          "lessor": "In fee",
+          "desc": "Turbary",
+          "total_val": "2 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "399 0 39",
+          "land_val": "105 0 0",
+          "building_val": "5 15 0",
+          "total_val": "113 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "KILMOYLE",
+          "os": "12",
+          "occupier": "John Montgomery",
+          "lessor": "In fee",
+          "desc": "B",
+          "area": "7 1 30"
+        },
+        {
+          "mr": "— B",
+          "occupier": "John Montgomery",
+          "lessor": "In fee",
+          "desc": "B",
+          "area": "3 1 25"
+        },
+        {
+          "mr": "",
+          "occupier": "John Montgomery",
+          "lessor": "In fee",
+          "desc": "Turbary",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Chambers",
+          "lessor": "John Montgomery",
+          "desc": "H,O,&L",
+          "area": "12 0 10",
+          "land_val": "3 15 0",
+          "building_val": "1 0 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James M'Mullan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 1 0",
+          "land_val": "0 10 0",
+          "building_val": "0 10 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Hugh Chesnut",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "9 3 15",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Robert Watton",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "17 3 10",
+          "land_val": "3 10 0",
+          "building_val": "0 15 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "William Morrison",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "22 2 20",
+          "land_val": "6 10 0",
+          "building_val": "1 0 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "John Curry",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "9 3 35",
+          "land_val": "1 10 0",
+          "building_val": "0 10 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Joseph M'Caughan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "31 3 0",
+          "land_val": "10 5 0",
+          "building_val": "1 0 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "James M'Comb",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "15 3 0",
+          "land_val": "2 5 0",
+          "building_val": "0 15 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "William Sterling",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "20 3 20",
+          "land_val": "5 5 0",
+          "building_val": "0 15 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "James Nevin",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "24 1 24",
+          "land_val": "13 15 0",
+          "building_val": "1 10 0",
+          "total_val": "15 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "George Creswell",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "20 2 0",
+          "land_val": "11 5 0",
+          "building_val": "1 5 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "William Gray",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "18 2 30",
+          "land_val": "12 0 0",
+          "building_val": "1 10 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "John Montgomery",
+          "lessor": "In fee",
+          "desc": "Labourer's-house, off., and quarry (waste)",
+          "area": "2 0 5",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "David M'Kinley",
+          "lessor": "John Montgomery",
+          "desc": "H&G",
+          "area": "0 2 20",
+          "land_val": "0 10 0",
+          "building_val": "0 15 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "National School-house",
+          "lessor": "(See Exemptions.)"
+        },
+        {
+          "mr": "15",
+          "occupier": "Samuel Carson",
+          "lessor": "John Montgomery",
+          "desc": "H,O,&L",
+          "area": "27 2 10",
+          "land_val": "22 0 0",
+          "building_val": "2 10 0",
+          "total_val": "24 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "William G. M'Vicker",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "12 1 10",
+          "land_val": "10 15 0",
+          "building_val": "1 5 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "James Thompson",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 0 20",
+          "land_val": "9 10 0",
+          "building_val": "1 10 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Alexander Adam",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "27 1 30",
+          "land_val": "23 5 0",
+          "building_val": "2 10 0",
+          "total_val": "25 15 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "William Patterson",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "25 3 30",
+          "land_val": "19 0 0",
+          "building_val": "1 5 0",
+          "total_val": "20 5 0"
+        },
+        {
+          "desc": "Total of Rateable Property",
+          "area": "330 1 24",
+          "land_val": "157 10 0",
+          "building_val": "21 15 0",
+          "total_val": "187 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "14 c",
+          "occupier": "National School-house",
+          "lessor": "John Montgomery",
+          "desc": "National School-house",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, including Exemptions",
+          "area": "330 1 24",
+          "land_val": "157 10 0",
+          "building_val": "23 0 0",
+          "total_val": "188 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "SHELLFIELD",
+          "os": "12",
+          "occupier": "Robert Given",
+          "lessor": "John Montgomery",
+          "desc": "H,O,&L",
+          "area": "35 0 33",
+          "land_val": "29 5 0",
+          "building_val": "10 0 0",
+          "total_val": "39 5 0",
+          "n_shared": 8
+        },
+        {
+          "mr": "— b",
+          "occupier": "Mary Browne",
+          "lessor": "Robert Given",
+          "desc": "H",
+          "n_shared": 8
+        },
+        {
+          "mr": "— c",
+          "occupier": "William M'Mullen",
+          "lessor": "Same",
+          "desc": "H",
+          "n_shared": 8
+        },
+        {
+          "mr": "— d",
+          "occupier": "Robert Stockman",
+          "lessor": "Same",
+          "desc": "H",
+          "n_shared": 8
+        },
+        {
+          "mr": "— e",
+          "occupier": "Jane Murphy",
+          "lessor": "Same",
+          "desc": "H",
+          "n_shared": 8
+        },
+        {
+          "mr": "— f",
+          "occupier": "John Doherty",
+          "lessor": "Same",
+          "desc": "H",
+          "n_shared": 8
+        },
+        {
+          "mr": "— g",
+          "occupier": "Robert Ferguson",
+          "lessor": "Same",
+          "desc": "H",
+          "n_shared": 8
+        },
+        {
+          "mr": "— h",
+          "occupier": "James Hamilton",
+          "lessor": "Same",
+          "desc": "H",
+          "n_shared": 8
+        },
+        {
+          "desc": "Total",
+          "area": "35 0 33",
+          "land_val": "29 5 0",
+          "building_val": "10 0 0",
+          "total_val": "39 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "BALLYBOGY",
+          "os": "11 & 23",
+          "occupier": "William Black",
+          "lessor": "Catherine M'Naughten",
+          "desc": "H,O,&L",
+          "area": "8 0 10",
+          "land_val": "4 5 0",
+          "building_val": "1 0 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "Same",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 3 10",
+          "land_val": "5 5 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Watton",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "8 0 15",
+          "land_val": "4 5 0",
+          "building_val": "0 10 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Mary & Jane Watton",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James M'Afee",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "9 1 15",
+          "land_val": "5 0 0",
+          "building_val": "1 5 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "William Watton",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "5 0 20",
+          "land_val": "1 10 0",
+          "building_val": "0 15 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "5 A",
+          "occupier": "James Dugan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 1 33",
+          "land_val": "7 0 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "Same",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "20 0 15",
+          "land_val": "13 0 0",
+          "building_val": "2 15 0",
+          "total_val": "22 15 0"
+        },
+        {
+          "mr": "6 A",
+          "occupier": "Catherine M'Naughten",
+          "lessor": "Immediate Lessor",
+          "desc": "Plantation",
+          "area": "0 2 0",
+          "land_val": "0 5 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "Same",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "32 0 10",
+          "land_val": "22 10 0"
+        },
+        {
+          "mr": "— C",
+          "occupier": "Same",
+          "lessor": "Same",
+          "desc": "B",
+          "area": "164 2 20",
+          "land_val": "1 0 0"
+        },
+        {
+          "mr": "B b",
+          "occupier": "Same",
+          "lessor": "Same",
+          "desc": "Corn-mill, kiln, offices, and flax-mill",
+          "building_val": "28 0 0",
+          "total_val": "51 15 0"
+        }
+      ]
+    }
+  ]
+}

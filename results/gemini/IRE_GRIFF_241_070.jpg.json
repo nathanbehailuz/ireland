@@ -1,0 +1,475 @@
+{
+  "parishes": [
+    {
+      "parish": "ROSENALLIS",
+      "entries": [
+        {
+          "mr": "2",
+          "townland": "TOWN OF MOUNTMELLICK (Part of)",
+          "sublocation_1": "CHURCH-SQUARE",
+          "occupier": "John Bradley",
+          "lessor": "Henry Millner",
+          "desc": "H, office, and yard",
+          "building_val": "9 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Church Education So.",
+          "lessor": "Rev. George Kemmis",
+          "desc": "School-H and yard",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "3 (pt. of)",
+          "occupier": "John M'Cormack",
+          "lessor": "Rev. George Kemmis",
+          "desc": "Teachers' apartments",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Church",
+          "lessor": "Rev. George Kemmis",
+          "desc": "Church and grave-yard",
+          "area": "0 2 0",
+          "land_val": "0 10 0",
+          "building_val": "26 0 0",
+          "total_val": "26 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "5",
+          "occupier": "Primitive Met. Chapel",
+          "lessor": "Samuel Coen",
+          "desc": "Primitive Met. Chapel",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "6",
+          "occupier": "Alexander Jack",
+          "lessor": "Trus. Primitive Methodist Chapel",
+          "desc": "H and yard",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "CHURCH-LANE",
+          "occupier": "Trus. Wesleyan Methodist Chapel",
+          "lessor": "Simon Todd",
+          "desc": "Wesleyan Met. Chapel",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "2",
+          "occupier": "Matthew Mansfield",
+          "lessor": "James Scully",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Dispensary",
+          "lessor": "James Scully",
+          "desc": "H",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "4",
+          "occupier": "Samuel Sheane, Esq.",
+          "lessor": "Reps. Thomas Kenny",
+          "desc": "Gate-lodge, stores, yd., and G",
+          "area": "0 0 16",
+          "land_val": "0 5 0",
+          "building_val": "23 15 0",
+          "total_val": "24 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Samuel Sheane, Esq.",
+          "lessor": "Reps. Thomas Kenny",
+          "desc": "H, O, yd., G, & L",
+          "area": "4 2 20",
+          "land_val": "7 0 0",
+          "building_val": "20 0 0",
+          "total_val": "27 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Vacant",
+          "lessor": "Samuel Sheane, Esq.",
+          "desc": "Old brewery, O & yd.",
+          "building_val": "14 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Samuel Sheane, Esq.",
+          "lessor": "Reps. Thomas Kenny",
+          "desc": "Steam flour-mill, O, and yard",
+          "building_val": "65 0 0",
+          "total_val": "65 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "George Fleming",
+          "lessor": "Matthew Corcoran",
+          "desc": "H, O, yard, and G",
+          "area": "0 0 11",
+          "land_val": "0 5 0",
+          "building_val": "7 15 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "James Scully",
+          "lessor": "Simon Todd",
+          "desc": "O, yard, and G",
+          "area": "0 0 30",
+          "land_val": "0 15 0",
+          "building_val": "0 15 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "James Scully",
+          "lessor": "Robert Kenny",
+          "desc": "O",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Margaret Derry",
+          "lessor": "James Scully",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Patrick M'Loughlin",
+          "lessor": "James Scully",
+          "desc": "H and yard",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Christopher Southern",
+          "lessor": "James Scully",
+          "desc": "H, office, and yard",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Patrick Stanley",
+          "lessor": "Christopher Southern",
+          "desc": "H, forge, and yard",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Thomas Delany",
+          "lessor": "Samuel Pim",
+          "desc": "H, O, yard, and G",
+          "area": "0 0 12",
+          "land_val": "0 4 0",
+          "building_val": "2 6 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Samuel Pim",
+          "lessor": "Reps. Thomas Kenny",
+          "desc": "L",
+          "area": "3 2 10",
+          "land_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "SLAUGHTERYARD-LANE",
+          "occupier": "Arthur Peacock",
+          "lessor": "Mrs. Jane Star",
+          "desc": "O",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Arthur Peacock",
+          "lessor": "Thomas Lanphier",
+          "desc": "O, yard, and stores",
+          "building_val": "32 0 0",
+          "total_val": "32 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Arthur Peacock",
+          "lessor": "Mrs. Elizabeth Dempsy",
+          "desc": "O and L",
+          "area": "0 2 32",
+          "land_val": "1 15 0",
+          "building_val": "0 10 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "POP-STREET",
+          "occupier": "Henry Neville",
+          "lessor": "Arthur M'Dermott",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Bridget Hayden",
+          "lessor": "Arthur M'Dermott",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Michael Lamb",
+          "lessor": "Arthur M'Dermott",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Vacant",
+          "lessor": "Arthur M'Dermott",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Vacant",
+          "lessor": "Arthur M'Dermott",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Vacant",
+          "lessor": "Arthur M'Dermott",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "John Dunne",
+          "lessor": "Arthur M'Dermott",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Thomas Dillon",
+          "lessor": "Arthur M'Dermott",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Bartholomew Reilly",
+          "lessor": "Arthur M'Dermott",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Vacant",
+          "lessor": "Arthur M'Dermott",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Daniel Blake",
+          "lessor": "Arthur M'Dermott",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Patrick M'Evoy",
+          "lessor": "Arthur M'Dermott",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Vacant",
+          "lessor": "Arthur M'Dermott",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Sylvester Carroll",
+          "lessor": "Arthur M'Dermott",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "John Gray",
+          "lessor": "Arthur M'Dermott",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "1 A B",
+          "sublocation_1": "MARKET SQUARE",
+          "occupier": "Mrs. Deborah Millner",
+          "lessor": "James Millner",
+          "desc": "H, O, yd., & G",
+          "area": "0 1 0",
+          "land_val": "1 0 0",
+          "building_val": "17 0 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Millner",
+          "lessor": "Henry Millner",
+          "desc": "H, O, woollen factory, yards, G, and L",
+          "area": "2 2 0",
+          "land_val": "4 0 0",
+          "building_val": "53 0 0",
+          "total_val": "57 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Thomas Pim",
+          "lessor": "Reps. Mark Goodbody",
+          "desc": "H O, starch-works, yards, & G",
+          "area": "0 1 5",
+          "land_val": "1 10 0",
+          "building_val": "34 10 0",
+          "total_val": "36 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Trustees of Society of Friends",
+          "lessor": "John Pim",
+          "desc": "Friends' Meeting-H",
+          "building_val": "25 0 0",
+          "total_val": "25 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "5 A B",
+          "occupier": "John Parker",
+          "lessor": "John Pim",
+          "desc": "H, O, yd. & G",
+          "area": "0 1 24",
+          "land_val": "1 15 0",
+          "building_val": "14 0 0",
+          "total_val": "15 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Andrew Conroy",
+          "lessor": "Lewis Higgins, Esq.",
+          "desc": "H, O, yard, G, and L",
+          "area": "1 3 20",
+          "land_val": "3 0 0",
+          "building_val": "12 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Vacant",
+          "lessor": "Andrew Conroy",
+          "desc": "Unfinished H, & yd.",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "8 A B",
+          "occupier": "Miss Hannah Millner",
+          "lessor": "Robert Millner",
+          "desc": "H, office, and yard",
+          "building_val": "20 0 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Mrs. Anne Isdell",
+          "lessor": "Samuel H. Burrowes",
+          "desc": "H, office, yd. & sm. G",
+          "building_val": "11 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Richard Graham",
+          "lessor": "Samuel Sheane, Esq.",
+          "desc": "H, O, yd., & G",
+          "area": "0 0 30",
+          "land_val": "0 15 0",
+          "building_val": "16 5 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Vacant",
+          "lessor": "James Millner",
+          "desc": "H, O, yd., & G",
+          "area": "0 0 27",
+          "land_val": "0 15 0",
+          "building_val": "23 5 0",
+          "total_val": "24 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Jonathan Pim",
+          "lessor": "Patrick Brennan",
+          "desc": "Warehouse, O, tobacco manufactory, & yd",
+          "building_val": "25 0 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Jonathan Pim",
+          "lessor": "Thomas N. Baggott & William B. Armstrong",
+          "desc": "H, O, yd., & G",
+          "area": "0 2 2",
+          "land_val": "2 0 0",
+          "building_val": "38 0 0",
+          "total_val": "40 0 0"
+        }
+      ]
+    }
+  ]
+}

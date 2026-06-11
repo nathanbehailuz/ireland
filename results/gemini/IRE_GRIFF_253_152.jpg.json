@@ -1,0 +1,492 @@
+{
+  "parishes": [
+    {
+      "parish": "ST. JOHN'S",
+      "entries": [
+        {
+          "mr": "3",
+          "townland": "KNAPPAGH BEG (part of)",
+          "sublocation_1": "TOWN OF SLIGO",
+          "sublocation_2": "JOHN-STREET",
+          "occupier": "Henry Gannon",
+          "lessor": "James Wallace",
+          "desc": "H and yard",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "4",
+          "occupier": "Patrick Goravin",
+          "lessor": "James Wallace",
+          "desc": "H and yard",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Wallace",
+          "lessor": "Viscount Palmerston",
+          "desc": "O and G",
+          "area": "0 1 10",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "James Wallace",
+          "lessor": "Anne Gillan",
+          "desc": "H, O, yard, & sm. G",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Anne Gillan",
+          "lessor": "Viscount Palmerston",
+          "desc": "H, O, and yard",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Sarah Black",
+          "lessor": "Viscount Palmerston",
+          "desc": "H, O, yard, & sm. G",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "John N. Russell",
+          "lessor": "William C. Tuite",
+          "desc": "H, stores, O, & yard",
+          "building_val": "30 0 0",
+          "total_val": "30 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "William C. Tuite",
+          "lessor": "Rev. William F. Black",
+          "desc": "Bonding stores & yard",
+          "building_val": "14 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Thomas M'Kim",
+          "lessor": "Rev. William F. Black",
+          "desc": "H, O, and yard",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Samuel Campbell",
+          "lessor": "James Martin",
+          "desc": "H & small G",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "12 a b",
+          "occupier": "James Casey",
+          "lessor": "James Martin",
+          "desc": "H, yard, & sm. G",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Jane Watts",
+          "lessor": "James Casey",
+          "desc": "H (in rere)",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Robert Graham",
+          "lessor": "William Allen",
+          "desc": "H, O, yard, & sm. G",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Sarah Black",
+          "lessor": "Viscount Palmerston",
+          "desc": "G",
+          "area": "0 0 28",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Bridget May",
+          "lessor": "R. & A. Henderson",
+          "desc": "H, O, and yard",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Patrick M'Gowan",
+          "lessor": "James Martin",
+          "desc": "H, O, & G",
+          "area": "0 0 14",
+          "land_val": "0 5 0",
+          "building_val": "3 10 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Anne Fawcett",
+          "lessor": "James Martin",
+          "desc": "H, O, & G",
+          "area": "0 0 17",
+          "land_val": "0 5 0",
+          "building_val": "3 10 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Owen Lynch",
+          "lessor": "James Martin",
+          "desc": "H, O, & G",
+          "area": "0 0 17",
+          "land_val": "0 5 0",
+          "building_val": "3 10 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "John Collins",
+          "lessor": "James Martin",
+          "desc": "H, O, & G",
+          "area": "0 0 17",
+          "land_val": "0 5 0",
+          "building_val": "3 10 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "21",
+          "desc": "St. John's female school-H, yard, & G, (see Exemptions.)",
+          "area": "0 0 19",
+          "land_val": "0 5 0",
+          "building_val": "7 15 0",
+          "total_val": "8 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "22",
+          "occupier": "Mary Gilmor",
+          "lessor": "Anne Walker",
+          "desc": "H, O, yard, & G",
+          "area": "0 0 19",
+          "land_val": "0 5 0",
+          "building_val": "3 0 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "John Connington",
+          "lessor": "Viscount Palmerston",
+          "desc": "H and G",
+          "area": "0 0 14",
+          "land_val": "0 5 0",
+          "building_val": "3 0 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "John James",
+          "lessor": "Viscount Palmerston",
+          "desc": "H & small G",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Rachel Morrow",
+          "lessor": "Viscount Palmerston",
+          "desc": "G and ruins",
+          "area": "0 0 16",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Unoccupied",
+          "lessor": "Viscount Palmerston",
+          "desc": "H, yard, & sm. G",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "John Kenny",
+          "lessor": "Charles Compton",
+          "desc": "H, O, & G",
+          "area": "0 0 18",
+          "land_val": "0 5 0",
+          "building_val": "3 10 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Charles Compton",
+          "lessor": "Viscount Palmerston",
+          "desc": "H, O, yard, & G",
+          "area": "0 0 31",
+          "land_val": "0 10 0",
+          "building_val": "11 10 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "William Phibbs",
+          "lessor": "Viscount Palmerston",
+          "desc": "H, O, and yard",
+          "building_val": "8 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "John Greene",
+          "lessor": "Andrew Walker",
+          "desc": "H, O, and yard",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "John Pincher",
+          "lessor": "Andrew Walker",
+          "desc": "H, O, and yard",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "John Kirkpatrick",
+          "lessor": "Andrew Walker",
+          "desc": "H, O, and yard",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "Thomas Gilcreest",
+          "lessor": "Andrew Walker",
+          "desc": "H and yard",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Moses Clarke",
+          "lessor": "John Ramsay",
+          "desc": "H, O, and yard",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Unoccupied",
+          "lessor": "John Ramsay",
+          "desc": "H, O, and yard",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "William Supple",
+          "lessor": "John Ramsay",
+          "desc": "H and yard",
+          "building_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "James Ormsby",
+          "lessor": "John Ramsay",
+          "desc": "H, O, and yard",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "James Stewart",
+          "lessor": "John Ramsay",
+          "desc": "H, O, and yard",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "George Wilson",
+          "lessor": "John Ramsay",
+          "desc": "H, yard, & G",
+          "area": "0 0 24",
+          "land_val": "0 10 0",
+          "building_val": "1 0 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "Thomas Boyle",
+          "lessor": "Viscount Palmerston",
+          "desc": "H, yard, & G",
+          "area": "0 0 20",
+          "land_val": "0 10 0",
+          "building_val": "1 0 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "Kim Hillas",
+          "lessor": "Viscount Palmerston",
+          "desc": "H, yard, & G",
+          "area": "0 0 19",
+          "land_val": "0 10 0",
+          "building_val": "1 15 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "John Lynch",
+          "lessor": "Viscount Palmerston",
+          "desc": "H, O, & G",
+          "area": "0 3 4",
+          "land_val": "2 0 0",
+          "building_val": "3 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "Humphry Gillmor",
+          "lessor": "Viscount Palmerston",
+          "desc": "H, O, and yard",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "SMITH'S-ROW",
+          "occupier": "Patrick Harley",
+          "lessor": "R. and A. Anderson",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Unoccupied",
+          "lessor": "R. and A. Anderson",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Unoccupied",
+          "lessor": "R. and A. Anderson",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Unoccupied",
+          "lessor": "R. and A. Anderson",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John O'Hara",
+          "lessor": "R. and A. Anderson",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Unoccupied",
+          "lessor": "R. and A. Anderson",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Patrick Casey",
+          "lessor": "R. and A. Anderson",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Unoccupied",
+          "lessor": "R. and A. Anderson",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Michael Kelly",
+          "lessor": "R. and A. Anderson",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "John Gillespie",
+          "lessor": "R. and A. Anderson",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Unoccupied",
+          "lessor": "R. and A. Anderson",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Unoccupied",
+          "lessor": "R. and A. Anderson",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Patrick Pyne",
+          "lessor": "R. and A. Anderson",
+          "desc": "Sheds and yard",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "RAMSAY'S-ROW",
+          "occupier": "Ellen Browne",
+          "lessor": "John Ramsay",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        }
+      ]
+    }
+  ]
+}

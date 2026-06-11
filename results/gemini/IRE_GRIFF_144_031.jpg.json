@@ -1,0 +1,511 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF KILLALOE",
+      "entries": [
+        {
+          "mr": "12",
+          "townland": "ROSSMORE",
+          "occupier": "Purefoy Poe, Esq.",
+          "lessor": "James P. Poe, Esq.",
+          "desc": "H,O,&L",
+          "area": "63 0 31",
+          "land_val": "48 0 0",
+          "building_val": "12 0 0",
+          "total_val": "60 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "13",
+          "occupier": "Thomas Healy",
+          "lessor": "James P. Poe, Esq.",
+          "desc": "H,O,&L",
+          "area": "7 1 21",
+          "land_val": "5 0 0",
+          "building_val": "1 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Edward Hickey",
+          "lessor": "Purefoy Poe, Esq.",
+          "desc": "L",
+          "area": "4 2 17",
+          "land_val": "3 5 0",
+          "building_val": "",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Michael Ford",
+          "lessor": "James P. Poe, Esq.",
+          "desc": "H,O,&L",
+          "area": "18 2 18",
+          "land_val": "13 0 0",
+          "building_val": "1 10 0",
+          "total_val": "14 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Timothy Bryan",
+          "lessor": "Purefoy Poe, Esq.",
+          "desc": "H,O,&L",
+          "area": "21 1 15",
+          "land_val": "15 0 0",
+          "building_val": "1 10 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "421 2 17",
+          "land_val": "312 18 0",
+          "building_val": "40 2 0",
+          "total_val": "353 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "SCOTSBOROUGH",
+          "occupier": "Michael Walsh",
+          "lessor": "Rev. Wm. Lambert",
+          "desc": "H,O,&L",
+          "area": "113 3 22",
+          "land_val": "47 0 0",
+          "building_val": "6 0 0",
+          "total_val": "53 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Philip Walsh, sen.",
+          "lessor": "Rev. Wm. Lambert",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "47 0 0",
+          "building_val": "3 0 0",
+          "total_val": "50 0 0"
+        },
+        {
+          "mr": "2 A a B",
+          "occupier": "Luke Dunphy",
+          "lessor": "Earl of Clonmel",
+          "desc": "H,O,&L",
+          "area": "111 3 27",
+          "land_val": "94 0 0",
+          "building_val": "8 0 0",
+          "total_val": "102 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Philip Cahill",
+          "lessor": "Luke Dunphy",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Thomas Morris",
+          "lessor": "Luke Dunphy",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- B a",
+          "occupier": "Patrick Sweetman",
+          "lessor": "Luke Dunphy",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 3 0",
+          "building_val": "0 5 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Philip Walsh, jun.",
+          "lessor": "Earl of Clonmel",
+          "desc": "H,O,&L",
+          "area": "58 1 8",
+          "land_val": "21 0 0",
+          "building_val": "2 0 0",
+          "total_val": "23 0 0"
+        },
+        {
+          "mr": "3 b",
+          "occupier": "Edward Doheny",
+          "lessor": "Earl of Clonmel",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "21 0 0",
+          "building_val": "3 15 0",
+          "total_val": "24 15 0"
+        },
+        {
+          "mr": "4 A a B",
+          "occupier": "Edward Morrissey",
+          "lessor": "Earl of Clonmel",
+          "desc": "H,O,&L",
+          "area": "9 2 20",
+          "land_val": "6 10 0",
+          "building_val": "0 10 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Bridget Dunne",
+          "lessor": "Earl of Clonmel",
+          "desc": "L",
+          "area": "0 3 3",
+          "land_val": "0 12 0",
+          "building_val": "",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "- B a",
+          "occupier": "Robert Barnwell",
+          "lessor": "Edward Morrissey",
+          "desc": "H, forge, & G",
+          "area": "0 1 5",
+          "land_val": "0 5 0",
+          "building_val": "2 0 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Patrick Barnwell",
+          "lessor": "Robert Barnwell",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "5 & 4 c",
+          "occupier": "James Burke",
+          "lessor": "Earl of Clonmel",
+          "desc": "H,O,&L",
+          "area": "2 2 27",
+          "land_val": "1 15 0",
+          "building_val": "0 10 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Patrick Stack",
+          "lessor": "Earl of Clonmel",
+          "desc": "L",
+          "area": "5 3 15",
+          "land_val": "4 5 0",
+          "building_val": "",
+          "total_val": "4 5 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "303 1 37",
+          "land_val": "243 10 0",
+          "building_val": "28 5 0",
+          "total_val": "271 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "TINGARRAN",
+          "occupier": "Thomas Fennelly",
+          "lessor": "James P. Poe, Esq.",
+          "desc": "H,O,&L",
+          "area": "93 1 38",
+          "land_val": "66 0 0",
+          "building_val": "4 10 0",
+          "total_val": "70 10 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "John Brennan",
+          "lessor": "Thomas Fennelly",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "William Fennelly",
+          "lessor": "James P. Poe, Esq.",
+          "desc": "H,O,&L",
+          "area": "94 0 38",
+          "land_val": "70 0 0",
+          "building_val": "4 0 0",
+          "total_val": "74 0 0"
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Margaret Marnell",
+          "lessor": "William Fennelly",
+          "desc": "H,O,& small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "187 2 36",
+          "land_val": "136 0 0",
+          "building_val": "9 2 0",
+          "total_val": "145 2 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "TINNAKILLY",
+          "occupier": "Michael Butler",
+          "lessor": "James P. Poe, Esq.",
+          "desc": "L",
+          "area": "38 3 29",
+          "land_val": "30 0 0",
+          "building_val": "",
+          "total_val": "30 0 0"
+        },
+        {
+          "mr": "2 A B C c",
+          "occupier": "Patrick Whelan, jun.",
+          "lessor": "James P. Poe, Esq.",
+          "desc": "H,O,&L",
+          "area": "35 1 37",
+          "land_val": "25 0 0",
+          "building_val": "2 15 0",
+          "total_val": "27 15 0"
+        },
+        {
+          "mr": "3 A a B",
+          "occupier": "Thomas Whelan",
+          "lessor": "James P. Poe, Esq.",
+          "desc": "H,O,&L",
+          "area": "24 0 21",
+          "land_val": "17 10 0",
+          "building_val": "1 0 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "4 A a B C, 2 C a",
+          "occupier": "John Whelan",
+          "lessor": "James P. Poe, Esq.",
+          "desc": "H,O,&L",
+          "area": "35 2 3",
+          "land_val": "25 10 0",
+          "building_val": "4 10 0",
+          "total_val": "30 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Michael Whelan",
+          "lessor": "James P. Poe, Esq.",
+          "desc": "H,O,&L",
+          "area": "54 0 38",
+          "land_val": "30 0 0",
+          "building_val": "1 5 0",
+          "total_val": "31 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Patrick Whelan, sen.",
+          "lessor": "James P. Poe, Esq.",
+          "desc": "H,O,&L",
+          "area": "39 3 12",
+          "land_val": "28 10 0",
+          "building_val": "1 10 0",
+          "total_val": "30 0 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "228 0 20",
+          "land_val": "156 10 0",
+          "building_val": "11 0 0",
+          "total_val": "167 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A B C D E",
+          "townland": "WHITEHOUSE",
+          "occupier": "Reprs. of Wm. Barton",
+          "lessor": "James P. Poe, Esq.",
+          "desc": "H,O,&L",
+          "area": "95 3 31",
+          "land_val": "78 0 0",
+          "building_val": "12 0 0",
+          "total_val": "90 0 0"
+        },
+        {
+          "mr": "- B a",
+          "occupier": "Thomas Larkin",
+          "lessor": "Reprs. of Wm. Barton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Michael St. George, sen.",
+          "lessor": "Miss Jane Barton",
+          "desc": "L",
+          "area": "15 3 15",
+          "land_val": "13 0 0",
+          "building_val": "",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Michael Bryan",
+          "lessor": "Reprs. of Wm. Barton",
+          "desc": "H&L",
+          "area": "1 2 32",
+          "land_val": "1 10 0",
+          "building_val": "0 10 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Timothy Bryan",
+          "lessor": "Reprs. of Wm. Barton",
+          "desc": "H,O,&L",
+          "area": "3 0 13",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Dunne",
+          "lessor": "Reprs. of Wm. Barton",
+          "desc": "H,O,&L",
+          "area": "7 3 30",
+          "land_val": "6 10 0",
+          "building_val": "1 5 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Patrick Dunne",
+          "lessor": "Reprs. of Wm. Barton",
+          "desc": "H&L",
+          "area": "1 2 31",
+          "land_val": "1 6 0",
+          "building_val": "0 9 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Thomas Comerford",
+          "lessor": "Reprs. of Wm. Barton",
+          "desc": "H,O,&L",
+          "area": "38 0 9",
+          "land_val": "26 0 0",
+          "building_val": "3 0 0",
+          "total_val": "29 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Bridget Murphy",
+          "lessor": "Miss Jane Barton",
+          "desc": "H,O,&L",
+          "area": "23 1 17",
+          "land_val": "16 0 0",
+          "building_val": "1 5 0",
+          "total_val": "17 5 0"
+        },
+        {
+          "mr": "9 A B a",
+          "occupier": "James M'Grath",
+          "lessor": "Reprs. of Wm. Barton",
+          "desc": "H,O,&L",
+          "area": "7 0 7",
+          "land_val": "5 15 0",
+          "building_val": "1 10 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "James Darcy",
+          "lessor": "Reprs. of Wm. Barton",
+          "desc": "H,O,&L",
+          "area": "5 0 39",
+          "land_val": "4 5 0",
+          "building_val": "1 10 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "11 & 10 b",
+          "occupier": "John Dooley",
+          "lessor": "Reprs. of Wm. Barton",
+          "desc": "H&L",
+          "area": "4 0 13",
+          "land_val": "2 15 0",
+          "building_val": "0 10 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Miss Jane Barton",
+          "lessor": "James P. Poe, Esq.",
+          "desc": "Offices & L",
+          "area": "47 0 35",
+          "land_val": "40 0 0",
+          "building_val": "0 15 0",
+          "total_val": "40 15 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "251 0 32",
+          "land_val": "197 11 0",
+          "building_val": "23 11 0",
+          "total_val": "221 2 0",
+          "is_total": 1
+        }
+      ]
+    },
+    {
+      "parish": "PARISH OF OUTRATH",
+      "entries": [
+        {
+          "mr": "1 A B a C",
+          "townland": "BODALMORE",
+          "occupier": "Robert Carroll",
+          "lessor": "Marm. C. Roberts, Esq.",
+          "desc": "H,O,&L",
+          "area": "25 0 16",
+          "land_val": "17 2 0",
+          "building_val": "3 8 0",
+          "total_val": "20 10 0"
+        },
+        {
+          "mr": "2 A a B",
+          "occupier": "James Houlahan",
+          "lessor": "Marm. C. Roberts, Esq.",
+          "desc": "H,O,&L",
+          "area": "32 2 32",
+          "land_val": "23 0 0",
+          "building_val": "3 10 0",
+          "total_val": "26 10 0"
+        },
+        {
+          "mr": "3 A B a",
+          "occupier": "John Renehan, jun.",
+          "lessor": "Marm. C. Roberts, Esq.",
+          "desc": "H,O,&L",
+          "area": "26 2 22",
+          "land_val": "18 3 0",
+          "building_val": "2 7 0",
+          "total_val": "20 10 0"
+        }
+      ]
+    }
+  ]
+}

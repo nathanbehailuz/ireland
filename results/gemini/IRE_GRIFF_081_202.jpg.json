@@ -1,0 +1,429 @@
+{
+  "parishes": [
+    {
+      "parish": "KILMEGAN",
+      "entries": [
+        {
+          "mr": "36",
+          "townland": "CASTLEWELLAN",
+          "sublocation_1": "TOWN OF CASTLEWELLAN",
+          "occupier": "Peter Gilmore",
+          "lessor": "Robert Martin",
+          "desc": "H",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "37",
+          "occupier": "Daniel Kelly",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,yd,& sm. G",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Patrick Burns",
+          "lessor": "Hugh Smith",
+          "desc": "H,O,yd,& sm. G",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "Michael Morgan",
+          "lessor": "Same",
+          "desc": "H,O,& yard",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "Patrick Roney",
+          "lessor": "Same",
+          "desc": "H (in rear)",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "Anne Neilson",
+          "lessor": "Same",
+          "desc": "H (in rear)",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "James Smith",
+          "lessor": "Earl Annesley",
+          "desc": "H & sm. G",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "Robert Blakley",
+          "lessor": "Same",
+          "desc": "H & sm. G",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "44",
+          "occupier": "John Brennan",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. G",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "45",
+          "occupier": "John M'Cunningham",
+          "lessor": "John Brennan",
+          "desc": "H",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Patrick Roney",
+          "lessor": "Same",
+          "desc": "H (in rear)",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "Charles Kelly",
+          "lessor": "Earl Annesley",
+          "desc": "H,yard,& sm. G",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "47",
+          "occupier": "Anne Rourke",
+          "lessor": "Patrick M'Ilroy",
+          "desc": "H,yard,& sm. G",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "48",
+          "occupier": "Robert Coghran",
+          "lessor": "Mrs. Kemmin",
+          "desc": "H",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "49",
+          "occupier": "Mrs. Kemmin",
+          "lessor": "Earl Annesley",
+          "desc": "H (in rear),& sm. G",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "50",
+          "occupier": "Thomas Hanna",
+          "lessor": "Same",
+          "desc": "H,O,& yard",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "51",
+          "occupier": "Edward Ward",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. G",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "52",
+          "occupier": "James Hawthorn",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. G (in rear)",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "53",
+          "desc": "Building-ground (waste)",
+          "area": "0 0 6",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "54",
+          "occupier": "Patrick Fitzpatrick",
+          "lessor": "Andrew Beard",
+          "desc": "H (in rear)",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "55",
+          "occupier": "Ellen M'Kee",
+          "lessor": "Michael Burns",
+          "desc": "H (in rear)",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "56",
+          "occupier": "Patrick Easpy",
+          "lessor": "Same",
+          "desc": "H (in rear)",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "57",
+          "occupier": "Anne Keenan",
+          "lessor": "Andrew Beard",
+          "desc": "H (in rear)",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "58",
+          "occupier": "Andrew Beard",
+          "lessor": "Earl Annesley",
+          "desc": "H, forge, & sm. G",
+          "building_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "59",
+          "occupier": "Peter M'Shane",
+          "lessor": "Michael Burns",
+          "desc": "H,yard,& sm. G",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "60",
+          "occupier": "Thomas M'Knight",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,yd,& G",
+          "area": "0 0 32",
+          "land_val": "0 10 0",
+          "building_val": "15 10 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "61",
+          "desc": "Crane shed (valued with No. 1)."
+        },
+        {
+          "mr": "62",
+          "occupier": "R. C. Chapel and yard",
+          "lessor": "Earl Annesley",
+          "desc": "(See Exemptions.)",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Half annual rent of R. C. Chapel & yard,",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "63",
+          "occupier": "National School-house and yard",
+          "desc": "(See Exemptions.)",
+          "is_exemption": 1
+        },
+        {
+          "mr": "64",
+          "occupier": "Jane Greene",
+          "lessor": "Patrick Finegan",
+          "desc": "H",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "65",
+          "occupier": "Patrick Finegan",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,yd,& sm. G",
+          "building_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "66",
+          "occupier": "John Rea",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. G",
+          "building_val": "8 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "67",
+          "occupier": "Alexander Quinn",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. G",
+          "building_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Alexander Quinn",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 30",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "68",
+          "occupier": "Earl Annesley",
+          "lessor": "In fee",
+          "desc": "Shambles and yard",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "69",
+          "occupier": "George Shaw",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L",
+          "area": "2 2 5",
+          "land_val": "5 0 0",
+          "building_val": "25 0 0",
+          "total_val": "30 0 0"
+        },
+        {
+          "mr": "70",
+          "occupier": "Unoccupied",
+          "lessor": "John M'Cartan",
+          "desc": "H",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "71",
+          "occupier": "Earl Annesley",
+          "lessor": "In fee",
+          "desc": "Shambles",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "72",
+          "occupier": "John M'Cartan",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,yd,& sm. G",
+          "building_val": "34 0 0",
+          "total_val": "34 0 0"
+        },
+        {
+          "mr": "73",
+          "occupier": "Police barrack, yard, and small garden",
+          "lessor": "Earl Annesley",
+          "desc": "(See Exemptions.)",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Half annual rent of Police barrack, yard, and small garden,",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "74",
+          "occupier": "Northern Banking Co. (John M'Donnell, Local Manager)",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,yd,& G",
+          "area": "0 0 20",
+          "land_val": "0 10 0",
+          "building_val": "35 10 0",
+          "total_val": "36 0 0"
+        },
+        {
+          "mr": "75",
+          "occupier": "Unoccupied",
+          "lessor": "Edward Kelly",
+          "desc": "H,O,yd,& sm. G",
+          "building_val": "16 0 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "76",
+          "occupier": "James Hanna",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. G",
+          "building_val": "16 0 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "77",
+          "occupier": "Patrick Burns",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. G",
+          "building_val": "16 0 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "78",
+          "occupier": "James O'Flinn",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,yd,& sm. G",
+          "building_val": "13 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "79",
+          "occupier": "Anne Hillard",
+          "lessor": "Michael M'Cartan",
+          "desc": "H,O,yd,& sm. G",
+          "building_val": "11 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "80",
+          "occupier": "John Leggatt",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. G",
+          "building_val": "11 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "81",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. G",
+          "building_val": "16 0 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "82",
+          "occupier": "Presbyterian Church and yard",
+          "lessor": "Earl Annesley",
+          "desc": "(See Exemptions.)",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Half annual rent of Presbyterian Church and yard,",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "83",
+          "occupier": "Earl Annesley",
+          "lessor": "In fee",
+          "desc": "Plantation",
+          "area": "0 0 35",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "84",
+          "occupier": "John M'Clean",
+          "lessor": "Patrick M'Clean",
+          "desc": "H,O,yd,& sm. G",
+          "building_val": "18 0 0",
+          "total_val": "18 0 0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,586 @@
+{
+  "parishes": [
+    {
+      "parish": "WHEERY",
+      "entries": [
+        {
+          "mr": "19",
+          "townland": "ENDRIM",
+          "os": "",
+          "occupier": "Thomas Farley",
+          "lessor": "Sir George Gore",
+          "desc": "H,O,&L",
+          "area": "12 1 21",
+          "land_val": "7 10 0",
+          "building_val": "1 0 0",
+          "total_val": "8 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "20",
+          "occupier": "Daniel L'Estrange",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "112 2 25",
+          "land_val": "40 5 0",
+          "building_val": "",
+          "total_val": "40 5 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Bridget Foley",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 3 10",
+          "land_val": "3 15 0",
+          "building_val": "",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "William Donohoe",
+          "lessor": "Daniel L'Estrange",
+          "desc": "H&L",
+          "area": "3 1 20",
+          "land_val": "2 0 0",
+          "building_val": "1 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "23 A",
+          "occupier": "Christopher Larkin",
+          "lessor": "Sir George Gore",
+          "desc": "L",
+          "area": "5 0 16",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Christopher Larkin",
+          "lessor": "Sir George Gore",
+          "desc": "H,O,&L",
+          "area": "4 1 20",
+          "land_val": "2 5 0",
+          "building_val": "1 0 0",
+          "total_val": ""
+        },
+        {
+          "mr": "- C",
+          "occupier": "Christopher Larkin",
+          "lessor": "Sir George Gore",
+          "desc": "L",
+          "area": "3 3 0",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "24",
+          "occupier": "James Dolan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "18 3 17",
+          "land_val": "9 15 0",
+          "building_val": "1 0 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "25 a",
+          "occupier": "John Cloonan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "44 2 2",
+          "land_val": "9 10 0",
+          "building_val": "0 15 0",
+          "total_val": "10 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Owen Devery",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "44 2 2",
+          "land_val": "9 10 0",
+          "building_val": "0 15 0",
+          "total_val": "10 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "26",
+          "occupier": "Margaret Smith",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 3 36",
+          "land_val": "5 0 0",
+          "building_val": "1 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Keiran Foley",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "22 1 0",
+          "land_val": "11 0 0",
+          "building_val": "1 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Patrick Gurnican",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "22 1 0",
+          "land_val": "12 0 0",
+          "building_val": "1 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "29 A",
+          "occupier": "Thomas Treacy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 0 35",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Thomas Treacy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "12 0 8",
+          "land_val": "6 0 0",
+          "building_val": "1 0 0",
+          "total_val": ""
+        },
+        {
+          "mr": "30",
+          "occupier": "William Mulreany",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "17 1 23",
+          "land_val": "9 10 0",
+          "building_val": "1 0 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Joseph Farrell",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "52 1 15",
+          "land_val": "27 0 0",
+          "building_val": "1 10 0",
+          "total_val": "28 10 0"
+        },
+        {
+          "mr": "32 a",
+          "occupier": "Patrick Kaherin",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "40 0 3",
+          "land_val": "11 10 0",
+          "building_val": "1 5 0",
+          "total_val": "12 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Edward Kaherin",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "40 0 3",
+          "land_val": "11 10 0",
+          "building_val": "1 5 0",
+          "total_val": "12 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "33",
+          "occupier": "James Furlong",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "53 1 8",
+          "land_val": "25 0 0",
+          "building_val": "",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Michael Spelman",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "21 0 2",
+          "land_val": "9 5 0",
+          "building_val": "1 0 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "35 A",
+          "occupier": "Thomas Donohoe",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "16 0 9",
+          "land_val": "7 5 0",
+          "building_val": "1 10 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Thomas Donohoe",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 2 18",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "36",
+          "occupier": "Edward Duffy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "13 2 20",
+          "land_val": "5 15 0",
+          "building_val": "1 0 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "Michael Cusack",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "35 3 10",
+          "land_val": "16 5 0",
+          "building_val": "1 10 0",
+          "total_val": "17 15 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "George Holmes",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "90 1 39",
+          "land_val": "43 10 0",
+          "building_val": "0 10 0",
+          "total_val": "44 0 0"
+        },
+        {
+          "mr": "39 A",
+          "occupier": "Anne Curley, Rose Curley",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "19 1 31",
+          "land_val": "12 0 0",
+          "building_val": "1 10 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Anne Curley, Rose Curley",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "23 1 32",
+          "land_val": "11 0 0",
+          "building_val": "1 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "40 a",
+          "occupier": "Edward Moran",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "31 3 5",
+          "land_val": "9 10 0",
+          "building_val": "1 5 0",
+          "total_val": "10 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Rose Moran",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "31 3 5",
+          "land_val": "9 10 0",
+          "building_val": "1 5 0",
+          "total_val": "10 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "41 A",
+          "occupier": "Mary Duffy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 3 32",
+          "land_val": "12 10 0",
+          "building_val": "1 10 0",
+          "total_val": "15 15 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Mary Duffy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 2 30",
+          "land_val": "0 18 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- C",
+          "occupier": "Mary Duffy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 3 24",
+          "land_val": "0 17 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "42 A",
+          "occupier": "Michael Duffy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "9 0 33",
+          "land_val": "5 10 0",
+          "building_val": "0 15 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Michael Duffy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "11 1 10",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "43",
+          "occupier": "Sir George Gore",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "5 0 17",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "44 A",
+          "occupier": "Sir George Gore",
+          "lessor": "In fee",
+          "desc": "High bog",
+          "area": "27 1 10",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Sir George Gore",
+          "lessor": "In fee",
+          "desc": "High bog",
+          "area": "17 0 16",
+          "land_val": "0 17 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- C",
+          "occupier": "Sir George Gore",
+          "lessor": "In fee",
+          "desc": "High bog",
+          "area": "131 1 1",
+          "land_val": "0 11 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "45",
+          "occupier": "Constabulary Force",
+          "lessor": "Sir George Gore",
+          "desc": "Police barrack & garden",
+          "area": "2 0 7",
+          "land_val": "1 0 0",
+          "building_val": "5 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "occupier": "Total,",
+          "area": "1042 0 10",
+          "land_val": "658 12 0",
+          "building_val": "61 5 0",
+          "total_val": "719 17 0",
+          "is_total": 1
+        },
+        {
+          "occupier": "Police barrack & garden",
+          "desc": "Police barrack & garden, Half rent of police bar., £5.",
+          "area": "2 0 7",
+          "land_val": "1 0 0",
+          "building_val": "5 10 0",
+          "total_val": "6 10 0",
+          "is_exemption": 1
+        },
+        {
+          "occupier": "Total, exclusive of Exemptions,",
+          "area": "1040 0 3",
+          "land_val": "657 12 0",
+          "building_val": "55 15 0",
+          "total_val": "713 7 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "FERBANE",
+          "os": "14",
+          "occupier": "Rev. Henry King",
+          "lessor": "In fee",
+          "desc": "Caretaker's ho. & land",
+          "area": "11 1 18",
+          "land_val": "8 0 0",
+          "building_val": "3 0 0",
+          "total_val": "33 15 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "- B",
+          "occupier": "Rev. Henry King",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "20 1 6",
+          "land_val": "18 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- C",
+          "occupier": "Rev. Henry King",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "0 1 33",
+          "land_val": "0 9 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- D",
+          "occupier": "Rev. Henry King",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "8 1 26",
+          "land_val": "3 16 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "2 A",
+          "occupier": "Arthur Galvin",
+          "lessor": "Rev. Henry King",
+          "desc": "L",
+          "area": "16 0 31",
+          "land_val": "10 0 0",
+          "building_val": "",
+          "total_val": "22 5 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Arthur Galvin",
+          "lessor": "Rev. Henry King",
+          "desc": "L",
+          "area": "7 2 22",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- C",
+          "occupier": "Arthur Galvin",
+          "lessor": "Rev. Henry King",
+          "desc": "L",
+          "area": "10 3 2",
+          "land_val": "6 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- D",
+          "occupier": "Arthur Galvin",
+          "lessor": "Rev. Henry King",
+          "desc": "L",
+          "area": "2 2 27",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "3 A",
+          "occupier": "Francis Royston",
+          "lessor": "Same",
+          "desc": "Caretaker's ho. & land",
+          "area": "21 3 14",
+          "land_val": "16 10 0",
+          "building_val": "0 10 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Francis Royston",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 0 8",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "4",
+          "occupier": "Abraham Bagnal",
+          "lessor": "Same, Maria Dawson, Richard Leffar",
+          "desc": "H,O,gate-lodge,&L",
+          "area": "39 0 0",
+          "land_val": "30 0 0",
+          "building_val": "16 0 0",
+          "total_val": "46 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Abraham Bagnal",
+          "lessor": "Same",
+          "desc": "High bog",
+          "area": "14 2 10",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "6 A",
+          "occupier": "Joshua Hall",
+          "lessor": "Rev. Henry King",
+          "desc": "L",
+          "area": "11 3 38",
+          "land_val": "14 10 0",
+          "building_val": "",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Joshua Hall",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 1 7",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": ""
+        }
+      ]
+    }
+  ]
+}

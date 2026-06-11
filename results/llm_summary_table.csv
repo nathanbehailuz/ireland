@@ -1,7 +1,0 @@
-page,true_c_townlands,identified_claude,identified_gemini,identified_openai,correct_claude,correct_gemini,correct_openai
-IRE_GRIFF_142_102.jpg,1,1,1,0,0,1,0
-IRE_GRIFF_218_013.jpg,1,1,1,1,1,1,1
-IRE_GRIFF_260_170.jpg,3,1,1,1,1,1,1
-IRE_GRIFF_262_033.jpg,1,1,1,0,1,1,0
-IRE_GRIFF_299_172.jpg,2,2,2,2,1,2,1
-TOTAL,9,6,6,4,4,6,3

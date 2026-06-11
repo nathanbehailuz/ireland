@@ -1,0 +1,520 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF BALLYSAX",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "BROWNSTOWN, GREAT",
+          "os": "28",
+          "occupier": "Joseph Walsh",
+          "lessor": "Bryan Clancy",
+          "desc": "H,O,&L",
+          "area": "4 0 4",
+          "land_val": "3 0 0",
+          "building_val": "5 5 0",
+          "total_val": "8 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Bryan Clancy",
+          "lessor": "Viscount Clifden",
+          "desc": "L",
+          "area": "62 2 7",
+          "land_val": "52 0 0",
+          "total_val": "52 0 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Simon Caffrey",
+          "lessor": "Bryan Clancy",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Edward Egan",
+          "lessor": "Bryan Clancy",
+          "desc": "H&O",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Murphy",
+          "lessor": "Bryan Clancy",
+          "desc": "H,O,&L",
+          "area": "4 0 25",
+          "land_val": "4 0 0",
+          "building_val": "10 10 0",
+          "total_val": "14 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James Murphy",
+          "lessor": "Richard Berney",
+          "desc": "L",
+          "area": "13 3 15",
+          "land_val": "12 10 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Murtagh Dalton",
+          "lessor": "James Murphy",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "William M'Gee",
+          "lessor": "James Murphy",
+          "desc": "H&O",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "Peter Brown",
+          "lessor": "James Murphy",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "— d",
+          "occupier": "Murtagh Delany",
+          "lessor": "James Murphy",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "— e",
+          "occupier": "Patrick M'Donnell",
+          "lessor": "James Murphy",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "George Knox",
+          "lessor": "Viscount Clifden",
+          "desc": "H,O,&L",
+          "area": "100 2 10",
+          "land_val": "86 0 0",
+          "building_val": "24 0 0",
+          "total_val": "110 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Patrick Beirne",
+          "lessor": "Viscount Clifden",
+          "desc": "L",
+          "area": "14 1 13",
+          "land_val": "12 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Michael Monaghan",
+          "lessor": "Patrick Beirne",
+          "desc": "H&O",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Thomas Reynolds and Mrs. Walsh",
+          "lessor": "Patrick Beirne",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— c",
+          "occupier": "Patrick Dowling",
+          "lessor": "Patrick Beirne",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "— d",
+          "occupier": "Ellen Perkins",
+          "lessor": "Patrick Beirne",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "— e",
+          "occupier": "Michael Connolly",
+          "lessor": "Patrick Beirne",
+          "desc": "H,O,&G",
+          "area": "0 1 1",
+          "land_val": "0 5 0",
+          "building_val": "0 15 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Maurice Conlan",
+          "lessor": "Viscount Clifden",
+          "desc": "H,O,&L",
+          "area": "9 2 26",
+          "land_val": "7 0 0",
+          "building_val": "1 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Michael Conlan",
+          "lessor": "Viscount Clifden",
+          "desc": "H,O,&L",
+          "area": "10 0 27",
+          "land_val": "8 0 0",
+          "building_val": "1 5 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "James Murphy",
+          "lessor": "Viscount Clifden",
+          "desc": "Herd's-H&L",
+          "area": "24 0 29",
+          "land_val": "18 0 0",
+          "building_val": "0 10 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "John Connor",
+          "lessor": "James Murphy",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "James Perry",
+          "lessor": "Viscount Clifden",
+          "desc": "H,O,&L",
+          "area": "10 0 12",
+          "land_val": "14 0 0",
+          "building_val": "1 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Richard Berney",
+          "lessor": "Viscount Clifden",
+          "desc": "H,O,&L",
+          "area": "96 0 32",
+          "land_val": "67 10 0",
+          "building_val": "2 10 0",
+          "total_val": "70 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Catherine Hyland",
+          "lessor": "Viscount Clifden",
+          "desc": "L",
+          "area": "7 2 23",
+          "land_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Garrett Byrne",
+          "lessor": "Viscount Clifden",
+          "desc": "H,O,&L",
+          "area": "3 3 35",
+          "land_val": "3 0 0",
+          "building_val": "1 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Edward M'Daniel",
+          "lessor": "Viscount Clifden",
+          "desc": "H&L",
+          "area": "4 0 5",
+          "land_val": "3 0 0",
+          "building_val": "0 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "James Browne",
+          "lessor": "Edward M'Daniel",
+          "desc": "H,O,&L",
+          "area": "1 3 2",
+          "land_val": "1 10 0",
+          "building_val": "0 10 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "376 1 26",
+          "land_val": "297 15 0",
+          "building_val": "54 10 0",
+          "total_val": "352 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BROWNSTOWN, LITTLE",
+          "os": "28",
+          "occupier": "James Farrell",
+          "lessor": "Viscount Clifden",
+          "desc": "H&L",
+          "area": "3 1 13",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Garrett Byrne",
+          "lessor": "James Farrell",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Catherine Hyland",
+          "lessor": "Viscount Clifden",
+          "desc": "L",
+          "area": "7 3 2",
+          "land_val": "5 15 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Michael Kelly",
+          "lessor": "Viscount Clifden",
+          "desc": "H,O,&L",
+          "area": "67 3 4",
+          "land_val": "47 0 0",
+          "building_val": "1 10 0",
+          "total_val": "48 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "78 3 19",
+          "land_val": "55 5 0",
+          "building_val": "2 10 0",
+          "total_val": "57 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CURRAGH",
+          "os": "28",
+          "occupier": "Commisnrs. of Woods and Forests",
+          "lessor": "In fee",
+          "desc": "L (The Curragh)",
+          "area": "2137 2 20",
+          "land_val": "855 10 0",
+          "total_val": "855 10 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "Esther Keegan",
+          "lessor": "Free",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Dalby",
+          "lessor": "Free",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Henry Mulcahy",
+          "lessor": "Esther Keegan",
+          "desc": "G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "National School",
+          "lessor": "Rev. Timy. Kavanagh",
+          "desc": "H (no rent)",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Darcy",
+          "lessor": "Berkley Woodhouse",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 5 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "James Beirne",
+          "lessor": "Nicholas Keegan",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 5 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Patrick Holohan",
+          "lessor": "Nicholas Keegan",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 5 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Esther Keegan",
+          "lessor": "Patrick Keegan",
+          "desc": "G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Samuel Toppin",
+          "lessor": "Esther Keegan",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 5 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Jane Dunne",
+          "lessor": "Peter Byrne",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 10 0",
+          "total_val": "0 11 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Michael Holohan",
+          "lessor": "Peter Byrne",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 10 0",
+          "total_val": "0 11 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Catherine Gannon",
+          "lessor": "Peter Byrne",
+          "desc": "G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "John Moran",
+          "lessor": "Peter Byrne",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 5 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Catherine Gannon",
+          "lessor": "Peter Byrne",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 10 0",
+          "total_val": "0 11 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Peter Byrne",
+          "lessor": "Berkley Woodhouse",
+          "desc": "G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Peter Byrne",
+          "lessor": "Free",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "1 5 0",
+          "total_val": "1 6 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Edward Kavanagh",
+          "lessor": "Free",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Lawrence Keegan",
+          "lessor": "Free",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Thomas Hughes",
+          "lessor": "Free",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "James Artery",
+          "lessor": "Free",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "William Cooke",
+          "lessor": "Free",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        }
+      ]
+    }
+  ]
+}

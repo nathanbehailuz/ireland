@@ -1,0 +1,501 @@
+{
+  "parishes": [
+    {
+      "parish": "STRAFFAN",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "BARBERSTOWN",
+          "os": "10",
+          "occupier": "Edward Smith, Esq.",
+          "lessor": "Henry Barton, Esq.",
+          "desc": "H,O,&L",
+          "area": "138 3 17",
+          "land_val": "143 0 0",
+          "building_val": "50 0 0",
+          "total_val": "193 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Owen Mulligan",
+          "lessor": "Edward Smith, Esq.",
+          "desc": "H,G",
+          "area": "0 1 27",
+          "land_val": "0 8 0",
+          "building_val": "0 17 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "139 1 4",
+          "land_val": "143 8 0",
+          "building_val": "50 17 0",
+          "total_val": "194 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BARBERSTOWN, LOWER",
+          "os": "10",
+          "occupier": "Thomas Smith",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "L",
+          "area": "193 0 10",
+          "land_val": "186 5 0",
+          "total_val": "186 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Christopher Mooney",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,O,&L",
+          "area": "6 2 9",
+          "land_val": "6 0 0",
+          "building_val": "1 15 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "199 2 19",
+          "land_val": "192 5 0",
+          "building_val": "1 15 0",
+          "total_val": "194 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "BARBERSTOWN, UPPER",
+          "os": "10",
+          "occupier": "Thomas Smith",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,O,&L",
+          "area": "134 0 6",
+          "land_val": "113 5 0",
+          "building_val": "23 15 0",
+          "total_val": "137 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Thomas Grogan",
+          "lessor": "Thomas Smith",
+          "desc": "H,G",
+          "area": "0 2 12",
+          "land_val": "0 13 0",
+          "building_val": "1 2 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Patrick Garry",
+          "lessor": "Thomas Smith",
+          "desc": "H,O,&L",
+          "area": "4 0 2",
+          "land_val": "3 10 0",
+          "building_val": "0 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Anne Higgins",
+          "lessor": "Thomas Smith",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Michael Dunne",
+          "lessor": "Thomas Smith",
+          "desc": "L",
+          "area": "11 2 10",
+          "land_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Michael Brennan",
+          "lessor": "Thomas Smith",
+          "desc": "H,O,&L",
+          "area": "2 3 5",
+          "land_val": "2 0 0",
+          "building_val": "1 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "152 3 35",
+          "land_val": "124 18 0",
+          "building_val": "26 13 0",
+          "total_val": "151 11 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BAWNOGES",
+          "os": "10 & 14",
+          "occupier": "William Mortimer",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,O,&L",
+          "area": "11 3 31",
+          "land_val": "8 0 0",
+          "building_val": "1 15 0",
+          "total_val": "9 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Rev. Robt. Packenham",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "L",
+          "area": "16 1 17",
+          "land_val": "12 10 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "William Fox",
+          "lessor": "Rev. Robt. Pakenham",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Edward Smith, Esq.",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "L",
+          "area": "10 3 8",
+          "land_val": "9 10 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Keating",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,O,&L",
+          "area": "8 0 5",
+          "land_val": "6 0 0",
+          "building_val": "2 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Denis Sullivan",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,O,&L",
+          "area": "4 0 8",
+          "land_val": "2 5 0",
+          "building_val": "1 0 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "5 b",
+          "occupier": "Mary Bolger",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,G",
+          "area": "0 0 13",
+          "land_val": "0 2 0",
+          "building_val": "0 13 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "5 c",
+          "occupier": "Hannah Walsh",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,G",
+          "area": "0 0 13",
+          "land_val": "0 2 0",
+          "building_val": "0 7 0",
+          "total_val": "0 9 0"
+        },
+        {
+          "mr": "6 & 19 m",
+          "occupier": "Patrick Meally",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,O,&L",
+          "area": "6 3 20",
+          "land_val": "5 5 0",
+          "building_val": "1 10 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "7 & 19 n",
+          "occupier": "Martin Keneela",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,O,&L",
+          "area": "17 2 20",
+          "land_val": "12 10 0",
+          "building_val": "2 5 0",
+          "total_val": "14 15 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Anne Ennis",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,O,&L",
+          "area": "50 2 16",
+          "land_val": "31 0 0",
+          "building_val": "3 10 0",
+          "total_val": "34 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Thomas Lee",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "L",
+          "area": "8 3 23",
+          "land_val": "6 5 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "10 & 19 k",
+          "occupier": "William Meally",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,O,&L",
+          "area": "18 0 26",
+          "land_val": "12 0 0",
+          "building_val": "2 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Michael Judge",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,O,&L",
+          "area": "6 1 36",
+          "land_val": "4 15 0",
+          "building_val": "1 0 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "11 b",
+          "occupier": "John Sweeny",
+          "lessor": "Michael Judge",
+          "desc": "H",
+          "building_val": "0 9 0",
+          "total_val": "0 9 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "James Whitelaw, Esq.",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "L",
+          "area": "14 2 11",
+          "land_val": "9 15 0",
+          "total_val": "9 15 0"
+        },
+        {
+          "occupier": "James Whitelaw, Esq.",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,O,&L",
+          "area": "18 2 16",
+          "land_val": "10 15 0",
+          "building_val": "1 15 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "13 & 19 j",
+          "occupier": "Anthony Bradigan",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,O,&L",
+          "area": "13 3 32",
+          "land_val": "11 15 0",
+          "building_val": "2 0 0",
+          "total_val": "13 15 0"
+        },
+        {
+          "occupier": "Anthony Bradigan",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "L",
+          "area": "7 3 12",
+          "land_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "14 & 19 l",
+          "occupier": "Patrick Kane",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,O,&L",
+          "area": "2 0 22",
+          "land_val": "1 5 0",
+          "building_val": "1 15 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "occupier": "Patrick Kane",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "L",
+          "area": "1 2 21",
+          "land_val": "0 17 0",
+          "building_val": "1 13 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Hugh Barton, Esq.",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "3 0 20",
+          "land_val": "2 15 0",
+          "building_val": "2 10 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "16 a",
+          "occupier": "Mrs. Anne Carmichael",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "School-house,offs.,&yd.",
+          "area": "0 0 18",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "17 & 16 b",
+          "occupier": "Hugh Killeen",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,&L",
+          "area": "1 0 7",
+          "land_val": "0 16 0",
+          "building_val": "1 4 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "occupier": "Hugh Killeen",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,&L",
+          "area": "1 0 12",
+          "land_val": "0 16 0",
+          "building_val": "1 4 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "John Mates",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,O,&gar.",
+          "area": "3 0 20",
+          "land_val": "2 15 0",
+          "building_val": "2 10 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "19 a",
+          "occupier": "James Kane",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,O,&gar.",
+          "area": "1 0 7",
+          "land_val": "0 16 0",
+          "building_val": "1 4 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "19 b",
+          "occupier": "John Salmon",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,O,&gar.",
+          "area": "1 0 12",
+          "land_val": "0 16 0",
+          "building_val": "1 4 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "19 c",
+          "occupier": "John Connors",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "19 d",
+          "occupier": "Richard Barrett",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,G",
+          "area": "0 3 36",
+          "land_val": "0 16 0",
+          "building_val": "1 4 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "19 e",
+          "occupier": "John Bowen",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,G",
+          "area": "0 3 36",
+          "land_val": "0 16 0",
+          "building_val": "1 4 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "19 f",
+          "occupier": "Mary Doyle",
+          "lessor": "John Bowen",
+          "desc": "H",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "19 g",
+          "occupier": "Patrick White",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,O,&gar.",
+          "area": "0 3 23",
+          "land_val": "0 15 0",
+          "building_val": "1 10 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "19 h",
+          "occupier": "William Henderson",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,O,&gar.",
+          "area": "1 0 2",
+          "land_val": "0 16 0",
+          "building_val": "0 19 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "19 i",
+          "occupier": "Henry Gallagher",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "H,O,&gar.",
+          "area": "0 3 30",
+          "land_val": "0 15 0",
+          "building_val": "1 5 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "John Maginn",
+          "lessor": "Hugh Barton, Esq.",
+          "desc": "L",
+          "area": "2 0 3",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "230 3 17",
+          "land_val": "162 1 0",
+          "building_val": "39 6 0",
+          "total_val": "201 7 0",
+          "is_total": 1
+        },
+        {
+          "desc": "School-house,offs.,&yd.",
+          "area": "0 0 18",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of Exemptions",
+          "area": "230 2 39",
+          "land_val": "162 1 0",
+          "building_val": "36 11 0",
+          "total_val": "198 12 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

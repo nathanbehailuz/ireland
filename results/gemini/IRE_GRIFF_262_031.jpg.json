@@ -1,0 +1,596 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF HOLYCROSS",
+      "entries": [
+        {
+          "mr": "c",
+          "townland": "HOLYCROSS",
+          "occupier": "John Hickey",
+          "lessor": "John Parks",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 2 0",
+          "total_val": "1 2 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "3 A B",
+          "occupier": "John Massey, Esq.",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "L",
+          "area": "105 2 7",
+          "land_val": "70 6 0",
+          "building_val": "",
+          "total_val": "70 6 0"
+        },
+        {
+          "mr": "— A a",
+          "occupier": "Vacant",
+          "lessor": "Great Southern and Western Railway Co.",
+          "desc": "H,O",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 2 0",
+          "total_val": "3 2 0"
+        },
+        {
+          "mr": "— B a",
+          "occupier": "Vacant",
+          "lessor": "John Massey, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 4 0",
+          "total_val": "2 4 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Patrick Long",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H,O,&L",
+          "area": "11 2 37",
+          "land_val": "8 3 0",
+          "building_val": "2 3 0",
+          "total_val": "10 6 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "James Heffernan",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H&L",
+          "area": "13 0 32",
+          "land_val": "9 4 0",
+          "building_val": "1 18 0",
+          "total_val": "11 2 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Mrs. Cath. Dwyer",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 9 0",
+          "total_val": "0 9 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "George Thompson",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H,O,&L",
+          "area": "31 0 23",
+          "land_val": "29 0 0",
+          "building_val": "7 13 0",
+          "total_val": "36 13 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Rich. Armstrong, Esq.",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H,O,&L",
+          "area": "64 0 24",
+          "land_val": "46 3 0",
+          "building_val": "8 13 0",
+          "total_val": "54 16 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Rev. George Peacock",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "Church and grave-yard",
+          "area": "0 3 33",
+          "land_val": "0 16 0",
+          "building_val": "13 13 0",
+          "total_val": "14 9 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "— b",
+          "occupier": "William Parks",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "Parochial School,O,&G",
+          "area": "0 1 21",
+          "land_val": "0 8 0",
+          "building_val": "3 2 0",
+          "total_val": "3 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "— c",
+          "occupier": "Nathaniel Wright",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Rev. George Peacock",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "L",
+          "area": "9 1 31",
+          "land_val": "9 17 0",
+          "building_val": "",
+          "total_val": "9 17 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Rev. Wm. Laffan, P.P.",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "Roman Catholic chapel and grave-yard",
+          "area": "1 0 29",
+          "land_val": "0 19 0",
+          "building_val": "40 3 0",
+          "total_val": "41 2 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "— b",
+          "occupier": "Mrs. Honoria Wall (caretaker)",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "Jeremiah O'Brien",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H,O,corn-mill,&G",
+          "area": "1 0 2",
+          "land_val": "0 3 0",
+          "building_val": "15 11 0",
+          "total_val": "15 14 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "David Dwyer",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "Fair-green",
+          "area": "6 2 15",
+          "land_val": "12 11 0",
+          "building_val": "",
+          "total_val": "12 11 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Vacant",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "National School",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 15 0",
+          "total_val": "5 15 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "11 a",
+          "occupier": "John Hurston",
+          "lessor": "Court of Chancery",
+          "desc": "H&L",
+          "area": "112 2 20",
+          "land_val": "45 13 0",
+          "building_val": "5 2 0",
+          "total_val": "50 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "—",
+          "occupier": "Thomas Davis",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "area": "",
+          "land_val": "45 13 0",
+          "building_val": "",
+          "total_val": "45 13 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "— b",
+          "occupier": "Patk. Browne (caretak.)",
+          "lessor": "John Hurston & Thomas Dwyer",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 8 0",
+          "total_val": "2 8 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "12",
+          "occupier": "Martin Ryan",
+          "lessor": "Court of Chancery",
+          "desc": "H,O,&L",
+          "area": "44 1 37",
+          "land_val": "39 0 0",
+          "building_val": "5 15 0",
+          "total_val": "44 15 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Edward Maher",
+          "lessor": "Court of Chancery",
+          "desc": "L",
+          "area": "28 0 12",
+          "land_val": "19 11 0",
+          "building_val": "",
+          "total_val": "19 11 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Bridget Ryan",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H&L",
+          "area": "1 3 8",
+          "land_val": "1 15 0",
+          "building_val": "1 6 0",
+          "total_val": "3 1 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Mrs. Mary Long",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H,O,&L",
+          "area": "56 1 22",
+          "land_val": "43 3 0",
+          "building_val": "3 0 0",
+          "total_val": "46 3 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Rev. Garrett Wall",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "99 1 34",
+          "land_val": "96 5 0",
+          "building_val": "1 0 0",
+          "total_val": "97 5 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Vacant",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "23 12 0",
+          "total_val": "23 12 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Vacant",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "Vacant",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 1 0",
+          "total_val": "1 1 0"
+        },
+        {
+          "mr": "— d",
+          "occupier": "John Kennedy",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "— e",
+          "occupier": "Vacant",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "Old abbey and yard",
+          "area": "1 2 10",
+          "land_val": "2 7 0",
+          "building_val": "0 17 0",
+          "total_val": "3 4 0"
+        },
+        {
+          "mr": "17 a",
+          "occupier": "Patrick Farrell",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H,O,&L",
+          "area": "0 0 33",
+          "land_val": "0 4 0",
+          "building_val": "1 1 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "John Lanton",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H&G",
+          "area": "",
+          "land_val": "7 1 0",
+          "building_val": "1 9 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "John Farrell",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H,O,&L",
+          "area": "16 3 20",
+          "land_val": "0 16 0",
+          "building_val": "0 15 0",
+          "total_val": "1 11 0"
+        },
+        {
+          "mr": "— d",
+          "occupier": "Edward Cass",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H&L",
+          "area": "0 0 15",
+          "land_val": "0 2 0",
+          "building_val": "7 16 0",
+          "total_val": "7 18 0"
+        },
+        {
+          "mr": "— e",
+          "occupier": "Jeremiah Long",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H,O,&G",
+          "area": "",
+          "land_val": "2 7 0",
+          "building_val": "3 7 0",
+          "total_val": "5 14 0"
+        },
+        {
+          "mr": "— f",
+          "occupier": "William Houlahan",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "0 16 0",
+          "building_val": "",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "James Tobin",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 15 0",
+          "building_val": "1 4 0",
+          "total_val": "1 19 0"
+        },
+        {
+          "mr": "— g",
+          "occupier": "John Conidine",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "H,O,&L",
+          "area": "5 2 37",
+          "land_val": "1 9 0",
+          "building_val": "",
+          "total_val": "1 9 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Daniel Ryan",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "L",
+          "area": "",
+          "land_val": "1 9 0",
+          "building_val": "",
+          "total_val": "1 9 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "John Brien",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "L",
+          "area": "",
+          "land_val": "1 9 0",
+          "building_val": "",
+          "total_val": "1 9 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "Patrick Twohy",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "L",
+          "area": "",
+          "land_val": "1 9 0",
+          "building_val": "",
+          "total_val": "1 9 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "Mary Maher",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "L",
+          "area": "2 0 30",
+          "land_val": "2 4 0",
+          "building_val": "",
+          "total_val": "2 4 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Daniel Gumly",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "L",
+          "area": "12 1 19",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "20",
+          "occupier": "Railway Company",
+          "lessor": "In fee",
+          "desc": "Railway, 332 lin. perches",
+          "area": "1 1 38",
+          "land_val": "1 1 0",
+          "building_val": "",
+          "total_val": "1 1 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "Railway Company",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "desc": "Total",
+          "area": "641 2 1",
+          "land_val": "511 4 0",
+          "building_val": "174 3 0",
+          "total_val": "685 7 0",
+          "is_total": 1
+        },
+        {
+          "desc": "R. C. chapel & grave-yd.",
+          "area": "1 0 29",
+          "land_val": "0 19 0",
+          "building_val": "40 3 0",
+          "total_val": "41 2 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "National School-house",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 15 0",
+          "total_val": "5 15 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Church and grave-yard",
+          "area": "0 3 33",
+          "land_val": "0 16 0",
+          "building_val": "13 13 0",
+          "total_val": "14 9 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Parochial School-house, offices, and garden",
+          "area": "0 1 21",
+          "land_val": "0 8 0",
+          "building_val": "3 2 0",
+          "total_val": "3 10 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total of Exemptions",
+          "area": "2 2 3",
+          "land_val": "2 3 0",
+          "building_val": "62 13 0",
+          "total_val": "64 16 0",
+          "is_total": 1,
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of Exemptions",
+          "area": "638 3 38",
+          "land_val": "509 1 0",
+          "building_val": "111 10 0",
+          "total_val": "620 11 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "KILLEENYARDA",
+          "occupier": "James Armstrong",
+          "lessor": "Robert Jones, Esq.",
+          "desc": "H,O,&L",
+          "area": "4 0 19",
+          "land_val": "3 15 0",
+          "building_val": "1 0 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "2 A B a",
+          "occupier": "Robert Jones, Esq.",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "L",
+          "area": "56 1 21",
+          "land_val": "50 10 0",
+          "building_val": "7 13 0",
+          "total_val": "58 3 0"
+        },
+        {
+          "mr": "— A a",
+          "occupier": "William Jones",
+          "lessor": "Robert Jones, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 18 0",
+          "total_val": "3 18 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "William Jones",
+          "lessor": "Robert Jones, Esq.",
+          "desc": "L",
+          "area": "23 3 23",
+          "land_val": "18 6 0",
+          "building_val": "",
+          "total_val": "18 6 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Denis Ryan",
+          "lessor": "Robert Jones, Esq.",
+          "desc": "H&G",
+          "area": "1 2 23",
+          "land_val": "1 12 0",
+          "building_val": "0 13 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Robert Jones, Esq.",
+          "lessor": "Rev. Garrett Wall",
+          "desc": "G",
+          "area": "0 0 33",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        }
+      ]
+    }
+  ]
+}

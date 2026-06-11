@@ -1,0 +1,353 @@
+{
+  "parishes": [
+    {
+      "parish": "TREVET",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "GARRETSTOWN",
+          "os": "38",
+          "occupier": "Edward Cullen",
+          "lessor": "Richard Rothwell",
+          "desc": "H,O,&L",
+          "area": "616 3 26",
+          "land_val": "756 0 0",
+          "building_val": "14 0 0",
+          "total_val": "770 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "John Carey",
+          "lessor": "Edward Cullen",
+          "desc": "H&G",
+          "area": "0 2 32",
+          "land_val": "0 15 0",
+          "building_val": "0 15 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "James Regan",
+          "lessor": "Same",
+          "desc": "H&O",
+          "building_val": "0 15 0"
+        },
+        {
+          "mr": "- A",
+          "occupier": "James Regan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 0 25",
+          "land_val": "2 0 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "James Regan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 3 30",
+          "land_val": "0 10 0"
+        },
+        {
+          "mr": "- C",
+          "occupier": "James Regan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "17 0 0",
+          "land_val": "10 0 0"
+        },
+        {
+          "mr": "- D",
+          "occupier": "James Regan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "9 3 25",
+          "land_val": "6 0 0"
+        },
+        {
+          "mr": "- E",
+          "occupier": "James Regan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 2 0",
+          "land_val": "0 5 0"
+        },
+        {
+          "mr": "- F",
+          "occupier": "James Regan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 0 0",
+          "land_val": "1 15 0"
+        },
+        {
+          "mr": "- G",
+          "occupier": "James Regan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 0 30",
+          "land_val": "0 2 0"
+        },
+        {
+          "mr": "- H",
+          "occupier": "James Regan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 1 10",
+          "land_val": "0 4 0"
+        },
+        {
+          "mr": "- I",
+          "occupier": "James Regan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 1 0",
+          "land_val": "0 3 0"
+        },
+        {
+          "mr": "- J",
+          "occupier": "James Regan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 2 33",
+          "land_val": "2 0 0"
+        },
+        {
+          "mr": "- K",
+          "occupier": "James Regan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 15",
+          "land_val": "1 0 0"
+        },
+        {
+          "mr": "- L",
+          "occupier": "James Regan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 2 25",
+          "land_val": "0 8 0"
+        },
+        {
+          "mr": "- M",
+          "occupier": "James Regan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 0 0",
+          "land_val": "1 10 0"
+        },
+        {
+          "mr": "- N",
+          "occupier": "James Regan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 2 20",
+          "land_val": "0 8 0",
+          "total_val": "26 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "662 1 31",
+          "land_val": "783 0 0",
+          "building_val": "15 10 0",
+          "total_val": "798 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "SCALESTOWN",
+          "os": "38",
+          "occupier": "Christopher Rooney",
+          "lessor": "Richard Rothwell",
+          "desc": "Herd's H,O,&L",
+          "area": "160 1 2",
+          "land_val": "180 0 0",
+          "building_val": "3 0 0",
+          "total_val": "183 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Andrew Fitzpatrick",
+          "lessor": "Christopher Rooney",
+          "desc": "H,O,&L",
+          "area": "9 3 6",
+          "land_val": "8 0 0",
+          "building_val": "1 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Nicholas Donovan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 2 11",
+          "land_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Patrick Keegan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "7 2 36",
+          "land_val": "6 0 0",
+          "building_val": "0 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "186 1 15",
+          "land_val": "201 0 0",
+          "building_val": "4 10 0",
+          "total_val": "205 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "TREVET",
+          "os": "38",
+          "occupier": "Andrew Casey",
+          "lessor": "Richard Rothwell",
+          "desc": "H,O,&L",
+          "area": "40 3 16",
+          "land_val": "33 0 0",
+          "building_val": "1 0 0",
+          "total_val": "34 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Denis Townsell",
+          "lessor": "Andrew Casey",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Andrew Fitzpatrick",
+          "lessor": "Richard Rothwell",
+          "desc": "L",
+          "area": "13 3 12",
+          "land_val": "11 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Catherine Fox",
+          "lessor": "Same",
+          "desc": "O&L",
+          "area": "12 3 10",
+          "land_val": "10 10 0",
+          "building_val": "0 5 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "John Brien",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "20 2 10",
+          "land_val": "17 0 0",
+          "building_val": "0 10 0",
+          "total_val": "17 10 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Richard Corcoran",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "73 1 16",
+          "land_val": "68 0 0",
+          "building_val": "2 0 0",
+          "total_val": "70 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Vacant",
+          "lessor": "Richard Corcoran",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Arthur Radcliffe",
+          "lessor": "Richard Rothwell",
+          "desc": "Herd's H,O,&L",
+          "area": "125 1 34",
+          "land_val": "158 0 0",
+          "building_val": "2 0 0",
+          "total_val": "160 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "James Maher",
+          "lessor": "Patrick Maher",
+          "desc": "L (glebe)",
+          "area": "3 2 22",
+          "land_val": "5 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "James Maher",
+          "lessor": "Same",
+          "desc": "Herd's H,O,&L",
+          "area": "440 0 7",
+          "land_val": "557 0 0",
+          "building_val": "3 0 0",
+          "total_val": "560 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Grave-yard",
+          "desc": "Grave-yard",
+          "area": "0 2 10",
+          "land_val": "0 3 0",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Vacant",
+          "lessor": "James Maher",
+          "desc": "H&O",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "John Fannin",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 12",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "731 0 38",
+          "land_val": "860 0 0",
+          "building_val": "10 4 0",
+          "total_val": "870 4 0",
+          "is_total": 1
+        },
+        {
+          "desc": "Grave-yard",
+          "area": "0 2 10",
+          "land_val": "0 3 0",
+          "total_val": "0 3 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of Exemptions",
+          "area": "730 2 28",
+          "land_val": "859 17 0",
+          "building_val": "10 4 0",
+          "total_val": "870 1 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

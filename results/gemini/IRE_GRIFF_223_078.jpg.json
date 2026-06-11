@@ -1,0 +1,537 @@
+{
+  "parishes": [
+    {
+      "parish": "BROWNSTOWN",
+      "entries": [
+        {
+          "mr": "7 a",
+          "townland": "BROWNSTOWN",
+          "os": "",
+          "occupier": "Peter Crinion",
+          "lessor": "Sir W.M. Somerville, Bt",
+          "desc": "H,O,&L",
+          "area": "9 0 18",
+          "land_val": "6 10 0",
+          "building_val": "0 10 0",
+          "total_val": "7 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Charles Tully and Michael Smith",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 3 18",
+          "land_val": "3 5 0",
+          "building_val": "0 15 0",
+          "total_val": "4 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "8 b",
+          "occupier": "Charles Tully and Michael Smith",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "3 5 0",
+          "building_val": "0 15 0",
+          "total_val": "4 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Christopher Forrester",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "7 1 15",
+          "land_val": "5 15 0",
+          "building_val": "1 0 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "John Brien",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "61 2 16",
+          "land_val": "58 10 0",
+          "building_val": "4 10 0",
+          "total_val": "63 0 0"
+        },
+        {
+          "mr": "10 b",
+          "occupier": "Anne Mullen",
+          "lessor": "John Brien",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "10 c",
+          "occupier": "Peter Dunne",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "John Cornwall",
+          "lessor": "Sir Wm. M. Somerville, Bart",
+          "desc": "H,O,gate-lodge,&L",
+          "area": "280 3 7",
+          "land_val": "302 0 0",
+          "building_val": "45 0 0",
+          "total_val": "347 0 0"
+        },
+        {
+          "mr": "11 b",
+          "occupier": "Leonard Cornwall",
+          "lessor": "Same",
+          "desc": "Gate-lodge",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 13 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "11 c",
+          "occupier": "Leonard Cornwall",
+          "lessor": "Same",
+          "desc": "Grave-yard",
+          "area": "0 2 0",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "12 A a",
+          "occupier": "Leonard Cornwall",
+          "lessor": "Sir Win. M. Somerville, Bart.",
+          "desc": "H,O,&L",
+          "area": "172 2 1",
+          "land_val": "158 5 0",
+          "building_val": "17 0 0",
+          "total_val": "301 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "12 A b",
+          "occupier": "Leonard Cornwall",
+          "lessor": "Same",
+          "desc": "Herd's ho., offs., & land",
+          "area": "151 1 15",
+          "land_val": "124 15 0",
+          "building_val": "1 0 0",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "12 B b",
+          "occupier": "John Cornwall",
+          "lessor": "Same",
+          "desc": "Gate-lodge",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "12 B c",
+          "occupier": "Catherine Finnegan & Nicholas Bawen",
+          "lessor": "Leonard Cornwall",
+          "desc": "H & G",
+          "area": "6 0 32",
+          "land_val": "0 5 0",
+          "building_val": "1 0 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "Thomas Early",
+          "lessor": "Sir William M. Somerville, Bart.",
+          "desc": "H,O,&L",
+          "area": "43 0 27",
+          "land_val": "37 10 0",
+          "building_val": "2 10 0",
+          "total_val": "40 0 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "James Farrell",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "38 3 10",
+          "land_val": "32 10 0",
+          "building_val": "1 0 0",
+          "total_val": "33 10 0"
+        },
+        {
+          "mr": "15 a",
+          "occupier": "Tandy Taylor",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "34 1 37",
+          "land_val": "26 0 0",
+          "building_val": "5 0 0",
+          "total_val": "31 0 0"
+        },
+        {
+          "mr": "16 a",
+          "occupier": "Frances Wilkinson",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "27 2 9",
+          "land_val": "25 15 0",
+          "building_val": "1 10 0",
+          "total_val": "27 5 0"
+        },
+        {
+          "mr": "16 b",
+          "occupier": "Vacant",
+          "lessor": "Frances Wilkinson",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "17 a",
+          "occupier": "John Coffey",
+          "lessor": "Sir William M. Somerville, Bart.",
+          "desc": "H,O,&L",
+          "area": "3 2 28",
+          "land_val": "3 0 0",
+          "building_val": "0 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "18 A a",
+          "occupier": "Patrick Daly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "13 0 1",
+          "land_val": "12 0 0",
+          "building_val": "",
+          "total_val": "25 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "18 B a",
+          "occupier": "Patrick Daly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 2 26",
+          "land_val": "10 0 0",
+          "building_val": "3 5 0",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "949 1 15",
+          "land_val": "870 7 0",
+          "building_val": "92 0 0",
+          "total_val": "962 7 0",
+          "is_total": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "EXEMPTIONS: Grave-yard",
+          "area": "0 2 0",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total, exclusive of Exemptions",
+          "area": "948 3 15",
+          "land_val": "870 5 0",
+          "building_val": "92 0 0",
+          "total_val": "962 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "REALTOGE",
+          "os": "26",
+          "occupier": "James Finnegan",
+          "lessor": "Sir William M. Somerville, Bart.",
+          "desc": "H,O,&L",
+          "area": "33 3 33",
+          "land_val": "25 10 0",
+          "building_val": "2 0 0",
+          "total_val": "27 10 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "2 a",
+          "occupier": "John Saurin",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "26 1 38",
+          "land_val": "21 5 0",
+          "building_val": "1 10 0",
+          "total_val": "22 15 0"
+        },
+        {
+          "mr": "3 A a",
+          "occupier": "John M'Cann",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "26 0 26",
+          "land_val": "18 15 0",
+          "building_val": "1 0 0",
+          "total_val": "25 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 B",
+          "occupier": "John M'Cann",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 1 4",
+          "land_val": "6 0 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Laurence Tully",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "14 0 15",
+          "land_val": "10 0 0",
+          "building_val": "0 10 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "John Farrell",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "68 3 3",
+          "land_val": "50 0 0",
+          "building_val": "2 0 0",
+          "total_val": "52 0 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "John Weldon",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "16 2 28",
+          "land_val": "13 5 0",
+          "building_val": "0 15 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Patrick Macken",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "13 2 8",
+          "land_val": "10 15 0",
+          "building_val": "0 15 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Leonard Cornwall",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "33 3 21",
+          "land_val": "27 10 0",
+          "building_val": "",
+          "total_val": "27 10 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "John Mullen",
+          "lessor": "Same",
+          "desc": "H & L",
+          "area": "6 0 16",
+          "land_val": "6 0 0",
+          "building_val": "0 5 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "James Reilly",
+          "lessor": "Same",
+          "desc": "H & L",
+          "area": "2 2 2",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "249 1 34",
+          "land_val": "191 0 0",
+          "building_val": "9 5 0",
+          "total_val": "200 5 0",
+          "is_total": 1
+        }
+      ]
+    },
+    {
+      "parish": "DANESTOWN",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "DANESTOWN",
+          "os": "32",
+          "occupier": "Patrick Matthews",
+          "lessor": "Lord Killeen",
+          "desc": "L",
+          "area": "27 0 29",
+          "land_val": "21 10 0",
+          "building_val": "",
+          "total_val": "21 10 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Laurence Carolan",
+          "lessor": "Reps. Rev. R. George",
+          "desc": "H,O,&glebe-land",
+          "area": "1 2 16",
+          "land_val": "1 10 0",
+          "building_val": "0 10 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Edward Aikins",
+          "lessor": "Rev. A. J. Preston",
+          "desc": "L",
+          "area": "17 0 5",
+          "land_val": "15 0 0",
+          "building_val": "",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Sir William M. Somerville, Bart.",
+          "lessor": "Col. Thomas E. Taylor",
+          "desc": "L",
+          "area": "67 1 14",
+          "land_val": "45 0 0",
+          "building_val": "",
+          "total_val": "45 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Thomas Mathews",
+          "lessor": "Reps. Patrick Russell",
+          "desc": "L",
+          "area": "0 3 22",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "David Rodgers",
+          "lessor": "Col. Thomas E. Taylor",
+          "desc": "H,O,&L",
+          "area": "538 3 8",
+          "land_val": "404 0 0",
+          "building_val": "6 0 0",
+          "total_val": "410 0 0"
+        },
+        {
+          "mr": "6 b",
+          "occupier": "Thomas Kane",
+          "lessor": "David Rodgers",
+          "desc": "H & O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 9 0",
+          "total_val": "0 9 0"
+        },
+        {
+          "mr": "6 c",
+          "occupier": "Patrick Kirwan",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "6 d",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "6 e",
+          "occupier": "Patrick Brien",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "6 f",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "6 g",
+          "occupier": "",
+          "lessor": "Same",
+          "desc": "Grave-yard",
+          "area": "0 2 30",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "6 h",
+          "occupier": "Patrick M'Gorisk",
+          "lessor": "Same",
+          "desc": "H & O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        }
+      ]
+    }
+  ]
+}

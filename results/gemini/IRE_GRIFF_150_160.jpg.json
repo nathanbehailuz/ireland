@@ -1,0 +1,501 @@
+{
+  "parishes": [
+    {
+      "parish": "CLONMACNOISE",
+      "entries": [
+        {
+          "mr": "4 d",
+          "townland": "TULLAGHBEG",
+          "occupier": "Mary Devery",
+          "lessor": "Montgomery Robbins",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "4 f a",
+          "occupier": "Kieran Naughton",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "33 0 4",
+          "land_val": "5 5 0",
+          "building_val": "0 15 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "- f b",
+          "occupier": "John Temple",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "33 0 4",
+          "land_val": "5 0 0",
+          "building_val": "1 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Naughton",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "6 1 31",
+          "land_val": "1 5 0",
+          "building_val": "1 5 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Mary Devery",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 1 31",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Mary Devery",
+          "lessor": "Same",
+          "desc": "Water of Lake",
+          "area": "74 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "980 0 35",
+          "land_val": "52 11 0",
+          "building_val": "5 6 0",
+          "total_val": "57 17 0",
+          "is_total": 1
+        }
+      ]
+    },
+    {
+      "parish": "LUSMAGH",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "BALLYLIER",
+          "os": "29",
+          "occupier": "Bigoe Coulahan",
+          "lessor": "Capt. Thomas Bernard",
+          "desc": "L",
+          "area": "45 1 24",
+          "land_val": "28 14 0",
+          "total_val": "28 14 0"
+        },
+        {
+          "desc": "Total",
+          "area": "45 1 24",
+          "land_val": "28 14 0",
+          "total_val": "28 14 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "BALLYMACOOLAGHAN",
+          "os": "21 & 29",
+          "occupier": "Patrick Sullivan",
+          "lessor": "Sir R. L. Blosse, Bt.",
+          "desc": "H,O,&L",
+          "area": "220 3 28",
+          "land_val": "39 0 0",
+          "building_val": "1 15 0",
+          "total_val": "40 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Thomas Madden",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "220 3 28",
+          "land_val": "7 10 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "John Madden",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "220 3 28",
+          "land_val": "7 10 0",
+          "building_val": "0 10 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Mary Madden",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "220 3 28",
+          "land_val": "7 0 0",
+          "building_val": "0 10 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "- e",
+          "occupier": "John M'Cormack",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "220 3 28",
+          "land_val": "5 10 0",
+          "building_val": "0 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "1 f",
+          "occupier": "John Mahon",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "220 3 28",
+          "land_val": "7 15 0",
+          "building_val": "0 15 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "- g",
+          "occupier": "Michael Mahon",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "220 3 28",
+          "land_val": "7 15 0",
+          "building_val": "0 10 0",
+          "total_val": "8 5 0"
+        },
+        {
+          "mr": "- h",
+          "occupier": "James Mahon",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "220 3 28",
+          "land_val": "7 0 0",
+          "building_val": "0 15 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "- i",
+          "occupier": "James Martin",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "220 3 28",
+          "land_val": "8 15 0",
+          "building_val": "0 15 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "- j",
+          "occupier": "Patrick Mahon",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "220 3 28",
+          "land_val": "10 5 0",
+          "building_val": "0 10 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "- k",
+          "occupier": "Patrick Rourke",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "220 3 28",
+          "land_val": "9 10 0",
+          "building_val": "0 15 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "- l",
+          "occupier": "John Mahon (Hugh)",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "220 3 28",
+          "land_val": "5 10 0",
+          "building_val": "0 15 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "- m",
+          "occupier": "Mary Mahon",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "220 3 28",
+          "land_val": "3 15 0",
+          "building_val": "0 15 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "- m",
+          "occupier": "Eliza Killen",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "220 3 28",
+          "land_val": "126 15 0",
+          "building_val": "9 0 0",
+          "total_val": "135 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BALLYNASRAH",
+          "os": "29",
+          "occupier": "Edward Meagher",
+          "lessor": "James Enright",
+          "desc": "H,O,&L",
+          "area": "38 3 35",
+          "land_val": "10 10 0",
+          "building_val": "0 15 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Francis Meagher",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "6 0 5",
+          "land_val": "10 10 0",
+          "building_val": "1 0 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Francis Meagher",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 0 5",
+          "land_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Thomas Navan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "12 0 33",
+          "land_val": "0 18 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Thomas Larkin",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "12 0 33",
+          "land_val": "1 12 0",
+          "total_val": "1 12 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Donnelly (Red)",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "12 0 33",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick M'Guire",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "12 0 33",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Jn. Donnelly (Navan)",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "12 0 33",
+          "land_val": "0 4 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Donnelly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "12 0 33",
+          "land_val": "1 8 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "4 A",
+          "occupier": "James Enright",
+          "lessor": "Burton Persse",
+          "desc": "H,O,&L",
+          "area": "102 3 15",
+          "land_val": "55 10 0",
+          "building_val": "3 10 0",
+          "total_val": "123 10 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "- B",
+          "occupier": "James Enright",
+          "lessor": "Burton Persse",
+          "desc": "L",
+          "area": "21 0 15",
+          "land_val": "8 0 0",
+          "total_val": "123 10 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "- C",
+          "occupier": "James Enright",
+          "lessor": "Burton Persse",
+          "desc": "L",
+          "area": "43 1 14",
+          "land_val": "16 9 0",
+          "total_val": "123 10 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "- -",
+          "occupier": "James Enright",
+          "lessor": "Burton Persse",
+          "desc": "B",
+          "area": "15 1 39",
+          "land_val": "0 1 0",
+          "total_val": "123 10 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "5",
+          "occupier": "Jn. Donnelly (Navan)",
+          "lessor": "James Enright",
+          "desc": "L",
+          "area": "15 1 24",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick M'Guire",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "15 1 24",
+          "land_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Larkin",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "15 1 24",
+          "land_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Thomas Navan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "15 1 24",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Donnelly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "15 1 24",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Donnelly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "15 1 24",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "James Horan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "29 3 8",
+          "land_val": "5 5 0",
+          "building_val": "0 15 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Matthew Horan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "29 3 8",
+          "land_val": "5 5 0",
+          "building_val": "0 15 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Patrick Martin",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "29 3 8",
+          "land_val": "5 5 0",
+          "building_val": "0 15 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "7 A",
+          "occupier": "Catherine Monsell",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "1 2 39",
+          "land_val": "1 0 0",
+          "building_val": "0 15 0",
+          "total_val": "5 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "Catherine Monsell",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 2 38",
+          "land_val": "3 10 0",
+          "total_val": "5 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "8 a",
+          "occupier": "James Troy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 1 15",
+          "land_val": "6 0 0",
+          "building_val": "0 15 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "James Enright",
+          "lessor": "Burton Persse",
+          "desc": "B",
+          "area": "271 3 7",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        }
+      ]
+    }
+  ]
+}

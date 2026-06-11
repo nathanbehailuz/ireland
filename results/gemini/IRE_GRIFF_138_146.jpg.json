@@ -1,0 +1,681 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF MONASTEREVIN",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "BALLYFARSOON",
+          "os": "26",
+          "occupier": "Robert Cassidy",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "6 0 12",
+          "land_val": "5 15 0",
+          "building_val": "",
+          "total_val": "5 15 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "2",
+          "occupier": "John Lee",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "5 3 22",
+          "land_val": "5 5 0",
+          "building_val": "",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Anne Lalor",
+          "lessor": "John Lee",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "William Allen",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "6 0 11",
+          "land_val": "5 10 0",
+          "building_val": "0 15 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Timothy Spain",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "5 3 20",
+          "land_val": "5 5 0",
+          "building_val": "",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Bryan Gorman",
+          "lessor": "Timothy Spain",
+          "desc": "H&L",
+          "area": "0 3 26",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Luke Downey",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H&L",
+          "area": "3 1 3",
+          "land_val": "2 15 0",
+          "building_val": "0 5 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Timothy Harrington",
+          "lessor": "Luke Downey",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 5 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "7 A",
+          "occupier": "Robert Gorman",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "1 2 27",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 6
+        },
+        {
+          "mr": "7 B",
+          "occupier": "Robert Gorman",
+          "lessor": "Marquis of Drogheda",
+          "desc": "O&L",
+          "area": "6 1 27",
+          "land_val": "5 10 0",
+          "building_val": "0 5 0",
+          "total_val": "",
+          "n_shared": 6
+        },
+        {
+          "mr": "8 A",
+          "occupier": "Patrick Kelly",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "1 1 36",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 6
+        },
+        {
+          "mr": "8 B",
+          "occupier": "Patrick Kelly",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "2 2 32",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 6
+        },
+        {
+          "mr": "8 C",
+          "occupier": "Patrick Kelly",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "0 3 24",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 6
+        },
+        {
+          "mr": "8 D",
+          "occupier": "Patrick Kelly",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "0 0 31",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 6
+        },
+        {
+          "mr": "8 E",
+          "occupier": "Patrick Kelly",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "2 0 8",
+          "land_val": "1 15 0",
+          "building_val": "0 15 0",
+          "total_val": "8 15 0",
+          "n_shared": 6
+        },
+        {
+          "mr": "9 A",
+          "occupier": "Matthew Lee",
+          "lessor": "Patrick Kelly",
+          "desc": "L",
+          "area": "1 3 28",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "9 B a",
+          "occupier": "Matthew Lee",
+          "lessor": "Patrick Kelly",
+          "desc": "H&G",
+          "area": "0 0 13",
+          "land_val": "0 2 0",
+          "building_val": "0 5 0",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "9 C a",
+          "occupier": "Martin Mealley",
+          "lessor": "Patrick Kelly",
+          "desc": "H&G",
+          "area": "0 3 23",
+          "land_val": "0 15 0",
+          "building_val": "0 15 0",
+          "total_val": "6 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "10 A",
+          "occupier": "Thomas Kelly",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "7 1 6",
+          "land_val": "6 0 0",
+          "building_val": "1 0 0",
+          "total_val": "",
+          "n_shared": 5
+        },
+        {
+          "mr": "10 B",
+          "occupier": "Thomas Kelly",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "0 3 24",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 5
+        },
+        {
+          "mr": "10 C",
+          "occupier": "Thomas Kelly",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "4 2 18",
+          "land_val": "3 5 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 5
+        },
+        {
+          "mr": "10 D",
+          "occupier": "Thomas Kelly",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "6 3 23",
+          "land_val": "3 15 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 5
+        },
+        {
+          "mr": "10 A b",
+          "occupier": "Edward Kelly",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "2 1 10",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "1 10 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "11",
+          "occupier": "Thomas Hutchinson",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "3 2 15",
+          "land_val": "2 15 0",
+          "building_val": "0 15 0",
+          "total_val": "14 15 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "James Dunne",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "4 3 33",
+          "land_val": "3 15 0",
+          "building_val": "",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Richard Carroll",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "1 3 11",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "John Kelly",
+          "lessor": "Richard Carroll",
+          "desc": "L",
+          "area": "8 3 0",
+          "land_val": "6 0 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "William Doolan",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Luke Fitzgerald",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H&L",
+          "area": "8 3 5",
+          "land_val": "6 5 0",
+          "building_val": "0 15 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "John Kelly (farmer)",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "12 3 16",
+          "land_val": "7 15 0",
+          "building_val": "0 15 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Daniel Doolan",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H&L",
+          "area": "8 2 18",
+          "land_val": "5 0 0",
+          "building_val": "0 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Michael Behan",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "2 2 16",
+          "land_val": "1 10 0",
+          "building_val": "0 5 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Mary Dunne",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "3 0 21",
+          "land_val": "1 15 0",
+          "building_val": "0 10 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Marquis of Drogheda",
+          "lessor": "In fee",
+          "desc": "Land (bog pasture)",
+          "area": "11 1 27",
+          "land_val": "6 10 0",
+          "building_val": "0 10 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Marquis of Drogheda",
+          "lessor": "In fee",
+          "desc": "Turbary",
+          "area": "42 3 7",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "177 3 3",
+          "land_val": "98 18 0",
+          "building_val": "9 5 0",
+          "total_val": "118 3 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BARRADERRA",
+          "os": "21",
+          "occupier": "William Sunderland",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "6 3 12",
+          "land_val": "3 10 0",
+          "building_val": "0 10 0",
+          "total_val": "4 0 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "2",
+          "occupier": "Margaret Dunne",
+          "lessor": "— Carroll",
+          "desc": "L",
+          "area": "6 3 3",
+          "land_val": "4 10 0",
+          "building_val": "",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Peter Walsh",
+          "lessor": "Margaret Dunne",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Mary Kavanagh",
+          "lessor": "George Bathem",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Timothy M'Dermott",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "6 3 10",
+          "land_val": "4 5 0",
+          "building_val": "",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Raleigh",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "4 3 7",
+          "land_val": "2 10 0",
+          "building_val": "0 5 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "John Power",
+          "lessor": "James Doran",
+          "desc": "H,O,&L",
+          "area": "4 1 14",
+          "land_val": "2 5 0",
+          "building_val": "0 5 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "5 b",
+          "occupier": "James Doran",
+          "lessor": "Marquis of Drogheda",
+          "desc": "O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "5 c",
+          "occupier": "Mary Wilson",
+          "lessor": "James Doran",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Thomas Raleigh",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "4 2 33",
+          "land_val": "2 10 0",
+          "building_val": "0 5 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Robert Acock",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "15 3 2",
+          "land_val": "5 0 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "7",
+          "occupier": "John Nolan",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "5 0 0",
+          "building_val": "0 10 0",
+          "total_val": "5 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Mary Cowan",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "7 0 25",
+          "land_val": "4 0 0",
+          "building_val": "0 10 0",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "8 b",
+          "occupier": "Patrick Kelly",
+          "lessor": "Mary Cowan and Patrick Kelly",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 3 0",
+          "building_val": "0 5 0",
+          "total_val": "2 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "8 b",
+          "occupier": "Patrick Lalor",
+          "lessor": "Mary Cowan and Patrick Kelly",
+          "desc": "H&L",
+          "area": "6 1 2",
+          "land_val": "3 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "9 A",
+          "occupier": "William Connor",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "3 2 30",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 3
+        },
+        {
+          "mr": "9 B",
+          "occupier": "William Connor",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "3 1 29",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 3
+        },
+        {
+          "mr": "9 C",
+          "occupier": "William Connor",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "11 3 37",
+          "land_val": "6 0 0",
+          "building_val": "0 5 0",
+          "total_val": "5 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "10",
+          "occupier": "Michael Holligan",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "12 3 19",
+          "land_val": "4 15 0",
+          "building_val": "0 10 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "11 A",
+          "occupier": "Walter Neville",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "3 0 36",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 3
+        },
+        {
+          "mr": "11 B",
+          "occupier": "Walter Neville",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "5 3 24",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 3
+        },
+        {
+          "mr": "11 C",
+          "occupier": "Walter Neville",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "1 3 35",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "9 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "12",
+          "occupier": "Samuel Harrison",
+          "lessor": "Michael Holligan",
+          "desc": "L",
+          "area": "1 1 23",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Joseph Salmon",
+          "lessor": "Michael Holligan",
+          "desc": "L",
+          "area": "8 0 0",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "John Sheridan",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "6 0 27",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "William Dunne",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "15 a",
+          "occupier": "John M'Loughlin",
+          "lessor": "William Dunne",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "15 b",
+          "occupier": "Patrick Malone",
+          "lessor": "William Dunne",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        }
+      ]
+    }
+  ]
+}

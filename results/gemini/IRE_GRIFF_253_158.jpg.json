@@ -1,0 +1,459 @@
+{
+  "parishes": [
+    {
+      "parish": "ST. JOHN'S",
+      "entries": [
+        {
+          "mr": "g",
+          "townland": "MAGHERABOY",
+          "is_continued": 1,
+          "sublocation_1": "VILLAGE OF MAGHERABOY",
+          "occupier": "Patrick Mullin",
+          "lessor": "Bridget Taylor",
+          "desc": "G & H",
+          "area": "0 0 12",
+          "land_val": "0 3 0",
+          "building_val": "0 7 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "h",
+          "occupier": "Sarah Murray",
+          "lessor": "Captain James Wood",
+          "desc": "G & H",
+          "area": "0 0 12",
+          "land_val": "0 3 0",
+          "building_val": "0 17 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "i",
+          "occupier": "Patrick Higgins",
+          "lessor": "Martin Anderson",
+          "desc": "G & H",
+          "area": "0 0 13",
+          "land_val": "0 3 0",
+          "building_val": "0 7 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "j",
+          "occupier": "Bridget Coen",
+          "lessor": "Martin Anderson",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "k",
+          "occupier": "Patrick Flynn",
+          "lessor": "Captain James Wood",
+          "desc": "G & H",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "l",
+          "occupier": "Patrick M'Donnell",
+          "lessor": "Captain James Wood",
+          "desc": "G & H",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "0 15 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "m",
+          "occupier": "Marguret M'Clean",
+          "lessor": "Captain James Wood",
+          "desc": "G & H",
+          "area": "0 0 15",
+          "land_val": "0 3 0",
+          "building_val": "0 17 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "n",
+          "occupier": "Jane Carroll",
+          "lessor": "Captain James Wood",
+          "desc": "G & H",
+          "area": "0 0 15",
+          "land_val": "0 3 0",
+          "building_val": "0 17 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "o",
+          "occupier": "Bryan Flynn",
+          "lessor": "Captain James Wood",
+          "desc": "G & H",
+          "area": "0 0 15",
+          "land_val": "0 3 0",
+          "building_val": "0 10 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "p",
+          "occupier": "Unoccupied",
+          "lessor": "Bryan Flynn",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "q",
+          "occupier": "John Ryder",
+          "lessor": "Captain James Wood",
+          "desc": "G & H",
+          "area": "0 0 15",
+          "land_val": "0 3 0",
+          "building_val": "0 17 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "r",
+          "occupier": "John Flaherty",
+          "lessor": "Captain James Martin",
+          "desc": "G & H",
+          "area": "0 0 15",
+          "land_val": "0 3 0",
+          "building_val": "0 15 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "s",
+          "occupier": "Michael Fox",
+          "lessor": "Captain James Martin",
+          "desc": "G & H",
+          "area": "0 0 18",
+          "land_val": "0 3 0",
+          "building_val": "0 15 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "t",
+          "occupier": "Mary M'Loughlin",
+          "lessor": "Captain James Martin",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "u",
+          "occupier": "Bridget White",
+          "lessor": "Bridget Taylor",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "v",
+          "occupier": "James Higgins",
+          "lessor": "Bridget Taylor",
+          "desc": "G & H",
+          "area": "0 0 15",
+          "land_val": "0 3 0",
+          "building_val": "0 15 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "w",
+          "occupier": "John Connor",
+          "lessor": "Captain James Wood",
+          "desc": "G & H",
+          "area": "0 0 15",
+          "land_val": "0 3 0",
+          "building_val": "0 17 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "x",
+          "occupier": "Margaret Neary",
+          "lessor": "Captain James Wood",
+          "desc": "G & H",
+          "area": "0 0 15",
+          "land_val": "0 3 0",
+          "building_val": "0 17 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "y",
+          "occupier": "Michael White",
+          "lessor": "Captain James Wood",
+          "desc": "G & H",
+          "area": "0 0 15",
+          "land_val": "0 3 0",
+          "building_val": "0 17 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "z",
+          "occupier": "John Hutson",
+          "lessor": "Captain James Wood",
+          "desc": "G, H, & O",
+          "area": "0 0 18",
+          "land_val": "0 3 0",
+          "building_val": "0 19 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "a*",
+          "occupier": "John M'Cann",
+          "lessor": "John Hutson",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "desc": "Land under houses, roads, &c.",
+          "area": "0 2 24"
+        },
+        {
+          "mr": "29 a",
+          "sublocation_1": "WEST MUNICIPAL WARD (part of.)",
+          "occupier": "William C. Morony",
+          "lessor": "Vernon Davis",
+          "desc": "L, H, & O",
+          "area": "1 3 5",
+          "land_val": "3 15 0",
+          "building_val": "22 0 0",
+          "total_val": "25 15 0"
+        },
+        {
+          "mr": "30 a",
+          "occupier": "John Moffatt",
+          "lessor": "In fee",
+          "desc": "L, H, & O",
+          "area": "12 1 36",
+          "land_val": "25 0 0",
+          "building_val": "50 0 0",
+          "total_val": "75 0 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "John Moffatt",
+          "lessor": "William F. Burton",
+          "desc": "L",
+          "area": "0 1 35",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "John Moffatt",
+          "lessor": "John Wynne",
+          "desc": "L",
+          "area": "6 2 0",
+          "land_val": "13 10 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "33 a",
+          "occupier": "John Moffatt",
+          "lessor": "John Carroll",
+          "desc": "L & H",
+          "area": "4 3 30",
+          "land_val": "6 15 0",
+          "building_val": "1 0 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Charles Cornton",
+          "lessor": "John Wynne",
+          "desc": "L",
+          "area": "2 3 0",
+          "land_val": "4 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "James Wallace",
+          "lessor": "John Wynne",
+          "desc": "L",
+          "area": "2 3 10",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "36 -",
+          "occupier": "Hugh Rooney",
+          "lessor": "John Wynne",
+          "desc": "L",
+          "area": "6 3 4",
+          "land_val": "13 10 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "36 a",
+          "occupier": "Thomas Foley",
+          "lessor": "Hugh Rooney",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "36 b",
+          "occupier": "John Burns",
+          "lessor": "Hugh Rooney",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "36 c",
+          "occupier": "Bryan Dunn",
+          "lessor": "Hugh Rooney",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "Michael M'Sherry",
+          "lessor": "Mark M'Cartney",
+          "desc": "L",
+          "area": "2 0 30",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Dr. Jas. H. Ferguson",
+          "lessor": "John Wynne",
+          "desc": "L",
+          "area": "7 1 10",
+          "land_val": "11 10 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "38 a",
+          "occupier": "Edward Ward",
+          "lessor": "Governors of Erasmus Smith's schools",
+          "desc": "H, O, school H, & G",
+          "area": "0 0 30",
+          "land_val": "0 5 0",
+          "building_val": "12 5 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "39 a",
+          "occupier": "Stephen Hughes",
+          "lessor": "John Wynne",
+          "desc": "L",
+          "area": "2 1 20",
+          "land_val": "4 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "40 14",
+          "townland": "SLIGO",
+          "sublocation_1": "MARKET-STREET. West Side.",
+          "occupier": "Patrick Feeny",
+          "lessor": "Vernon Davis",
+          "desc": "H, O, & yard",
+          "building_val": "12 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "40 15",
+          "occupier": "Patrick MacClean",
+          "lessor": "Vernon Davis",
+          "desc": "H (part of)",
+          "building_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "40 16",
+          "occupier": "Honoria Kelly",
+          "lessor": "Vernon Davis",
+          "desc": "H & yard",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "40 17",
+          "occupier": "Francis Kaveny",
+          "lessor": "John Longford",
+          "desc": "H",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "40 18",
+          "occupier": "John Graham",
+          "lessor": "John Longford",
+          "desc": "H & yard",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "40 19",
+          "occupier": "William Sleator",
+          "lessor": "John Longford",
+          "desc": "H, O, & yard",
+          "building_val": "17 0 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "40 20",
+          "occupier": "Patrick O'Beirne",
+          "lessor": "Sarah Mansfield",
+          "desc": "H, O, & yard",
+          "building_val": "12 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "40 21",
+          "occupier": "Patrick Shale",
+          "lessor": "Patrick O'Beirn",
+          "desc": "H, O, & yard",
+          "building_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "40 22",
+          "occupier": "Bryan Mullen",
+          "lessor": "George Heacocke",
+          "desc": "H & yard",
+          "building_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "40 23",
+          "occupier": "Peter Cunningham",
+          "lessor": "George Heacocke",
+          "desc": "H, O, & yard",
+          "building_val": "9 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "40 24",
+          "occupier": "Unoccupied",
+          "lessor": "Captain James Martin",
+          "desc": "H, O, & yard",
+          "building_val": "12 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "40 25",
+          "occupier": "Unoccupied",
+          "lessor": "Captain James Martin",
+          "desc": "H & yard",
+          "building_val": "10 10 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "40 26",
+          "occupier": "John Henry",
+          "lessor": "John Wynne",
+          "desc": "H, O, & yard",
+          "building_val": "17 0 0",
+          "total_val": "17 0 0"
+        }
+      ]
+    }
+  ]
+}

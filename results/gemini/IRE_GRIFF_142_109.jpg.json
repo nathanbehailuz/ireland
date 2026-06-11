@@ -1,0 +1,558 @@
+{
+  "parishes": [
+    {
+      "parish": "THE ROWER",
+      "entries": [
+        {
+          "mr": "6 & 3 f",
+          "townland": "KNOCKATORE",
+          "os": "",
+          "occupier": "John Doran",
+          "lessor": "Viscount Clifden",
+          "desc": "H,O,&L",
+          "area": "24 1 14",
+          "land_val": "14 10 0",
+          "building_val": "1 10 0",
+          "total_val": "16 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "7 & 3 e",
+          "occupier": "Patrick Murphy",
+          "lessor": "Viscount Clifden",
+          "desc": "H,O,&L",
+          "area": "24 2 38",
+          "land_val": "15 0 0",
+          "building_val": "2 5 0",
+          "total_val": "17 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Catherine Finlan",
+          "lessor": "Patrick Murphy",
+          "desc": "H&L",
+          "area": "1 3 14",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "James Furlong",
+          "lessor": "William Allen",
+          "desc": "H&L",
+          "area": "2 0 19",
+          "land_val": "1 10 0",
+          "building_val": "0 15 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "John Flynn",
+          "lessor": "William Allen",
+          "desc": "H,O,&L",
+          "area": "1 3 14",
+          "land_val": "1 2 0",
+          "building_val": "1 13 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "John Flynn",
+          "lessor": "Viscount Clifden",
+          "desc": "G",
+          "area": "0 0 28",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Thomas Audley",
+          "lessor": "Viscount Clifden",
+          "desc": "H,O,&L",
+          "area": "14 1 28",
+          "land_val": "9 10 0",
+          "building_val": "1 15 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Lawrence Dunne",
+          "lessor": "George Audley",
+          "desc": "H,O,&G",
+          "area": "0 0 30",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "John Curran",
+          "lessor": "George Audley",
+          "desc": "H,O,&G",
+          "area": "0 0 30",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Alice Audley",
+          "lessor": "Viscount Clifden",
+          "desc": "H&G",
+          "area": "0 1 4",
+          "land_val": "0 3 0",
+          "building_val": "0 12 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "William Allen",
+          "lessor": "Viscount Clifden",
+          "desc": "H,O,&L",
+          "area": "15 2 0",
+          "land_val": "10 0 0",
+          "building_val": "1 15 0",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Matthew Dunne",
+          "lessor": "William Allen",
+          "desc": "H&G",
+          "area": "0 0 12",
+          "land_val": "0 1 0",
+          "building_val": "0 9 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Patrick Doyle",
+          "lessor": "William Allen",
+          "desc": "H&G",
+          "area": "0 1 4",
+          "land_val": "0 3 0",
+          "building_val": "0 13 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Timothy Curran",
+          "lessor": "Viscount Clifden",
+          "desc": "H,O,&L",
+          "area": "32 3 1",
+          "land_val": "21 10 0",
+          "building_val": "4 10 0",
+          "total_val": "26 0 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "279 2 2",
+          "land_val": "156 19 0",
+          "building_val": "30 0 0",
+          "total_val": "186 19 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A B a",
+          "townland": "KYLEMORE",
+          "os": "37",
+          "occupier": "John Mackey",
+          "lessor": "Viscount Clifden",
+          "desc": "H,O,&L",
+          "area": "42 2 9",
+          "land_val": "20 0 0",
+          "building_val": "5 0 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Martin Mackey",
+          "lessor": "Viscount Clifden",
+          "desc": "H,O,&L",
+          "area": "42 2 38",
+          "land_val": "20 0 0",
+          "building_val": "5 10 0",
+          "total_val": "25 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Matthew Murphy",
+          "lessor": "Viscount Clifden",
+          "desc": "H,O,&L",
+          "area": "18 0 15",
+          "land_val": "7 15 0",
+          "building_val": "1 15 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "John Conway",
+          "lessor": "Viscount Clifden",
+          "desc": "H,O,&L",
+          "area": "20 3 32",
+          "land_val": "13 0 0",
+          "building_val": "2 5 0",
+          "total_val": "15 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "William Archer",
+          "lessor": "John Conway",
+          "desc": "H&G",
+          "area": "0 1 0",
+          "land_val": "0 2 0",
+          "building_val": "0 14 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Martin Murphy",
+          "lessor": "Viscount Clifden",
+          "desc": "H,O,&L",
+          "area": "27 0 34",
+          "land_val": "15 10 0",
+          "building_val": "1 15 0",
+          "total_val": "17 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Michael Murphy",
+          "lessor": "Martin Murphy",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Lawrence Maddock",
+          "lessor": "Viscount Clifden",
+          "desc": "H,O,&L",
+          "area": "25 2 38",
+          "land_val": "14 15 0",
+          "building_val": "3 10 0",
+          "total_val": "18 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Thomas Walsh",
+          "lessor": "Viscount Clifden",
+          "desc": "H,O,&L",
+          "area": "20 0 35",
+          "land_val": "11 10 0",
+          "building_val": "1 15 0",
+          "total_val": "13 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Elizabeth Murphy",
+          "lessor": "Viscount Clifden",
+          "desc": "H&L",
+          "area": "5 0 30",
+          "land_val": "3 0 0",
+          "building_val": "0 8 0",
+          "total_val": "3 8 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Matthew Maddock",
+          "lessor": "Viscount Clifden",
+          "desc": "H,O,&L",
+          "area": "35 3 30",
+          "land_val": "14 0 0",
+          "building_val": "2 0 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Charles Stewart",
+          "lessor": "Viscount Clifden",
+          "desc": "H,O,&L",
+          "area": "29 3 11",
+          "land_val": "17 10 0",
+          "building_val": "5 5 0",
+          "total_val": "22 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Patrick Kavanagh",
+          "lessor": "Charles Stewart",
+          "desc": "H&G",
+          "area": "0 1 20",
+          "land_val": "0 6 0",
+          "building_val": "0 14 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Andrew Walsh",
+          "lessor": "Viscount Clifden",
+          "desc": "H,O,&L",
+          "area": "17 2 24",
+          "land_val": "9 15 0",
+          "building_val": "1 10 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "John Maddock",
+          "lessor": "Viscount Clifden",
+          "desc": "L",
+          "area": "4 3 15",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Viscount Clifden",
+          "lessor": "In fee",
+          "desc": "L (plantation)",
+          "area": "1 1 24",
+          "land_val": "0 13 0",
+          "building_val": "",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "James Walsh",
+          "lessor": "Benjamin Whitney",
+          "desc": "O&L",
+          "area": "9 0 5",
+          "land_val": "6 0 0",
+          "building_val": "0 15 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "James Walsh",
+          "lessor": "Benjamin Whitney",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Charles Fleming",
+          "lessor": "James Walsh",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Lundy E. Foot, Esq.",
+          "lessor": "Viscount Clifden",
+          "desc": "Tolls of Mountgarret Bridge(the Rower division)Co.Kilkenny",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "250 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "-",
+          "occupier": "Benj. Whitney, Esq.",
+          "lessor": "Viscount Clifden",
+          "desc": "Tolls of Mountgarret Bridge(the Rower division)Co.Kilkenny",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "250 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "-",
+          "occupier": "Miss Dorth. Keough",
+          "lessor": "Viscount Clifden",
+          "desc": "Tolls of Mountgarret Bridge(the Rower division)Co.Kilkenny",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "250 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "311 0 9",
+          "land_val": "155 16 0",
+          "building_val": "34 19 0",
+          "total_val": "440 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A B",
+          "townland": "LENNAGHT",
+          "os": "33",
+          "occupier": "Thomas Audley",
+          "lessor": "James Bolger, Esq.",
+          "desc": "L",
+          "area": "22 3 14",
+          "land_val": "14 10 0",
+          "building_val": "",
+          "total_val": "14 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "John Nolan",
+          "lessor": "James Bolger, Esq.",
+          "desc": "H,O,&L",
+          "area": "32 0 9",
+          "land_val": "16 5 0",
+          "building_val": "5 5 0",
+          "total_val": "21 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "William Walsh",
+          "lessor": "James Bolger, Esq.",
+          "desc": "H,O,&G",
+          "area": "0 1 11",
+          "land_val": "0 5 0",
+          "building_val": "1 15 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Walsh, jun.",
+          "lessor": "James Bolger, Esq.",
+          "desc": "H,O,&L",
+          "area": "5 1 26",
+          "land_val": "3 5 0",
+          "building_val": "1 10 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James Bolger, Esq.",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "22 0 27",
+          "land_val": "16 0 0",
+          "building_val": "",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "James Cashen",
+          "lessor": "James Bolger, Esq.",
+          "desc": "H,O,&L",
+          "area": "16 0 29",
+          "land_val": "11 10 0",
+          "building_val": "4 5 0",
+          "total_val": "15 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Edward Murphy",
+          "lessor": "James Bolger, Esq.",
+          "desc": "H,O,&G",
+          "area": "0 1 3",
+          "land_val": "0 5 0",
+          "building_val": "0 15 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "James Walsh",
+          "lessor": "James Bolger, Esq.",
+          "desc": "L",
+          "area": "3 3 23",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "103 0 22",
+          "land_val": "66 10 0",
+          "building_val": "13 10 0",
+          "total_val": "80 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "MUNGAN",
+          "os": "33",
+          "occupier": "James Toole",
+          "lessor": "Maurice Power",
+          "desc": "H,O,&L",
+          "area": "7 2 22",
+          "land_val": "3 2 0",
+          "building_val": "0 13 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "2 A B a",
+          "occupier": "Richard Doyle",
+          "lessor": "Christopher Nixon, John Cody, & Maurice Power",
+          "desc": "H,O,&L",
+          "area": "49 2 11",
+          "land_val": "27 10 0",
+          "building_val": "3 10 0",
+          "total_val": "31 0 0"
+        },
+        {
+          "mr": "- A a",
+          "occupier": "Michael Doyle",
+          "lessor": "Richard Doyle",
+          "desc": "H&G",
+          "area": "0 1 6",
+          "land_val": "0 5 0",
+          "building_val": "0 8 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Patrick Walsh",
+          "lessor": "Thomas Walsh",
+          "desc": "L",
+          "area": "8 0 17",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Patrick Blair",
+          "lessor": "Thomas Walsh",
+          "desc": "H,O,&G",
+          "area": "0 2 10",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Martin Grace",
+          "lessor": "Thomas Walsh",
+          "desc": "H,O,&G",
+          "area": "0 2 4",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Catherine Meany",
+          "lessor": "Thomas Walsh",
+          "desc": "H,O,&G",
+          "area": "0 0 20",
+          "land_val": "0 1 0",
+          "building_val": "0 7 0",
+          "total_val": "0 8 0"
+        }
+      ]
+    }
+  ]
+}

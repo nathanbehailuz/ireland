@@ -1,0 +1,493 @@
+{
+  "parishes": [
+    {
+      "parish": "CROSSMOLINA",
+      "entries": [
+        {
+          "mr": "7 a",
+          "townland": "CARTRONGILBERT",
+          "occupier": "James Carrick, .",
+          "lessor": "SirW.RogerPalmer,Bt.",
+          "desc": "L,H,&O",
+          "area": "2 0 7",
+          "land_val": "2 0 0",
+          "building_val": "1 5 0",
+          "total_val": "5 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "8",
+          "occupier": "James Carrick, .",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "3 1 32",
+          "land_val": "2 0 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Thomas Mackey, .",
+          "lessor": "Same, .",
+          "desc": "L,herd's ho.,&offs.",
+          "area": "2 1 32",
+          "land_val": "2 5 0",
+          "building_val": "0 10 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Thomas Mackey, .",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "10 1 35",
+          "land_val": "6 10 0"
+        },
+        {
+          "mr": "9 b",
+          "occupier": "Thomas Mackey, .",
+          "lessor": "Same, .",
+          "desc": "Pound",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Jeremiah Wilson, .",
+          "lessor": "Same, .",
+          "desc": "G",
+          "area": "0 1 4",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Unoccupied, .",
+          "lessor": "Thomas Mackey, .",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Robert Devers, .",
+          "lessor": "SirW.RogerPalmer,Bt.",
+          "desc": "L",
+          "area": "1 1 23",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Thomas Hughes, .",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "3 2 5",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Phelim M'Loughlin, .",
+          "lessor": "Same, .",
+          "desc": "G",
+          "area": "0 1 24",
+          "land_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Thomas Sheridan, .",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "3 2 0",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Henry Mackey, .",
+          "lessor": "William Hogan, .",
+          "desc": "L",
+          "area": "2 3 18",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Anthony Carolin, .",
+          "lessor": "SirW.RogerPalmer,Bt.",
+          "desc": "L",
+          "area": "4 3 25",
+          "land_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Anthony Ruane, .",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "2 2 29",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "John Keane, .",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "3 0 21",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "-",
+          "desc": "Water and road",
+          "area": "5 1 23"
+        },
+        {
+          "mr": "18 1",
+          "sublocation_1": "TOWN OF CROSSMOLINA",
+          "sublocation_2": "part of",
+          "occupier": "John Nolan, .",
+          "lessor": "SirW.RogerPalmer,Bt.",
+          "desc": "H,O,&yard",
+          "building_val": "9 10 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "- -",
+          "occupier": "John Nolan, .",
+          "lessor": "Same, .",
+          "desc": "Tolls and customs of fairs and markets",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "- -",
+          "occupier": "(See Exemptions), .",
+          "lessor": "John Nolan, .",
+          "desc": "PettySessions' court-ho. Half the annual rent derived from Petty Sessions' house",
+          "total_val": "2 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "- 2",
+          "occupier": "(See Exemptions).",
+          "desc": "R. C. Chapel and yard",
+          "is_exemption": 1
+        },
+        {
+          "mr": "- 3",
+          "occupier": "Richard O'Loughlin, .",
+          "lessor": "SirW.RogerPalmer,Bt.",
+          "desc": "H,O,&yard",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "- 4",
+          "occupier": "Anthony Daly, .",
+          "lessor": "Richard O'Loughlin, .",
+          "desc": "H,O,&yard",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "- 5",
+          "occupier": "Samuel Gregg, .",
+          "lessor": "Same, .",
+          "desc": "H,O,&yard",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "- 6",
+          "occupier": "Robert Devers, .",
+          "lessor": "SirW.RogerPalmer,Bt.",
+          "desc": "H&yard",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "- 7",
+          "occupier": "Patrick Devers, .",
+          "lessor": "William Hogan, .",
+          "desc": "O(store)",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- 8",
+          "occupier": "Henry Mackey, .",
+          "lessor": "Same, .",
+          "desc": "H,O,&yard",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "- 9",
+          "occupier": "Peter Carrick, .",
+          "lessor": "Thomas Gallagher, .",
+          "desc": "H",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "- 10",
+          "occupier": "Catherine Murphy, .",
+          "lessor": "Same, .",
+          "desc": "H",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "- 11",
+          "occupier": "Anthony Jordan, .",
+          "lessor": "Jeremiah Wilson, .",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- 12",
+          "occupier": "Daniel Coleman, .",
+          "lessor": "Same, .",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- 13",
+          "occupier": "John Ruane, .",
+          "lessor": "Same, .",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- 14",
+          "occupier": "Thomas Mackey, .",
+          "lessor": "SirW.RogerPalmer,Bt.",
+          "desc": "H,O,&yard",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "- 15",
+          "occupier": "James Gallagher, .",
+          "lessor": "Thomas Mackey, .",
+          "desc": "H,O,&yard",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "- 16",
+          "occupier": "William Tolan, .",
+          "lessor": "William Carson, .",
+          "desc": "H&yard",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "- 17",
+          "occupier": "William Carson, .",
+          "lessor": "Joseph Cox, .",
+          "desc": "G,ho.,offs.,&yard",
+          "area": "0 0 19",
+          "land_val": "0 10 0",
+          "building_val": "7 10 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "- 18",
+          "occupier": "Thos. Hughes (lodgers)",
+          "lessor": "Thomas Hughes, .",
+          "desc": "G,ho.,offs.,&yard",
+          "area": "0 0 18",
+          "land_val": "0 5 0",
+          "building_val": "5 10 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "- 19",
+          "occupier": "James M'Loughlin, .",
+          "lessor": "SirW.RogerPalmer,Bt.",
+          "desc": "G,ho.,offs.,&yard",
+          "area": "0 0 10",
+          "land_val": "0 3 0",
+          "building_val": "3 0 0",
+          "total_val": "3 3 0"
+        },
+        {
+          "mr": "- 20",
+          "occupier": "Anthony Golden, .",
+          "lessor": "Phelim M'Loughlin, .",
+          "desc": "G,ho.,offs.,&yard",
+          "area": "0 0 10",
+          "land_val": "0 3 0",
+          "building_val": "3 0 0",
+          "total_val": "3 3 0"
+        },
+        {
+          "mr": "- 21",
+          "occupier": "Patrick Sheridan, .",
+          "lessor": "Reps. Henry Joynt, .",
+          "desc": "G,ho.,off.,&yard",
+          "area": "0 1 26",
+          "land_val": "1 0 0",
+          "building_val": "5 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "- 22",
+          "occupier": "Thomas Ormsby, .",
+          "lessor": "Same, .",
+          "desc": "H,O,&yard",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "- 23",
+          "occupier": "Patrick Browne, .",
+          "lessor": "John M'Hule, .",
+          "desc": "H,O,&yard",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "- 24",
+          "occupier": "Unoccupied, .",
+          "lessor": "Same, .",
+          "desc": "H,O,&yard",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "- 25",
+          "occupier": "James Hogan, .",
+          "lessor": "SirW.RogerPalmer,Bt.",
+          "desc": "H,O,&yard",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "- 26",
+          "occupier": "Unoccupied, .",
+          "lessor": "Reps. Jas. M'Naier, M.D.,",
+          "desc": "G,ho.,offs.,&yard",
+          "area": "0 0 36",
+          "land_val": "0 10 0",
+          "building_val": "4 5 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "- 27",
+          "occupier": "(See Exemptions), .",
+          "lessor": "Same, .",
+          "desc": "Gar.,dispensary,&off. Half the annual rent derived from garden, dispensary, and office",
+          "total_val": "4 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "- 28",
+          "occupier": "Unoccupied, .",
+          "lessor": "Same, .",
+          "desc": "H&yard",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "- 29",
+          "occupier": "Unoccupied, .",
+          "lessor": "Anthony Carrolin, .",
+          "desc": "H&yard",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- 30",
+          "occupier": "Rickard Corcoran, .",
+          "lessor": "Same, .",
+          "desc": "G,H,&O",
+          "area": "0 0 35",
+          "land_val": "0 10 0",
+          "building_val": "1 10 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "- 31",
+          "occupier": "John Keane, .",
+          "lessor": "SirW.RogerPalmer,Bt.",
+          "desc": "G,H,&yard",
+          "area": "0 0 18",
+          "land_val": "0 5 0",
+          "building_val": "2 15 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "- 32",
+          "occupier": "Daniel Mahony, .",
+          "lessor": "Same, .",
+          "desc": "G,H,&O",
+          "area": "0 1 1",
+          "land_val": "0 10 0",
+          "building_val": "1 10 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "- 33",
+          "occupier": "William Geofirey, .",
+          "lessor": "Daniel Mahony, .",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- 34",
+          "occupier": "John Duffy, .",
+          "lessor": "Same, .",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- 35",
+          "occupier": "James M'Cann, .",
+          "lessor": "John Callaghan, .",
+          "desc": "G&H",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "1 0 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- 36",
+          "occupier": "James Mostyn, .",
+          "lessor": "Patrick Callaghan, .",
+          "desc": "G&H",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "1 0 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- 37",
+          "occupier": "Patrick Forrestal, .",
+          "lessor": "Thomas Gallagher, .",
+          "desc": "G,H,&O",
+          "area": "0 0 14",
+          "land_val": "0 5 0",
+          "building_val": "1 0 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- 38",
+          "occupier": "Mary Mullen, .",
+          "lessor": "Same, .",
+          "desc": "G,H,&O",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "1 0 0",
+          "total_val": "1 5 0"
+        }
+      ]
+    }
+  ]
+}

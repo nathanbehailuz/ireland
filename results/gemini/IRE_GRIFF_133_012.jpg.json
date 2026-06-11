@@ -1,0 +1,481 @@
+{
+  "parishes": [
+    {
+      "parish": "LYONS",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "DANGAN",
+          "os": "11 & 15",
+          "occupier": "Patrick Hannan",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "L",
+          "area": "20 0 13",
+          "land_val": "21 0 0",
+          "building_val": "",
+          "total_val": "21 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "2 A B C",
+          "occupier": "Patrick Hannan",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "H,O,&L",
+          "area": "57 0 30",
+          "land_val": "48 15 0",
+          "building_val": "8 10 0",
+          "total_val": "57 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Peter and Thomas Flynn",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "Canal bank",
+          "area": "1 0 6",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Grand Canal Company",
+          "lessor": "In fee",
+          "desc": "Canal and towing-path, 27 lineal perches",
+          "area": "0 2 20",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "4 A B",
+          "occupier": "G. S. & W. Railway Co.",
+          "lessor": "In fee",
+          "desc": "Railway (221 lin. per.), and waste land",
+          "area": "7 0 1",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "320 10 0"
+        },
+        {
+          "mr": "5 A a B",
+          "occupier": "Felix Byrne",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "H,O,&L",
+          "area": "76 0 16",
+          "land_val": "60 5 0",
+          "building_val": "5 10 0",
+          "total_val": "65 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "171 0 15",
+          "land_val": "130 3 0",
+          "building_val": "14 0 0",
+          "total_val": "467 18 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "KEARNEYSTOWN, LOWER",
+          "os": "15",
+          "occupier": "Patrick Hannan",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "L",
+          "area": "6 2 13",
+          "land_val": "5 10 0",
+          "building_val": "",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Byrne",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "H,&L",
+          "area": "3 2 39",
+          "land_val": "3 0 0",
+          "building_val": "1 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "3 A B C",
+          "occupier": "Patrick Farrell",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "H,&L",
+          "area": "5 3 9",
+          "land_val": "4 5 0",
+          "building_val": "1 0 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Peter and Thomas Flynn",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "H,O,&L",
+          "area": "8 3 6",
+          "land_val": "7 0 0",
+          "building_val": "1 15 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Peter and Thomas Flynn",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "Canal bank",
+          "area": "3 2 14",
+          "land_val": "0 18 0",
+          "building_val": "",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Grand Canal Company",
+          "lessor": "In fee",
+          "desc": "Canal and towing path, 96 lineal perches",
+          "area": "1 3 1",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Francis Carroll",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "H,O,&L",
+          "area": "5 2 32",
+          "land_val": "4 5 0",
+          "building_val": "1 5 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Denis Farrell",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "H,O,&L",
+          "area": "4 0 20",
+          "land_val": "3 5 0",
+          "building_val": "1 5 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Everard Burke",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "H,O,&L",
+          "area": "4 0 28",
+          "land_val": "3 10 0",
+          "building_val": "1 5 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "John Rourke",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "H,O,&L",
+          "area": "4 3 1",
+          "land_val": "3 15 0",
+          "building_val": "1 10 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "David Nowlan",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "H,O,&L",
+          "area": "5 0 5",
+          "land_val": "4 10 0",
+          "building_val": "2 10 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Richard Mahon",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "H,O,&L",
+          "area": "5 0 35",
+          "land_val": "4 15 0",
+          "building_val": "1 5 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Patrick Coughlan",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "H,&L",
+          "area": "4 2 6",
+          "land_val": "4 0 0",
+          "building_val": "1 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "John Burke",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "H,&L",
+          "area": "4 3 3",
+          "land_val": "4 5 0",
+          "building_val": "1 5 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Rt. Hon. Lord Cloncurry",
+          "lessor": "In fee",
+          "desc": "L (plantation)",
+          "area": "2 2 34",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "G. S. & W. Railway Co.",
+          "lessor": "In fee",
+          "desc": "Railway (48 lin. perches), and waste land",
+          "area": "1 2 10",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "69 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "72 3 22",
+          "land_val": "55 3 0",
+          "building_val": "15 5 0",
+          "total_val": "151 18 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A B C",
+          "townland": "KEARNEYSTOWN, UPPER",
+          "os": "15",
+          "occupier": "Richard M'Kenna",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "H,O,&L",
+          "area": "66 1 38",
+          "land_val": "59 10 0",
+          "building_val": "12 15 0",
+          "total_val": "72 5 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Thomas Cleary",
+          "lessor": "Richard M'Kenna",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "G. S. & W. Railway Co.",
+          "lessor": "In fee",
+          "desc": "Railway (71 lin. perches), and waste land",
+          "area": "2 1 18",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "103 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Grand Canal Company",
+          "lessor": "In fee",
+          "desc": "Canal bank and canal, (71 lineal perches)",
+          "area": "4 3 0",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Buggle",
+          "lessor": "Rev. John Warburton",
+          "desc": "L",
+          "area": "5 3 35",
+          "land_val": "5 5 0",
+          "building_val": "",
+          "total_val": "5 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "79 2 11",
+          "land_val": "64 15 0",
+          "building_val": "13 5 0",
+          "total_val": "189 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "LYONS",
+          "os": "15",
+          "occupier": "Peter and Thomas Flynn",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "Canal bank",
+          "area": "3 3 29",
+          "land_val": "0 16 0",
+          "building_val": "",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Grand Canal Company",
+          "lessor": "In fee",
+          "desc": "Canal and towing-path, (71 lineal perches)",
+          "area": "1 1 32",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Hon. Edward Lawless",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "H,O,&L",
+          "area": "520 1 6",
+          "land_val": "517 0 0",
+          "building_val": "100 0 0",
+          "total_val": "617 0 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Grave-yard",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "Grave-yard",
+          "area": "0 1 10",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Doyle",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "H,O,&L",
+          "area": "8 0 28",
+          "land_val": "9 5 0",
+          "building_val": "1 15 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Anne Coffey",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "L",
+          "area": "6 0 30",
+          "land_val": "6 10 0",
+          "building_val": "",
+          "total_val": "6 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "540 1 15",
+          "land_val": "533 14 0",
+          "building_val": "101 15 0",
+          "total_val": "644 4 0",
+          "is_total": 1
+        },
+        {
+          "desc": "Exemptions :",
+          "is_exemption": 1
+        },
+        {
+          "occupier": "Grave-yard",
+          "desc": "Grave-yard",
+          "area": "0 1 10",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 3 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of exemptions",
+          "area": "540 0 5",
+          "land_val": "533 11 0",
+          "building_val": "101 15 0",
+          "total_val": "644 1 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "PLUCKSTOWN",
+          "os": "15",
+          "occupier": "Rt. Hon. Lord Cloncurry",
+          "lessor": "In fee",
+          "desc": "H,O,&L",
+          "area": "20 0 5",
+          "land_val": "23 10 0",
+          "building_val": "2 10 0",
+          "total_val": "26 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Shee",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "H,O,&L",
+          "area": "72 2 8",
+          "land_val": "68 5 0",
+          "building_val": "5 0 0",
+          "total_val": "73 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Nicholas Brien",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "H,O,&L",
+          "area": "37 3 5",
+          "land_val": "35 10 0",
+          "building_val": "3 5 0",
+          "total_val": "39 15 0"
+        },
+        {
+          "mr": "4 A a B",
+          "occupier": "Anne Coffey",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "H,O,&L",
+          "area": "33 2 26",
+          "land_val": "30 0 0",
+          "building_val": "3 5 0",
+          "total_val": "33 5 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Rt. Hon. Lord Cloncurry",
+          "lessor": "In fee",
+          "desc": "L (plantation)",
+          "area": "0 1 23",
+          "land_val": "0 7 0",
+          "building_val": "",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Doyle",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "L",
+          "area": "8 1 18",
+          "land_val": "8 10 0",
+          "building_val": "",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Margaret Kelly",
+          "lessor": "Mrs. Jane Darley",
+          "desc": "H,&L",
+          "area": "13 3 31",
+          "land_val": "12 15 0",
+          "building_val": "0 15 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "185 2 36",
+          "land_val": "178 17 0",
+          "building_val": "14 15 0",
+          "total_val": "193 12 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

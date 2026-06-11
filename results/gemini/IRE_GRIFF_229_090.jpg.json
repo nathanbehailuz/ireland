@@ -1,0 +1,116 @@
+{
+  "parishes": [
+    {
+      "parish": "KILLEEVAN",
+      "entries": [
+        {
+          "mr": "94",
+          "townland": "LISDARRAGH",
+          "occupier": "Peter M'Kenna",
+          "lessor": "Andre A. M. Ker",
+          "desc": "H & sm. G, Waste under H, yds., sm. G, &c.",
+          "area": "8 2 17",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 1
+        },
+        {
+          "desc": "Total of Rateable Property",
+          "area": "145 3 37",
+          "land_val": "153 0 0",
+          "building_val": "468 15 0",
+          "total_val": "644 5 0",
+          "n_shared": 0,
+          "is_total": 1,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "5 a",
+          "lessor": "Andre A. M. Ker",
+          "desc": "School-house & burial-ground",
+          "area": "0 1 30",
+          "land_val": "0 10 0",
+          "building_val": "4 0 0",
+          "total_val": "4 10 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 1,
+          "is_continued": 0
+        },
+        {
+          "mr": "13 40 44",
+          "sublocation_1": "TOWN OF NEWBLISS",
+          "occupier": "Constabulary Force",
+          "lessor": "Andre A. M. Ker",
+          "desc": "Police-bar.,O,yd.&gar.",
+          "area": "0 0 10",
+          "land_val": "0 3 0",
+          "building_val": "8 17 0",
+          "total_val": "9 0 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 1,
+          "is_continued": 0
+        },
+        {
+          "mr": "13 40 44",
+          "occupier": "Guardians of the Poor of Clones Union",
+          "lessor": "Same",
+          "desc": "Dispensary",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 1,
+          "is_continued": 0
+        },
+        {
+          "desc": "Total of Exemptions",
+          "area": "0 2 0",
+          "land_val": "0 13 0",
+          "building_val": "15 7 0",
+          "total_val": "16 0 0",
+          "n_shared": 0,
+          "is_total": 1,
+          "is_exemption": 1,
+          "is_continued": 0
+        },
+        {
+          "desc": "Total, including Exemptions",
+          "area": "146 1 37",
+          "land_val": "153 13 0",
+          "building_val": "484 2 0",
+          "total_val": "660 5 0",
+          "n_shared": 0,
+          "is_total": 1,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "occupier": "British & Irish Magnetic Telegraph Co. (Thomas H. Sanger, Superintendent)",
+          "lessor": "In fee",
+          "desc": "Magnetic Telegraph in the Electoral Division of Killeevan",
+          "total_val": "1 15 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "occupier": "British & Irish Magnetic Telegraph Co. (Thomas H. Sanger, Superintendent)",
+          "lessor": "In fee",
+          "desc": "Newbliss",
+          "total_val": "1 5 0",
+          "n_shared": 0,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        }
+      ]
+    }
+  ]
+}

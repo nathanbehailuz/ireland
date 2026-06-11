@@ -1,0 +1,368 @@
+{
+  "parishes": [
+    {
+      "parish": "UNKNOWN",
+      "entries": [
+        {
+          "parish": "SHERLOCKSTOWN",
+          "entries": [
+            {
+              "mr": "1 a",
+              "townland": "PROSPECT",
+              "os": "14",
+              "occupier": "Benjamin Reade,",
+              "lessor": "Rep. Wm. Sherlock,",
+              "desc": "H,O,&L",
+              "area": "219 2 18",
+              "land_val": "220 0 0",
+              "building_val": "20 0 0",
+              "total_val": "242 10 0"
+            },
+            {
+              "mr": "1 b",
+              "occupier": "Patrick Murphy,",
+              "lessor": "Benjamin Reade,",
+              "desc": "L",
+              "area": "2 2 10",
+              "land_val": "2 10 0"
+            },
+            {
+              "mr": "c",
+              "occupier": "Alexander Hill,",
+              "lessor": "Same,",
+              "desc": "H",
+              "building_val": "0 10 0",
+              "total_val": "0 10 0"
+            },
+            {
+              "mr": "d",
+              "occupier": "Vacant,",
+              "lessor": "Same,",
+              "desc": "H",
+              "building_val": "0 10 0",
+              "total_val": "0 10 0"
+            },
+            {
+              "mr": "3",
+              "occupier": "G. S. & W. Railway Co.,",
+              "lessor": "In fee,",
+              "desc": "H",
+              "building_val": "1 0 0",
+              "total_val": "1 0 0"
+            },
+            {
+              "mr": "",
+              "occupier": "G. S. & W. Railway Co.,",
+              "lessor": "In fee,",
+              "desc": "Railway (41 lineal perches)",
+              "area": "1 0 12",
+              "total_val": "67 0 0"
+            },
+            {
+              "desc": "Total",
+              "area": "223 1 0",
+              "land_val": "222 10 0",
+              "building_val": "22 0 0",
+              "total_val": "311 10 0",
+              "is_total": 1
+            },
+            {
+              "mr": "1",
+              "townland": "SHERLOCKSTOWN",
+              "os": "14",
+              "occupier": "Mary Harrington,",
+              "lessor": "Rep. William Sherlock,",
+              "desc": "H&L",
+              "area": "118 0 20",
+              "land_val": "153 0 0",
+              "building_val": "1 5 0",
+              "total_val": "154 5 0"
+            },
+            {
+              "mr": "2 A B",
+              "occupier": "G. S. & W. Railway Co.,",
+              "lessor": "In fee,",
+              "desc": "Railway (375 lineal perches)",
+              "area": "19 1 26",
+              "total_val": "614 0 0"
+            },
+            {
+              "mr": "— C",
+              "occupier": "G. S. & W. Railway Co.,",
+              "lessor": "In fee,",
+              "desc": "L (waste)",
+              "area": "1 3 8"
+            },
+            {
+              "mr": "— D",
+              "occupier": "G. S. & W. Railway Co.,",
+              "lessor": "In fee,",
+              "desc": "L",
+              "area": "1 0 23",
+              "land_val": "0 10 0",
+              "total_val": "0 10 0"
+            },
+            {
+              "mr": "3",
+              "occupier": "Garrett Cullen,",
+              "lessor": "Rep. Wm. Sherlock,",
+              "desc": "H,O,&L",
+              "area": "242 2 9",
+              "land_val": "330 0 0",
+              "building_val": "35 0 0",
+              "total_val": "365 0 0"
+            },
+            {
+              "mr": "4",
+              "occupier": "James Flanagan,",
+              "lessor": "Garrett Cullen,",
+              "desc": "L",
+              "area": "163 0 9",
+              "land_val": "188 10 0",
+              "total_val": "188 10 0"
+            },
+            {
+              "mr": "5",
+              "occupier": "Grand Canal Company,",
+              "lessor": "In fee,",
+              "desc": "L",
+              "area": "3 2 0",
+              "land_val": "3 5 0",
+              "total_val": "3 5 0"
+            },
+            {
+              "mr": "6",
+              "occupier": "Grand Canal Company,",
+              "lessor": "In fee,",
+              "desc": "Canal and towing path (114 lineal perches)",
+              "area": "3 0 18",
+              "total_val": "11 8 0"
+            },
+            {
+              "mr": "7",
+              "occupier": "Patrick Carroll,",
+              "lessor": "Grand Canal Company,",
+              "desc": "L (canal banks)",
+              "area": "3 1 29",
+              "land_val": "2 10 0",
+              "total_val": "2 10 0"
+            },
+            {
+              "desc": "Total",
+              "area": "556 0 22",
+              "land_val": "677 15 0",
+              "building_val": "36 5 0",
+              "total_val": "1339 8 0",
+              "is_total": 1
+            },
+            {
+              "mr": "1",
+              "townland": "SHERLOCKSTOWN COMMON",
+              "os": "14",
+              "occupier": "James M'Creavy,",
+              "lessor": "Grand Canal Company,",
+              "desc": "H,O,&L",
+              "area": "5 2 9",
+              "land_val": "3 10 0",
+              "building_val": "1 10 0",
+              "total_val": "5 0 0"
+            },
+            {
+              "mr": "2",
+              "occupier": "Garrett Cullen,",
+              "lessor": "Rep. Wm. Sherlock,",
+              "desc": "L",
+              "area": "108 0 37",
+              "land_val": "103 0 0",
+              "total_val": "110 0 0",
+              "n_shared": 2
+            },
+            {
+              "mr": "3",
+              "occupier": "Elizabeth Lalor,",
+              "lessor": "Same,",
+              "desc": "L",
+              "area": "8 2 0",
+              "land_val": "7 0 0",
+              "n_shared": 2
+            },
+            {
+              "mr": "4",
+              "occupier": "Elizabeth Lalor,",
+              "lessor": "Same,",
+              "desc": "H&L",
+              "area": "9 3 10",
+              "land_val": "8 0 0",
+              "building_val": "0 5 0",
+              "total_val": "8 5 0"
+            },
+            {
+              "mr": "5",
+              "occupier": "G. S. & W. Railway Co.,",
+              "lessor": "In fee,",
+              "desc": "Railway (81 lineal perches)",
+              "area": "3 2 6",
+              "total_val": "132 10 0"
+            },
+            {
+              "mr": "6",
+              "occupier": "Grand Canal Company,",
+              "lessor": "In fee,",
+              "desc": "Canal and towing path (110 lineal perches)",
+              "area": "2 2 8",
+              "total_val": "11 0 0"
+            },
+            {
+              "desc": "Total",
+              "area": "138 0 30",
+              "land_val": "121 10 0",
+              "building_val": "1 15 0",
+              "total_val": "266 15 0",
+              "is_total": 1
+            }
+          ]
+        },
+        {
+          "parish": "TIPPER",
+          "entries": [
+            {
+              "mr": "1",
+              "townland": "BALTRACEY",
+              "os": "19 & 24",
+              "occupier": "John Horgan,",
+              "lessor": "Southwell,",
+              "desc": "H&L",
+              "area": "3 3 18",
+              "land_val": "2 10 0",
+              "building_val": "0 5 0",
+              "total_val": "2 15 0"
+            },
+            {
+              "mr": "2",
+              "occupier": "George Harold,",
+              "lessor": "Same,",
+              "desc": "H&L",
+              "area": "1 2 20",
+              "land_val": "1 0 0",
+              "building_val": "0 5 0",
+              "total_val": "1 5 0"
+            },
+            {
+              "mr": "3",
+              "occupier": "James Dunne,",
+              "lessor": "Same,",
+              "desc": "H&L",
+              "area": "15 2 20",
+              "land_val": "9 10 0",
+              "building_val": "0 5 0",
+              "total_val": "9 15 0"
+            },
+            {
+              "mr": "4",
+              "occupier": "Christopher Clarke,",
+              "lessor": "Same,",
+              "desc": "H&L",
+              "area": "22 2 30",
+              "land_val": "14 0 0",
+              "building_val": "0 10 0",
+              "total_val": "14 10 0"
+            },
+            {
+              "mr": "5 A",
+              "occupier": "Simon Donnelly,",
+              "lessor": "Same,",
+              "desc": "L",
+              "area": "110 1 22",
+              "land_val": "78 0 0",
+              "total_val": "83 10 0"
+            },
+            {
+              "mr": "— B",
+              "occupier": "Simon Donnelly,",
+              "lessor": "Same,",
+              "desc": "H",
+              "area": "7 1 0",
+              "land_val": "5 10 0"
+            },
+            {
+              "mr": "A a",
+              "occupier": "Patrick Egan,",
+              "lessor": "Simon Donnelly,",
+              "desc": "H",
+              "building_val": "0 5 0",
+              "total_val": "0 5 0"
+            },
+            {
+              "mr": "6",
+              "occupier": "Martin Hayden,",
+              "lessor": "Same,",
+              "desc": "H, forge, &L",
+              "area": "2 0 14",
+              "land_val": "2 0 0",
+              "building_val": "2 0 0",
+              "total_val": "4 0 0"
+            },
+            {
+              "mr": "7",
+              "occupier": "James Murphy,",
+              "lessor": "Southwell,",
+              "desc": "H&L",
+              "area": "3 0 6",
+              "land_val": "2 5 0",
+              "building_val": "1 10 0",
+              "total_val": "3 15 0"
+            },
+            {
+              "desc": "Total",
+              "area": "175 2 10",
+              "land_val": "114 15 0",
+              "building_val": "5 0 0",
+              "total_val": "119 15 0",
+              "is_total": 1
+            },
+            {
+              "mr": "1",
+              "townland": "BULLOCKPARK",
+              "os": "19",
+              "occupier": "John Cassidy,",
+              "lessor": "Southwell,",
+              "desc": "H&L",
+              "area": "15 1 37",
+              "land_val": "13 0 0",
+              "building_val": "0 10 0",
+              "total_val": "13 10 0"
+            },
+            {
+              "mr": "2",
+              "occupier": "James Kavanagh,",
+              "lessor": "Same,",
+              "desc": "H&L",
+              "area": "10 3 30",
+              "land_val": "9 5 0",
+              "building_val": "0 10 0",
+              "total_val": "9 15 0"
+            },
+            {
+              "mr": "3",
+              "occupier": "Thomas Byrne,",
+              "lessor": "Same,",
+              "desc": "H&L",
+              "area": "14 0 32",
+              "land_val": "12 0 0",
+              "building_val": "0 15 0",
+              "total_val": "12 15 0"
+            },
+            {
+              "desc": "Total",
+              "area": "40 2 19",
+              "land_val": "34 5 0",
+              "building_val": "1 15 0",
+              "total_val": "36 0 0",
+              "is_total": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

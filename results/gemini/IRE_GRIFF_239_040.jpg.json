@@ -1,0 +1,555 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF KILLESHIN",
+      "entries": [
+        {
+          "mr": "3",
+          "townland": "CLONMORE",
+          "os": "",
+          "occupier": "Patrick M'Donnell",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "3 1 31",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "3 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "a",
+          "occupier": "Vacant",
+          "lessor": "Patrick M'Donnell",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Vacant",
+          "lessor": "Patrick M'Donnell",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Patrick M'Donnell",
+          "lessor": "James Carey",
+          "desc": "L",
+          "area": "12 1 19",
+          "land_val": "11 0 0",
+          "building_val": "",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick M'Donnell",
+          "lessor": "Rev. James Taylor",
+          "desc": "L",
+          "area": "10 2 1",
+          "land_val": "12 15 0",
+          "building_val": "",
+          "total_val": "12 15 0"
+        },
+        {
+          "mr": "6 A B",
+          "occupier": "James Carey",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "20 2 34",
+          "land_val": "22 0 0",
+          "building_val": "",
+          "total_val": "22 0 0"
+        },
+        {
+          "mr": "B a",
+          "occupier": "Elizabeth Brennan",
+          "lessor": "James Carey",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Cullanan",
+          "lessor": "James Carey",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "James Carey",
+          "lessor": "In fee",
+          "desc": "O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "John Brennan",
+          "lessor": "James Carey",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Ellen Lalor",
+          "lessor": "James Carey",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "James Carey",
+          "lessor": "Rev. James Taylor",
+          "desc": "L",
+          "area": "3 3 22",
+          "land_val": "4 5 0",
+          "building_val": "",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Samuel Watters",
+          "lessor": "Henry Dwyer, Esq.",
+          "desc": "H,O,&L",
+          "area": "20 0 30",
+          "land_val": "21 10 0",
+          "building_val": "4 10 0",
+          "total_val": "26 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Samuel Watters",
+          "lessor": "John Greene, Esq.",
+          "desc": "L",
+          "area": "23 1 12",
+          "land_val": "25 0 0",
+          "building_val": "",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Michael Connor",
+          "lessor": "Samuel Watters",
+          "desc": "H&small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Brennan",
+          "lessor": "Samuel Watters",
+          "desc": "H,O,&G",
+          "area": "0 1 15",
+          "land_val": "0 10 0",
+          "building_val": "0 15 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Michael Lyons",
+          "lessor": "Matthew Byrne",
+          "desc": "H,O,&L",
+          "area": "5 1 17",
+          "land_val": "4 5 0",
+          "building_val": "1 0 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Honoria Moore",
+          "lessor": "Michael Lyons",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Matthew Byrne",
+          "lessor": "Miss Eliza D. Walker",
+          "desc": "H,O,&L",
+          "area": "17 2 35",
+          "land_val": "14 0 0",
+          "building_val": "3 0 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Martin Curran",
+          "lessor": "Matthew Byrne",
+          "desc": "H,O,&gar.",
+          "area": "0 0 34",
+          "land_val": "0 4 0",
+          "building_val": "0 16 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Catherine Hockney",
+          "lessor": "Matthew Byrne",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Johanna Prendergast",
+          "lessor": "James Kavanagh",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Bridget Brennan",
+          "lessor": "Matthew Byrne",
+          "desc": "H,O,&G",
+          "area": "0 0 36",
+          "land_val": "0 3 0",
+          "building_val": "1 2 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Timothy Carey",
+          "lessor": "Matthew Byrne",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "Vacant",
+          "lessor": "Matthew Byrne",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 5 0",
+          "building_val": "0 15 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Matthew Byrne",
+          "lessor": "Rev. James Taylor",
+          "desc": "L",
+          "area": "3 2 31",
+          "land_val": "4 10 0",
+          "building_val": "",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "John Nelson",
+          "lessor": "Rev. James Taylor",
+          "desc": "L",
+          "area": "2 0 4",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "William Carey",
+          "lessor": "John Nelson",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Catherine Dwyer",
+          "lessor": "John Nelson",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "John Nelson",
+          "lessor": "Henry Dwyer, Esq.",
+          "desc": "H,O,&L",
+          "area": "3 1 10",
+          "land_val": "3 10 0",
+          "building_val": "0 15 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Curran",
+          "lessor": "John Nelson",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "James Curran",
+          "lessor": "Henry Dwyer, Esq.",
+          "desc": "H&L",
+          "area": "0 3 12",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Honoria Prendergast",
+          "lessor": "John Nelson",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Patrick Kinsella",
+          "lessor": "John Nelson",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "180 3 7",
+          "land_val": "182 7 0",
+          "building_val": "25 13 0",
+          "total_val": "233 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CLOONALOO",
+          "os": "32 & 37",
+          "occupier": "James Kavanagh",
+          "lessor": "Henry Thomas, Esq.",
+          "desc": "H,O,&L",
+          "area": "32 2 26",
+          "land_val": "22 0 0",
+          "building_val": "0 10 0",
+          "total_val": "22 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Prendergast",
+          "lessor": "Henry Thomas, Esq.",
+          "desc": "H,O,&L",
+          "area": "1 2 30",
+          "land_val": "0 15 0",
+          "building_val": "0 15 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Catherine Prendergast",
+          "lessor": "Henry Thomas, Esq.",
+          "desc": "H,O,&L",
+          "area": "22 1 17",
+          "land_val": "13 15 0",
+          "building_val": "0 15 0",
+          "total_val": "14 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Daniel Grant",
+          "lessor": "Henry Thomas, Esq.",
+          "desc": "H,O,&L",
+          "area": "49 0 8",
+          "land_val": "35 15 0",
+          "building_val": "2 0 0",
+          "total_val": "37 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John M'Donnell",
+          "lessor": "Henry Thomas, Esq.",
+          "desc": "L",
+          "area": "5 2 38",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "6 A a B",
+          "occupier": "Richard Watters",
+          "lessor": "Henry Thomas, Esq.",
+          "desc": "Herd's H&L",
+          "area": "41 3 5",
+          "land_val": "27 0 0",
+          "building_val": "0 10 0",
+          "total_val": "27 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Prendergast",
+          "lessor": "Henry Thomas, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Pierce Prendergast",
+          "lessor": "Henry Thomas, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Richard Watters",
+          "lessor": "Henry Thomas, Esq.",
+          "desc": "Herd's H&L",
+          "area": "31 3 27",
+          "land_val": "21 0 0",
+          "building_val": "0 15 0",
+          "total_val": "21 15 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Henry Thomas, Esq.",
+          "lessor": "In fee",
+          "desc": "L,(plantation)",
+          "area": "1 2 12",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Catherine Curran",
+          "lessor": "Henry Thomas, Esq.",
+          "desc": "H,O,&L",
+          "area": "12 0 1",
+          "land_val": "7 10 0",
+          "building_val": "0 10 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "198 3 4",
+          "land_val": "132 5 0",
+          "building_val": "6 5 0",
+          "total_val": "138 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "COOLHENRY",
+          "os": "32",
+          "occupier": "Alex. M'Mahon, Esq.",
+          "lessor": "Reps. of William Fishbourne, Esq.",
+          "desc": "Steward's H,O,&L",
+          "area": "149 2 38",
+          "land_val": "170 0 0",
+          "building_val": "16 0 0",
+          "total_val": "186 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Vacant",
+          "lessor": "Alex. M'Mahon, Esq.",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "149 2 38",
+          "land_val": "170 0 0",
+          "building_val": "16 15 0",
+          "total_val": "186 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "COOLRAIN",
+          "os": "32",
+          "occupier": "Jermh. H. Cooper, Esq.",
+          "lessor": "Reps. of William Fishbourne, Esq.",
+          "desc": "L",
+          "area": "7 3 25",
+          "land_val": "7 10 0",
+          "building_val": "",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Wm. C. Cooper, Esq.",
+          "lessor": "Reps. of William Fishbourne, Esq.",
+          "desc": "L",
+          "area": "124 3 30",
+          "land_val": "140 0 0",
+          "building_val": "",
+          "total_val": "140 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "William Nolan",
+          "lessor": "Wm. C. Cooper, Esq.",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 3 0",
+          "building_val": "0 17 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Vacant",
+          "lessor": "Wm. C. Cooper, Esq.",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 3 0",
+          "building_val": "0 17 0",
+          "total_val": "1 0 0"
+        }
+      ]
+    }
+  ]
+}

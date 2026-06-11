@@ -1,0 +1,595 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF CLONFERT",
+      "entries": [
+        {
+          "mr": "32",
+          "townland": "KANTURK",
+          "is_continued": 1,
+          "sublocation_1": "TOWN OF KANTURK",
+          "sublocation_2": "BLUEPOOL, LOWER",
+          "occupier": "Judith Cahill",
+          "lessor": "Benjamin Savage and Thomas Buckley",
+          "desc": "H & G",
+          "area": "0 0 7",
+          "land_val": "0 2 0",
+          "building_val": "0 9 0",
+          "total_val": "0 11 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "John O'Keeffe",
+          "lessor": "Neptune Blood",
+          "desc": "H & G",
+          "area": "0 0 7",
+          "land_val": "0 2 0",
+          "building_val": "0 13 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Cornelius Callaghan",
+          "lessor": "Same",
+          "desc": "H & G",
+          "area": "0 0 9",
+          "land_val": "0 3 0",
+          "building_val": "0 17 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Philip Mullane",
+          "lessor": "Same",
+          "desc": "O & G",
+          "area": "0 0 10",
+          "land_val": "0 4 0",
+          "building_val": "0 18 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Catherine Roche",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "Margaret Galvin",
+          "lessor": "Same",
+          "desc": "H & G",
+          "area": "0 0 8",
+          "land_val": "0 3 0",
+          "building_val": "0 9 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Johanna Webb",
+          "lessor": "Same",
+          "desc": "H & G",
+          "area": "0 0 5",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "Jeremiah Mullane",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "Denis Sullivan and two others",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "41",
+          "occupier": "Judith Connors",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "Ellen Sullivan",
+          "lessor": "Same",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "Jeremiah Sullivan",
+          "lessor": "Sylvester Buckley",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "44",
+          "occupier": "Unoccupied",
+          "lessor": "Neptune Blood",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "45",
+          "occupier": "Cornelius Frawley",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "Richard Hennessy",
+          "lessor": "Daniel Conway",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "47",
+          "occupier": "Ellen Brosnahan",
+          "lessor": "Same",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "48",
+          "occupier": "Daniel Conway",
+          "lessor": "Benjamin Savage and Thomas Buckley",
+          "desc": "H & G",
+          "area": "0 0 12",
+          "land_val": "0 3 0",
+          "building_val": "0 12 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "49",
+          "occupier": "Cornelius Shea and another",
+          "lessor": "Daniel Conway",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "50",
+          "occupier": "Patrick O'Keeffe",
+          "lessor": "William Fitzgerald",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "51",
+          "occupier": "William Fitzgerald",
+          "lessor": "Daniel Conway",
+          "desc": "H & G",
+          "area": "0 0 6",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "52",
+          "occupier": "William Drislane",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "53",
+          "occupier": "Thomas Fitzgerald",
+          "lessor": "William Drislane",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "54",
+          "occupier": "Michael Wilkinson",
+          "lessor": "Michael O'Brien",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "55",
+          "occupier": "Henry Jennery",
+          "lessor": "Daniel Conway",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "56",
+          "occupier": "Michael O'Brien",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 5",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "57",
+          "occupier": "Patrick Sweeny",
+          "lessor": "Same",
+          "desc": "H & G",
+          "area": "0 0 4",
+          "land_val": "0 1 0",
+          "building_val": "0 12 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "58",
+          "occupier": "Mary Riordan",
+          "lessor": "Patrick Sweeny",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "59",
+          "occupier": "John Fitzpatrick",
+          "lessor": "William Charles",
+          "desc": "H & G",
+          "area": "0 0 5",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "60",
+          "occupier": "Ellen Mullane",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "61",
+          "occupier": "Mary Leyne",
+          "lessor": "Daniel Conway",
+          "desc": "H & sm. G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "62",
+          "occupier": "James Walsh",
+          "lessor": "Mary Leyne",
+          "desc": "H & sm. G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "63",
+          "occupier": "John Buckley",
+          "lessor": "Daniel Conway",
+          "desc": "H & sm. G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 18 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "64",
+          "occupier": "John Mahony",
+          "lessor": "Hugh Keller",
+          "desc": "H & G",
+          "area": "0 0 3",
+          "land_val": "0 1 0",
+          "building_val": "0 15 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "65",
+          "occupier": "John Sheehan",
+          "lessor": "Timothy Connors",
+          "desc": "H & G",
+          "area": "0 0 5",
+          "land_val": "0 1 0",
+          "building_val": "0 18 0",
+          "total_val": "0 19 0"
+        },
+        {
+          "mr": "66",
+          "occupier": "Ellen Doyle",
+          "lessor": "Daniel Conway",
+          "desc": "H & G",
+          "area": "0 0 5",
+          "land_val": "0 1 0",
+          "building_val": "0 10 0",
+          "total_val": "0 11 0"
+        },
+        {
+          "mr": "67",
+          "occupier": "Timothy Brosnahan",
+          "lessor": "Ellen Doyle",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "68",
+          "occupier": "James Connell",
+          "lessor": "Benjamin Savage and Thomas Buckley",
+          "desc": "H & G",
+          "area": "0 0 11",
+          "land_val": "0 3 0",
+          "building_val": "0 12 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "69",
+          "occupier": "William Murphy",
+          "lessor": "Patrick Sullivan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "70",
+          "occupier": "Patrick Sullivan",
+          "lessor": "Benjamin Savage and Thomas Buckley",
+          "desc": "H & G",
+          "area": "0 0 10",
+          "land_val": "0 3 0",
+          "building_val": "0 10 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "71",
+          "occupier": "Daniel Egan",
+          "lessor": "Same",
+          "desc": "H & G",
+          "area": "0 0 13",
+          "land_val": "0 3 0",
+          "building_val": "0 12 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "72",
+          "occupier": "Jeremiah Callaghan",
+          "lessor": "Daniel Egan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "73",
+          "occupier": "Mary Moylan",
+          "lessor": "Benjamin Savage and Thomas Buckley",
+          "desc": "H & G",
+          "area": "0 0 11",
+          "land_val": "0 3 0",
+          "building_val": "0 15 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "74",
+          "occupier": "Patrick Moylan",
+          "lessor": "Same",
+          "desc": "H & sm. G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "75",
+          "occupier": "Ellen Keller",
+          "lessor": "Same",
+          "desc": "H, O, & G",
+          "area": "0 0 7",
+          "land_val": "0 3 0",
+          "building_val": "0 12 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "76",
+          "occupier": "Owen Sullivan",
+          "lessor": "Same",
+          "desc": "H & sm. G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "77",
+          "occupier": "Denis Sullivan",
+          "lessor": "Same",
+          "desc": "H, O, & sm. G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "78",
+          "occupier": "Thomas Murphy",
+          "lessor": "John Kelly",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "79",
+          "occupier": "John Kelly",
+          "lessor": "Benjamin Savage and Thomas Buckley",
+          "desc": "H & G",
+          "area": "0 0 9",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "80",
+          "occupier": "Michael Collins",
+          "lessor": "Same",
+          "desc": "H & G",
+          "area": "0 0 7",
+          "land_val": "0 2 0",
+          "building_val": "0 13 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "81",
+          "occupier": "John Riordan",
+          "lessor": "Same",
+          "desc": "H, O, & G",
+          "area": "0 0 8",
+          "land_val": "0 2 0",
+          "building_val": "1 8 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "82",
+          "occupier": "Honoria Dahill",
+          "lessor": "Same",
+          "desc": "H & G",
+          "area": "0 0 7",
+          "land_val": "0 2 0",
+          "building_val": "0 15 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "83",
+          "occupier": "Thomas Barry",
+          "lessor": "Same",
+          "desc": "H & G",
+          "area": "0 0 7",
+          "land_val": "0 2 0",
+          "building_val": "1 3 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "84",
+          "occupier": "Thomas Brosnahan",
+          "lessor": "David O'Connell",
+          "desc": "H, O, & sm. G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "85",
+          "occupier": "John Gayer",
+          "lessor": "Benjamin Savage and Thomas Buckley",
+          "desc": "H, O, & sm. G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "86",
+          "occupier": "William Ward",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "87",
+          "occupier": "Patrick Mullane",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "88",
+          "occupier": "John Walsh",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 14 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "89",
+          "occupier": "William Keeffe",
+          "lessor": "William O'Brien",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        }
+      ]
+    }
+  ]
+}

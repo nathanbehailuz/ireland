@@ -1,0 +1,619 @@
+{
+  "parishes": [
+    {
+      "parish": "ST. PATRICKSROCK",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "BALLINREE",
+          "os": "60 & 61",
+          "occupier": "Matthew Hanly",
+          "lessor": "Reps.Richd.Lockwood",
+          "desc": "L",
+          "area": "106 1 6",
+          "land_val": "99 16 0",
+          "building_val": "",
+          "total_val": "99 16 0"
+        },
+        {
+          "mr": "1 A a",
+          "occupier": "Vacant",
+          "lessor": "Matthew Hanly",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Vacant",
+          "lessor": "Matthew Hanly",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 B a",
+          "occupier": "Roger Herr",
+          "lessor": "Matthew Hanly",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 11 0",
+          "total_val": "0 11 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 b",
+          "occupier": "James Morrissy",
+          "lessor": "Matthew Hanly",
+          "desc": "Office and forge",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2",
+          "occupier": "Timothy Ryan",
+          "lessor": "Mrs.Hanh.Pennefather",
+          "desc": "H&L",
+          "area": "1 1 7",
+          "land_val": "1 2 0",
+          "building_val": "0 10 0",
+          "total_val": "1 12 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Connor Hanly",
+          "lessor": "Mrs.Hanh.Pennefather",
+          "desc": "H&L",
+          "area": "50 1 17",
+          "land_val": "49 19 0",
+          "building_val": "3 2 0",
+          "total_val": "53 1 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Maher",
+          "lessor": "Mrs.Hanh.Pennefather",
+          "desc": "H&L",
+          "area": "4 1 20",
+          "land_val": "3 15 0",
+          "building_val": "1 0 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Bridget Lonergan",
+          "lessor": "Reps.Richd.Lockwood",
+          "desc": "H&G",
+          "area": "0 1 5",
+          "land_val": "0 3 0",
+          "building_val": "0 6 0",
+          "total_val": "0 9 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 b",
+          "occupier": "Edmund Carroll",
+          "lessor": "Mrs.Hanh.Pennefather",
+          "desc": "L",
+          "area": "3 1 15",
+          "land_val": "2 19 0",
+          "building_val": "",
+          "total_val": "2 19 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "David Buckley",
+          "lessor": "Mrs.Hanh.Pennefather",
+          "desc": "L",
+          "area": "16 0 15",
+          "land_val": "16 10 0",
+          "building_val": "",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "John Dwyer",
+          "lessor": "Matthew Hanly",
+          "desc": "H&L",
+          "area": "18 3 1",
+          "land_val": "16 4 0",
+          "building_val": "1 1 0",
+          "total_val": "17 5 0"
+        },
+        {
+          "mr": "8 A B a",
+          "occupier": "John Dwyer",
+          "lessor": "Mrs.Hanh.Pennefather",
+          "desc": "L",
+          "area": "4 3 12",
+          "land_val": "4 15 0",
+          "building_val": "",
+          "total_val": "4 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "8 b",
+          "occupier": "Edmund Morrissy",
+          "lessor": "Mrs.Hanh.Pennefather",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 19 0",
+          "total_val": "0 19 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9 a",
+          "occupier": "William Dwyer",
+          "lessor": "Matthew Hanly",
+          "desc": "H&L",
+          "area": "2 1 10",
+          "land_val": "2 4 0",
+          "building_val": "0 18 0",
+          "total_val": "3 2 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9",
+          "occupier": "William Dwyer",
+          "lessor": "Mrs.Hanh.Pennefather",
+          "desc": "L",
+          "area": "12 3 30",
+          "land_val": "6 4 0",
+          "building_val": "",
+          "total_val": "6 4 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "10",
+          "occupier": "John Dwyer",
+          "lessor": "Mrs.Hanh.Pennefather",
+          "desc": "L",
+          "area": "",
+          "land_val": "6 4 0",
+          "building_val": "",
+          "total_val": "6 4 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Patrick Dwyer",
+          "lessor": "Matthew Hanly",
+          "desc": "H&L",
+          "area": "1 1 10",
+          "land_val": "1 4 0",
+          "building_val": "0 4 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "John Woodlock",
+          "lessor": "Mrs.Hanh.Pennefather",
+          "desc": "H&L",
+          "area": "5 3 6",
+          "land_val": "5 12 0",
+          "building_val": "0 10 0",
+          "total_val": "6 2 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "12 b",
+          "occupier": "James Morrissy",
+          "lessor": "Mrs.Hanh.Pennefather",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 13 0",
+          "total_val": "0 13 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "227 3 34",
+          "land_val": "216 11 0",
+          "building_val": "11 7 0",
+          "total_val": "227 18 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BALLYCOMISK",
+          "os": "61 & 69",
+          "occupier": "Mrs. Devereux",
+          "lessor": "Lord Stanley",
+          "desc": "H,O,&L",
+          "area": "79 1 11",
+          "land_val": "71 18 0",
+          "building_val": "4 15 0",
+          "total_val": "76 13 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Lord Stanley",
+          "lessor": "In fee",
+          "desc": "H,O,&L",
+          "area": "205 3 34",
+          "land_val": "176 9 0",
+          "building_val": "7 17 0",
+          "total_val": "184 6 0"
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Vacant",
+          "lessor": "Lord Stanley",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "2 c",
+          "occupier": "Vacant",
+          "lessor": "Lord Stanley",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 1 0",
+          "total_val": "2 1 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "William Sullivan",
+          "lessor": "Lord Stanley",
+          "desc": "H&L",
+          "area": "2 3 11",
+          "land_val": "2 15 0",
+          "building_val": "0 8 0",
+          "total_val": "3 3 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Patrick M'Grath",
+          "lessor": "Lord Stanley",
+          "desc": "H,O,&L",
+          "area": "20 1 18",
+          "land_val": "15 7 0",
+          "building_val": "2 3 0",
+          "total_val": "17 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "308 1 34",
+          "land_val": "266 9 0",
+          "building_val": "17 19 0",
+          "total_val": "284 8 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BALLYDOYLE",
+          "os": "69",
+          "occupier": "James Lonergan",
+          "lessor": "Charles Ryall, Esq.",
+          "desc": "H&L",
+          "area": "25 1 11",
+          "land_val": "28 2 0",
+          "building_val": "2 6 0",
+          "total_val": "30 8 0"
+        },
+        {
+          "mr": "2 A B a",
+          "occupier": "Patrick Anglam",
+          "lessor": "Charles Ryall, Esq.",
+          "desc": "H&L",
+          "area": "65 3 5",
+          "land_val": "58 14 0",
+          "building_val": "2 18 0",
+          "total_val": "61 12 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 A B c",
+          "occupier": "Charles Ryall, Esq.",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "296 1 11",
+          "land_val": "226 19 0",
+          "building_val": "",
+          "total_val": "226 19 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 A a",
+          "occupier": "Vacant",
+          "lessor": "Charles Ryall, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 14 0",
+          "total_val": "3 14 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 b",
+          "occupier": "Thomas Walsh",
+          "lessor": "Charles Ryall, Esq.",
+          "desc": "H&G",
+          "area": "0 0 38",
+          "land_val": "0 3 0",
+          "building_val": "0 11 0",
+          "total_val": "0 14 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4 B a",
+          "occupier": "Vacant",
+          "lessor": "Charles Ryall, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 6 0",
+          "total_val": "3 6 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4 C a",
+          "occupier": "Vacant",
+          "lessor": "Charles Ryall, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 3 0",
+          "total_val": "2 3 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5",
+          "occupier": "Thomas Headen",
+          "lessor": "Charles Ryall, Esq.",
+          "desc": "L",
+          "area": "80 2 39",
+          "land_val": "108 7 0",
+          "building_val": "",
+          "total_val": "108 7 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Thomas Day",
+          "lessor": "Charles Ryall, Esq.",
+          "desc": "H&L",
+          "area": "19 3 0",
+          "land_val": "16 1 0",
+          "building_val": "1 9 0",
+          "total_val": "17 10 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "John Keating",
+          "lessor": "Charles Ryall, Esq.",
+          "desc": "H&L",
+          "area": "43 2 10",
+          "land_val": "34 3 0",
+          "building_val": "2 5 0",
+          "total_val": "36 8 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "7 b",
+          "occupier": "Thomas Donnell",
+          "lessor": "Charles Ryall, Esq.",
+          "desc": "H&L",
+          "area": "46 0 3",
+          "land_val": "36 11 0",
+          "building_val": "3 12 0",
+          "total_val": "40 3 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "8",
+          "occupier": "Vacant",
+          "lessor": "Thomas Donnell",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 18 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Jeremiah Donnell",
+          "lessor": "Charles Ryall, Esq.",
+          "desc": "H&L",
+          "area": "3 3 17",
+          "land_val": "3 3 0",
+          "building_val": "1 4 0",
+          "total_val": "4 7 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "581 2 14",
+          "land_val": "512 3 0",
+          "building_val": "24 6 0",
+          "total_val": "536 9 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BALLYDUAGH",
+          "os": "61",
+          "occupier": "Patrick Heffernan",
+          "lessor": "Lord Stanley",
+          "desc": "L",
+          "area": "62 3 8",
+          "land_val": "64 3 0",
+          "building_val": "",
+          "total_val": "64 3 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Vacant",
+          "lessor": "Patrick Heffernan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Thomas Wall",
+          "lessor": "Lord Stanley",
+          "desc": "H&L",
+          "area": "3 1 14",
+          "land_val": "3 6 0",
+          "building_val": "0 8 0",
+          "total_val": "3 14 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "66 0 22",
+          "land_val": "67 9 0",
+          "building_val": "2 3 0",
+          "total_val": "69 12 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BALLYFOWLOO",
+          "os": "61",
+          "occupier": "Timothy Headen",
+          "lessor": "Lord Stanley",
+          "desc": "L",
+          "area": "21 0 2",
+          "land_val": "12 18 0",
+          "building_val": "",
+          "total_val": "12 18 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Daniel Morrissy",
+          "lessor": "Lord Stanley",
+          "desc": "H&L",
+          "area": "40 0 16",
+          "land_val": "25 16 0",
+          "building_val": "3 6 0",
+          "total_val": "29 2 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "William M'Grath",
+          "lessor": "Lord Stanley",
+          "desc": "H&L",
+          "area": "39 2 33",
+          "land_val": "28 16 0",
+          "building_val": "2 8 0",
+          "total_val": "31 4 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James Downey",
+          "lessor": "Lord Stanley",
+          "desc": "H&L",
+          "area": "45 2 20",
+          "land_val": "30 15 0",
+          "building_val": "3 5 0",
+          "total_val": "34 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "William Mulloughney",
+          "lessor": "Lord Stanley",
+          "desc": "H&L",
+          "area": "46 1 37",
+          "land_val": "37 18 0",
+          "building_val": "4 16 0",
+          "total_val": "42 14 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Timothy Crowe",
+          "lessor": "Lord Stanley",
+          "desc": "H&L",
+          "area": "41 1 25",
+          "land_val": "39 5 0",
+          "building_val": "1 18 0",
+          "total_val": "41 3 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 b",
+          "occupier": "Richard Rochford",
+          "lessor": "Timothy Crowe",
+          "desc": "H&G",
+          "area": "0 1 10",
+          "land_val": "0 6 0",
+          "building_val": "0 10 0",
+          "total_val": "0 16 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "7 a",
+          "occupier": "James Heaney",
+          "lessor": "Lord Stanley",
+          "desc": "H,O,&L",
+          "area": "130 0 5",
+          "land_val": "139 3 0",
+          "building_val": "0 11 0",
+          "total_val": "139 14 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "7 c",
+          "occupier": "Catherine Cull",
+          "lessor": "James Heaney",
+          "desc": "H&L",
+          "area": "0 2 37",
+          "land_val": "0 12 0",
+          "building_val": "0 11 0",
+          "total_val": "1 3 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "7 & 8 b",
+          "occupier": "Margaret Kennedy",
+          "lessor": "James Heaney",
+          "desc": "H,O,&L",
+          "area": "3 2 33",
+          "land_val": "2 19 0",
+          "building_val": "0 15 0",
+          "total_val": "3 14 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "369 0 18",
+          "land_val": "318 8 0",
+          "building_val": "18 0 0",
+          "total_val": "336 8 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

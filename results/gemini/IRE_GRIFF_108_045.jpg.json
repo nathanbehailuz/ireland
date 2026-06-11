@@ -1,0 +1,542 @@
+{
+  "parishes": [
+    {
+      "parish": "KINAWLEY",
+      "entries": [
+        {
+          "mr": "8",
+          "townland": "TIRAVREE GLEBE",
+          "os": "",
+          "occupier": "Peter M'Cauley,",
+          "lessor": "Rev. Josiah Crampton,",
+          "desc": "L",
+          "area": "9 3 0",
+          "land_val": "1 4 0",
+          "building_val": "",
+          "total_val": "1 4 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "8",
+          "occupier": "Edward M'Manus,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "",
+          "land_val": "1 14 0",
+          "building_val": "",
+          "total_val": "1 14 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Bryan M'Manus,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 12 0",
+          "building_val": "",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "John M'Manus,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "",
+          "land_val": "1 4 0",
+          "building_val": "",
+          "total_val": "1 4 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "James M'Manus,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "",
+          "land_val": "1 4 0",
+          "building_val": "",
+          "total_val": "1 4 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Terence Maguire,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 12 0",
+          "building_val": "",
+          "total_val": "0 12 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "114 3 23",
+          "land_val": "53 0 0",
+          "building_val": "3 0 0",
+          "total_val": "56 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CORAGH GLEBE",
+          "os": "32 & 33",
+          "occupier": "Margaret M'Manus,",
+          "lessor": "Rev. Josiah Crampton,",
+          "desc": "H,O,&L",
+          "area": "5 3 10",
+          "land_val": "2 10 0",
+          "building_val": "0 5 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Little,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "2 2 5",
+          "land_val": "1 15 0",
+          "building_val": "0 5 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Thomas Lynan, sen.,",
+          "lessor": "Same,",
+          "desc": "H&L",
+          "area": "10 0 0",
+          "land_val": "1 15 0",
+          "building_val": "0 5 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "3 b",
+          "occupier": "Robert Lynan,",
+          "lessor": "Same,",
+          "desc": "H&L",
+          "area": "",
+          "land_val": "1 15 0",
+          "building_val": "0 5 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Adam Browne,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "10 2 20",
+          "land_val": "5 10 0",
+          "building_val": "0 15 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "5 A",
+          "occupier": "Patrick M'Hugh,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "20 2 25",
+          "land_val": "10 5 0",
+          "building_val": "0 10 0",
+          "total_val": "14 15 0"
+        },
+        {
+          "mr": "5 B",
+          "occupier": "Patrick M'Hugh,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "9 0 20",
+          "land_val": "4 0 0",
+          "building_val": ""
+        },
+        {
+          "mr": "6",
+          "occupier": "Thomas Lynan, jun.,",
+          "lessor": "Same,",
+          "desc": "H&L",
+          "area": "0 2 30",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Terence M'Connell,",
+          "lessor": "Same,",
+          "desc": "H&L",
+          "area": "9 1 15",
+          "land_val": "4 10 0",
+          "building_val": "0 5 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "8 A",
+          "occupier": "Mary Maguire,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "3 3 30",
+          "land_val": "1 2 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "8 B",
+          "occupier": "Mary Maguire,",
+          "lessor": "Same,",
+          "desc": "H&L",
+          "area": "0 1 20",
+          "land_val": "0 3 0",
+          "building_val": ""
+        },
+        {
+          "mr": "9",
+          "occupier": "Francis M'Manus,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "15 3 20",
+          "land_val": "6 5 0",
+          "building_val": "0 10 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "John M'Caffrey,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "12 1 35",
+          "land_val": "2 15 0",
+          "building_val": "0 5 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "10 b",
+          "occupier": "Michael M'Caffrey,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "2 15 0",
+          "building_val": "0 5 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Charles M'Caffrey,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "16 0 0",
+          "land_val": "6 0 0",
+          "building_val": "0 5 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "12 A",
+          "occupier": "Richard Elliott,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "15 0 0",
+          "land_val": "5 15 0",
+          "building_val": "0 5 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "12 B",
+          "occupier": "Richard Elliott,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "0 2 20",
+          "land_val": "0 8 0",
+          "building_val": ""
+        },
+        {
+          "mr": "12 C",
+          "occupier": "Richard Elliott,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "0 1 10",
+          "land_val": "0 2 0",
+          "building_val": ""
+        },
+        {
+          "mr": "13 A",
+          "occupier": "Patrick Harte,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "4 3 35",
+          "land_val": "1 13 0",
+          "building_val": "0 5 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "13 B",
+          "occupier": "Patrick Harte,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "1 1 0",
+          "land_val": "0 13 0",
+          "building_val": ""
+        },
+        {
+          "mr": "13 C",
+          "occupier": "Patrick Harte,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "3 1 35",
+          "land_val": "1 6 0",
+          "building_val": ""
+        },
+        {
+          "mr": "14",
+          "occupier": "William Crawford,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "5 0 30",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "148 2 31",
+          "land_val": "63 5 0",
+          "building_val": "4 10 0",
+          "total_val": "67 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CRUMMER,",
+          "os": "32 & 33",
+          "occupier": "James Browne,",
+          "lessor": "Commrs. of Education,",
+          "desc": "H,O,&L",
+          "area": "21 1 5",
+          "land_val": "10 10 0",
+          "building_val": "1 5 0",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "William Browne,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "18 0 30",
+          "land_val": "10 10 0",
+          "building_val": "1 5 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "2 B",
+          "occupier": "William Browne,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "2 2 10",
+          "land_val": "1 5 0",
+          "building_val": ""
+        },
+        {
+          "mr": "3",
+          "occupier": "William Browne,",
+          "lessor": "Same,",
+          "desc": "Herd's H&L",
+          "area": "10 0 25",
+          "land_val": "4 10 0",
+          "building_val": "0 10 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James Bracken,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "11 1 0",
+          "land_val": "6 0 0",
+          "building_val": "",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Martin,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "15 1 35",
+          "land_val": "8 5 0",
+          "building_val": "0 15 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Peter M'Brien,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "5 1 30",
+          "land_val": "3 5 0",
+          "building_val": "0 10 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Bridget Drum,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "11 0 30",
+          "land_val": "5 15 0",
+          "building_val": "0 5 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "John Nolan,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "30 1 30",
+          "land_val": "16 5 0",
+          "building_val": "1 0 0",
+          "total_val": "17 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Hugh Chittick,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "4 3 10",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Ellen White,",
+          "lessor": "Same,",
+          "desc": "H&L",
+          "area": "5 2 20",
+          "land_val": "1 5 0",
+          "building_val": "0 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "10 b",
+          "occupier": "Thomas White,",
+          "lessor": "Same,",
+          "desc": "H&L",
+          "area": "",
+          "land_val": "1 5 0",
+          "building_val": "0 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Bridget Dornan,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "5 1 5",
+          "land_val": "2 15 0",
+          "building_val": "0 10 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Patrick Dornan,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "10 2 5",
+          "land_val": "6 0 0",
+          "building_val": "0 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Nabby Murphy,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "8 1 10",
+          "land_val": "4 10 0",
+          "building_val": "0 10 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Philip Murphy,",
+          "lessor": "Same,",
+          "desc": "H&L",
+          "area": "0 1 25",
+          "land_val": "0 7 0",
+          "building_val": "0 3 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Michael Droogan,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "0 1 25",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "16 A",
+          "occupier": "Michael Droogan,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "2 0 24",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "16 B",
+          "occupier": "Michael Droogan,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "3 1 0",
+          "land_val": "1 10 0",
+          "building_val": ""
+        },
+        {
+          "mr": "17",
+          "occupier": "Terence Maguire,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "18 0 20",
+          "land_val": "10 5 0",
+          "building_val": "0 10 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "James Maguire,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "1 1 25",
+          "land_val": "0 13 0",
+          "building_val": "0 2 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "John Little, jun.,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "39 2 30",
+          "land_val": "20 15 0",
+          "building_val": "1 15 0",
+          "total_val": "22 10 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "John Little, sen.,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "13 2 35",
+          "land_val": "7 10 0",
+          "building_val": "1 5 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "230 2 29",
+          "land_val": "127 5 0",
+          "building_val": "11 5 0",
+          "total_val": "138 10 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

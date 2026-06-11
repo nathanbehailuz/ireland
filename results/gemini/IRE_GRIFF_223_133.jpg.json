@@ -1,0 +1,395 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF NAVAN",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "DILLONSLAND",
+          "os": "25",
+          "occupier": "Dublin & Drogheda Railway Company,",
+          "lessor": "In fee,",
+          "desc": "Railway (Navan Branch and Kells Extension, 97 lineal perches),",
+          "area": "4 0 35",
+          "total_val": "15 15 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Dublin and Drogheda Railway Company,",
+          "lessor": "In fee,",
+          "desc": "Railway station & offices,",
+          "building_val": "20 0 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Rev. Nicholas Power,",
+          "lessor": "Rev. Robert Thompson,",
+          "desc": "L",
+          "area": "11 0 10",
+          "land_val": "20 15 0",
+          "total_val": "20 15 0"
+        },
+        {
+          "mr": "3 A",
+          "occupier": "Rev. Robert Thompson,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "1 3 34",
+          "land_val": "3 0 0"
+        },
+        {
+          "mr": "B a",
+          "occupier": "Rev. Robert Thompson,",
+          "lessor": "In fee,",
+          "desc": "H,O,&L",
+          "area": "52 0 3",
+          "land_val": "83 0 0",
+          "building_val": "30 0 0",
+          "total_val": "116 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Christopher Killen,",
+          "lessor": "In fee,",
+          "desc": "H",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Andrew M'Gadden,",
+          "lessor": "In fee,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "4",
+          "desc": "River Boyne (part of),",
+          "area": "1 2 32"
+        },
+        {
+          "mr": "5 1",
+          "townland": "TOWN OF NAVAN",
+          "sublocation_1": "ACADEMY-STREET.",
+          "occupier": "Trustees of Academy,",
+          "lessor": "Reps. Eliza Cusack,",
+          "desc": "H,O,& yard,",
+          "building_val": "20 0 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "- 2",
+          "occupier": "Trustees of Academy,",
+          "lessor": "Reps. Rev. Eugene O'Reilly,",
+          "desc": "Offices and yard (valued with No. 3),"
+        },
+        {
+          "mr": "- 3",
+          "occupier": "Trustees of Academy,",
+          "lessor": "Same,",
+          "desc": "H & yard,",
+          "building_val": "10 10 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "- 4",
+          "occupier": "Trustees of Academy,",
+          "lessor": "James Aylmer,",
+          "desc": "H,O,yard, and play-ground,",
+          "building_val": "75 0 0",
+          "total_val": "75 0 0"
+        },
+        {
+          "mr": "- 5",
+          "occupier": "Trustees of Academy,",
+          "lessor": "Reps. Rev. Eugene O'Reilly&Jas.Aylmer,",
+          "desc": "R. C. Chapel,",
+          "building_val": "10 10 0",
+          "total_val": "10 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "6",
+          "occupier": "Eliza Donnellan,",
+          "lessor": "James Flood,",
+          "desc": "H,O,&G,",
+          "area": "0 0 20",
+          "land_val": "0 5 0",
+          "building_val": "7 5 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Bernard Donnelly,",
+          "lessor": "Reps. Rev. Eugene O'Reilly,",
+          "desc": "H,O,&G,",
+          "area": "0 0 20",
+          "land_val": "0 5 0",
+          "building_val": "7 5 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "David Bewick,",
+          "lessor": "Same,",
+          "desc": "H,O,&G,",
+          "area": "0 0 20",
+          "land_val": "0 5 0",
+          "building_val": "5 5 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Vacant,",
+          "lessor": "Same,",
+          "desc": "H & G,",
+          "area": "0 0 24",
+          "land_val": "0 7 0",
+          "building_val": "7 3 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Vacant,",
+          "lessor": "Same,",
+          "desc": "H & G,",
+          "area": "0 0 24",
+          "land_val": "0 7 0",
+          "building_val": "7 3 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Patrick Blackburn,",
+          "lessor": "Same,",
+          "desc": "H, off., & sm. gar.",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Vacant,",
+          "lessor": "Rev. Robert Thompson,",
+          "desc": "Ho., off., yard, & garden,",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "4 15 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Francis M'Naughton,",
+          "lessor": "Same,",
+          "desc": "H,O,&G,",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Patrick Brady,",
+          "lessor": "Same,",
+          "desc": "H,O,&G,",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Vacant,",
+          "lessor": "Same,",
+          "desc": "H & yard,",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Rev. Robert Thompson",
+          "lessor": "In fee,",
+          "desc": "G",
+          "area": "0 0 33",
+          "land_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Rev. Robert Thompson",
+          "lessor": "In fee,",
+          "desc": "Building-ground,"
+        },
+        {
+          "mr": "18",
+          "occupier": "John Spicer,",
+          "lessor": "Dublin and Drogheda Railway Company,",
+          "desc": "Corn stores, kiln, & yard,",
+          "building_val": "21 0 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Dublin and Drogheda Railway Company,",
+          "lessor": "In fee,",
+          "desc": "H,O,& yard,",
+          "building_val": "12 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Edmund Murtagh,",
+          "lessor": "Thomas Reilly,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "James Hillard,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "John Bird,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Patrick Wolfe,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Thomas Reilly,",
+          "lessor": "Reps. Rev. Eugene O'Reilly,",
+          "desc": "House,off.& sm. garden,",
+          "building_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Arthur W. Lane,",
+          "lessor": "John Leonard,",
+          "desc": "H,O,& yard,",
+          "building_val": "9 10 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "John Spicer,",
+          "lessor": "Reps. Rev. Eugene O'Reilly,",
+          "desc": "H,O,& yard,",
+          "building_val": "23 0 0",
+          "total_val": "23 0 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "William Mason,",
+          "lessor": "Edward Murphy,",
+          "desc": "H,O,& yard,",
+          "building_val": "11 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Edward Murphy,",
+          "lessor": "Rev. Robert Thompson,",
+          "desc": "H,O,& yard,",
+          "building_val": "17 0 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Sisters of Mercy,",
+          "lessor": "Same,",
+          "desc": "H,O,& yard,",
+          "building_val": "17 0 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "-",
+          "desc": "Waste under houses, yards, streets, &c.,",
+          "area": "5 2 23"
+        },
+        {
+          "desc": "Total,",
+          "area": "77 2 13",
+          "land_val": "108 17 0",
+          "building_val": "343 13 0",
+          "total_val": "463 5 0",
+          "is_total": 1
+        },
+        {
+          "occupier": "R. C. Chapel,",
+          "building_val": "10 10 0",
+          "total_val": "10 10 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of Exemptions,",
+          "area": "77 2 13",
+          "land_val": "108 17 0",
+          "building_val": "333 3 0",
+          "total_val": "457 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "DUFFSLAND",
+          "os": "25",
+          "occupier": "Thomas Cavanagh,",
+          "lessor": "In fee,",
+          "desc": "H,O,&L",
+          "area": "8 2 13",
+          "land_val": "8 10 0",
+          "building_val": "7 0 0",
+          "total_val": "15 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Patrick Cavanagh,",
+          "lessor": "In fee,",
+          "desc": "H,O,&L",
+          "area": "6 2 20",
+          "land_val": "6 10 0",
+          "building_val": "7 10 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Cavanagh,",
+          "lessor": "Blaney T. Balfour,",
+          "desc": "L",
+          "area": "4 0 0",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Michael Smith,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "0 2 5",
+          "land_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Roberts,",
+          "lessor": "Blaney T. Balfour,",
+          "desc": "L",
+          "area": "15 3 13",
+          "land_val": "17 0 0",
+          "total_val": "17 0 0"
+        }
+      ]
+    }
+  ]
+}

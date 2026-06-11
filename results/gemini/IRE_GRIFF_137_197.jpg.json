@@ -1,0 +1,681 @@
+{
+  "parishes": [
+    {
+      "parish": "KILDARE",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "KILDARE",
+          "os": "23",
+          "occupier": "William Fitzgerald",
+          "lessor": "Duke of Leinster",
+          "desc": "H,O,&L",
+          "area": "70 0 28",
+          "land_val": "52 10 0",
+          "building_val": "1 5 0",
+          "total_val": "53 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Richard Doyle",
+          "lessor": "Anne Murphy",
+          "desc": "L",
+          "area": "11 2 16",
+          "land_val": "10 0 0",
+          "building_val": "",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Anne Murphy",
+          "lessor": "Duke of Leinster",
+          "desc": "H,O,&L",
+          "area": "13 2 33",
+          "land_val": "15 10 0",
+          "building_val": "1 5 0",
+          "total_val": "16 15 0"
+        },
+        {
+          "mr": "4 A",
+          "occupier": "Thomas Fitzgerald",
+          "lessor": "James Kavanagh",
+          "desc": "L",
+          "area": "10 1 35",
+          "land_val": "9 5 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "B",
+          "occupier": "Thomas Fitzgerald",
+          "lessor": "James Kavanagh",
+          "desc": "H,O,&L",
+          "area": "7 0 0",
+          "land_val": "7 5 0",
+          "building_val": "1 10 0",
+          "total_val": ""
+        },
+        {
+          "mr": "C",
+          "occupier": "Thomas Fitzgerald",
+          "lessor": "James Kavanagh",
+          "desc": "L",
+          "area": "4 2 30",
+          "land_val": "5 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "D",
+          "occupier": "Thomas Fitzgerald",
+          "lessor": "James Kavanagh",
+          "desc": "L",
+          "area": "1 0 25",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "5 A",
+          "occupier": "Thomas Fitzgerald",
+          "lessor": "Richard Woods",
+          "desc": "L",
+          "area": "6 0 30",
+          "land_val": "5 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "B",
+          "occupier": "Thomas Fitzgerald",
+          "lessor": "Richard Woods",
+          "desc": "L",
+          "area": "7 2 10",
+          "land_val": "9 10 0",
+          "building_val": "",
+          "total_val": "24 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Charles Dunne",
+          "lessor": "Rev. Sir E. Borrowes, Bart.",
+          "desc": "L",
+          "area": "12 0 3",
+          "land_val": "14 0 0",
+          "building_val": "",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Charles Dunne",
+          "lessor": "Rev. Sir E. Borrowes, Bart.",
+          "desc": "L",
+          "area": "4 1 14",
+          "land_val": "6 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "8",
+          "occupier": "Charles Dunne",
+          "lessor": "Waldron Kelly",
+          "desc": "L",
+          "area": "5 2 24",
+          "land_val": "5 15 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "5 B a",
+          "occupier": "John Lawless",
+          "lessor": "Charles Dunne",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Lee",
+          "lessor": "Charles Dunne",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Patrick Hickey",
+          "lessor": "Charles Dunne",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Vacant",
+          "lessor": "Charles Dunne",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "9 A",
+          "occupier": "Daniel Cleary",
+          "lessor": "Duke of Leinster",
+          "desc": "L",
+          "area": "2 3 2",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "B",
+          "occupier": "Daniel Cleary",
+          "lessor": "Duke of Leinster",
+          "desc": "L",
+          "area": "6 2 25",
+          "land_val": "7 0 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "B a",
+          "occupier": "Vacant",
+          "lessor": "Daniel Cleary",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Anne Farrell",
+          "lessor": "Duke of Leinster",
+          "desc": "H,O,&L",
+          "area": "4 0 5",
+          "land_val": "4 0 0",
+          "building_val": "0 15 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Anthony Foran",
+          "lessor": "Duke of Leinster",
+          "desc": "L",
+          "area": "6 0 10",
+          "land_val": "5 15 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "John Ennis",
+          "lessor": "Ecclesiastical Comsrs.",
+          "desc": "L",
+          "area": "2 2 28",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Fenton Carroll",
+          "lessor": "Waldron Kelly",
+          "desc": "L",
+          "area": "3 0 0",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "John Hackett",
+          "lessor": "Waldron Kelly",
+          "desc": "L",
+          "area": "2 3 10",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "William P. Geoghegan",
+          "lessor": "Waldron Kelly",
+          "desc": "L",
+          "area": "8 2 12",
+          "land_val": "8 10 0",
+          "building_val": "",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Henry Conoran",
+          "lessor": "Waldron Kelly",
+          "desc": "L",
+          "area": "7 0 16",
+          "land_val": "7 0 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Michael Kinchella",
+          "lessor": "Waldron Kelly",
+          "desc": "L",
+          "area": "6 3 26",
+          "land_val": "7 0 0",
+          "building_val": "",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "John Flanagan",
+          "lessor": "Waldron Kelly",
+          "desc": "L",
+          "area": "2 1 14",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Michael Rafter",
+          "lessor": "Waldron Kelly",
+          "desc": "L",
+          "area": "2 3 26",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "20 A",
+          "occupier": "Daniel A. O'Leary",
+          "lessor": "G.S.&W.Railway Co.",
+          "desc": "L",
+          "area": "3 2 10",
+          "land_val": "4 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "B",
+          "occupier": "Daniel A. O'Leary",
+          "lessor": "G.S.&W.Railway Co.",
+          "desc": "L",
+          "area": "0 2 10",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "C",
+          "occupier": "Daniel A. O'Leary",
+          "lessor": "G.S.&W.Railway Co.",
+          "desc": "L",
+          "area": "3 1 18",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "25 b",
+          "occupier": "Daniel A. O'Leary",
+          "lessor": "G.S.&W.Railway Co.",
+          "desc": "L",
+          "area": "1 0 0",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "occupier": "Daniel A. O'Leary",
+          "lessor": "G.S.&W.Railway Co.",
+          "desc": "L",
+          "area": "0 3 20",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Thomas Heffernan",
+          "lessor": "Duke of Leinster",
+          "desc": "L",
+          "area": "1 1 0",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "22 A",
+          "occupier": "James Bracken",
+          "lessor": "Rev. Sir E. Borrowes, Bart.",
+          "desc": "L",
+          "area": "4 0 26",
+          "land_val": "5 0 0",
+          "building_val": "",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "B",
+          "occupier": "James Bracken",
+          "lessor": "Rev. Sir E. Borrowes, Bart.",
+          "desc": "L",
+          "area": "2 3 25",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "23",
+          "occupier": "Thomas Cross",
+          "lessor": "William Ryan",
+          "desc": "O&L",
+          "area": "3 3 37",
+          "land_val": "5 10 0",
+          "building_val": "",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "24 A",
+          "occupier": "Mary Cleary",
+          "lessor": "Duke of Leinster",
+          "desc": "L",
+          "area": "2 2 22",
+          "land_val": "3 5 0",
+          "building_val": "0 10 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "B",
+          "occupier": "Mary Cleary",
+          "lessor": "Duke of Leinster",
+          "desc": "L",
+          "area": "3 3 35",
+          "land_val": "4 15 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "occupier": "Michael Hannon",
+          "lessor": "Mary Cleary",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "23 0 0"
+        },
+        {
+          "mr": "B a",
+          "occupier": "Michael Hannon",
+          "lessor": "Mary Cleary",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "G.S.&W.Railway Co.",
+          "lessor": "In fee",
+          "desc": "Railway (287 lin. perches)",
+          "area": "17 2 10",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "252 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "G.S.&W.Railway Co.",
+          "lessor": "In fee",
+          "desc": "Station-ho. and offices",
+          "area": "",
+          "land_val": "",
+          "building_val": "25 0 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Thomas Millway",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "1 0 20",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Thomas Millway",
+          "lessor": "William Ryan",
+          "desc": "O&L",
+          "area": "4 0 7",
+          "land_val": "5 15 0",
+          "building_val": "0 5 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Mary Hughes",
+          "lessor": "Thomas Millway",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Rev. Patrick Parr",
+          "lessor": "Charles Bergin",
+          "desc": "L",
+          "area": "6 2 20",
+          "land_val": "8 15 0",
+          "building_val": "",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "John Kelly",
+          "lessor": "Francis Lee",
+          "desc": "L",
+          "area": "9 2 29",
+          "land_val": "13 0 0",
+          "building_val": "",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "29 A",
+          "occupier": "Patrick Garry",
+          "lessor": "Duke of Leinster",
+          "desc": "L",
+          "area": "14 1 35",
+          "land_val": "18 0 0",
+          "building_val": "",
+          "total_val": "30 0 0"
+        },
+        {
+          "mr": "B",
+          "occupier": "Patrick Garry",
+          "lessor": "Duke of Leinster",
+          "desc": "L",
+          "area": "8 2 20",
+          "land_val": "12 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "30",
+          "occupier": "John Daniel",
+          "lessor": "Messrs. Cooper",
+          "desc": "L",
+          "area": "5 0 24",
+          "land_val": "7 0 0",
+          "building_val": "",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Edward Burns",
+          "lessor": "Free",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Pierce Fitzgerald",
+          "lessor": "Waldron Kelly",
+          "desc": "L",
+          "area": "2 2 8",
+          "land_val": "3 5 0",
+          "building_val": "",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "Pierce Fitzgerald",
+          "lessor": "Messrs. Cooper",
+          "desc": "L",
+          "area": "8 2 4",
+          "land_val": "12 0 0",
+          "building_val": "",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "Charles Bergin",
+          "lessor": "Mary Cleary",
+          "desc": "O&L",
+          "area": "3 3 18",
+          "land_val": "5 15 0",
+          "building_val": "0 5 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Charles Bergin",
+          "lessor": "Thomas Kelly",
+          "desc": "O&L",
+          "area": "28 0 18",
+          "land_val": "33 0 0",
+          "building_val": "0 5 0",
+          "total_val": "33 5 0"
+        },
+        {
+          "mr": "33 a",
+          "occupier": "John Going",
+          "lessor": "Charles Bergin",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "John Butler",
+          "lessor": "John Cobb",
+          "desc": "L",
+          "area": "1 3 4",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Martin Drake",
+          "lessor": "John Butler",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "James Trainor",
+          "lessor": "John Butler",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Catherine Cobb",
+          "lessor": "John Cobb",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Patrick Lee",
+          "lessor": "William Williams",
+          "desc": "L",
+          "area": "11 2 34",
+          "land_val": "16 5 0",
+          "building_val": "",
+          "total_val": "16 5 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Grave-yard",
+          "lessor": "Dean and Chapter of Kildare",
+          "desc": "Grave-yard",
+          "area": "0 0 30",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "William Collett",
+          "lessor": "Rev.SirE.Borrowes,Bt.",
+          "desc": "H,O,&L",
+          "area": "0 3 10",
+          "land_val": "1 0 0",
+          "building_val": "1 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Michael Swords",
+          "lessor": "Free",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Anne Farrell",
+          "lessor": "Free",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        }
+      ]
+    }
+  ]
+}

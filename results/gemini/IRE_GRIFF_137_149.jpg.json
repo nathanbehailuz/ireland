@@ -1,0 +1,602 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF NAAS",
+      "entries": [
+        {
+          "mr": "3",
+          "townland": "MONREAD, NORTH",
+          "os": "",
+          "occupier": "Hugh Doyle",
+          "lessor": "Robert Meekins",
+          "desc": "L",
+          "area": "12 0 33",
+          "land_val": "9 10 0",
+          "building_val": "",
+          "total_val": "9 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Edward Rorke",
+          "lessor": "John Martin",
+          "desc": "L",
+          "area": "1 0 30",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "4 b",
+          "occupier": "Patrick Keogh",
+          "lessor": "Hugh Doyle",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Daly",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "William Hunt",
+          "lessor": "Robert Meekins",
+          "desc": "Caretaker's-ho.,offs.&ld.",
+          "area": "72 0 4",
+          "land_val": "58 0 0",
+          "building_val": "1 10 0",
+          "total_val": "59 10 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Patrick Carroll",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "30 3 6",
+          "land_val": "21 0 0",
+          "building_val": "1 0 0",
+          "total_val": "22 0 0"
+        },
+        {
+          "mr": "7 b",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "Caretaker's-ho.,offs.&ld.",
+          "area": "108 1 33",
+          "land_val": "76 10 0",
+          "building_val": "2 10 0",
+          "total_val": "79 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Patrick Grady",
+          "lessor": "Patrick Carroll",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "Robert Meekins",
+          "desc": "H,O,&L",
+          "area": "38 3 37",
+          "land_val": "23 0 0",
+          "building_val": "2 10 0",
+          "total_val": "25 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "299 0 5",
+          "land_val": "214 0 0",
+          "building_val": "12 0 0",
+          "total_val": "226 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "MONREAD, SOUTH",
+          "os": "19",
+          "occupier": "Peter M'Donnell (Slate-house)",
+          "lessor": "Thomas De Burgh",
+          "desc": "H,O,&L",
+          "area": "36 0 0",
+          "land_val": "31 10 0",
+          "building_val": "2 0 0",
+          "total_val": "33 10 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "2",
+          "occupier": "Sarah Neill",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "12 3 22",
+          "land_val": "9 15 0",
+          "building_val": "1 0 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick M'Donnell",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "26 1 30",
+          "land_val": "26 15 0",
+          "building_val": "1 5 0",
+          "total_val": "28 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Bettridge",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "19 3 35",
+          "land_val": "20 0 0",
+          "building_val": "1 0 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Patrick M'Donnell (of Fields)",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "97 3 20",
+          "land_val": "82 0 0",
+          "building_val": "3 0 0",
+          "total_val": "85 0 0"
+        },
+        {
+          "mr": "5 b",
+          "occupier": "Patrick Mulligan",
+          "lessor": "Patrick M'Donnell (of Fields)",
+          "desc": "H&G",
+          "area": "0 3 0",
+          "land_val": "0 10 0",
+          "building_val": "0 15 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Richard Duggan",
+          "lessor": "Thomas De Burgh",
+          "desc": "H,O,&L",
+          "area": "12 0 20",
+          "land_val": "8 5 0",
+          "building_val": "1 5 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Michael Hickey",
+          "lessor": "Richard Duggan",
+          "desc": "H&G",
+          "area": "0 3 10",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Martin Brady",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Philip Kennedy",
+          "lessor": "Thomas De Burgh",
+          "desc": "L",
+          "area": "10 3 36",
+          "land_val": "7 10 0",
+          "building_val": "",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Philip Kennedy, jun.",
+          "lessor": "Philip Kennedy",
+          "desc": "H&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "William M'Nally",
+          "lessor": "John Stanley",
+          "desc": "L",
+          "area": "2 2 35",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "William Cullen",
+          "lessor": "William M'Nally",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Thomas Donnelly",
+          "lessor": "Thomas De Burgh",
+          "desc": "L",
+          "area": "37 2 32",
+          "land_val": "40 0 0",
+          "building_val": "",
+          "total_val": "40 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "John Blowney",
+          "lessor": "Same",
+          "desc": "Caretaker's-ho.,off.,&ld.",
+          "area": "28 0 22",
+          "land_val": "33 10 0",
+          "building_val": "1 10 0",
+          "total_val": "35 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "John Blowney",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "10 0 0",
+          "land_val": "13 10 0",
+          "building_val": "",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "296 1 31",
+          "land_val": "275 15 0",
+          "building_val": "13 5 0",
+          "total_val": "289 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "NAAS, EAST",
+          "os": "19",
+          "occupier": "Thomas De Burgh",
+          "lessor": "Rev. Walter De Burgh",
+          "desc": "L",
+          "area": "18 3 0",
+          "land_val": "18 10 0",
+          "building_val": "",
+          "total_val": "18 10 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "2",
+          "occupier": "Rev. Walter De Burgh",
+          "lessor": "Ecclesiastical Comsrs.",
+          "desc": "Herd's-H&L",
+          "area": "21 1 10",
+          "land_val": "28 10 0",
+          "building_val": "1 15 0",
+          "total_val": "30 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Rev. Walter De Burgh",
+          "lessor": "Thomas De Burgh",
+          "desc": "L",
+          "area": "11 2 30",
+          "land_val": "13 0 0",
+          "building_val": "",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Thomas De Burgh",
+          "lessor": "In fee",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Thomas De Burgh",
+          "lessor": "In fee",
+          "desc": "Lime-kiln&quarry",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Peter Doyle",
+          "lessor": "Thomas De Burgh",
+          "desc": "L",
+          "area": "5 2 12",
+          "land_val": "7 0 0",
+          "building_val": "",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Hickey",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 3 28",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "John Collins",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 0 24",
+          "land_val": "8 10 0",
+          "building_val": "",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "William Pearse",
+          "lessor": "Lawrence Whelan",
+          "desc": "L",
+          "area": "9 0 10",
+          "land_val": "10 10 0",
+          "building_val": "",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Andrew Keane",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 2 15",
+          "land_val": "8 10 0",
+          "building_val": "",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Sarah Norris",
+          "lessor": "Rev. John Finlay",
+          "desc": "L",
+          "area": "6 1 32",
+          "land_val": "7 15 0",
+          "building_val": "",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Patrick M'Evoy",
+          "lessor": "Thomas De Burgh",
+          "desc": "L",
+          "area": "6 3 4",
+          "land_val": "10 0 0",
+          "building_val": "",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "John Doyle and another",
+          "lessor": "Patrick M'Evoy",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- b",
+          "occupier": "Thos. Ivory & another",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "11",
+          "occupier": "Patrick M'Evoy",
+          "lessor": "Mary Donohoe",
+          "desc": "L",
+          "area": "3 2 30",
+          "land_val": "5 15 0",
+          "building_val": "",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Patrick Nicholson",
+          "lessor": "William R. Sale",
+          "desc": "G",
+          "area": "0 3 7",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Margaret Wilson",
+          "lessor": "Rev. Mr. Cummins",
+          "desc": "O&L",
+          "area": "28 3 5",
+          "land_val": "40 0 0",
+          "building_val": "0 10 0",
+          "total_val": "40 10 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Mary Fullam",
+          "lessor": "Margaret Wilson",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Margaret Wilson",
+          "lessor": "Andrew Curran",
+          "desc": "L",
+          "area": "8 3 4",
+          "land_val": "12 15 0",
+          "building_val": "",
+          "total_val": "12 15 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Margaret Wilson",
+          "lessor": "Paulina Mansfield",
+          "desc": "L",
+          "area": "12 1 12",
+          "land_val": "10 10 0",
+          "building_val": "",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Matthew Ennis",
+          "lessor": "James Kellett",
+          "desc": "L",
+          "area": "12 3 14",
+          "land_val": "13 5 0",
+          "building_val": "",
+          "total_val": "13 5 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Patrick Dawson",
+          "lessor": "Rev. Walter De Burgh",
+          "desc": "H,O,&L",
+          "area": "6 0 22",
+          "land_val": "5 0 0",
+          "building_val": "1 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Gregory Harrington",
+          "lessor": "Earl of Mayo",
+          "desc": "L",
+          "area": "1 0 25",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Gregory Harrington",
+          "lessor": "Andrew Montgomery",
+          "desc": "L",
+          "area": "10 2 24",
+          "land_val": "16 0 0",
+          "building_val": "",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Gregory Harrington",
+          "lessor": "Rev. Walter De Burgh",
+          "desc": "H&L",
+          "area": "5 1 36",
+          "land_val": "5 0 0",
+          "building_val": "0 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Edward Hanlon",
+          "lessor": "Thomas De Burgh",
+          "desc": "L",
+          "area": "4 2 22",
+          "land_val": "4 10 0",
+          "building_val": "",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "James Kilmurry",
+          "lessor": "Andrew Montgomery",
+          "desc": "L",
+          "area": "4 0 36",
+          "land_val": "6 0 0",
+          "building_val": "",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "James Kilmurry",
+          "lessor": "Earl of Mayo",
+          "desc": "Herd's-H&L",
+          "area": "3 2 20",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Elizabeth Doyle",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 0 20",
+          "land_val": "8 15 0",
+          "building_val": "",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Elizabeth Doyle",
+          "lessor": "Rev. John Finlay",
+          "desc": "L",
+          "area": "7 3 28",
+          "land_val": "10 0 0",
+          "building_val": "",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Thomas Hayden",
+          "lessor": "John Hickey",
+          "desc": "Herd's-H&L",
+          "area": "42 3 35",
+          "land_val": "62 10 0",
+          "building_val": "0 10 0",
+          "total_val": "63 0 0"
+        }
+      ]
+    }
+  ]
+}

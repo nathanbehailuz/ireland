@@ -1,0 +1,490 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF CROSSMOLINA",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "BALLYNALYNAGH",
+          "os": "38",
+          "occupier": "Anthony Devir",
+          "lessor": "Chas. & Bernard Coyne",
+          "desc": "L",
+          "area": "16 3 0",
+          "land_val": "1 8 0",
+          "building_val": "",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "1",
+          "occupier": "Andrew Devir",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "1 7 0",
+          "building_val": "",
+          "total_val": "1 7 0"
+        },
+        {
+          "mr": "1",
+          "occupier": "Patrick Devir",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Anthony Devir",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 0 33",
+          "land_val": "2 0 0",
+          "building_val": "0 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Andrew Devir",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "2 0 0",
+          "building_val": "0 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Devir",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 0 33",
+          "land_val": "4 0 0",
+          "building_val": "1 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Boland",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "25 2 5",
+          "land_val": "8 10 0",
+          "building_val": "1 0 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Chas. & Bernard Coyne",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "102 3 3",
+          "land_val": "80 0 0",
+          "building_val": "",
+          "total_val": "80 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Owen Regan",
+          "lessor": "Chas. & Bernard Coyne",
+          "desc": "H&L",
+          "area": "16 0 28",
+          "land_val": "7 0 0",
+          "building_val": "0 10 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "273 2 22",
+          "land_val": "109 0 0",
+          "building_val": "4 0 0",
+          "total_val": "113 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BENGEERY",
+          "os": "38",
+          "occupier": "Thomas Hughes, sen.",
+          "lessor": "Sir Wm. Roger Palmer",
+          "desc": "L",
+          "area": "22 1 13",
+          "land_val": "3 15 0",
+          "building_val": "",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "1",
+          "occupier": "Martin Hughes",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "1",
+          "occupier": "John Hughes",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Thomas Hughes, sen.",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "18 0 24",
+          "land_val": "8 0 0",
+          "building_val": "0 15 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Martin Hughes",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "33 1 4",
+          "land_val": "10 15 0",
+          "building_val": "0 15 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "3 b",
+          "occupier": "John Hughes",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "",
+          "land_val": "5 5 0",
+          "building_val": "0 15 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Martin Hughes",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "20 0 0",
+          "land_val": "5 5 0",
+          "building_val": "",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Hughes",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Kirby",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "20 0 18",
+          "land_val": "8 5 0",
+          "building_val": "0 10 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "John Boland",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "28 1 15",
+          "land_val": "12 0 0",
+          "building_val": "",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Thomas Sheridan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "17 2 4",
+          "land_val": "10 5 0",
+          "building_val": "0 15 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Thomas Hughes, jun.",
+          "lessor": "Same",
+          "desc": "H&herd's house",
+          "area": "61 2 29",
+          "land_val": "26 10 0",
+          "building_val": "0 10 0",
+          "total_val": "27 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "221 1 36",
+          "land_val": "96 10 0",
+          "building_val": "4 0 0",
+          "total_val": "100 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "CABRAGH",
+          "os": "38",
+          "occupier": "Walter Quinn",
+          "lessor": "Jane Louisa O'Donnell",
+          "desc": "H,O,&L",
+          "area": "114 3 12",
+          "land_val": "43 0 0",
+          "building_val": "2 0 0",
+          "total_val": "45 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 b, c",
+          "occupier": "Walter Quinn",
+          "lessor": "Same",
+          "desc": "Two cottages",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "45 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Rev. Barthol. Costello",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "141 0 26",
+          "land_val": "33 0 0",
+          "building_val": "1 0 0",
+          "total_val": "34 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Rev. Barthol. Costello",
+          "lessor": "Same",
+          "desc": "One cottage",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "34 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- c",
+          "occupier": "(See Exemptions)",
+          "lessor": "",
+          "desc": "National school house",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "desc": "Total of Rateable Property",
+          "area": "255 3 38",
+          "land_val": "76 0 0",
+          "building_val": "3 15 0",
+          "total_val": "79 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "2 c",
+          "occupier": "Rev. Barthol. Costello",
+          "lessor": "National school-house",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, including Exemptions",
+          "area": "255 3 38",
+          "land_val": "76 0 0",
+          "building_val": "4 15 0",
+          "total_val": "80 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "CARROWCLOGHAGH",
+          "os": "38",
+          "occupier": "Thomas Walsh",
+          "lessor": "Col. F. A. Knox Gore",
+          "desc": "H&L",
+          "area": "17 1 20",
+          "land_val": "4 15 0",
+          "building_val": "0 5 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "1 a",
+          "occupier": "Thomas Walsh",
+          "lessor": "Same",
+          "desc": "Water",
+          "area": "2 0 30",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "2 a",
+          "occupier": "John Walsh",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "20 2 24",
+          "land_val": "6 10 0",
+          "building_val": "0 10 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "William M'Nulty",
+          "lessor": "Same",
+          "desc": "G,H,&O",
+          "area": "0 1 0",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "William M'Nulty",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "11 2 9",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Martin Murphy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 3 0",
+          "land_val": "4 10 0",
+          "building_val": "0 10 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Dominick Corcoran",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "9 1 4",
+          "land_val": "3 0 0",
+          "building_val": "0 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Col. Fras. A. Knox Gore",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "89 0 20",
+          "land_val": "38 0 0",
+          "building_val": "",
+          "total_val": "38 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "162 0 27",
+          "land_val": "60 17 0",
+          "building_val": "1 18 0",
+          "total_val": "62 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CARTRONGILBERT",
+          "os": "38",
+          "occupier": "Reps. Jas. M'Naier, M.D.",
+          "lessor": "Sir William Roger Palmer, Bart.",
+          "desc": "L",
+          "area": "1 2 10",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "7 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2",
+          "occupier": "Reps. Jas. M'Naier, M.D.",
+          "lessor": "Same",
+          "desc": "Quarry",
+          "area": "0 1 30",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "7 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3",
+          "occupier": "Reps. Jas. M'Naier, M.D.",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 3 5",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "9 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4",
+          "occupier": "Reps. Jas. M'Naier, M.D.",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 0 36",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": "9 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5",
+          "occupier": "Joseph Cox",
+          "lessor": "Reps. Henry Joynt",
+          "desc": "L",
+          "area": "12 1 0",
+          "land_val": "9 10 0",
+          "building_val": "",
+          "total_val": "12 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "Joseph Cox",
+          "lessor": "Sir W. Roger Palmer, Bt.",
+          "desc": "L",
+          "area": "8 1 17",
+          "land_val": "9 0 0",
+          "building_val": "",
+          "total_val": "12 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "-",
+          "occupier": "Joseph Cox",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 0 30",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF CLONTIBRET",
+      "entries": [
+        {
+          "mr": "A c",
+          "townland": "CORRAGARTA",
+          "os": "",
+          "occupier": "Patrick Murray,",
+          "lessor": "Lawrence Lamb,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "- d",
+          "occupier": "James Mooney,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "8 A a",
+          "occupier": "Alexander Watson,",
+          "lessor": "Henry T. Hope,",
+          "desc": "H,O,&L",
+          "area": "26 2 25",
+          "land_val": "18 5 0",
+          "building_val": "2 10 0",
+          "total_val": "27 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "Thomas Clarke,",
+          "lessor": "Alexander Watson,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "A b",
+          "occupier": "John Preston,",
+          "lessor": "Same,",
+          "desc": "H & small G",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Margaret Adair,",
+          "lessor": "Henry T. Hope,",
+          "desc": "H,O,&L",
+          "area": "14 3 20",
+          "land_val": "8 15 0",
+          "total_val": "12 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9 A a",
+          "occupier": "Edward Flood,",
+          "lessor": "Same,",
+          "desc": "H & L",
+          "area": "4 3 35",
+          "land_val": "2 0 0",
+          "building_val": "1 5 0",
+          "total_val": "12 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- b",
+          "occupier": "Robert Adair,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "2 0 0",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Richard Mitchell,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "0 2 20",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Dundalk and Ennis-killen Railway Co., (Thomas Edwards, Secretary),",
+          "lessor": "In fee,",
+          "desc": "Railway(265lin.perches),",
+          "area": "10 2 15",
+          "total_val": "82 15 0"
+        },
+        {
+          "mr": "12 A",
+          "occupier": "Dundalk and Ennis-killen Railway Co., (Thomas Edwards, Secretary),",
+          "lessor": "In fee,",
+          "desc": "Gate-house,",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Dundalk and Ennis-killen Railway Co., (Thomas Edwards, Secretary),",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "6 2 20",
+          "land_val": "3 15 0",
+          "total_val": "12 5 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Dundalk and Ennis-killen Railway Co., (Thomas Edwards, Secretary),",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "8 1 0",
+          "land_val": "3 15 0",
+          "total_val": "12 5 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "207 2 0",
+          "land_val": "134 10 0",
+          "building_val": "14 0 0",
+          "total_val": "239 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DRUMCREW",
+          "os": "25",
+          "occupier": "Henry Hunter,",
+          "lessor": "Henry T. Hope,",
+          "desc": "L",
+          "area": "38 1 0",
+          "land_val": "30 15 0",
+          "total_val": "30 15 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Henry Hunter,",
+          "lessor": "Henry T. Hope,",
+          "desc": "Water,",
+          "area": "0 3 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Rev. James M'Neel,",
+          "lessor": "Henry T. Hope,",
+          "desc": "H,O,&L",
+          "area": "9 1 10",
+          "land_val": "10 0 0",
+          "building_val": "3 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "James M'Mahon,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "1 3 15",
+          "land_val": "0 15 0",
+          "building_val": "0 10 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "James Daly,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James M'Annally,",
+          "lessor": "Same,",
+          "desc": "H & L",
+          "area": "4 0 5",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Gamble,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "2 2 35",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Michael Hughes,",
+          "lessor": "John Gamble,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Matthew Murphy,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "William Hughes,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "James Kelly,",
+          "lessor": "Henry T. Hope,",
+          "desc": "H,O,&L",
+          "area": "10 2 25",
+          "land_val": "7 15 0",
+          "building_val": "0 15 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "James Nogher,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "20 3 25",
+          "land_val": "8 15 0",
+          "building_val": "1 5 0",
+          "total_val": "10 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- b",
+          "occupier": "Peter Jackson,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "land_val": "8 15 0",
+          "building_val": "1 5 0",
+          "total_val": "10 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "8",
+          "occupier": "Thomas Sheridan,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "17 0 25",
+          "land_val": "14 10 0",
+          "building_val": "1 15 0",
+          "total_val": "16 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Michael Kelly,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "10 3 10",
+          "land_val": "8 0 0",
+          "building_val": "0 15 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Reps. Philip Kelly,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "16 0 35",
+          "land_val": "13 0 0",
+          "building_val": "1 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Bridget Cumasky,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "1 0 25",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "James Cumasky,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "15 1 5",
+          "land_val": "13 10 0",
+          "building_val": "0 10 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Patrick Boyle,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "11 1 36",
+          "land_val": "9 5 0",
+          "building_val": "0 15 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "Patrick Byrne,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "16 0 0",
+          "land_val": "13 15 0",
+          "building_val": "0 15 0",
+          "total_val": "14 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Unoccupied,",
+          "lessor": "Patrick Byrne,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Robin Moore,",
+          "lessor": "Henry T. Hope,",
+          "desc": "H,O,&L",
+          "area": "6 3 15",
+          "land_val": "5 15 0",
+          "building_val": "0 15 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Owen Daly,",
+          "lessor": "Same,",
+          "desc": "H & L",
+          "area": "3 3 25",
+          "land_val": "3 5 0",
+          "building_val": "0 10 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "William Daly,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "9 1 30",
+          "land_val": "8 5 0",
+          "building_val": "0 15 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Francis Daly,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "12 3 15",
+          "land_val": "11 0 0",
+          "building_val": "1 5 0",
+          "total_val": "12 5 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Peter Boyle,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "14 2 15",
+          "land_val": "12 15 0",
+          "building_val": "1 0 0",
+          "total_val": "13 15 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "224 0 31",
+          "land_val": "195 15 0",
+          "building_val": "18 10 0",
+          "total_val": "214 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "FORMIL",
+          "os": "25",
+          "occupier": "Michael Loughran,",
+          "lessor": "Henry T. Hope,",
+          "desc": "L",
+          "area": "11 0 0",
+          "land_val": "2 15 0",
+          "total_val": "2 15 0",
+          "n_shared": 3
+        },
+        {
+          "occupier": "James Loughran,",
+          "lessor": "Same,",
+          "desc": "L",
+          "land_val": "2 15 0",
+          "total_val": "2 15 0",
+          "n_shared": 3
+        },
+        {
+          "occupier": "Bryan Loughran,",
+          "lessor": "Same,",
+          "desc": "L",
+          "land_val": "2 15 0",
+          "total_val": "2 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "2",
+          "occupier": "Bernard Hamill,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "4 1 10",
+          "land_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Ferigan,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "6 3 5",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Edward M'Ardle,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "4 3 10",
+          "land_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Reps. Geo. Robertson,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "11 1 25",
+          "land_val": "7 15 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Thomas Boyle,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "12 3 30",
+          "land_val": "7 10 0",
+          "building_val": "0 10 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Patk. Loughran (Big),",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "16 0 10",
+          "land_val": "11 10 0",
+          "building_val": "1 0 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Patrick Cullen, jun.,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "4 1 0",
+          "land_val": "3 10 0",
+          "building_val": "0 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Patrick Cullen, sen.,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "6 1 0",
+          "land_val": "4 5 0",
+          "building_val": "0 15 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Richard Boyle,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "8 1 35",
+          "land_val": "5 15 0",
+          "building_val": "0 10 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Patk. Loughran (Scott),",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "11 0 20",
+          "land_val": "7 15 0",
+          "building_val": "0 15 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "James Robertson,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "3 0 10",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Edward M'Entaggart,",
+          "lessor": "Same,",
+          "desc": "Offices and land,",
+          "area": "8 2 5",
+          "land_val": "6 0 0",
+          "building_val": "0 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Patrick Boyle,",
+          "lessor": "Same,",
+          "desc": "Caretaker's ho. & land,",
+          "area": "5 0 35",
+          "land_val": "3 15 0",
+          "building_val": "0 10 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Mary M'Gough,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "31 1 35",
+          "land_val": "21 0 0",
+          "building_val": "1 10 0",
+          "total_val": "22 10 0"
+        }
+      ]
+    }
+  ]
+}

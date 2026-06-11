@@ -1,0 +1,63 @@
+{
+  "parishes": [
+    {
+      "parish": "BALLYWALTER",
+      "entries": [
+        {
+          "mr": "101 43",
+          "townland": "BALLYWALTER",
+          "os": "",
+          "sublocation_1": "VILLAGE OF BALLYWALTER",
+          "sublocation_2": "",
+          "occupier": "John Bell",
+          "lessor": "Jane Gibson",
+          "desc": "H and G",
+          "area": "0 0 20",
+          "land_val": "0 5 0",
+          "building_val": "1 10 0",
+          "total_val": "1 15 0",
+          "n_shared": 1,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 1
+        },
+        {
+          "mr": "44",
+          "townland": "",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "Jane Johnston",
+          "lessor": "Andrew Mulholland",
+          "desc": "H and G",
+          "area": "0 0 22",
+          "land_val": "0 5 0",
+          "building_val": "1 5 0",
+          "total_val": "1 10 0",
+          "n_shared": 1,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "45",
+          "townland": "",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "(Valued with No. 41 and 42.)",
+          "lessor": "",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 1,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        }
+      ]
+    }
+  ]
+}
