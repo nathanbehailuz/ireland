@@ -1,0 +1,404 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF KILLEA",
+      "entries": [
+        {
+          "mr": "21",
+          "townland": "MIEN",
+          "occupier": "George Lloyd, Esq.",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "Plantation",
+          "area": "0 2 17",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "a",
+          "occupier": "Mary Stapleton",
+          "lessor": "George Lloyd, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "479 0 33",
+          "land_val": "271 2 0",
+          "building_val": "32 1 0",
+          "total_val": "303 3 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "PARK",
+          "os": "28 & 29",
+          "occupier": "James Cosgar",
+          "lessor": "John Phelan",
+          "desc": "H&L",
+          "area": "82 1 20",
+          "land_val": "1 15 0",
+          "building_val": "0 10 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Phelan",
+          "lessor": "Capt. James Butler",
+          "desc": "H&L",
+          "area": "",
+          "land_val": "2 15 0",
+          "building_val": "0 5 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Mary Grant",
+          "lessor": "Capt. James Butler",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "4 10 0",
+          "building_val": "1 0 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Michael Kinnally",
+          "lessor": "Capt. James Butler",
+          "desc": "H&L",
+          "area": "",
+          "land_val": "4 10 0",
+          "building_val": "0 10 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Patrick Cosgar",
+          "lessor": "Capt. James Butler",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "4 10 0",
+          "building_val": "1 5 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Walter Burke",
+          "lessor": "Capt. James Butler",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "4 10 0",
+          "building_val": "1 15 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "James Grant",
+          "lessor": "Walter Burke",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "h",
+          "occupier": "Michael Egan",
+          "lessor": "Mich. Kinnally & others",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Lawrence Egan",
+          "lessor": "Capt. James Butler",
+          "desc": "H,O,&L",
+          "area": "14 3 27",
+          "land_val": "7 10 0",
+          "building_val": "1 5 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Egan",
+          "lessor": "Capt. James Butler",
+          "desc": "H&L",
+          "area": "",
+          "land_val": "2 0 0",
+          "building_val": "0 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Patrick Egan",
+          "lessor": "Capt. James Butler",
+          "desc": "H,O,&L",
+          "area": "21 0 17",
+          "land_val": "8 5 0",
+          "building_val": "1 0 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Bergan",
+          "lessor": "Patrick Egan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James Egan",
+          "lessor": "Capt. James Butler",
+          "desc": "H,O,&L",
+          "area": "20 0 34",
+          "land_val": "8 5 0",
+          "building_val": "1 5 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Capt. James Butler",
+          "lessor": "In fee",
+          "desc": "H,O,&L",
+          "area": "297 1 29",
+          "land_val": "276 5 0",
+          "building_val": "35 5 0",
+          "total_val": "311 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Egan",
+          "lessor": "Capt. James Butler",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "National School house",
+          "lessor": "Capt. James Butler",
+          "desc": "National School house",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "d",
+          "occupier": "Constabulary",
+          "lessor": "Capt. James Butler",
+          "desc": "Barrack",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Edward Ryan",
+          "lessor": "Capt. James Butler",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Judith Kinnally",
+          "lessor": "Capt. James Butler",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Grave-yard",
+          "lessor": "Capt. James Butler",
+          "desc": "Grave-yard",
+          "area": "0 2 19",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total",
+          "area": "436 2 26",
+          "land_val": "325 5 0",
+          "building_val": "53 5 0",
+          "total_val": "378 10 0",
+          "is_total": 1
+        },
+        {
+          "desc": "National School house",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Grave-yard",
+          "area": "0 2 19",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total of exemptions",
+          "area": "0 2 19",
+          "land_val": "0 10 0",
+          "building_val": "3 5 0",
+          "total_val": "3 15 0",
+          "is_total": 1,
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of exemptions",
+          "area": "436 0 7",
+          "land_val": "324 15 0",
+          "building_val": "50 0 0",
+          "total_val": "374 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "SKEHANAGH, NTH.",
+          "os": "28",
+          "occupier": "George Lloyd, Esq.",
+          "lessor": "In fee",
+          "desc": "H,O,&L",
+          "area": "180 0 3",
+          "land_val": "153 15 0",
+          "building_val": "16 0 0",
+          "total_val": "169 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Morgan Pender",
+          "lessor": "George Lloyd, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Edward Mara",
+          "lessor": "George Lloyd, Esq.",
+          "desc": "H&L",
+          "area": "2 3 28",
+          "land_val": "2 0 0",
+          "building_val": "0 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "182 3 31",
+          "land_val": "155 15 0",
+          "building_val": "16 10 0",
+          "total_val": "172 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "SKEHANAGH, STH.",
+          "os": "28",
+          "occupier": "James Maher",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "L",
+          "area": "7 0 35",
+          "land_val": "5 5 0",
+          "building_val": "",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "B",
+          "occupier": "James Maher",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "H,O,&L",
+          "area": "9 1 6",
+          "land_val": "6 10 0",
+          "building_val": "1 10 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "Mary Delahunt",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "H&L",
+          "area": "6 3 15",
+          "land_val": "4 15 0",
+          "building_val": "0 15 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "B",
+          "occupier": "Mary Delahunt",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "L",
+          "area": "2 2 1",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Jas. Maher (Killough)",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "L",
+          "area": "5 2 11",
+          "land_val": "5 0 0",
+          "building_val": "",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "George Lloyd, Esq.",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "L",
+          "area": "3 3 3",
+          "land_val": "3 5 0",
+          "building_val": "",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Michael Doohan",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "H,O,&L",
+          "area": "38 0 28",
+          "land_val": "23 15 0",
+          "building_val": "1 5 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "73 1 22",
+          "land_val": "50 10 0",
+          "building_val": "3 10 0",
+          "total_val": "54 0 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

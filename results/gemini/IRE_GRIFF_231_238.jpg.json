@@ -1,0 +1,504 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF MONAGHAN",
+      "entries": [
+        {
+          "mr": "107",
+          "townland": "ROOSKY",
+          "sublocation_1": "TOWN OF MONAGHAN",
+          "sublocation_2": "GLASSLOUGH-ST.",
+          "occupier": "John Jebb",
+          "lessor": "Lord Rossmore",
+          "desc": "H,O.,yard,&G",
+          "area": "0 0 18",
+          "land_val": "0 10 0",
+          "building_val": "12 0 0",
+          "total_val": "12 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "108",
+          "occupier": "Unoccupied",
+          "lessor": "John Jebb",
+          "desc": "H (in progress)",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "109",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H (in progress)",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "110",
+          "occupier": "Robert Mitchell",
+          "lessor": "Lord Rossmore",
+          "desc": "H,O,and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "20 0 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "111",
+          "occupier": "Samuel Bateson",
+          "lessor": "Robert Little",
+          "desc": "H and O",
+          "area": "",
+          "land_val": "",
+          "building_val": "12 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "112",
+          "occupier": "Edward Greer",
+          "lessor": "Same",
+          "desc": "H,O,and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "14 10 0",
+          "total_val": "14 10 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Robert Little",
+          "lessor": "Lord Rossmore",
+          "desc": "O & yard (in rere)",
+          "area": "",
+          "land_val": "",
+          "building_val": "14 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "113",
+          "occupier": "Henry Johnston",
+          "lessor": "Robert Little",
+          "desc": "H and O",
+          "area": "",
+          "land_val": "",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "MILL-STREET",
+          "occupier": "Henry P. Lennon",
+          "lessor": "Lord Rossmore",
+          "desc": "H,O.,yd.,&G",
+          "area": "0 0 19",
+          "land_val": "0 10 0",
+          "building_val": "46 0 0",
+          "total_val": "46 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "2",
+          "occupier": "Henry P. Lennon",
+          "lessor": "Lord Rossmore",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "10 0 0",
+          "total_val": "10 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "3",
+          "occupier": "Henry P. Lennon",
+          "lessor": "Lord Rossmore",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "9 0 0",
+          "total_val": "9 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "4 to 22",
+          "occupier": "(Valued in Townland of",
+          "lessor": "Mullaghmonaghan.)",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "23",
+          "occupier": "James Kelly",
+          "lessor": "Bridget Daly",
+          "desc": "H and O",
+          "area": "",
+          "land_val": "",
+          "building_val": "12 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Edward Donnelly",
+          "lessor": "Lord Rossmore",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Catherine Maguire",
+          "lessor": "Edward Donnelly",
+          "desc": "H (in rere)",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Michael M'Entee",
+          "lessor": "Henry P. Lennon",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "James Moyna",
+          "lessor": "Lord Rossmore and Elizabeth M'Clelland",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "12 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "CHURCH-SQUARE",
+          "occupier": "James Treanor",
+          "lessor": "James M. Ross",
+          "desc": "H,O.,and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "26 0 0",
+          "total_val": "26 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Anne Lewers",
+          "lessor": "Same",
+          "desc": "H,O.,yd.,&G",
+          "area": "0 0 25",
+          "land_val": "0 15 0",
+          "building_val": "60 0 0",
+          "total_val": "60 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Edward Donnelly",
+          "lessor": "Same",
+          "desc": "H,O.,yd.,& sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "40 0 0",
+          "total_val": "40 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James M'Entee",
+          "lessor": "Bridget Daly",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "18 0 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Catherine M'Mahon",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "20 0 0",
+          "total_val": "20 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5",
+          "occupier": "Catherine M'Mahon",
+          "lessor": "Same",
+          "desc": "Tolls of weigh-bridge",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "James Moyna",
+          "lessor": "Lord Rossmore",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "30 0 0",
+          "total_val": "30 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Matthew G. Rush",
+          "lessor": "Henry P. Lennon",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "20 0 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Patrick M'Guirk",
+          "lessor": "Matthew G. Rush",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "17 0 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Mary Higgins",
+          "lessor": "Edward Donnelly",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "",
+          "lessor": "Same",
+          "desc": "O (unfinished)",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "11",
+          "occupier": "(Valued in Church-square,",
+          "lessor": "Townland of Mullaghmonaghan)",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "12",
+          "occupier": "John Warner",
+          "lessor": "Lord Rossmore",
+          "desc": "H,O.,&yd.(part of)",
+          "area": "",
+          "land_val": "",
+          "building_val": "13 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Peter Deighan",
+          "lessor": "Same",
+          "desc": "H,O.,yd.,&G",
+          "area": "0 0 19",
+          "land_val": "0 10 0",
+          "building_val": "31 10 0",
+          "total_val": "32 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Wesleyan meeting-ho., (part of)",
+          "lessor": "(See Exemptions.)",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- b",
+          "occupier": "Peter Deighan",
+          "lessor": "Lord Rossmore",
+          "desc": "G",
+          "area": "0 0 7",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Court-house,yard,&gar.",
+          "lessor": "(See Exemptions.)",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "15",
+          "occupier": "Charles Gillespie",
+          "lessor": "James M. Ross",
+          "desc": "H,O,and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "30 0 0",
+          "total_val": "30 0 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Church and grave-yd.",
+          "lessor": "(See Exemptions.)",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Waste under houses, yards, streets, and small gardens",
+          "area": "21 1 19",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total of Rateable Property",
+          "area": "150 1 27",
+          "land_val": "266 10 0",
+          "building_val": "2,766 5 0",
+          "total_val": "3,221 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "24",
+          "sublocation_2": "MEETING-HOUSE-SQUARE",
+          "occupier": "Presbyterian Meeting house, & grave-yard",
+          "lessor": "In fee",
+          "desc": "",
+          "area": "1 0 17",
+          "land_val": "4 10 0",
+          "building_val": "35 0 0",
+          "total_val": "39 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "37",
+          "occupier": "County Infirmary, offs., yard, and garden",
+          "lessor": "In fee",
+          "desc": "",
+          "area": "0 2 0",
+          "land_val": "2 0 0",
+          "building_val": "50 0 0",
+          "total_val": "52 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "85",
+          "sublocation_2": "GLASSLOUGH-STREET",
+          "occupier": "Town Commissioners of Monaghan",
+          "lessor": "Lord Rossmore",
+          "desc": "Plantation",
+          "area": "0 1 0",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "96",
+          "occupier": "Constabulary Force",
+          "lessor": "Frances Maffett",
+          "desc": "Police-barrack, office, yard, and garden",
+          "area": "0 0 35",
+          "land_val": "0 15 0",
+          "building_val": "30 0 0",
+          "total_val": "30 15 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "13 a",
+          "sublocation_2": "CHURCH-SQUARE",
+          "occupier": "Wesleyan Meeting-ho., (part of)",
+          "lessor": "Lord Rossmore",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "14",
+          "occupier": "Grand Jury of County Monaghan",
+          "lessor": "In fee",
+          "desc": "Court-house, & garden",
+          "area": "0 1 0",
+          "land_val": "1 0 0",
+          "building_val": "160 0 0",
+          "total_val": "161 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "16",
+          "occupier": "Grand Jury of County Monaghan",
+          "lessor": "In fee",
+          "desc": "Church and grave-yard",
+          "area": "0 1 14",
+          "land_val": "1 5 0",
+          "building_val": "100 0 0",
+          "total_val": "101 5 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total of Exemptions",
+          "area": "2 2 26",
+          "land_val": "19 5 0",
+          "building_val": "383 0 0",
+          "total_val": "393 5 0",
+          "is_total": 1,
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total, including Exemptions",
+          "area": "153 0 13",
+          "land_val": "306 15 0",
+          "building_val": "3,149 5 0",
+          "total_val": "3,614 10 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

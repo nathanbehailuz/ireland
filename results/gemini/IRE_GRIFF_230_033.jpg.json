@@ -1,0 +1,517 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF AGHABOG",
+      "entries": [
+        {
+          "mr": "6",
+          "townland": "CORREVAN",
+          "occupier": "James Dawson",
+          "lessor": "Hon. John Lowry Cole",
+          "desc": "L",
+          "area": "10 3 33",
+          "land_val": "7 10 0",
+          "total_val": "7 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "7",
+          "occupier": "William Daly",
+          "lessor": "Same",
+          "desc": "O&L",
+          "area": "16 3 23",
+          "land_val": "11 15 0",
+          "building_val": "0 5 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "James Dawson",
+          "lessor": "William Jemason",
+          "desc": "H,O,&L",
+          "area": "26 2 26",
+          "land_val": "18 0 0",
+          "building_val": "1 0 0",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "9 { a",
+          "occupier": "William Daly",
+          "lessor": "Same",
+          "desc": "O&L",
+          "area": "11 1 36",
+          "land_val": "4 5 0",
+          "building_val": "0 5 0",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9 { b",
+          "occupier": "Joseph Daly",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "11 1 36",
+          "land_val": "4 5 0",
+          "building_val": "0 5 0",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "desc": "Total",
+          "area": "211 2 20",
+          "land_val": "143 15 0",
+          "building_val": "10 15 0",
+          "total_val": "154 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CRAPPAGH",
+          "os": "17",
+          "occupier": "John Moorehead",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "15 1 5",
+          "land_val": "10 15 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Moorehead",
+          "lessor": "In fee",
+          "desc": "B (turbary)",
+          "area": "24 3 33",
+          "total_val": "60 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Board of Nat. Education",
+          "lessor": "John Moorehead",
+          "desc": "National school-house (see Exemptions.)",
+          "is_exemption": 1
+        },
+        {
+          "mr": "3",
+          "occupier": "Edward M'Gonnell",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "24 2 22",
+          "land_val": "16 0 0",
+          "building_val": "0 10 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James M'Philips",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "23 0 7",
+          "land_val": "15 10 0",
+          "building_val": "1 0 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Henry M'Cartney",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "16 3 26",
+          "land_val": "11 15 0",
+          "building_val": "1 0 0",
+          "total_val": "12 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Patrick M'Gonnell",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 1 0",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "James Began",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 1 25",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Eliza M'Gahey",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "6 1 0",
+          "land_val": "4 0 0",
+          "building_val": "0 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Hugh Murray",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 1 18",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "7 { a",
+          "occupier": "Robert Reilly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 0 30",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "7 { b",
+          "occupier": "Thomas Campbell",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 0 30",
+          "land_val": "1 15 0",
+          "building_val": "0 10 0",
+          "total_val": "2 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "7 { c",
+          "occupier": "Thomas Coughlin",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 0 30",
+          "land_val": "2 5 0",
+          "building_val": "0 10 0",
+          "total_val": "2 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "8",
+          "occupier": "William M'Gahey",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 3 25",
+          "land_val": "6 0 0",
+          "building_val": "0 15 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "9 A",
+          "occupier": "John Clarke",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 2 5",
+          "land_val": "6 5 0",
+          "total_val": "9 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "John Clarke",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "3 1 5",
+          "land_val": "2 5 0",
+          "building_val": "0 10 0",
+          "total_val": "9 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "10",
+          "occupier": "William Clarke",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "2 1 6",
+          "land_val": "1 10 0",
+          "building_val": "0 5 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "George Norris",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "13 0 39",
+          "land_val": "8 10 0",
+          "building_val": "1 0 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "12 A",
+          "occupier": "Margaret Dunn",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "13 3 20",
+          "land_val": "8 15 0",
+          "building_val": "1 0 0",
+          "total_val": "11 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "Margaret Dunn",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 1 26",
+          "land_val": "1 10 0",
+          "total_val": "11 5 0",
+          "n_shared": 2
+        },
+        {
+          "desc": "Total of Rateable Property",
+          "area": "174 3 16",
+          "land_val": "101 0 0",
+          "building_val": "8 15 0",
+          "total_val": "169 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "2 a",
+          "desc": "National school-house",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, including Exemptions",
+          "area": "174 3 16",
+          "land_val": "101 0 0",
+          "building_val": "10 5 0",
+          "total_val": "171 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A a",
+          "townland": "CROVER",
+          "os": "17",
+          "occupier": "Thomas M'Cabe",
+          "lessor": "Thomas Coote",
+          "desc": "Herd's H&L",
+          "area": "8 2 11",
+          "land_val": "6 5 0",
+          "building_val": "0 10 0",
+          "total_val": "41 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "- B a",
+          "occupier": "Thomas M'Cabe",
+          "lessor": "Thomas Coote",
+          "desc": "H,O,&L",
+          "area": "0 3 11",
+          "land_val": "0 15 0",
+          "building_val": "1 10 0",
+          "total_val": "41 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "- C a",
+          "occupier": "Thomas M'Cabe",
+          "lessor": "Thomas Coote",
+          "desc": "O&L",
+          "area": "45 2 38",
+          "land_val": "31 15 0",
+          "building_val": "0 5 0",
+          "total_val": "41 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Thomas Fitzpatrick",
+          "lessor": "Same",
+          "desc": "L (bog)",
+          "area": "1 0 0",
+          "land_val": "0 5 0",
+          "total_val": "17 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 b",
+          "occupier": "Thomas Fitzpatrick",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "20 2 5",
+          "land_val": "15 10 0",
+          "building_val": "1 5 0",
+          "total_val": "17 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "-",
+          "occupier": "Catherine Cosgrave",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "0 3 11",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "4 A a",
+          "occupier": "Matthew Croane",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "4 3 6",
+          "land_val": "3 5 0",
+          "building_val": "0 10 0",
+          "total_val": "4 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "- B",
+          "occupier": "Matthew Croane",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 2 1",
+          "land_val": "0 7 0",
+          "total_val": "4 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "- C",
+          "occupier": "Matthew Croane",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 2 21",
+          "land_val": "0 8 0",
+          "total_val": "4 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "5 A a",
+          "occupier": "Michael M'Donnell",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 2 16",
+          "land_val": "8 0 0",
+          "building_val": "0 15 0",
+          "total_val": "10 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "- B",
+          "occupier": "Michael M'Donnell",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 3 21",
+          "land_val": "0 15 0",
+          "total_val": "10 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "- C",
+          "occupier": "Michael M'Donnell",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 1 1",
+          "land_val": "1 0 0",
+          "total_val": "10 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "- b",
+          "occupier": "Owen M'Caul",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "0 1 10",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "James Murray",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 1 0",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Thomas Coote",
+          "lessor": "In fee",
+          "desc": "L, (plantation)",
+          "area": "0 1 10",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Owen M'Caul",
+          "lessor": "Thomas Coote",
+          "desc": "L",
+          "area": "6 0 28",
+          "land_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "James Murray",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 2 15",
+          "land_val": "0 10 0",
+          "total_val": "1 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- b",
+          "occupier": "James Murray",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 2 25",
+          "land_val": "0 10 0",
+          "total_val": "1 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "7",
+          "occupier": "James Murray",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "13 2 16",
+          "land_val": "10 0 0",
+          "building_val": "1 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Catherine M'Kenna",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 2 28",
+          "land_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "9 a",
+          "lessor": "Ecclesiastical Commrs.",
+          "desc": "Church and grave-yard (see Exemptions.)",
+          "is_exemption": 1
+        },
+        {
+          "mr": "10",
+          "desc": "Feagh Lough, (pt. of)",
+          "area": "0 3 20"
+        },
+        {
+          "desc": "Total of Rateable Property",
+          "area": "126 2 15",
+          "land_val": "89 15 0",
+          "building_val": "6 10 0",
+          "total_val": "96 5 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

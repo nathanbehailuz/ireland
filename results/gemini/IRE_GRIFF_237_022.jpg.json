@@ -1,0 +1,488 @@
+{
+  "parishes": [
+    {
+      "entries": [
+        {
+          "mr": "70",
+          "townland": "MARYBOROUGH",
+          "os": "",
+          "occupier": "Noble Cuffe,",
+          "lessor": "Mrs. Margaret Lalor,",
+          "desc": "H, yard, and G",
+          "area": "0 0 18",
+          "land_val": "0 4 0",
+          "building_val": "2 0 0",
+          "total_val": "2 4 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "71",
+          "occupier": "Denis Murray,",
+          "lessor": "Mrs. Margaret Lalor,",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "72",
+          "occupier": "Eliza Craig,",
+          "lessor": "Mrs. Margaret Lalor,",
+          "desc": "H, yard, and G",
+          "area": "0 0 18",
+          "land_val": "0 4 0",
+          "building_val": "1 10 0",
+          "total_val": "1 14 0"
+        },
+        {
+          "mr": "73",
+          "occupier": "Vacant,",
+          "lessor": "John Jacob, Esq.",
+          "desc": "H and yard",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "74",
+          "occupier": "Vacant,",
+          "lessor": "John Jacob, Esq.",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "75",
+          "occupier": "Vacant,",
+          "lessor": "John Jacob, Esq.",
+          "desc": "H and yard",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "76",
+          "occupier": "Vacant,",
+          "lessor": "John Jacob, Esq.",
+          "desc": "H, O, and yard",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "77",
+          "occupier": "Vacant,",
+          "lessor": "John Jacob, Esq.",
+          "desc": "H and yard",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "78",
+          "occupier": "Vacant,",
+          "lessor": "John Jacob, Esq.",
+          "desc": "H",
+          "building_val": "0 13 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "79",
+          "occupier": "John Jacob, Esq.",
+          "lessor": "In fee,",
+          "desc": "G",
+          "area": "0 1 16",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "80",
+          "occupier": "Vacant,",
+          "lessor": "John Jacob, Esq.",
+          "desc": "H and yard",
+          "building_val": "1 8 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "81",
+          "occupier": "Vacant,",
+          "lessor": "John Jacob, Esq.",
+          "desc": "H and yard",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "82",
+          "occupier": "Vacant,",
+          "lessor": "John Jacob, Esq.",
+          "desc": "H, O, and yard",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "83",
+          "occupier": "William Lyons,",
+          "lessor": "John Jacob, Esq.",
+          "desc": "H, yard, and G",
+          "area": "0 0 11",
+          "land_val": "0 5 0",
+          "building_val": "1 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "84",
+          "occupier": "John Robinson,",
+          "lessor": "Rev. John T. Moore,",
+          "desc": "H and yard",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "85",
+          "occupier": "Patrick Salmon,",
+          "lessor": "Patrick Quigly,",
+          "desc": "H, O, and yard",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "86",
+          "occupier": "Vacant,",
+          "lessor": "Rev. John T. Moore,",
+          "desc": "H and yard",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "87",
+          "occupier": "Bridget Moran,",
+          "lessor": "John Baldwin,",
+          "desc": "H, O, and yard",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "88",
+          "occupier": "John Dowling,",
+          "lessor": "Rev. John T. Moore,",
+          "desc": "H and yard",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "89",
+          "occupier": "John Brennan,",
+          "lessor": "Thomas Turpin, Esq.",
+          "desc": "H, O, yard and G",
+          "area": "0 0 22",
+          "land_val": "0 9 0",
+          "building_val": "9 0 0",
+          "total_val": "9 9 0"
+        },
+        {
+          "mr": "90",
+          "occupier": "Patrick M'Evoy,",
+          "lessor": "Thomas Turpin, Esq.",
+          "desc": "H and yard",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "91",
+          "occupier": "John Gaze,",
+          "lessor": "Thomas Turpin, Esq.",
+          "desc": "H, O, yard and G",
+          "area": "0 0 26",
+          "land_val": "0 12 0",
+          "building_val": "22 8 0",
+          "total_val": "23 0 0"
+        },
+        {
+          "mr": "92",
+          "occupier": "John Vass,",
+          "lessor": "Thomas Turpin, Esq.",
+          "desc": "H, O, and yard",
+          "building_val": "13 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "93",
+          "occupier": "Martha Stapleton,",
+          "lessor": "Earl of Miltown,",
+          "desc": "H, O, and yard",
+          "building_val": "4 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "94",
+          "occupier": "John Parks,",
+          "lessor": "Miss Anne Brennan,",
+          "desc": "H, O, and yard",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "95",
+          "occupier": "Daniel O'Brien,",
+          "lessor": "Lord Congleton,",
+          "desc": "H, O, and yard",
+          "building_val": "4 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "96",
+          "occupier": "Patrick Brennan,",
+          "lessor": "Earl of Miltown,",
+          "desc": "H and yard",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "97",
+          "occupier": "Vacant,",
+          "lessor": "Samuel Campion,",
+          "desc": "H, O, and yard",
+          "building_val": "15 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "98 A B",
+          "occupier": "James Boylan,",
+          "lessor": "Patrick Quigly,",
+          "desc": "H, O, and small G",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "99",
+          "occupier": "Vacant,",
+          "lessor": "Patrick Quigly,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "100",
+          "occupier": "William Kelly, jun.",
+          "lessor": "Patrick Quigly,",
+          "desc": "H, small yard and G",
+          "building_val": "1 18 0",
+          "total_val": "1 18 0"
+        },
+        {
+          "mr": "101",
+          "occupier": "Vacant,",
+          "lessor": "Patrick Quigly,",
+          "desc": "H, yard, and small G",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "102",
+          "occupier": "John Miller,",
+          "lessor": "Margaret Brandon,",
+          "desc": "H, yard, and G",
+          "area": "0 0 11",
+          "land_val": "0 5 0",
+          "building_val": "5 15 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "103",
+          "occupier": "Margaret Brandon,",
+          "lessor": "Marquis of Drogheda,",
+          "desc": "H, yard, and G",
+          "area": "0 0 10",
+          "land_val": "0 5 0",
+          "building_val": "3 5 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "104",
+          "occupier": "Miss Julia Clare,",
+          "lessor": "William Clarke,",
+          "desc": "H, O, yard & small G",
+          "building_val": "15 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "105",
+          "occupier": "John Connor,",
+          "lessor": "John Murphy,",
+          "desc": "H, O, and yard",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "106",
+          "occupier": "John Murphy,",
+          "lessor": "Mrs. Sophia J. Stoker,",
+          "desc": "H, O, yard & small G",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "107",
+          "occupier": "William Murphy,",
+          "lessor": "Mrs. Sophia J. Stoker,",
+          "desc": "H, O, and yard",
+          "building_val": "11 10 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "108",
+          "occupier": "Constabulary Force,",
+          "lessor": "Robert Graves,",
+          "desc": "Police barrack, O, yard, and G",
+          "area": "0 2 2",
+          "land_val": "1 10 0",
+          "building_val": "22 0 0",
+          "total_val": "23 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "109",
+          "occupier": "Patrick M'Evoy,",
+          "lessor": "Robert Graves,",
+          "desc": "H, O, and yard",
+          "building_val": "10 15 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "110",
+          "occupier": "Michael Delany,",
+          "lessor": "Robert Graves,",
+          "desc": "H and yard",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "111",
+          "occupier": "Mrs. Comfort Lucas,",
+          "lessor": "Robert Graves,",
+          "desc": "H, O, and small yard",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "112",
+          "occupier": "John Mathews,",
+          "lessor": "Reps. of late Robert Onions,",
+          "desc": "H",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "113",
+          "occupier": "John Mathews,",
+          "lessor": "George Breading,",
+          "desc": "H",
+          "building_val": "13 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "114",
+          "occupier": "Daniel Farrell,",
+          "lessor": "Thomas Young,",
+          "desc": "H, O, and yard",
+          "building_val": "11 10 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "115",
+          "occupier": "Thomas Young,",
+          "lessor": "William Clarke,",
+          "desc": "H, O, and yard",
+          "building_val": "13 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "116",
+          "occupier": "William Moore,",
+          "lessor": "William Murphy,",
+          "desc": "H, O, and yard",
+          "building_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "117",
+          "occupier": "Mrs. Anne White,",
+          "lessor": "Reps. of late Robert Onions,",
+          "desc": "H and yard",
+          "building_val": "8 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "118",
+          "occupier": "Daniel Farrell,",
+          "lessor": "Mrs. Anne White,",
+          "desc": "O and yard",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "119",
+          "occupier": "James Bourke,",
+          "lessor": "Reps. of late Robert Onions,",
+          "desc": "H, O, and yard",
+          "building_val": "15 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "120",
+          "occupier": "William Brennan,",
+          "lessor": "Reps. of late Robert Onions,",
+          "desc": "H, O, and yard",
+          "building_val": "16 0 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "121",
+          "occupier": "John M'Gibbon,",
+          "lessor": "Reps. of late Robert Onions,",
+          "desc": "H, O, and yard",
+          "building_val": "17 0 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "122",
+          "occupier": "Grand Jury of the Queen's County,",
+          "lessor": "Reps. of late James & Andrew Graves and Reps. of late Matthew Cassan, Esq.",
+          "desc": "Court-house, O, and yard",
+          "building_val": "80 0 0",
+          "total_val": "80 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "123",
+          "occupier": "Thomas Pilsworth, Esq.,",
+          "lessor": "Matthew S. Cassan, Esq. and Mrs. Harriet O'Brien,",
+          "desc": "H, O, yard, and G",
+          "area": "0 0 14",
+          "land_val": "0 8 0",
+          "building_val": "23 12 0",
+          "total_val": "24 0 0"
+        },
+        {
+          "mr": "124",
+          "occupier": "James Fitzgerald,",
+          "lessor": "Mrs. Harriet O'Brien,",
+          "desc": "H and yard",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "125",
+          "occupier": "Alicia Delany,",
+          "lessor": "Mrs. Harriet O'Brien,",
+          "desc": "H and yard",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "126",
+          "occupier": "Mrs. Harriet O'Brien,",
+          "lessor": "Matth. S. Cassan, Esq.",
+          "desc": "H, O, and yard",
+          "building_val": "4 15 0",
+          "total_val": "4 15 0"
+        }
+      ]
+    }
+  ]
+}

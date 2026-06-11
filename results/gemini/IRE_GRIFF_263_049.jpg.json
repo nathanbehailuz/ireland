@@ -1,0 +1,555 @@
+{
+  "parishes": [
+    {
+      "parish": "KILLAVINOGE",
+      "entries": [
+        {
+          "mr": "20 c",
+          "townland": "DROMARDBEG",
+          "os": "",
+          "occupier": "Susan Coyle",
+          "lessor": "Martin Bergin",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "21",
+          "occupier": "Mary M'Coy",
+          "lessor": "Frederick Lidwell, Esq.",
+          "desc": "H,O,&L",
+          "area": "1 1 14",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "William Fogarty",
+          "lessor": "Frederick Lidwell, Esq.",
+          "desc": "L",
+          "area": "10 2 16",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "22 A",
+          "occupier": "Frederick Lidwell, Esq.",
+          "lessor": "George Goold, Esq.",
+          "desc": "H,O,&L",
+          "area": "228 3 29",
+          "land_val": "118 10 0",
+          "building_val": "11 0 0",
+          "total_val": "129 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Frederick Lidwell, Esq.",
+          "lessor": "George Goold, Esq.",
+          "desc": "B",
+          "area": "34 2 14",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "B",
+          "occupier": "Frederick Lidwell, Esq.",
+          "lessor": "George Goold, Esq.",
+          "desc": "L",
+          "area": "15 1 13",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "C",
+          "occupier": "Frederick Lidwell, Esq.",
+          "lessor": "George Goold, Esq.",
+          "desc": "B",
+          "area": "54 3 5",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "23 A",
+          "occupier": "Edmond Davy",
+          "lessor": "Frederick Lidwell, Esq.",
+          "desc": "L",
+          "area": "4 3 16",
+          "land_val": "3 5 0",
+          "building_val": "",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "B",
+          "occupier": "Edmond Davy",
+          "lessor": "Frederick Lidwell, Esq.",
+          "desc": "H,O,&L",
+          "area": "10 0 35",
+          "land_val": "5 10 0",
+          "building_val": "1 10 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "William Keys",
+          "lessor": "Frederick Lidwell, Esq.",
+          "desc": "H&G",
+          "area": "1 0 20",
+          "land_val": "0 10 0",
+          "building_val": "0 10 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "25 A",
+          "occupier": "Michael Meehan (Carpenter)",
+          "lessor": "Frederick Lidwell, Esq.",
+          "desc": "H&L",
+          "area": "6 1 22",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Joseph Meehan",
+          "lessor": "Frederick Lidwell, Esq.",
+          "desc": "L",
+          "area": "13 3 28",
+          "land_val": "6 0 0",
+          "building_val": "",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "B",
+          "occupier": "Joseph Meehan",
+          "lessor": "Frederick Lidwell, Esq.",
+          "desc": "H,O,&L",
+          "area": "30 0 6",
+          "land_val": "7 15 0",
+          "building_val": "1 0 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Joseph Meehan",
+          "lessor": "Frederick Lidwell, Esq.",
+          "desc": "B",
+          "area": "3 2 0",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "C",
+          "occupier": "Joseph Meehan",
+          "lessor": "Frederick Lidwell, Esq.",
+          "desc": "L",
+          "area": "6 0 21",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Bridget Doyle",
+          "lessor": "Joseph Meehan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Charles Dunn",
+          "lessor": "Frederick Lidwell, Esq.",
+          "desc": "H,O,&L",
+          "area": "14 1 10",
+          "land_val": "3 0 0",
+          "building_val": "1 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Patrick Quinn",
+          "lessor": "Frederick Lidwell, Esq.",
+          "desc": "H&L",
+          "area": "9 2 34",
+          "land_val": "1 15 0",
+          "building_val": "0 10 0",
+          "total_val": "2 5 6"
+        },
+        {
+          "mr": "29",
+          "occupier": "John Delany",
+          "lessor": "Frederick Lidwell, Esq.",
+          "desc": "H&L",
+          "area": "6 1 22",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Patrick Shelly",
+          "lessor": "Frederick Lidwell, Esq.",
+          "desc": "H&L",
+          "area": "12 1 22",
+          "land_val": "3 10 0",
+          "building_val": "0 15 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Thomas Davy",
+          "lessor": "Frederick Lidwell, Esq.",
+          "desc": "L",
+          "area": "9 2 1",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "James Fleming",
+          "lessor": "Thomas Davy",
+          "desc": "H&G",
+          "area": "0 1 23",
+          "land_val": "0 1 0",
+          "building_val": "0 5 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "32 A",
+          "occupier": "John Coonan & James Coonan",
+          "lessor": "Frederick Lidwell, Esq.",
+          "desc": "H&L",
+          "area": "1 1 14",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "B",
+          "occupier": "John Coonan & James Coonan",
+          "lessor": "Frederick Lidwell, Esq.",
+          "desc": "L",
+          "area": "4 3 6",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "33 A",
+          "occupier": "Joseph Keys",
+          "lessor": "Frederick Lidwell, Esq.",
+          "desc": "H,O,&L",
+          "area": "5 1 8",
+          "land_val": "2 10 0",
+          "building_val": "1 0 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "B",
+          "occupier": "Joseph Keys",
+          "lessor": "Frederick Lidwell, Esq.",
+          "desc": "L",
+          "area": "11 3 0",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "34 A",
+          "occupier": "Thomas Keys",
+          "lessor": "Frederick Lidwell, Esq.",
+          "desc": "H&L",
+          "area": "3 3 3",
+          "land_val": "1 10 0",
+          "building_val": "0 10 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "B",
+          "occupier": "Thomas Keys",
+          "lessor": "Frederick Lidwell, Esq.",
+          "desc": "L",
+          "area": "3 0 21",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Edmond Laffan",
+          "lessor": "Frederick Lidwell, Esq.",
+          "desc": "H&L",
+          "area": "13 3 18",
+          "land_val": "5 10 0",
+          "building_val": "0 15 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Gt. S. & W. Railway Co.",
+          "lessor": "In fee",
+          "desc": "Land and Railway",
+          "area": "9 1 31",
+          "land_val": "5 0 0",
+          "building_val": "",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "842 1 13",
+          "land_val": "294 1 0",
+          "building_val": "36 19 0",
+          "total_val": "331 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DROMARDMORE",
+          "os": "23 & 24",
+          "occupier": "George Roe, Esq.",
+          "lessor": "The Misses Catherine and Fanny Lidwell",
+          "desc": "L",
+          "area": "358 3 0",
+          "land_val": "211 0 0",
+          "building_val": "",
+          "total_val": "211 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "George Roe, Esq.",
+          "lessor": "The Misses Catherine and Fanny Lidwell",
+          "desc": "B",
+          "area": "148 0 12",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Daniel Tracy",
+          "lessor": "George Roe, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Elizabeth Maher",
+          "lessor": "George Roe, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Thomas Phelan",
+          "lessor": "George Roe, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "Patrick Morrissy",
+          "lessor": "George Roe, Esq.",
+          "desc": "H,O,&L",
+          "area": "26 1 27",
+          "land_val": "14 0 0",
+          "building_val": "1 5 0",
+          "total_val": "15 5 0"
+        },
+        {
+          "mr": "B",
+          "occupier": "Patrick Morrissy",
+          "lessor": "George Roe, Esq.",
+          "desc": "L",
+          "area": "0 3 22",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Carroll",
+          "lessor": "George Roe, Esq.",
+          "desc": "H,O,&L",
+          "area": "29 3 25",
+          "land_val": "19 15 0",
+          "building_val": "1 10 0",
+          "total_val": "21 5 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "William Keys",
+          "lessor": "The Misses Cath. & Fanny Lidwell",
+          "desc": "H&L",
+          "area": "23 3 12",
+          "land_val": "9 5 0",
+          "building_val": "0 10 0",
+          "total_val": "9 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "occupier": "Thomas Keary",
+          "lessor": "The Misses Cath. & Fanny Lidwell",
+          "desc": "L",
+          "area": "",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "James Kennedy",
+          "lessor": "William Keys",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Martin Shelly",
+          "lessor": "William Keys",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Thomas Ryan",
+          "lessor": "The Misses Catherine and Fanny Lidwell",
+          "desc": "L",
+          "area": "80 0 26",
+          "land_val": "44 0 0",
+          "building_val": "",
+          "total_val": "44 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Vacant",
+          "lessor": "Thomas Ryan",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Vacant",
+          "lessor": "Thomas Ryan",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Vacant",
+          "lessor": "Thomas Ryan",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Thomas Ryan",
+          "lessor": "The Misses Catherine and Fanny Lidwell",
+          "desc": "H,O,&L",
+          "area": "55 1 7",
+          "land_val": "34 5 0",
+          "building_val": "3 0 0",
+          "total_val": "37 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "James Bowe",
+          "lessor": "Thomas Ryan",
+          "desc": "H&G",
+          "area": "0 1 1",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "The Misses Catherine and Fanny Lidwell",
+          "lessor": "George Goold, Esq.",
+          "desc": "Plantation",
+          "area": "0 2 7",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Owen Clarke",
+          "lessor": "The Misses Catherine and Fanny Lidwell",
+          "desc": "H&L",
+          "area": "6 0 13",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "The Misses Catherine and Fanny Lidwell",
+          "lessor": "George Goold, Esq.",
+          "desc": "B",
+          "area": "349 2 24",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "William Long",
+          "lessor": "The Misses Catherine and Fanny Lidwell",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Alley Quinn",
+          "lessor": "The Misses Catherine and Fanny Lidwell",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,673 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF TEMPLEREE",
+      "entries": [
+        {
+          "mr": "4 b",
+          "townland": "BALLINLASSA",
+          "os": "",
+          "occupier": "John Ryan",
+          "lessor": "Daniel Maher",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "5",
+          "occupier": "William Healy, Esq.",
+          "lessor": "Earl of Orkney",
+          "desc": "B",
+          "area": "21 1 13",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "John Connolly",
+          "lessor": "William Healy, Esq.",
+          "desc": "H&L",
+          "area": "3 0 26",
+          "land_val": "1 5 0",
+          "building_val": "0 15 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "6 b",
+          "occupier": "Michael Brennan",
+          "lessor": "William Healy, Esq.",
+          "desc": "L",
+          "area": "4 3 20",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Michael Fanning",
+          "lessor": "William Healy, Esq.",
+          "desc": "H&L",
+          "area": "",
+          "land_val": "0 15 0",
+          "building_val": "0 10 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "William Tracy",
+          "lessor": "William Healy, Esq.",
+          "desc": "H&L",
+          "area": "",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Michael Brennan",
+          "lessor": "William Healy, Esq.",
+          "desc": "L",
+          "area": "7 2 5",
+          "land_val": "3 5 0",
+          "building_val": "",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "William Heaven",
+          "lessor": "William Healy, Esq.",
+          "desc": "L",
+          "area": "1 0 22",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "190 2 26",
+          "land_val": "69 4 0",
+          "building_val": "10 0 0",
+          "total_val": "79 4 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BALLINROE",
+          "os": "29 & 30",
+          "occupier": "Earl of Orkney",
+          "lessor": "In fee",
+          "desc": "B",
+          "area": "129 1 38",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Judith Brennan",
+          "lessor": "William Healy, Esq.",
+          "desc": "H,O,&L",
+          "area": "18 3 27",
+          "land_val": "6 0 0",
+          "building_val": "2 15 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "2 b",
+          "occupier": "James Brennan, sen.",
+          "lessor": "William Healy, Esq.",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "4 0 0",
+          "building_val": "1 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "John Stapleton",
+          "lessor": "William Healy, Esq.",
+          "desc": "H&L",
+          "area": "39 2 38",
+          "land_val": "2 15 0",
+          "building_val": "0 15 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "3 b",
+          "occupier": "Michael Stapleton",
+          "lessor": "William Healy, Esq.",
+          "desc": "H&L",
+          "area": "",
+          "land_val": "0 8 0",
+          "building_val": "0 7 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "3 c",
+          "occupier": "Margaret Brett",
+          "lessor": "William Healy, Esq.",
+          "desc": "H&L",
+          "area": "",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "3 d",
+          "occupier": "John Brennan jun.",
+          "lessor": "William Healy, Esq.",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "10 0 0",
+          "building_val": "2 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "3 e",
+          "occupier": "James Stapleton",
+          "lessor": "William Healy, Esq.",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "4 0 0",
+          "building_val": "1 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James Brennan, sen.",
+          "lessor": "William Healy, Esq.",
+          "desc": "L",
+          "area": "13 3 31",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Judith Brennan",
+          "lessor": "William Healy, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 8 0",
+          "building_val": "",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "",
+          "occupier": "James Brennan",
+          "lessor": "William Healy, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 8 0",
+          "building_val": "",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Margaret Brett",
+          "lessor": "William Healy, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 8 0",
+          "building_val": "",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "",
+          "occupier": "James Brennan, jun.",
+          "lessor": "William Healy, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 8 0",
+          "building_val": "",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Judith Brennan",
+          "lessor": "William Healy, Esq.",
+          "desc": "B",
+          "area": "16 3 35",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "",
+          "occupier": "James Brennan",
+          "lessor": "William Healy, Esq.",
+          "desc": "B",
+          "area": "",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Margaret Brett",
+          "lessor": "William Healy, Esq.",
+          "desc": "B",
+          "area": "",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "",
+          "occupier": "James Brennan, jun.",
+          "lessor": "William Healy, Esq.",
+          "desc": "B",
+          "area": "",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Catherine Purcell",
+          "lessor": "William Healy, Esq.",
+          "desc": "H&G",
+          "area": "0 0 29",
+          "land_val": "0 1 0",
+          "building_val": "0 5 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "5 b",
+          "occupier": "Judith Tierney",
+          "lessor": "William Healy, Esq.",
+          "desc": "H&G",
+          "area": "0 0 29",
+          "land_val": "0 1 0",
+          "building_val": "0 5 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "",
+          "occupier": "James Stapleton",
+          "lessor": "William Healy, Esq.",
+          "desc": "B",
+          "area": "10 0 38",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Thomas Ryan",
+          "lessor": "William Healy, Esq.",
+          "desc": "H&G",
+          "area": "1 2 16",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "6 b",
+          "occupier": "James Russell",
+          "lessor": "James Stapleton",
+          "desc": "G",
+          "area": "0 0 30",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Denis Dwyer",
+          "lessor": "Wm. Healy, Esq.",
+          "desc": "H,O,&L",
+          "area": "76 3 21",
+          "land_val": "16 0 0",
+          "building_val": "2 10 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "7 b",
+          "occupier": "Mary Dwyer",
+          "lessor": "Wm. Healy, Esq.",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "5 5 0",
+          "building_val": "1 15 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "7 c",
+          "occupier": "John Doyle",
+          "lessor": "Wm. Healy, Esq.",
+          "desc": "H&L",
+          "area": "",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "7 d",
+          "occupier": "Tobias Burke",
+          "lessor": "Denis Dwyer",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Matthew Kennedy",
+          "lessor": "William Healy, Esq.",
+          "desc": "L",
+          "area": "3 0 9",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Patrick Cashen",
+          "lessor": "William Healy, Esq.",
+          "desc": "L",
+          "area": "4 3 5",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Michael Ryan",
+          "lessor": "William Healy, Esq.",
+          "desc": "L",
+          "area": "2 0 26",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Michael Ryan",
+          "lessor": "Wm. Healy, Esq.",
+          "desc": "H,O,&L",
+          "area": "6 0 38",
+          "land_val": "2 0 0",
+          "building_val": "1 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "10 b",
+          "occupier": "Patrick Cashen",
+          "lessor": "Wm. Healy, Esq.",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "1 10 0",
+          "building_val": "1 5 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Matthew Kennedy",
+          "lessor": "Wm. Healy, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Denis Dwyer",
+          "lessor": "Rev. —— Lloyd",
+          "desc": "L",
+          "area": "1 0 34",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "Rev. —— Lloyd",
+          "desc": "Grave-yard",
+          "area": "0 1 0",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Nicholas Laffan",
+          "lessor": "Wm. Healy, Esq.",
+          "desc": "L",
+          "area": "47 2 33",
+          "land_val": "16 5 0",
+          "building_val": "",
+          "total_val": "16 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "William Laffan",
+          "lessor": "Wm. Healy, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "16 5 0",
+          "building_val": "",
+          "total_val": "16 5 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Thomas Grimes",
+          "lessor": "William Healy, Esq.",
+          "desc": "H&L",
+          "area": "1 2 35",
+          "land_val": "1 5 0",
+          "building_val": "0 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "Catherine Brennan",
+          "lessor": "Wm. Healy, Esq.",
+          "desc": "H&L",
+          "area": "109 2 13",
+          "land_val": "0 10 0",
+          "building_val": "0 15 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "14 b",
+          "occupier": "Martin Brophy",
+          "lessor": "Wm. Healy, Esq.",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "7 10 0",
+          "building_val": "1 15 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "14 c",
+          "occupier": "Judith Fogarty",
+          "lessor": "Wm. Healy, Esq.",
+          "desc": "H&L",
+          "area": "",
+          "land_val": "1 0 0",
+          "building_val": "0 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "14 d",
+          "occupier": "John Brennan, jun.",
+          "lessor": "Wm. Healy, Esq.",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "17 15 0",
+          "building_val": "1 10 0",
+          "total_val": "19 5 0"
+        },
+        {
+          "mr": "14 e",
+          "occupier": "Patrick Dwyer",
+          "lessor": "Wm. Healy, Esq.",
+          "desc": "H&L",
+          "area": "",
+          "land_val": "9 0 0",
+          "building_val": "0 10 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "14 f",
+          "occupier": "Edward Brennan",
+          "lessor": "Wm. Healy, Esq.",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "11 10 0",
+          "building_val": "2 0 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "14 g",
+          "occupier": "John Brennan, sen",
+          "lessor": "Wm. Healy, Esq.",
+          "desc": "H&L",
+          "area": "",
+          "land_val": "3 15 0",
+          "building_val": "0 10 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "14 h",
+          "occupier": "Vacant",
+          "lessor": "John Brennan, jun.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "14 i",
+          "occupier": "James Deegan",
+          "lessor": "William Healy, Esq.",
+          "desc": "H&G",
+          "area": "0 2 34",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "14 j",
+          "occupier": "Thomas Nolan",
+          "lessor": "William Healy, Esq.",
+          "desc": "H&G",
+          "area": "0 1 7",
+          "land_val": "0 3 0",
+          "building_val": "0 7 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "John Brennan, sen.",
+          "lessor": "William Healy, Esq.",
+          "desc": "B",
+          "area": "10 3 12",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "John Butler",
+          "lessor": "William Healy, Esq.",
+          "desc": "H,O,&L",
+          "area": "13 1 19",
+          "land_val": "6 15 0",
+          "building_val": "1 0 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "John Dwyer",
+          "lessor": "William Healy, Esq.",
+          "desc": "L",
+          "area": "15 1 23",
+          "land_val": "7 0 0",
+          "building_val": "",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "John Quanys",
+          "lessor": "John Dwyer",
+          "desc": "H&G",
+          "area": "0 1 13",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Joseph Brophy",
+          "lessor": "William Healy, Esq.",
+          "desc": "L",
+          "area": "18 3 36",
+          "land_val": "9 15 0",
+          "building_val": "",
+          "total_val": "9 15 0"
+        },
+        {
+          "mr": "19 a",
+          "occupier": "John Dwyer",
+          "lessor": "Wm. Healy, Esq.",
+          "desc": "H,O,&L",
+          "area": "67 3 7",
+          "land_val": "15 10 0",
+          "building_val": "2 0 0",
+          "total_val": "17 10 0"
+        },
+        {
+          "mr": "19 b",
+          "occupier": "Joseph Brophy",
+          "lessor": "Wm. Healy, Esq.",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "15 10 0",
+          "building_val": "3 10 0",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "20 a",
+          "occupier": "John Laffan",
+          "lessor": "William Healy, Esq.",
+          "desc": "Flour-mill,O,&L",
+          "area": "19 0 28",
+          "land_val": "12 10 0",
+          "building_val": "22 5 0",
+          "total_val": "34 15 0"
+        },
+        {
+          "mr": "20 b",
+          "occupier": "Thomas Lloyd",
+          "lessor": "William Healy, Esq.",
+          "desc": "H,O,&G",
+          "area": "0 0 31",
+          "land_val": "0 5 0",
+          "building_val": "1 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "James Shaughnessy",
+          "lessor": "Thomas Lloyd",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        }
+      ]
+    }
+  ]
+}

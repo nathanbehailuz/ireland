@@ -1,0 +1,99 @@
+{
+  "parishes": [
+    {
+      "parish": "TEMPLEMORE",
+      "entries": [
+        {
+          "mr": "34",
+          "townland": "KILLOUGH",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "Timothy Delahunt",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "H & L",
+          "area": "10 1 18",
+          "land_val": "£ 8 0 0",
+          "building_val": "£ 0 15 0",
+          "total_val": "£ 8 15 0",
+          "n_shared": 1,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 1
+        },
+        {
+          "mr": "35",
+          "townland": "",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "Edward Brierton",
+          "lessor": "John Lloyd, Esq.",
+          "desc": "H,O,&L",
+          "area": "0 1 31",
+          "land_val": "£ 3 5 0",
+          "building_val": "£ 1 0 0",
+          "total_val": "£ 4 5 0",
+          "n_shared": 1,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "",
+          "townland": "",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "840 1 29",
+          "land_val": "£ 459 10 0",
+          "building_val": "£ 37 0 0",
+          "total_val": "£ 496 10 0",
+          "n_shared": 1,
+          "is_total": 1,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "1",
+          "townland": "LLOYDSBOROUGH",
+          "os": "29",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "John Lloyd, Esq.",
+          "lessor": "In fee.",
+          "desc": "H,O,&L",
+          "area": "322 0 18",
+          "land_val": "£ 350 10 0",
+          "building_val": "£ 44 10 0",
+          "total_val": "£ 395 0 0",
+          "n_shared": 1,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "",
+          "townland": "",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "322 0 18",
+          "land_val": "£ 350 10 0",
+          "building_val": "£ 44 10 0",
+          "total_val": "£ 395 0 0",
+          "n_shared": 1,
+          "is_total": 1,
+          "is_exemption": 0,
+          "is_continued": 0
+        }
+      ]
+    }
+  ]
+}

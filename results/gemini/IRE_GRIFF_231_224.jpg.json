@@ -1,0 +1,507 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF MONAGHAN",
+      "entries": [
+        {
+          "mr": "10 a",
+          "townland": "LATLORCAN",
+          "os": "",
+          "occupier": "Lord Rossmore,",
+          "lessor": "",
+          "desc": "Fever Hospital, offices, and land,",
+          "area": "0 3 20",
+          "land_val": "1 10 0",
+          "building_val": "25 0 0",
+          "total_val": "26 10 0",
+          "is_exemption": 1,
+          "is_continued": 1
+        },
+        {
+          "mr": "19 A b",
+          "occupier": "Rt. Rev. Chas. M'Nally,",
+          "lessor": "",
+          "desc": "School-house and yard,",
+          "area": "0 0 12",
+          "land_val": "",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total of Exemptions,",
+          "area": "0 3 32",
+          "land_val": "1 10 0",
+          "building_val": "30 0 0",
+          "total_val": "31 10 0",
+          "is_total": 1,
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total, including Exemptions,",
+          "area": "151 3 18",
+          "land_val": "271 15 0",
+          "building_val": "62 0 0",
+          "total_val": "333 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "MULLAGHCROGHERY",
+          "os": "9",
+          "occupier": "Henry P. Lennon,",
+          "lessor": "Lord Rossmore,",
+          "desc": "Caretaker's ho., off., & ld.",
+          "area": "7 1 15",
+          "land_val": "13 10 0",
+          "building_val": "1 15 0",
+          "total_val": "15 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Patrick Carberry,",
+          "lessor": "Francis Young,",
+          "desc": "L",
+          "area": "3 1 13",
+          "land_val": "5 15 0",
+          "building_val": "",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Mitchell,",
+          "lessor": "Lord Rossmore,",
+          "desc": "L",
+          "area": "2 3 30",
+          "land_val": "5 10 0",
+          "building_val": "",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "John Allen,",
+          "lessor": "John Mitchell,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "William Temple,",
+          "lessor": "Lord Rossmore,",
+          "desc": "L",
+          "area": "11 0 10",
+          "land_val": "22 0 0",
+          "building_val": "",
+          "total_val": "22 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Corr,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "9 3 35",
+          "land_val": "25 0 0",
+          "building_val": "",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Robert Smith,",
+          "lessor": "John Corr,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "John Traynor,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Patrick Sherry,",
+          "lessor": "Lord Rossmore,",
+          "desc": "L",
+          "area": "6 3 15",
+          "land_val": "13 0 0",
+          "building_val": "",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Catherine Crorkin,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "2 1 30",
+          "land_val": "5 5 0",
+          "building_val": "",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Joseph Robinson,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "2 0 5",
+          "land_val": "3 15 0",
+          "building_val": "",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Lord Rossmore,",
+          "lessor": "In fee,",
+          "desc": "Fair-green,",
+          "area": "2 3 15",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Dundalk Steam Packet Co. (Wm. M'Master, Secretary),",
+          "lessor": "Ulster Canal Co.,",
+          "desc": "Canal and banks (80 lineal perches),",
+          "area": "4 1 30",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "-",
+          "lessor": "-",
+          "desc": "Water,",
+          "area": "0 2 20",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total,",
+          "area": "53 3 18",
+          "land_val": "96 10 0",
+          "building_val": "4 10 0",
+          "total_val": "105 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "MULLAGHADUN",
+          "os": "9",
+          "occupier": "Peter M'Phillips,",
+          "lessor": "Lord Rossmore,",
+          "desc": "L",
+          "area": "8 2 10",
+          "land_val": "17 15 0",
+          "building_val": "",
+          "total_val": "17 15 0"
+        },
+        {
+          "mr": "2 A, B",
+          "occupier": "Elizabeth Kelly,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "8 0 35",
+          "land_val": "17 5 0",
+          "building_val": "",
+          "total_val": "17 5 0"
+        },
+        {
+          "mr": "3 A, B",
+          "occupier": "Maurice Brunell,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "7 1 20",
+          "land_val": "15 15 0",
+          "building_val": "",
+          "total_val": "15 15 0"
+        },
+        {
+          "mr": "4 A, B,",
+          "occupier": "Jeremiah Nunn,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "8 3 10",
+          "land_val": "20 0 0",
+          "building_val": "",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Peter Deighan,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "9 0 35",
+          "land_val": "17 0 0",
+          "building_val": "",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Richard Blackly,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "6 1 15",
+          "land_val": "11 0 0",
+          "building_val": "",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "-",
+          "lessor": "-",
+          "desc": "Waste,",
+          "area": "0 1 0",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "7 A",
+          "occupier": "Bernard Connolly,",
+          "lessor": "Lord Rossmore,",
+          "desc": "L",
+          "area": "1 3 15",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "6 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "William Owens,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "1 2 10",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "6 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "8",
+          "occupier": "William Owens,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "3 2 10",
+          "land_val": "6 0 0",
+          "building_val": "",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Francis Vallely,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "6 0 10",
+          "land_val": "10 10 0",
+          "building_val": "",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Francis Vallely,",
+          "lessor": "Same,",
+          "desc": "Office and land,",
+          "area": "2 0 10",
+          "land_val": "3 15 0",
+          "building_val": "",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Francis Leonard,",
+          "lessor": "Francis Vallely,",
+          "desc": "L",
+          "area": "3 3 30",
+          "land_val": "8 10 0",
+          "building_val": "0 5 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Francis Leonard,",
+          "lessor": "Francis Vallely,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "-",
+          "lessor": "-",
+          "desc": "Waste,",
+          "area": "0 0 30",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "12",
+          "occupier": "John Reilly,",
+          "lessor": "Lord Rossmore,",
+          "desc": "L",
+          "area": "4 0 35",
+          "land_val": "9 0 0",
+          "building_val": "",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Richard Skelton,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "9 3 25",
+          "land_val": "19 0 0",
+          "building_val": "",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "James Leary,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "4 1 5",
+          "land_val": "8 15 0",
+          "building_val": "",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "-",
+          "lessor": "-",
+          "desc": "Waste,",
+          "area": "0 2 30",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- a",
+          "occupier": "Lord Rossmore,",
+          "lessor": "In fee,",
+          "desc": "Plantation,",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "15 a",
+          "occupier": "James Hamilton,",
+          "lessor": "Lord Rossmore,",
+          "desc": "Gate-house, and land,",
+          "area": "11 3 35",
+          "land_val": "12 0 0",
+          "building_val": "1 5 0",
+          "total_val": "13 5 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Patrick Sherry,",
+          "lessor": "James Hamilton,",
+          "desc": "L",
+          "area": "2 3 20",
+          "land_val": "4 10 0",
+          "building_val": "",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Dr. Robinson,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "3 2 25",
+          "land_val": "7 15 0",
+          "building_val": "",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "James Murray,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "5 2 15",
+          "land_val": "11 15 0",
+          "building_val": "",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Ulster Railway Co. (F. Broughton, Secretary),",
+          "lessor": "In fee,",
+          "desc": "Railway (97 lin. perches),",
+          "area": "3 3 9",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "-",
+          "lessor": "-",
+          "desc": "Water,",
+          "area": "0 2 0",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total,",
+          "area": "115 2 14",
+          "land_val": "206 10 0",
+          "building_val": "2 0 0",
+          "total_val": "215 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "MULLAGHMATT",
+          "os": "9",
+          "occupier": "Richard Skelton,",
+          "lessor": "Lord Rossmore,",
+          "desc": "L",
+          "area": "8 1 7",
+          "land_val": "16 10 0",
+          "building_val": "",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Dundalk Steam Packet Company,",
+          "lessor": "Ulster Canal Company,",
+          "desc": "Land (no value),",
+          "area": "0 0 8",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        }
+      ]
+    }
+  ]
+}

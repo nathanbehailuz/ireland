@@ -1,0 +1,601 @@
+{
+  "parishes": [
+    {
+      "parish": "FETHARD",
+      "entries": [
+        {
+          "mr": "3",
+          "townland": "FETHARD",
+          "occupier": "Frederick Sayers",
+          "lessor": "John Ryall",
+          "desc": "O and yard",
+          "building_val": "0 14 0",
+          "total_val": "0 14 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "4",
+          "occupier": "Thomas Maher",
+          "lessor": "John Ryall",
+          "desc": "H and yard",
+          "building_val": "1 3 0",
+          "total_val": "1 3 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Nicholas Wall",
+          "lessor": "John Ryall",
+          "desc": "H and yard",
+          "building_val": "1 14 0",
+          "total_val": "1 14 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "William Walsh",
+          "lessor": "John Ryall",
+          "desc": "H",
+          "building_val": "1 8 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Robert Norris",
+          "lessor": "James Murray",
+          "desc": "H",
+          "building_val": "1 2 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "James Mahony",
+          "lessor": "James Murray",
+          "desc": "H",
+          "building_val": "1 2 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Vacant",
+          "lessor": "James Murray",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "James Murray",
+          "lessor": "William Cummins",
+          "desc": "Yard",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Ellen Brennan",
+          "lessor": "Mrs. Julia Harvey",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "William Croak",
+          "lessor": "Mrs. Julia Harvey",
+          "desc": "H",
+          "building_val": "1 1 0",
+          "total_val": "1 1 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "William Cummins",
+          "lessor": "Mrs. Julia Harvey",
+          "desc": "H, yard, & G",
+          "area": "0 0 22",
+          "land_val": "0 6 0",
+          "building_val": "1 10 0",
+          "total_val": "1 16 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Thomas Kennedy",
+          "lessor": "Reps. Capt. Mat. Jacob",
+          "desc": "O",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Vacant",
+          "lessor": "Thomas Kennedy",
+          "desc": "H and yard",
+          "building_val": "0 17 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Vacant",
+          "lessor": "Thomas Kennedy",
+          "desc": "H and yard",
+          "building_val": "0 19 0",
+          "total_val": "0 19 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "John Quinlan",
+          "lessor": "Thomas Kennedy",
+          "desc": "H and yard",
+          "building_val": "0 17 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Richard Shea",
+          "lessor": "Thomas Kennedy",
+          "desc": "H and yard",
+          "building_val": "0 19 0",
+          "total_val": "0 19 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "National School",
+          "lessor": "William Maher",
+          "desc": "National school-H, yard, and sm. G",
+          "building_val": "4 3 0",
+          "total_val": "4 3 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "20",
+          "occupier": "Vacant",
+          "lessor": "Richard Cody",
+          "desc": "H",
+          "building_val": "0 14 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Richard Cody",
+          "lessor": "William Barton, Esq.",
+          "desc": "H,O, yard, & G",
+          "area": "0 0 22",
+          "land_val": "0 8 0",
+          "building_val": "1 8 0",
+          "total_val": "1 16 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "James Hynes",
+          "lessor": "Richard Cody",
+          "desc": "H",
+          "building_val": "0 14 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Thomas Dwyer",
+          "lessor": "Richard Cody",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Reps. Henry Sayers, Esq.",
+          "lessor": "Richard Wright",
+          "desc": "O and yard",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "John Toomy",
+          "lessor": "John M'Carthy",
+          "desc": "H",
+          "building_val": "0 19 0",
+          "total_val": "0 19 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Marcus Cushen",
+          "lessor": "John M'Carthy",
+          "desc": "H and yard",
+          "building_val": "0 19 0",
+          "total_val": "0 19 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Vacant",
+          "lessor": "John M'Carthy",
+          "desc": "H and yard",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Vacant",
+          "lessor": "John M'Carthy",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Vacant",
+          "lessor": "William Maher",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "James Brennan",
+          "lessor": "William Maher",
+          "desc": "H and yard",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Vacant",
+          "lessor": "William Maher",
+          "desc": "H and yard",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "Patrick Connell",
+          "lessor": "William Maher",
+          "desc": "H, yard, & sm. G",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "Vacant",
+          "lessor": "William Maher",
+          "desc": "H, yard, & sm. G",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "William Higgins",
+          "lessor": "William Maher",
+          "desc": "H, yard, & sm. G",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Patrick Walsh",
+          "lessor": "William Maher",
+          "desc": "H, yard, & sm. G",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Patrick Fitzpatrick",
+          "lessor": "William Maher",
+          "desc": "H, yard, & sm. G",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "Thomas Fitzsimons",
+          "lessor": "William Barton, Esq.",
+          "desc": "H and yard",
+          "building_val": "2 8 0",
+          "total_val": "2 8 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Thomas Fitzsimons",
+          "lessor": "Mrs. Elizabeth Wilson",
+          "desc": "G",
+          "area": "0 0 2",
+          "land_val": "0 1 0",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "John Hanly",
+          "lessor": "Mrs. Catherine Smith",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "Vacant",
+          "lessor": "Mrs. Catherine Smith",
+          "desc": "H",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "John Dwyer",
+          "lessor": "Mrs. Catherine Smith",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "John Mahony",
+          "lessor": "Mrs. Catherine Smith",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "Vacant",
+          "lessor": "James Byrne",
+          "desc": "H and yard",
+          "building_val": "1 11 0",
+          "total_val": "1 11 0"
+        },
+        {
+          "mr": "44",
+          "occupier": "Ellen Byrne",
+          "lessor": "William Barton, Esq.",
+          "desc": "H and yard",
+          "building_val": "1 8 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "45",
+          "occupier": "Mary Blundel",
+          "lessor": "William Brien",
+          "desc": "H and yard",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "Michael Dunne",
+          "lessor": "William Brien",
+          "desc": "H and yard",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "47",
+          "occupier": "William Brien",
+          "lessor": "William Barton, Esq.",
+          "desc": "H,O, and yard",
+          "building_val": "3 1 0",
+          "total_val": "3 1 0"
+        },
+        {
+          "mr": "48",
+          "occupier": "Thomas Cushen",
+          "lessor": "Mrs. Catherine Smith",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "49",
+          "occupier": "Patrick Corbett",
+          "lessor": "Mrs. Catherine Smith",
+          "desc": "H",
+          "building_val": "0 11 0",
+          "total_val": "0 11 0"
+        },
+        {
+          "mr": "50",
+          "occupier": "Daniel Corcoran",
+          "lessor": "Mrs. Catherine Smith",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "51",
+          "occupier": "Michael Launders",
+          "lessor": "William Barton, Esq.",
+          "desc": "O, yard, & G",
+          "area": "0 0 31",
+          "land_val": "0 9 0",
+          "building_val": "1 4 0",
+          "total_val": "1 13 0"
+        },
+        {
+          "mr": "52",
+          "occupier": "Vacant",
+          "lessor": "Michael Launders",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "53",
+          "occupier": "Henry Knowles",
+          "lessor": "Michael Launders",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "54",
+          "occupier": "Thomas Flanagan",
+          "lessor": "Michael Launders",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "55",
+          "occupier": "William Brien",
+          "lessor": "Mrs. Julia Harvey",
+          "desc": "O and yard",
+          "building_val": "0 14 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "56",
+          "occupier": "Vacant",
+          "lessor": "William Brien",
+          "desc": "H and sm. G",
+          "building_val": "1 3 0",
+          "total_val": "1 3 0"
+        },
+        {
+          "mr": "57",
+          "occupier": "Catherine Quinlan",
+          "lessor": "Jane Brien",
+          "desc": "H and yard",
+          "building_val": "0 18 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "58",
+          "occupier": "Thomas Cusheen",
+          "lessor": "Jane Brien",
+          "desc": "H and yard",
+          "building_val": "0 18 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "59",
+          "occupier": "William Brien",
+          "lessor": "Jane Brien",
+          "desc": "G",
+          "area": "0 0 13",
+          "land_val": "0 4 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "60",
+          "occupier": "John M'Carthy",
+          "lessor": "William Barton, Esq.",
+          "desc": "O and G",
+          "area": "0 0 12",
+          "land_val": "0 4 0",
+          "building_val": "1 2 0",
+          "total_val": "1 6 0"
+        },
+        {
+          "mr": "61",
+          "occupier": "John Lawler",
+          "lessor": "John M'Carthy",
+          "desc": "H and yard",
+          "building_val": "1 6 0",
+          "total_val": "1 6 0"
+        },
+        {
+          "mr": "62",
+          "occupier": "William Quinlan",
+          "lessor": "Mrs. Catherine Smith",
+          "desc": "H and yard",
+          "building_val": "1 2 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "63",
+          "occupier": "Vacant",
+          "lessor": "Mrs. Catherine Smith",
+          "desc": "H and yard",
+          "building_val": "1 2 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "64",
+          "occupier": "Mrs. Catherine Smith",
+          "lessor": "William Barton, Esq.",
+          "desc": "G",
+          "area": "0 0 24",
+          "land_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "65",
+          "occupier": "Vacant",
+          "lessor": "William Brien",
+          "desc": "H and yard",
+          "building_val": "1 11 0",
+          "total_val": "1 11 0"
+        },
+        {
+          "mr": "66",
+          "occupier": "Thomas Fannin",
+          "lessor": "William Brien",
+          "desc": "H and yard",
+          "building_val": "1 11 0",
+          "total_val": "1 11 0"
+        },
+        {
+          "mr": "67",
+          "occupier": "Thomas Flannery",
+          "lessor": "William Brien",
+          "desc": "H and yard",
+          "building_val": "1 11 0",
+          "total_val": "1 11 0"
+        },
+        {
+          "mr": "68",
+          "occupier": "William Brien",
+          "lessor": "William Barton, Esq.",
+          "desc": "G",
+          "area": "0 0 25",
+          "land_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "69",
+          "occupier": "James Burke",
+          "lessor": "Thomas Parker",
+          "desc": "H and yard",
+          "building_val": "1 2 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "70",
+          "occupier": "Thomas Parker",
+          "lessor": "William Barton, Esq.",
+          "desc": "H,O, yard, & G",
+          "area": "0 0 23",
+          "land_val": "0 7 0",
+          "building_val": "1 14 0",
+          "total_val": "2 1 0"
+        },
+        {
+          "mr": "71",
+          "occupier": "Philip Keating",
+          "lessor": "Patrick Flynn",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "72",
+          "occupier": "Patrick Hennessy",
+          "lessor": "Patrick Flynn",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "73",
+          "occupier": "Patrick Cleary",
+          "lessor": "William Brien",
+          "desc": "H and yard",
+          "building_val": "0 19 0",
+          "total_val": "0 19 0"
+        },
+        {
+          "mr": "74",
+          "occupier": "Honoria Feehan",
+          "lessor": "William Brien",
+          "desc": "H and yard",
+          "building_val": "0 19 0",
+          "total_val": "0 19 0"
+        }
+      ]
+    }
+  ]
+}

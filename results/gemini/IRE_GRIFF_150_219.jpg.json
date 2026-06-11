@@ -1,0 +1,487 @@
+{
+  "parishes": [
+    {
+      "parish": "TISARAN",
+      "entries": [
+        {
+          "mr": "6",
+          "townland": "MOYSTOWN DEMESNE",
+          "occupier": "Edward Flynn",
+          "lessor": "Lord Ashbrook",
+          "desc": "H,O,&L",
+          "area": "9 1 5",
+          "land_val": "5 0 0",
+          "building_val": "1 5 0",
+          "total_val": "6 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "7",
+          "occupier": "Margaret Tone",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "12 0 30",
+          "land_val": "6 15 0",
+          "building_val": "1 0 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "578 3 3",
+          "land_val": "423 15 0",
+          "building_val": "87 5 0",
+          "total_val": "511 0 0",
+          "is_total": 1
+        },
+        {
+          "desc": "Exemption: Grave-yard",
+          "area": "0 2 10",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of Exemption",
+          "area": "578 0 33",
+          "land_val": "423 10 0",
+          "building_val": "87 5 0",
+          "total_val": "510 15 0",
+          "is_total": 1
+        }
+      ]
+    },
+    {
+      "parish": "WHEERY",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "AGHABOY",
+          "os": "15",
+          "occupier": "Robert Delany",
+          "lessor": "Rev. Henry King",
+          "desc": "H,O,&L, Flour & corn mill & kiln",
+          "area": "33 0 19",
+          "land_val": "24 0 0",
+          "building_val": "12 0 0",
+          "total_val": "36 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Robert Delany",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "11 0 38",
+          "land_val": "9 5 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Mary Horan",
+          "lessor": "Robert Delany",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Arthur Galvin",
+          "lessor": "Rev. Henry King",
+          "desc": "H&L",
+          "area": "44 2 32",
+          "land_val": "25 5 0",
+          "building_val": "0 5 0",
+          "total_val": "25 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Rev. Henry King",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "34 3 10",
+          "land_val": "10 10 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "123 3 19",
+          "land_val": "69 0 0",
+          "building_val": "49 0 0",
+          "total_val": "118 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "BALLINLOMAN",
+          "os": "14",
+          "occupier": "John M'Gloughlin",
+          "lessor": "Robert Lawder",
+          "desc": "H,O,&L",
+          "area": "7 3 0",
+          "land_val": "3 15 0",
+          "building_val": "1 0 0",
+          "total_val": "6 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 B",
+          "occupier": "Patrick Clancy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 1 25",
+          "land_val": "2 0 0",
+          "total_val": "6 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2",
+          "occupier": "John Coghlan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "21 1 0",
+          "land_val": "11 10 0",
+          "building_val": "0 15 0",
+          "total_val": "12 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Duplaix",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "13 2 30",
+          "land_val": "5 5 0",
+          "building_val": "0 15 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Robert Lawder",
+          "lessor": "James Devery",
+          "desc": "H,O,&L",
+          "area": "6 0 20",
+          "land_val": "2 10 0",
+          "building_val": "1 15 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Robert Lawder",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "85 2 26",
+          "land_val": "43 0 0",
+          "total_val": "43 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Robert Lawder",
+          "lessor": "Same",
+          "desc": "High bog",
+          "area": "92 1 21",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "231 1 2",
+          "land_val": "68 10 0",
+          "building_val": "4 5 0",
+          "total_val": "72 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "BALLYCLARE",
+          "os": "14",
+          "occupier": "Martin Kenny",
+          "lessor": "Thomas Mullock",
+          "desc": "L",
+          "area": "21 0 3",
+          "land_val": "9 5 0",
+          "total_val": "10 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 B",
+          "occupier": "Thomas Connors",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "1 1 21",
+          "land_val": "0 5 0",
+          "building_val": "1 5 0",
+          "total_val": "10 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 A",
+          "occupier": "Thomas Connors",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "10 1 12",
+          "land_val": "10 0 0",
+          "total_val": "13 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 B",
+          "occupier": "John Chapman",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "1 1 0",
+          "land_val": "0 5 0",
+          "building_val": "3 0 0",
+          "total_val": "13 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3",
+          "occupier": "Thomas Eagan",
+          "lessor": "John Chapman",
+          "desc": "L",
+          "area": "23 0 31",
+          "land_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "John Grogan",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "3 b",
+          "occupier": "John Chapman",
+          "lessor": "William Hune",
+          "desc": "H&G",
+          "area": "0 1 0",
+          "land_val": "0 4 0",
+          "building_val": "0 11 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Mary Kelly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 8",
+          "land_val": "1 13 0",
+          "total_val": "1 13 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "James Madden",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "0 12 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Mary Blanchfield",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "4 3 0",
+          "land_val": "1 10 0",
+          "building_val": "0 10 0",
+          "total_val": "2 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 b",
+          "occupier": "Mary Boyce",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "4 3 0",
+          "land_val": "2 15 0",
+          "building_val": "0 10 0",
+          "total_val": "3 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "Thomas Grier",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "John Waldon",
+          "lessor": "Abraham Bagnal",
+          "desc": "L",
+          "area": "3 0 37",
+          "land_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Thomas Waldon",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "3 2 9",
+          "land_val": "1 10 0",
+          "building_val": "0 5 0",
+          "total_val": "1 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "7 b",
+          "occupier": "John Kelly",
+          "lessor": "Thomas Mullock",
+          "desc": "H&L",
+          "area": "3 2 9",
+          "land_val": "1 10 0",
+          "building_val": "0 10 0",
+          "total_val": "2 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Owen Eagan",
+          "lessor": "John Kelly",
+          "desc": "H,O,&L",
+          "area": "26 3 15",
+          "land_val": "11 5 0",
+          "building_val": "1 10 0",
+          "total_val": "12 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "8 b",
+          "occupier": "Peter Eagan",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9",
+          "occupier": "Denis Conrory",
+          "lessor": "Peter Eagan",
+          "desc": "H,O,&L",
+          "area": "32 0 10",
+          "land_val": "7 10 0",
+          "building_val": "1 10 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Abraham Bagnal",
+          "lessor": "In fee",
+          "desc": "H&L",
+          "area": "95 1 29",
+          "land_val": "7 10 0",
+          "building_val": "0 10 0",
+          "total_val": "8 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "10 b",
+          "occupier": "Anne Ardell",
+          "lessor": "Abraham Bagnal",
+          "desc": "O&L",
+          "area": "95 1 29",
+          "land_val": "46 10 0",
+          "building_val": "1 10 0",
+          "total_val": "48 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "10 c",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H&O",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "11 A",
+          "occupier": "Abraham Bagnal",
+          "lessor": "William Hune",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "11 B",
+          "occupier": "Abraham Bagnal",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 1 7",
+          "land_val": "3 5 0",
+          "total_val": "57 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "11 C",
+          "occupier": "Abraham Bagnal",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 3 25",
+          "land_val": "0 15 0",
+          "total_val": "57 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "11 D",
+          "occupier": "Abraham Bagnal",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "67 3 15",
+          "land_val": "47 10 0",
+          "building_val": "2 10 0",
+          "total_val": "57 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "-",
+          "occupier": "Mary Healy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 3 12",
+          "land_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Michael Mollone",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "3 1 7",
+          "land_val": "0 15 0",
+          "building_val": "0 10 0",
+          "total_val": "1 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "-",
+          "occupier": "Matt. Lennon",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 7",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "-",
+          "occupier": "Matt. Lennon",
+          "lessor": "Same",
+          "desc": "L",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0",
+          "n_shared": 2
+        }
+      ]
+    }
+  ]
+}

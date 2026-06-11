@@ -1,0 +1,400 @@
+{
+  "parishes": [
+    {
+      "parish": "LOUTH",
+      "entries": [
+        {
+          "mr": "4 A B",
+          "townland": "ANNAGH (M'CANNS)",
+          "occupier": "Peter Carroll",
+          "lessor": "As lessor",
+          "desc": "Half annual rent rateable to poors' rate, £5.",
+          "is_continued": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Toprass Lough (part of)",
+          "area": "3 0 10"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Cortial Lough (part of)",
+          "area": "4 0 11"
+        },
+        {
+          "desc": "Total,",
+          "area": "191 2 34",
+          "land_val": "104 10 0",
+          "building_val": "7 0 0",
+          "total_val": "111 10 0",
+          "is_total": 1
+        },
+        {
+          "desc": "Police barrack,",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of Exemptions,",
+          "area": "191 2 34",
+          "land_val": "104 10 0",
+          "building_val": "4 10 0",
+          "total_val": "109 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "ARDPATRICK",
+          "os": "11",
+          "occupier": "Thomas M'Kenna",
+          "lessor": "Society for promoting Protestant Schools",
+          "desc": "H,O,&L",
+          "area": "5 0 6",
+          "land_val": "5 10 0",
+          "building_val": "1 10 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Molloy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 18",
+          "land_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Peter Byrne",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 32",
+          "land_val": "4 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Hugh Jennett",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 0 2",
+          "land_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Rev. Alexander Major",
+          "lessor": "Rev. Anthony Adams",
+          "desc": "H,O,&L",
+          "area": "9 2 24",
+          "land_val": "11 0 0",
+          "building_val": "21 0 0",
+          "total_val": "32 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Rev. Anthony Adams",
+          "lessor": "Society for promoting Protestant Schools",
+          "desc": "L",
+          "area": "96 1 2",
+          "land_val": "108 0 0",
+          "total_val": "108 0 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Thomas Ebbit",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "3 0 3",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "8 A",
+          "occupier": "Charles M'Allister",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 2 3",
+          "land_val": "2 10 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "- B a",
+          "occupier": "Charles M'Allister",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "9 1 38",
+          "land_val": "9 0 0",
+          "building_val": "2 10 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "- C",
+          "occupier": "Charles M'Allister",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 2 8",
+          "land_val": "2 0 0",
+          "total_val": "16 0 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "9 A a",
+          "occupier": "Peter Casey",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 1 17",
+          "land_val": "11 10 0",
+          "building_val": "1 0 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "- B",
+          "occupier": "Peter Casey",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 0 5",
+          "land_val": "4 0 0",
+          "total_val": "16 10 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "10",
+          "occupier": "Thomas Murray",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 0 38",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Mary Casey",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 1 37",
+          "land_val": "4 10 0",
+          "building_val": "0 15 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Luke Cunningham",
+          "lessor": "Mary Casey",
+          "desc": "H,&G",
+          "area": "0 0 6",
+          "land_val": "0 1 0",
+          "building_val": "0 9 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "174 1 39",
+          "land_val": "179 6 0",
+          "building_val": "27 14 0",
+          "total_val": "207 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "ARTONEY",
+          "os": "11",
+          "occupier": "John Duff",
+          "lessor": "James Fitzpatrick",
+          "desc": "H,O,&L",
+          "area": "29 2 3",
+          "land_val": "33 15 0",
+          "building_val": "1 5 0",
+          "total_val": "35 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Fitzpatrick",
+          "lessor": "Frederick John Foster",
+          "desc": "L",
+          "area": "19 1 26",
+          "land_val": "19 0 0",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Thomas M'Nellon",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "32 0 24",
+          "land_val": "32 10 0",
+          "total_val": "32 10 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Rev. Elias Thackery",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "66 0 31",
+          "land_val": "81 10 0",
+          "building_val": "28 10 0",
+          "total_val": "110 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Michael Conlon",
+          "lessor": "Common",
+          "desc": "H,&G",
+          "area": "0 0 11",
+          "land_val": "0 2 0",
+          "building_val": "0 18 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "147 1 15",
+          "land_val": "166 17 0",
+          "building_val": "30 13 0",
+          "total_val": "197 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "ASH, LITTLE",
+          "os": "6",
+          "occupier": "Matthew Osbourne",
+          "lessor": "William Filgate",
+          "desc": "L",
+          "area": "25 0 2",
+          "land_val": "14 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "John Kieran",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "54 2 38",
+          "land_val": "41 0 0",
+          "building_val": "6 0 0",
+          "total_val": "47 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Owen Fagan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "40 2 0",
+          "land_val": "34 15 0",
+          "building_val": "2 5 0",
+          "total_val": "37 0 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Thomas M'Fadden",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "19 0 20",
+          "land_val": "16 0 0",
+          "building_val": "3 0 0",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Thomas Hoey",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "18 2 13",
+          "land_val": "16 0 0",
+          "building_val": "1 10 0",
+          "total_val": "17 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Constabulary Force",
+          "lessor": "As lessor",
+          "desc": "Police bar.,off.,&garden",
+          "area": "0 0 12",
+          "land_val": "0 3 0",
+          "building_val": "3 0 0",
+          "total_val": "3 3 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Half annual rent rateable to poors' rate, £7."
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Philip Reilly",
+          "lessor": "William Filgate",
+          "desc": "H,O,&L",
+          "area": "32 2 13",
+          "land_val": "29 0 0",
+          "building_val": "3 0 0",
+          "total_val": "32 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Bryan Kirk",
+          "lessor": "Philip Reilly",
+          "desc": "H,&O",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "John Golloghly",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Margaret M'Ardle",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "- e",
+          "occupier": "Patrick Grant",
+          "lessor": "John Kieran",
+          "desc": "H,&G",
+          "area": "0 2 0",
+          "land_val": "0 9 0",
+          "building_val": "0 6 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "191 0 18",
+          "land_val": "151 7 0",
+          "building_val": "20 5 0",
+          "total_val": "171 12 0",
+          "is_total": 1
+        },
+        {
+          "desc": "Police bar.,off.,&garden,",
+          "area": "0 0 12",
+          "land_val": "0 3 0",
+          "building_val": "3 0 0",
+          "total_val": "3 3 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of Exemptions,",
+          "area": "191 0 6",
+          "land_val": "151 4 0",
+          "building_val": "17 5 0",
+          "total_val": "168 9 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

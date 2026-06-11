@@ -1,0 +1,479 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF BALLYWALTER",
+      "entries": [
+        {
+          "mr": "104",
+          "townland": "BALLYWALTER",
+          "os": "",
+          "sublocation_1": "VILLAGE OF BALLYWALTER",
+          "occupier": "John Boyd",
+          "lessor": "Jane Gibson",
+          "desc": "H & sm. G",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "105",
+          "occupier": "Mary M'Meehan",
+          "lessor": "Same",
+          "desc": "H & sm. G",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "James Filson",
+          "lessor": "Same",
+          "desc": "H (in rear)",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Andrew Thompson",
+          "lessor": "Same",
+          "desc": "H (in rear)",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Mary Gilmore",
+          "lessor": "Same",
+          "desc": "H (in rear)",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "George Gibson",
+          "lessor": "Same",
+          "desc": "H (in rear)",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "106",
+          "occupier": "William Boyd",
+          "lessor": "John Stewart",
+          "desc": "H,O,&G",
+          "area": "0 0 28",
+          "land_val": "0 5 0",
+          "building_val": "2 0 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "107",
+          "occupier": "James M'Dowell",
+          "lessor": "William Boyd",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "108",
+          "occupier": "Mary Boyd",
+          "lessor": "Same",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "109",
+          "occupier": "James Blain",
+          "lessor": "John Stewart",
+          "desc": "H,O,&G",
+          "area": "0 0 35",
+          "land_val": "0 5 0",
+          "building_val": "4 5 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "170",
+          "occupier": "James M'Whinney",
+          "lessor": "Andrew Mulholland",
+          "desc": "Forge & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "171",
+          "occupier": "",
+          "lessor": "",
+          "desc": "O (valued with 22)",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "172",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Ruins",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- a",
+          "occupier": "Mary Angous",
+          "lessor": "Margaret M'Kee",
+          "desc": "H (in rear)",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "173",
+          "occupier": "Jane Eccles",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "174",
+          "occupier": "James M'Dowell",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "175",
+          "occupier": "Anne Hamilton",
+          "lessor": "Andrew Hamilton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "176",
+          "occupier": "Denis Doonan",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "177",
+          "occupier": "John Morrison",
+          "lessor": "Andrew Mulholland",
+          "desc": "H,workshop,&G",
+          "area": "0 0 20",
+          "land_val": "0 5 0",
+          "building_val": "2 15 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "178",
+          "occupier": "James Johnston",
+          "lessor": "John Morrison",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "179",
+          "occupier": "Jane Davison",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Waste under H, yards, &c.",
+          "area": "16 1 1",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total of Rateable Property",
+          "area": "356 3 39",
+          "land_val": "463 0 0",
+          "building_val": "439 5 0",
+          "total_val": "903 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "52 a",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Presbyterian Church & yard",
+          "area": "0 1 10",
+          "land_val": "0 10 0",
+          "building_val": "15 0 0",
+          "total_val": "15 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "100 a",
+          "occupier": "",
+          "lessor": "",
+          "desc": "School-H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "10 0 0",
+          "total_val": "10 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "101 79",
+          "sublocation_1": "VILLAGE OF BALLYWALTER",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Presbyterian Church & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "14 0 0",
+          "total_val": "14 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total of Exemptions",
+          "area": "0 1 10",
+          "land_val": "0 10 0",
+          "building_val": "39 0 0",
+          "total_val": "39 10 0",
+          "is_total": 1,
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total, including Exemptions",
+          "area": "357 1 9",
+          "land_val": "463 10 0",
+          "building_val": "478 5 0",
+          "total_val": "942 15 0",
+          "is_total": 1
+        }
+      ]
+    },
+    {
+      "parish": "PARISH OF INISHARGY",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "BALLYLINP",
+          "os": "18",
+          "sublocation_1": "(The How.)",
+          "occupier": "John Browne",
+          "lessor": "Robert Ross",
+          "desc": "H,O,&L",
+          "area": "114 1 20",
+          "land_val": "113 0 0",
+          "building_val": "7 0 0",
+          "total_val": "120 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "John Dorian",
+          "lessor": "John Browne",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "David Johnston",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "John M'Clement",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- e",
+          "occupier": "Samuel M'Master",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- f",
+          "occupier": "William M'Whinney",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Browne",
+          "lessor": "Robert Ross",
+          "desc": "Cottier's H & L",
+          "area": "13 0 20",
+          "land_val": "11 5 0",
+          "building_val": "0 15 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "William Miller",
+          "lessor": "Same",
+          "desc": "O & L",
+          "area": "28 3 15",
+          "land_val": "20 0 0",
+          "building_val": "2 0 0",
+          "total_val": "22 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "George Innes",
+          "lessor": "Same",
+          "desc": "H & L",
+          "area": "13 3 0",
+          "land_val": "13 0 0",
+          "building_val": "2 10 0",
+          "total_val": "15 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Margaret M'Kelvey",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "54 3 15",
+          "land_val": "55 0 0",
+          "building_val": "",
+          "total_val": "55 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Samuel Ross",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "19 1 20",
+          "land_val": "17 10 0",
+          "building_val": "",
+          "total_val": "17 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Mary M'Dowell",
+          "lessor": "Same",
+          "desc": "H, O, & L",
+          "area": "12 0 30",
+          "land_val": "11 0 0",
+          "building_val": "1 10 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "John M'Cormick",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "12 2 30",
+          "land_val": "11 0 0",
+          "building_val": "1 10 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Robert Miller",
+          "lessor": "Same",
+          "desc": "Caretaker's H,O,&L",
+          "area": "36 3 15",
+          "land_val": "36 0 0",
+          "building_val": "1 10 0",
+          "total_val": "37 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "James M'Cullagh",
+          "lessor": "Same",
+          "desc": "H & L",
+          "area": "6 0 0",
+          "land_val": "5 0 0",
+          "building_val": "0 15 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "David Patty",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "14 2 20",
+          "land_val": "12 0 0",
+          "building_val": "1 10 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Robert Caughey",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 0 20",
+          "land_val": "8 5 0",
+          "building_val": "1 5 0",
+          "total_val": "9 10 0"
+        }
+      ]
+    }
+  ]
+}

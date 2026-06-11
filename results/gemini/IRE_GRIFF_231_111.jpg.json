@@ -1,0 +1,551 @@
+{
+  "parishes": [
+    {
+      "parish": "TEDAVNET",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "DERRYNASELL, EAST",
+          "os": "5 & 6",
+          "occupier": "Margaret Sherry",
+          "lessor": "Gertrude Rose",
+          "desc": "H,O,&L",
+          "area": "35 2 10",
+          "land_val": "10 0 0",
+          "building_val": "1 5 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Francis M'Kenna",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "26 2 0",
+          "land_val": "7 0 0",
+          "building_val": "1 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John M'Kenna",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "25 3 15",
+          "land_val": "7 5 0",
+          "building_val": "1 0 0",
+          "total_val": "8 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Catherine Sherry",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "35 1 0",
+          "land_val": "5 5 0",
+          "building_val": "0 10 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James M'Kenna",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "48 3 20",
+          "land_val": "9 10 0",
+          "building_val": "1 0 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Patrick M'Kenna",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "41 3 0",
+          "land_val": "18 0 0",
+          "building_val": "1 0 0",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "James Flood",
+          "lessor": "Patrick M'Kenna",
+          "desc": "H & small G",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Anne M'Ilroy",
+          "lessor": "Gertrude Rose",
+          "desc": "H,O,&L",
+          "area": "19 2 0",
+          "land_val": "8 5 0",
+          "building_val": "0 15 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Patrick M'Kenna",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "9 2 0",
+          "land_val": "4 10 0",
+          "building_val": "0 15 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Cullagh Campbell",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "17 1 30",
+          "land_val": "9 0 0",
+          "building_val": "1 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "263 0 35",
+          "land_val": "78 15 0",
+          "building_val": "8 10 0",
+          "total_val": "87 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "FEEBAGHBANE",
+          "os": "5 & 6",
+          "occupier": "Thomas Brady",
+          "lessor": "Gertrude Rose",
+          "desc": "H,O,&L",
+          "area": "18 2 35",
+          "land_val": "5 10 0",
+          "building_val": "0 15 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Sarah M'Kenna (Terry)",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "21 1 5",
+          "land_val": "6 0 0",
+          "building_val": "0 15 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Owen Sherry",
+          "lessor": "Same",
+          "desc": "Herd's H,O,&L",
+          "area": "26 2 20",
+          "land_val": "6 5 0",
+          "building_val": "0 15 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Hugh M'Cague",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "35 2 15",
+          "land_val": "11 0 0",
+          "building_val": "1 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Hugh Mellon",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "21 3 0",
+          "land_val": "4 5 0",
+          "building_val": "0 15 0",
+          "total_val": "5 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Mellon",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "land_val": "4 5 0",
+          "building_val": "0 15 0",
+          "total_val": "5 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "Rose M'Kenna (Ned)",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "49 0 25",
+          "land_val": "10 5 0",
+          "building_val": "1 0 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Terence M'Kenna",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "18 2 15",
+          "land_val": "8 5 0",
+          "building_val": "0 15 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "James M'Kenna",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "29 3 4",
+          "land_val": "13 10 0",
+          "building_val": "1 5 0",
+          "total_val": "14 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Catherine M'Kenna",
+          "lessor": "James M'Kenna",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "desc": "Total",
+          "area": "218 1 39",
+          "land_val": "75 5 0",
+          "building_val": "8 0 0",
+          "total_val": "83 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "KNOCKBALLYRONEY",
+          "os": "5 & 6",
+          "occupier": "Francis Murray",
+          "lessor": "Gertrude Rose",
+          "desc": "H,O,&L",
+          "area": "82 2 20",
+          "land_val": "7 0 0",
+          "building_val": "1 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "James Traynor",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "113 1 20",
+          "land_val": "5 0 0",
+          "building_val": "0 10 0",
+          "total_val": "5 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Michael Traynor",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "land_val": "5 0 0",
+          "building_val": "0 10 0",
+          "total_val": "5 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3",
+          "occupier": "Hugh Murray",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "89 1 10",
+          "land_val": "6 10 0",
+          "building_val": "0 15 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James M'Ilroy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "20 2 15",
+          "land_val": "3 5 0",
+          "building_val": "0 5 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Traynor",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "16 1 30",
+          "land_val": "3 10 0",
+          "building_val": "0 5 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Patrick Deery",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "67 2 10",
+          "land_val": "6 10 0",
+          "building_val": "1 0 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Owen Sherry",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "67 0 30",
+          "land_val": "5 15 0",
+          "building_val": "0 15 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Patrick Clerkin",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "32 1 30",
+          "land_val": "6 15 0",
+          "building_val": "0 15 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Peter Morgan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "33 0 30",
+          "land_val": "6 10 0",
+          "building_val": "0 15 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Owen Prunty",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "15 0 19",
+          "land_val": "3 10 0",
+          "building_val": "0 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Patrick Carroll",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "27 0 0",
+          "land_val": "5 15 0",
+          "building_val": "0 10 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Michael Murphy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "22 3 5",
+          "land_val": "4 0 0",
+          "building_val": "0 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "James Keenan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "33 0 25",
+          "land_val": "7 15 0",
+          "building_val": "0 10 0",
+          "total_val": "8 5 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Denis Murphy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "19 2 20",
+          "land_val": "7 15 0",
+          "building_val": "1 0 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Patrick M'Arce",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "24 3 25",
+          "land_val": "8 10 0",
+          "building_val": "0 15 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "John Sweeny",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "6 3 5",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Margaret M'Kenna",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "17 3 30",
+          "land_val": "6 10 0",
+          "building_val": "0 15 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Patrick Sherry",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "18 3 0",
+          "land_val": "5 15 0",
+          "building_val": "0 15 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Owen Sherry",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "38 2 20",
+          "land_val": "12 10 0",
+          "building_val": "1 5 0",
+          "total_val": "13 15 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Bernard Hannewin",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "25 0 25",
+          "land_val": "10 10 0",
+          "building_val": "1 0 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Bridget M'Guire",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 3 24",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Denis M'Donnell",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "19 1 30",
+          "land_val": "7 10 0",
+          "building_val": "0 15 0",
+          "total_val": "8 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "796 3 14",
+          "land_val": "141 5 0",
+          "building_val": "15 5 0",
+          "total_val": "156 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "DRUMINANE",
+          "os": "5, 6, & 8",
+          "occupier": "Patrick Prunty",
+          "lessor": "Gertrude Rose",
+          "desc": "H,O,&L",
+          "area": "15 0 25",
+          "land_val": "6 10 0",
+          "building_val": "0 10 0",
+          "total_val": "7 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Gertrude Rose",
+          "lessor": "In fee",
+          "desc": "Plantation",
+          "area": "0 2 0",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2",
+          "occupier": "William M'Kenna",
+          "lessor": "Gertrude Rose",
+          "desc": "H,O,&L",
+          "area": "17 3 15",
+          "land_val": "7 0 0",
+          "building_val": "0 10 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Brady",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "15 0 15",
+          "land_val": "6 5 0",
+          "building_val": "0 10 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Anne Callaghan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "24 2 15",
+          "land_val": "9 15 0",
+          "building_val": "0 10 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Cecila M'Cabe",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 1 20",
+          "land_val": "3 5 0",
+          "building_val": "0 15 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Patrick M'Carn",
+          "lessor": "Same",
+          "desc": "H & L",
+          "area": "9 2 30",
+          "land_val": "4 0 0",
+          "building_val": "0 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Hugh M'Carn",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 0 20",
+          "land_val": "5 0 0",
+          "building_val": "1 0 0",
+          "total_val": "6 0 0"
+        }
+      ]
+    }
+  ]
+}

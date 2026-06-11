@@ -1,0 +1,496 @@
+{
+  "parishes": [
+    {
+      "parish": "THURLES",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "THURLESTOWN",
+          "sublocation_1": "PARKS",
+          "occupier": "Wesleyan Chapel,",
+          "lessor": "Viscount Chabot,",
+          "desc": "Wesleyan Chapel & G",
+          "area": "0 0 31",
+          "land_val": "0 17 0",
+          "building_val": "13 2 0",
+          "total_val": "13 19 0",
+          "is_exemption": 1,
+          "is_continued": 1
+        },
+        {
+          "mr": "2",
+          "occupier": "James Bracken, Esq.",
+          "lessor": "Patrick Cahill,",
+          "desc": "H, O, & G",
+          "area": "0 0 9",
+          "land_val": "0 5 0",
+          "building_val": "15 15 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Vacant,",
+          "lessor": "Patrick Cahill,",
+          "desc": "H, O, & G",
+          "area": "0 0 9",
+          "land_val": "0 5 0",
+          "building_val": "15 15 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Mary Coman,",
+          "lessor": "Viscount Chabot,",
+          "desc": "G",
+          "area": "0 3 12",
+          "land_val": "4 7 0",
+          "total_val": "4 7 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Oulahan,",
+          "lessor": "Thomas Delany,",
+          "desc": "H, O, & yard",
+          "building_val": "9 12 0",
+          "total_val": "9 12 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Thomas Delany,",
+          "lessor": "Viscount Chabot,",
+          "desc": "H & yard",
+          "building_val": "9 12 0",
+          "total_val": "9 12 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "OBBIN'S-HOLDING",
+          "occupier": "Arthur White's lodgers,",
+          "lessor": "Arthur White,",
+          "desc": "H & G",
+          "area": "0 0 16",
+          "land_val": "0 5 0",
+          "building_val": "5 14 0",
+          "total_val": "5 19 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Edward Flinn,",
+          "lessor": "Patrick Lacy,",
+          "desc": "H & G",
+          "area": "0 0 17",
+          "land_val": "0 5 0",
+          "building_val": "5 14 0",
+          "total_val": "5 19 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Jno. Fitzgerald's lodgers,",
+          "lessor": "John Fitzgerald,",
+          "desc": "H & G",
+          "area": "0 0 33",
+          "land_val": "0 10 0",
+          "building_val": "5 14 0",
+          "total_val": "6 4 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James Burke,",
+          "lessor": "Viscount Chabot,",
+          "desc": "O, yard, & G",
+          "area": "0 0 28",
+          "land_val": "0 12 0",
+          "building_val": "10 10 0",
+          "total_val": "11 2 0"
+        },
+        {
+          "mr": "5 a b c d",
+          "occupier": "Viscount Chabot,",
+          "lessor": "In fee,",
+          "desc": "Building-ground",
+          "area": "8 1 0",
+          "land_val": "14 9 0",
+          "total_val": "14 9 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Walter Walsh,",
+          "lessor": "Viscount Chabot,",
+          "desc": "H, O, & G",
+          "area": "0 0 4",
+          "land_val": "0 1 0",
+          "building_val": "6 11 0",
+          "total_val": "6 12 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Tobias Bowen,",
+          "lessor": "Viscount Chabot,",
+          "desc": "H",
+          "area": "0 0 9",
+          "land_val": "0 3 0",
+          "building_val": "6 2 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Thomas Hall,",
+          "lessor": "Viscount Chabot,",
+          "desc": "H & G",
+          "area": "0 0 25",
+          "land_val": "0 7 0",
+          "building_val": "6 2 0",
+          "total_val": "6 9 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Patrick Barron,",
+          "lessor": "Viscount Chabot,",
+          "desc": "H & G",
+          "area": "0 0 25",
+          "land_val": "0 7 0",
+          "building_val": "6 11 0",
+          "total_val": "6 18 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Michael Halligan,",
+          "lessor": "Patrick Barron,",
+          "desc": "H & G",
+          "area": "0 0 16",
+          "land_val": "0 5 0",
+          "building_val": "6 11 0",
+          "total_val": "6 16 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Edw. Flanagan's lodgers,",
+          "lessor": "Edward Flanagan,",
+          "desc": "H, yard, & G",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "5 14 0",
+          "total_val": "5 19 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Mrs. Ford,",
+          "lessor": "Edward Flanagan,",
+          "desc": "H, yard, & G",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "5 14 0",
+          "total_val": "5 19 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Edward M'Donnell,",
+          "lessor": "Matthew Keating,",
+          "desc": "H & G",
+          "area": "0 0 30",
+          "land_val": "0 9 0",
+          "building_val": "6 2 0",
+          "total_val": "6 11 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Matthew Quinlan,",
+          "lessor": "Viscount Chabot,",
+          "desc": "L",
+          "area": "1 0 12",
+          "land_val": "1 17 0",
+          "total_val": "1 17 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Mat. Quinlan's lodgers,",
+          "lessor": "Matthew Quinlan,",
+          "desc": "H & yard",
+          "building_val": "6 2 0",
+          "total_val": "6 2 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "George Echlin,",
+          "lessor": "Matthew Quinlan,",
+          "desc": "H & yard",
+          "building_val": "6 2 0",
+          "total_val": "6 2 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Michael Boyle,",
+          "lessor": "Viscount Chabot,",
+          "desc": "H & G",
+          "area": "0 0 19",
+          "land_val": "0 5 0",
+          "building_val": "5 5 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Thomas Kinna,",
+          "lessor": "Viscount Chabot,",
+          "desc": "H & G",
+          "area": "0 0 19",
+          "land_val": "0 5 0",
+          "building_val": "6 2 0",
+          "total_val": "6 7 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Vacant,",
+          "lessor": "Edward Flanagan,",
+          "desc": "H & G",
+          "area": "0 1 9",
+          "land_val": "0 14 0",
+          "building_val": "5 5 0",
+          "total_val": "5 19 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "John Woodlock,",
+          "lessor": "Viscount Chabot,",
+          "desc": "H, O, & G",
+          "area": "0 0 21",
+          "land_val": "0 6 0",
+          "building_val": "5 14 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Rev. Doctor O'Connor,",
+          "lessor": "Viscount Chabot,",
+          "desc": "L",
+          "area": "5 3 20",
+          "land_val": "10 6 0",
+          "total_val": "10 6 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "THE MALL",
+          "occupier": "Mary Coman,",
+          "lessor": "Viscount Chabot,",
+          "desc": "H, O, & G",
+          "area": "0 1 8",
+          "land_val": "2 2 0",
+          "building_val": "8 15 0",
+          "total_val": "10 17 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Vacant,",
+          "lessor": "Mary Coman,",
+          "desc": "H & yard",
+          "building_val": "4 7 0",
+          "total_val": "4 7 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Nicholas Lundrigan,",
+          "lessor": "Mary Coman,",
+          "desc": "H & yard",
+          "building_val": "7 17 0",
+          "total_val": "7 17 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Patrick Healy,",
+          "lessor": "Mary Coman,",
+          "desc": "H & yard",
+          "building_val": "7 17 0",
+          "total_val": "7 17 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Knaggs,",
+          "lessor": "Mary Coman,",
+          "desc": "H & yard",
+          "building_val": "7 17 0",
+          "total_val": "7 17 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "CHAPEL-LANE",
+          "occupier": "Denis Flynn,",
+          "lessor": "Most Rev. Dr. Slattery,",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Female National School,",
+          "lessor": "Mrs. Mary A. Green,",
+          "desc": "Female National School-H, O, & yard",
+          "building_val": "21 0 0",
+          "total_val": "21 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "3",
+          "occupier": "Most Rev. Dr. Slattery,",
+          "lessor": "Viscount Chabot,",
+          "desc": "Palace, O, & G",
+          "area": "1 1 35",
+          "land_val": "10 6 0",
+          "building_val": "35 0 0",
+          "total_val": "45 6 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "4",
+          "occupier": "Andrew Cahill,",
+          "lessor": "John Maher, Esq.",
+          "desc": "H, O, & yard",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Thomas Doolin,",
+          "lessor": "John Maher, Esq.",
+          "desc": "H & yard",
+          "building_val": "3 1 0",
+          "total_val": "3 1 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Mrs. Ryan,",
+          "lessor": "John Maher, Esq.",
+          "desc": "H & yard",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "RIVER-LANE",
+          "occupier": "William Ryan,",
+          "lessor": "Mrs. O'Shea,",
+          "desc": "H & yard",
+          "building_val": "1 9 0",
+          "total_val": "1 9 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Thomas Ryan,",
+          "lessor": "Mrs. O'Shea,",
+          "desc": "H & yard",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Mrs. Nolan,",
+          "lessor": "Mrs. O'Shea,",
+          "desc": "O & G",
+          "area": "0 3 39",
+          "land_val": "6 18 0",
+          "building_val": "3 10 0",
+          "total_val": "10 8 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "BACK-LANE",
+          "occupier": "James Keogh,",
+          "lessor": "William Witheral,",
+          "desc": "H",
+          "building_val": "2 6 0",
+          "total_val": "2 6 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Vacant,",
+          "lessor": "William Witheral,",
+          "desc": "H",
+          "building_val": "1 17 0",
+          "total_val": "1 17 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Denis Keogh and Mrs. Martin,",
+          "lessor": "Patrick Donnelly,",
+          "desc": "H",
+          "building_val": "3 1 0",
+          "total_val": "3 1 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4",
+          "occupier": "Anne Leahy and Martin Keogh,",
+          "lessor": "William Witheral,",
+          "desc": "H",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5",
+          "occupier": "Edward Ryan,",
+          "lessor": "William Witheral,",
+          "desc": "H",
+          "building_val": "1 4 0",
+          "total_val": "1 4 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Catherine Ryall,",
+          "lessor": "William Witheral,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "BOLAND'S-LANE",
+          "occupier": "James Jordan,",
+          "lessor": "Reps. N. V. Maher, Esq.",
+          "desc": "H",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Whelan,",
+          "lessor": "James Jordan,",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "COOK'S-LANE",
+          "occupier": "Joseph Strangman,",
+          "lessor": "Dixon O'Keeffe, Esq.",
+          "desc": "H",
+          "building_val": "3 19 0",
+          "total_val": "3 19 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James M'Carthy,",
+          "lessor": "Dixon O'Keeffe, Esq.",
+          "desc": "H",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Vacant,",
+          "lessor": "Dixon O'Keeffe, Esq.",
+          "desc": "H",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Mrs. Nolan,",
+          "lessor": "Reps. N. V. Maher, Esq.",
+          "desc": "H",
+          "building_val": "1 17 0",
+          "total_val": "1 17 0"
+        }
+      ]
+    }
+  ]
+}

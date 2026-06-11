@@ -1,0 +1,675 @@
+{
+  "parishes": [
+    {
+      "parish": "OUTERAGH",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "CHAMBERLAINS-TOWN",
+          "os": "76",
+          "occupier": "Honoria Gorman",
+          "lessor": "Benj. Bunbury, Esq.",
+          "desc": "H,O,&L",
+          "area": "28 3 21",
+          "land_val": "23 4 0",
+          "building_val": "1 18 0",
+          "total_val": "25 2 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John English",
+          "lessor": "Honoria Gorman",
+          "desc": "H,O,&L",
+          "area": "3 1 18",
+          "land_val": "2 9 0",
+          "building_val": "0 5 0",
+          "total_val": "2 14 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Hannon",
+          "lessor": "Daniel Darcy",
+          "desc": "H,O,&L",
+          "area": "2 2 30",
+          "land_val": "2 10 0",
+          "building_val": "0 5 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Commons",
+          "lessor": "Benj. Bunbury, Esq.",
+          "desc": "Commons",
+          "area": "0 3 28",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "5",
+          "occupier": "Daniel Darcy",
+          "lessor": "Benj. Bunbury, Esq.",
+          "desc": "H,O,&L",
+          "area": "8 2 11",
+          "land_val": "7 16 0",
+          "building_val": "0 14 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Daniel Darcy",
+          "lessor": "Benj. Bunbury, Esq.",
+          "desc": "L",
+          "area": "6 1 0",
+          "land_val": "4 16 0",
+          "building_val": "",
+          "total_val": "4 16 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Michael Gorman",
+          "lessor": "Benj. Bunbury, Esq.",
+          "desc": "H,O,&L",
+          "area": "15 3 18",
+          "land_val": "12 10 0",
+          "building_val": "1 1 0",
+          "total_val": "13 11 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "William Meehan",
+          "lessor": "Benj. Bunbury, Esq.",
+          "desc": "H,O,&L",
+          "area": "8 0 10",
+          "land_val": "7 12 0",
+          "building_val": "0 16 0",
+          "total_val": "8 8 0"
+        },
+        {
+          "mr": "9 A a B C a",
+          "occupier": "James English",
+          "lessor": "Benj. Bunbury, Esq.",
+          "desc": "H,O,&L",
+          "area": "25 0 26",
+          "land_val": "21 16 0",
+          "building_val": "0 18 0",
+          "total_val": "22 14 0"
+        },
+        {
+          "mr": "C b",
+          "occupier": "Cornelius Ryan",
+          "lessor": "Benj. Bunbury, Esq.",
+          "desc": "H,O,&G",
+          "area": "0 0 36",
+          "land_val": "0 3 0",
+          "building_val": "0 10 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "10 A b",
+          "occupier": "Cornelius Ryan",
+          "lessor": "Benj. Bunbury, Esq.",
+          "desc": "L",
+          "area": "2 3 26",
+          "land_val": "2 19 0",
+          "building_val": "",
+          "total_val": "2 19 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Thomas Ryan",
+          "lessor": "Benj. Bunbury, Esq.",
+          "desc": "H,O,&L",
+          "area": "33 1 33",
+          "land_val": "31 9 0",
+          "building_val": "1 6 0",
+          "total_val": "32 15 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "John Crotty",
+          "lessor": "Benj. Bunbury, Esq.",
+          "desc": "H,O,&L",
+          "area": "35 2 5",
+          "land_val": "26 4 0",
+          "building_val": "2 6 0",
+          "total_val": "28 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Vacant",
+          "lessor": "John Crotty",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Edmond Halloran",
+          "lessor": "Benj. Bunbury, Esq.",
+          "desc": "H&L",
+          "area": "6 3 16",
+          "land_val": "5 6 0",
+          "building_val": "1 8 0",
+          "total_val": "6 14 0"
+        },
+        {
+          "mr": "14 A a B C",
+          "occupier": "Patrick Daniel",
+          "lessor": "Benj. Bunbury, Esq.",
+          "desc": "H&L",
+          "area": "9 0 38",
+          "land_val": "7 17 0",
+          "building_val": "0 14 0",
+          "total_val": "8 11 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Helen Halloran",
+          "lessor": "Benj. Bunbury, Esq.",
+          "desc": "H,O,&L",
+          "area": "7 2 4",
+          "land_val": "5 19 0",
+          "building_val": "0 6 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Thomas Halloran",
+          "lessor": "Benj. Bunbury, Esq.",
+          "desc": "H,O,&L",
+          "area": "11 0 36",
+          "land_val": "9 7 0",
+          "building_val": "0 19 0",
+          "total_val": "10 6 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Catherine Kiley",
+          "lessor": "Benj. Bunbury, Esq.",
+          "desc": "H,O,&L",
+          "area": "9 3 37",
+          "land_val": "7 17 0",
+          "building_val": "0 14 0",
+          "total_val": "8 11 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "David English",
+          "lessor": "Benj. Bunbury, Esq.",
+          "desc": "H&L",
+          "area": "15 0 24",
+          "land_val": "13 17 0",
+          "building_val": "0 18 0",
+          "total_val": "14 15 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Edmond English",
+          "lessor": "Benj. Bunbury, Esq.",
+          "desc": "H,O,&L",
+          "area": "18 1 21",
+          "land_val": "15 5 0",
+          "building_val": "1 8 0",
+          "total_val": "16 13 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "John Halloran",
+          "lessor": "Benj. Bunbury, Esq.",
+          "desc": "H,O,&L",
+          "area": "19 3 27",
+          "land_val": "14 16 0",
+          "building_val": "1 1 0",
+          "total_val": "15 17 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Catherine Slattery",
+          "lessor": "Benj. Bunbury, Esq.",
+          "desc": "L",
+          "area": "3 2 10",
+          "land_val": "3 4 0",
+          "building_val": "",
+          "total_val": "3 4 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Mary Meehan",
+          "lessor": "Benj. Bunbury, Esq.",
+          "desc": "L",
+          "area": "7 0 3",
+          "land_val": "4 10 0",
+          "building_val": "",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "John Connor",
+          "lessor": "Mary Meehan",
+          "desc": "H,O,&L",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 4 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "John Meehan",
+          "lessor": "Benj. Bunbury, Esq.",
+          "desc": "H,O,&L",
+          "area": "13 1 16",
+          "land_val": "10 11 0",
+          "building_val": "0 17 0",
+          "total_val": "11 8 0"
+        },
+        {
+          "desc": "Total",
+          "area": "294 0 24",
+          "land_val": "241 18 0",
+          "building_val": "18 18 0",
+          "total_val": "260 16 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "OUTERAGH",
+          "os": "75 & 76",
+          "occupier": "John Doherty",
+          "lessor": "Colonel Palliser",
+          "desc": "H,O,&L",
+          "area": "90 2 12",
+          "land_val": "71 3 0",
+          "building_val": "5 15 0",
+          "total_val": "76 18 0"
+        },
+        {
+          "mr": "2 A a B C",
+          "occupier": "Robert Doherty",
+          "lessor": "Colonel Palliser",
+          "desc": "H,O,&L",
+          "area": "290 2 34",
+          "land_val": "272 0 0",
+          "building_val": "3 1 0",
+          "total_val": "275 1 0"
+        },
+        {
+          "mr": "A b",
+          "occupier": "Vacant",
+          "lessor": "Robert Doherty",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "B a",
+          "occupier": "Vacant",
+          "lessor": "Robert Doherty",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Ellen Meehan",
+          "lessor": "Robert Doherty",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 4 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "James Hyland",
+          "lessor": "Robert Doherty",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 9 0",
+          "total_val": "0 9 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "David Hennessy",
+          "lessor": "Colonel Palliser",
+          "desc": "H,O,&L",
+          "area": "8 0 6",
+          "land_val": "5 3 0",
+          "building_val": "0 7 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "James Corcoran",
+          "lessor": "Robert Doherty",
+          "desc": "H,O,&L",
+          "area": "20 2 21",
+          "land_val": "8 7 0",
+          "building_val": "0 14 0",
+          "total_val": "9 1 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Norah Tierney",
+          "lessor": "Robert Doherty",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "8 7 0",
+          "building_val": "0 15 0",
+          "total_val": "9 2 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5",
+          "occupier": "Edmond Murphy",
+          "lessor": "Robert Doherty",
+          "desc": "H,O,&L",
+          "area": "20 2 31",
+          "land_val": "17 19 0",
+          "building_val": "1 17 0",
+          "total_val": "19 16 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Patrick Daniel",
+          "lessor": "Robert Doherty",
+          "desc": "L",
+          "area": "3 0 31",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Bridget Bryan",
+          "lessor": "Robert Doherty",
+          "desc": "H&L",
+          "area": "3 1 39",
+          "land_val": "2 18 0",
+          "building_val": "0 8 0",
+          "total_val": "3 6 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Mary Hennessy",
+          "lessor": "Robert Doherty",
+          "desc": "Ho. in ruins & land",
+          "area": "1 3 11",
+          "land_val": "1 12 0",
+          "building_val": "",
+          "total_val": "1 12 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Peter Flanagan",
+          "lessor": "Robert Doherty",
+          "desc": "H,O,&L",
+          "area": "8 3 27",
+          "land_val": "8 7 0",
+          "building_val": "1 0 0",
+          "total_val": "9 7 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "James Murphy",
+          "lessor": "Colonel Palliser",
+          "desc": "L",
+          "area": "9 1 22",
+          "land_val": "7 3 0",
+          "building_val": "",
+          "total_val": "7 3 0"
+        },
+        {
+          "mr": "11 A a B",
+          "occupier": "Colonel Palliser",
+          "lessor": "In fee",
+          "desc": "Offices and land",
+          "area": "121 1 30",
+          "land_val": "112 5 0",
+          "building_val": "0 15 0",
+          "total_val": "113 0 0"
+        },
+        {
+          "mr": "A b",
+          "occupier": "David Guiry",
+          "lessor": "Colonel Palliser",
+          "desc": "H,O,&G",
+          "area": "0 0 33",
+          "land_val": "0 3 0",
+          "building_val": "0 7 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Richard Donnell",
+          "lessor": "Colonel Palliser",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 13 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Thomas Griffin",
+          "lessor": "Colonel Palliser",
+          "desc": "H,O,&G",
+          "area": "0 0 11",
+          "land_val": "0 1 0",
+          "building_val": "0 10 0",
+          "total_val": "0 11 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Vacant",
+          "lessor": "Colonel Palliser",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 19 0",
+          "total_val": "1 19 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Vacant",
+          "lessor": "Colonel Palliser",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 7 0",
+          "total_val": "1 7 0"
+        },
+        {
+          "mr": "B g",
+          "occupier": "Vacant",
+          "lessor": "Colonel Palliser",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Robert Burke",
+          "lessor": "Colonel Palliser",
+          "desc": "School-house & garden",
+          "area": "3 3 28",
+          "land_val": "4 17 0",
+          "building_val": "4 0 0",
+          "total_val": "8 17 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Anastasia Purcell",
+          "lessor": "Colonel Palliser",
+          "desc": "H,O,&L",
+          "area": "79 1 5",
+          "land_val": "80 3 0",
+          "building_val": "5 1 0",
+          "total_val": "85 4 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Edward Prendergast",
+          "lessor": "Colonel Palliser",
+          "desc": "H,O,&L",
+          "area": "11 1 29",
+          "land_val": "12 4 0",
+          "building_val": "1 3 0",
+          "total_val": "13 7 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Rev. Wm. Hughes",
+          "lessor": "Ecclesiastical Commis.",
+          "desc": "H,O,&L",
+          "area": "20 2 11",
+          "land_val": "27 8 0",
+          "building_val": "10 5 0",
+          "total_val": "37 13 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "16 a",
+          "occupier": "Michael Connors",
+          "lessor": "Colonel Palliser",
+          "desc": "Grave-yard",
+          "area": "0 2 6",
+          "land_val": "0 14 0",
+          "building_val": "",
+          "total_val": "0 14 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "b",
+          "occupier": "Catherine Loughnane",
+          "lessor": "Michael Connors",
+          "desc": "H,O,&L",
+          "area": "41 2 22",
+          "land_val": "33 18 0",
+          "building_val": "1 0 0",
+          "total_val": "34 18 0"
+        },
+        {
+          "mr": "17 a",
+          "occupier": "John Connors",
+          "lessor": "Colonel Palliser",
+          "desc": "H,O,&G",
+          "area": "0 0 37",
+          "land_val": "0 4 0",
+          "building_val": "0 6 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Denis Lonergan",
+          "lessor": "John Connors",
+          "desc": "H,O,&L",
+          "area": "57 3 35",
+          "land_val": "51 9 0",
+          "building_val": "1 14 0",
+          "total_val": "53 3 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Patrick Durgan",
+          "lessor": "Colonel Palliser",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 1 0",
+          "building_val": "0 4 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "William Duggan",
+          "lessor": "Colonel Palliser",
+          "desc": "H,O,&L",
+          "area": "28 0 39",
+          "land_val": "26 9 0",
+          "building_val": "1 14 0",
+          "total_val": "28 3 0"
+        },
+        {
+          "mr": "20 A B a",
+          "occupier": "Thomas Corbett",
+          "lessor": "Colonel Palliser",
+          "desc": "H,O,&L",
+          "area": "19 2 28",
+          "land_val": "19 11 0",
+          "building_val": "1 5 0",
+          "total_val": "20 16 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Judith Corbett",
+          "lessor": "Colonel Palliser",
+          "desc": "L",
+          "area": "16 3 38",
+          "land_val": "16 18 0",
+          "building_val": "",
+          "total_val": "16 18 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "James Corbett",
+          "lessor": "Colonel Palliser",
+          "desc": "H,O,&L",
+          "area": "36 1 34",
+          "land_val": "38 19 0",
+          "building_val": "4 3 0",
+          "total_val": "43 2 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Malachy Carew",
+          "lessor": "Colonel Palliser",
+          "desc": "H,O,&L",
+          "area": "22 3 9",
+          "land_val": "22 10 0",
+          "building_val": "1 6 0",
+          "total_val": "23 16 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "James Carew",
+          "lessor": "Colonel Palliser",
+          "desc": "H,O,&L",
+          "area": "27 0 32",
+          "land_val": "24 19 0",
+          "building_val": "0 18 0",
+          "total_val": "25 17 0"
+        },
+        {
+          "mr": "25 a",
+          "occupier": "John Neagle",
+          "lessor": "Colonel Palliser",
+          "desc": "H&L",
+          "area": "8 3 27",
+          "land_val": "8 8 0",
+          "building_val": "1 2 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Neagle",
+          "lessor": "Colonel Palliser",
+          "desc": "H,O,&L",
+          "area": "77 3 39",
+          "land_val": "57 9 0",
+          "building_val": "3 5 0",
+          "total_val": "60 14 0"
+        }
+      ]
+    }
+  ]
+}

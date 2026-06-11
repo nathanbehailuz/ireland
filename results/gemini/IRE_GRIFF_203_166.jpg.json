@@ -1,0 +1,536 @@
+{
+  "parishes": [
+    {
+      "parish": "GRANGEGEETH",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "BALRENNY",
+          "os": "13 & 19",
+          "occupier": "Robert Bredon,",
+          "lessor": "Sir St. Vincent K. H. Whitshed, Bart.,",
+          "desc": "Steward's and herd's houses, offices, & land,",
+          "area": "251 1 17",
+          "land_val": "148 0 0",
+          "building_val": "2 0 0",
+          "total_val": "150 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Anne Fay,",
+          "lessor": "Robert Bredon,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "1 c",
+          "occupier": "James Barnes,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "1 d",
+          "occupier": "James Doylan,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "1 e",
+          "occupier": "Mary Boyle,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "0 2 20",
+          "land_val": "0 8 0",
+          "building_val": "0 7 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Sir St. Vincent K. H. Whitshed, Bart.,",
+          "lessor": "In fee,",
+          "desc": "Caretaker's house, office, and land,",
+          "area": "159 2 12",
+          "land_val": "70 0 0",
+          "building_val": "0 10 0",
+          "total_val": "70 10 0"
+        },
+        {
+          "mr": "3 A a",
+          "occupier": "Margt. M'Donough,",
+          "lessor": "Sir St. Vincent K. H. Whitshed, Bart.,",
+          "desc": "H,O,&L",
+          "area": "14 0 26",
+          "land_val": "8 15 0",
+          "building_val": "3 5 0",
+          "total_val": "80 0 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "Margt. M'Donough,",
+          "lessor": "Sir St. Vincent K. H. Whitshed, Bart.,",
+          "desc": "L",
+          "area": "98 1 35",
+          "land_val": "68 0 0",
+          "total_val": "80 0 0"
+        },
+        {
+          "mr": "4 A a",
+          "occupier": "Peter M'Connon,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "15 3 17",
+          "land_val": "7 10 0",
+          "total_val": "56 0 0"
+        },
+        {
+          "mr": "— B a",
+          "occupier": "Peter M'Connon,",
+          "lessor": "Same,",
+          "desc": "Caretaker's ho.,offs.,&ld.",
+          "area": "66 3 0",
+          "land_val": "44 10 0",
+          "building_val": "4 0 0",
+          "total_val": "56 0 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "606 3 7",
+          "land_val": "347 3 0",
+          "building_val": "10 17 0",
+          "total_val": "358 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "CARDRATH",
+          "os": "13 & 19",
+          "occupier": "Patrick Daly,",
+          "lessor": "George Bryan,",
+          "desc": "H,O,&L",
+          "area": "11 0 14",
+          "land_val": "5 15 0",
+          "building_val": "0 15 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Bryan M'Guire,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "26 2 24",
+          "land_val": "10 10 0",
+          "building_val": "2 0 0",
+          "total_val": "6 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Michael M'Guire,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "26 2 24",
+          "land_val": "10 10 0",
+          "building_val": "2 0 0",
+          "total_val": "6 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3",
+          "occupier": "John Meade,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "3 3 8",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Matthew Sorahan,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "3 3 12",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "George Bryan,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "148 1 36",
+          "land_val": "72 0 0",
+          "total_val": "72 0 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Rev. Thomas Finnegan,",
+          "lessor": "George Bryan,",
+          "desc": "H,O,&L",
+          "area": "46 0 11",
+          "land_val": "22 0 0",
+          "building_val": "2 0 0",
+          "total_val": "24 0 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Nicholas Weldon,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "92 1 24",
+          "land_val": "57 0 0",
+          "building_val": "5 0 0",
+          "total_val": "62 0 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Patrick Crawley,",
+          "lessor": "Nicholas Weldon,",
+          "desc": "House & small garden,",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "Vacant,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Peter Gorman,",
+          "lessor": "George Bryan,",
+          "desc": "H,O,&L",
+          "area": "68 3 2",
+          "land_val": "40 0 0",
+          "building_val": "1 15 0",
+          "total_val": "41 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Richard Drew,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "7 3 6",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Mary Curry and Thos. Caulain,",
+          "lessor": "Richard Drew,",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "10",
+          "occupier": "Edward Connolly,",
+          "lessor": "George Bryan,",
+          "desc": "L",
+          "area": "4 0 13",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Matthew Downey,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "37 1 6",
+          "land_val": "26 0 0",
+          "total_val": "26 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Michael Murphy,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "5 2 7",
+          "land_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Owen Duffy,",
+          "lessor": "Michael Murphy,",
+          "desc": "House & small garden,",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Peter Gorman,",
+          "lessor": "George Bryan,",
+          "desc": "L",
+          "area": "8 1 25",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "Thomas Gibbons,",
+          "lessor": "Peter Gorman,",
+          "desc": "H,O,&L",
+          "area": "1 2 4",
+          "land_val": "0 15 0",
+          "building_val": "0 10 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "15 a",
+          "occupier": "Catherine Gibbons,",
+          "lessor": "George Bryan,",
+          "desc": "H,O,&L",
+          "area": "5 0 0",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Michael Murphy,",
+          "lessor": "Same,",
+          "desc": "House and garden,",
+          "area": "0 0 39",
+          "land_val": "0 5 0",
+          "building_val": "0 7 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "16 a",
+          "occupier": "Richard Drew,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "29 0 26",
+          "land_val": "17 0 0",
+          "building_val": "1 0 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "17 a",
+          "occupier": "Michael Murphy,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "23 3 16",
+          "land_val": "18 15 0",
+          "building_val": "1 5 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "18 a",
+          "occupier": "Patrick M'Kenna,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "18 0 14",
+          "land_val": "14 5 0",
+          "building_val": "0 15 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "John Connolly,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "8 1 14",
+          "land_val": "6 15 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Vacant,",
+          "lessor": "John Connolly,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "20 a",
+          "occupier": "Bridget Connolly,",
+          "lessor": "George Bryan,",
+          "desc": "H,O,&L",
+          "area": "8 2 26",
+          "land_val": "7 0 0",
+          "building_val": "0 10 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "558 3 38",
+          "land_val": "318 15 0",
+          "building_val": "18 0 0",
+          "total_val": "336 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "CREEWOOD",
+          "os": "12, 13, & 19",
+          "occupier": "John Sheekey,",
+          "lessor": "Sir St. Vincent K. H. Whitshed, Bart.,",
+          "desc": "H,O,&L",
+          "area": "20 3 28",
+          "land_val": "12 15 0",
+          "building_val": "0 15 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Michael Field,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "2 1 3",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "3 A a",
+          "occupier": "Patrick Markey,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "0 3 2",
+          "land_val": "0 5 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "— B a",
+          "occupier": "Patrick Markey,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "2 3 35",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "4 A a",
+          "occupier": "Matthew Halligan,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "1 3 27",
+          "land_val": "0 8 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "— B a",
+          "occupier": "Matthew Halligan,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "10 1 25",
+          "land_val": "5 10 0",
+          "building_val": "0 7 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "5 A a",
+          "occupier": "Owen Warde,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "1 2 23",
+          "land_val": "1 5 0",
+          "total_val": "32 15 0"
+        },
+        {
+          "mr": "— B a",
+          "occupier": "Owen Warde,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "57 3 12",
+          "land_val": "26 10 0",
+          "building_val": "0 15 0",
+          "total_val": "32 15 0"
+        },
+        {
+          "mr": "— C",
+          "occupier": "Owen Warde,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "5 1 9",
+          "land_val": "4 5 0",
+          "total_val": "32 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Michael Fields,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "9 3 9",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "Thomas Fields,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "9 3 9",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "7 A a",
+          "occupier": "Thomas Fields,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "2 2 24",
+          "land_val": "2 0 0",
+          "building_val": "0 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "Thomas Fields,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "1 2 13",
+          "land_val": "1 0 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "— C",
+          "occupier": "Thomas Fields,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "2 0 5",
+          "land_val": "1 0 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "8 A",
+          "occupier": "Thomas Fields,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "2 2 24",
+          "land_val": "1 15 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "Thomas Fields,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "1 3 0",
+          "land_val": "0 15 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "9 A a",
+          "occupier": "John Leonard,",
+          "lessor": "Same,",
+          "desc": "House & small garden,",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        }
+      ]
+    }
+  ]
+}

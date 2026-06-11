@@ -1,0 +1,627 @@
+{
+  "parishes": [
+    {
+      "parish": "AHAMLISH",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "ISLANDS",
+          "os": "2",
+          "occupier": "John Gillen",
+          "lessor": "Viscount Palmerston",
+          "desc": "L",
+          "area": "11 1 13",
+          "land_val": "4 5 0",
+          "building_val": "",
+          "total_val": "",
+          "is_continued": 1
+        },
+        {
+          "mr": "2 a",
+          "occupier": "John Gillen",
+          "lessor": "Viscount Palmerston",
+          "desc": "L, H, O",
+          "area": "0 3 10",
+          "land_val": "0 10 0",
+          "building_val": "1 0 0",
+          "total_val": "5 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "3",
+          "occupier": "John Gillen",
+          "lessor": "Viscount Palmerston",
+          "desc": "Right of seaweed",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Margaret Gillen",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 0 0",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "4 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "5",
+          "occupier": "Margaret Gillen",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 0 0",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "6",
+          "occupier": "Margaret Gillen",
+          "lessor": "Same",
+          "desc": "Right of seaweed",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Peter Mulligan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 0 0",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "7 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "6",
+          "occupier": "Peter Mulligan",
+          "lessor": "Same",
+          "desc": "L, H, O",
+          "area": "5 0 20",
+          "land_val": "3 0 0",
+          "building_val": "2 5 0",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "occupier": "Peter Mulligan",
+          "lessor": "Same",
+          "desc": "Right of seaweed",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Viscount Palmerston",
+          "lessor": "In fee",
+          "desc": "L (plantation)",
+          "area": "19 0 15",
+          "land_val": "5 15 0",
+          "building_val": "",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Margaret Gillen",
+          "lessor": "Viscount Palmerston",
+          "desc": "G, H, O",
+          "area": "0 0 33",
+          "land_val": "0 3 0",
+          "building_val": "0 12 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "John Gillen",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 2 32",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "William Mulligan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Margaret Gillen",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "James Mulligan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Peter Mulligan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Michael Gillen",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "John Gillen",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "9 1 23",
+          "land_val": "0 4 0",
+          "building_val": "",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "William Mulligan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 4 0",
+          "building_val": "",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Margaret Gillen",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 4 0",
+          "building_val": "",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "James Mulligan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 4 0",
+          "building_val": "",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Peter Mulligan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 4 0",
+          "building_val": "",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Michael Gillen",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 4 0",
+          "building_val": "",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "William Mulligan",
+          "lessor": "Same",
+          "desc": "L, H, O",
+          "area": "4 2 10",
+          "land_val": "1 15 0",
+          "building_val": "1 5 0",
+          "total_val": "5 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "11",
+          "occupier": "William Mulligan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 3 0",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "occupier": "William Mulligan",
+          "lessor": "Same",
+          "desc": "Right of seaweed",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "James Mulligan",
+          "lessor": "Same",
+          "desc": "L, H, O",
+          "area": "5 2 30",
+          "land_val": "2 10 0",
+          "building_val": "0 5 0",
+          "total_val": "6 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "13",
+          "occupier": "James Mulligan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 3 0",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "occupier": "James Mulligan",
+          "lessor": "Same",
+          "desc": "Right of seaweed",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "Michael Gillen",
+          "lessor": "Same",
+          "desc": "L, H, O",
+          "area": "10 3 30",
+          "land_val": "6 5 0",
+          "building_val": "2 5 0",
+          "total_val": "8 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "occupier": "Michael Gillen",
+          "lessor": "Same",
+          "desc": "Right of seaweed",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "103 1 16",
+          "land_val": "39 0 0",
+          "building_val": "7 12 0",
+          "total_val": "71 1 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CLOYSPARRA",
+          "os": "2 & 5",
+          "occupier": "Viscount Palmerston",
+          "lessor": "In fee",
+          "desc": "L (sand-hills)",
+          "area": "11 2 8",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "1 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2",
+          "occupier": "Viscount Palmerston",
+          "lessor": "In fee",
+          "desc": "L (bog)",
+          "area": "13 0 21",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Thomas Finnigan",
+          "lessor": "Viscount Palmerston",
+          "desc": "L, H",
+          "area": "20 1 8",
+          "land_val": "11 5 0",
+          "building_val": "0 15 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Matthew M'Hugh",
+          "lessor": "Same",
+          "desc": "L, H",
+          "area": "13 3 13",
+          "land_val": "5 10 0",
+          "building_val": "0 15 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "John M'Hugh",
+          "lessor": "Matthew M'Hugh",
+          "desc": "L, H",
+          "area": "2 3 35",
+          "land_val": "1 5 0",
+          "building_val": "0 5 0",
+          "total_val": "2 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "John M'Hugh",
+          "lessor": "Matthew M'Hugh",
+          "desc": "L",
+          "area": "5 0 0",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Peter Waters",
+          "lessor": "Viscount Palmerston",
+          "desc": "L, H",
+          "area": "28 0 25",
+          "land_val": "11 0 0",
+          "building_val": "1 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Luke Gilmartin",
+          "lessor": "Same",
+          "desc": "L, H",
+          "area": "22 3 36",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "8 b",
+          "occupier": "Daniel Gilmartin",
+          "lessor": "Same",
+          "desc": "L, H",
+          "area": "",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9 a",
+          "occupier": "James Evans",
+          "lessor": "Same",
+          "desc": "L, H",
+          "area": "5 0 20",
+          "land_val": "1 2 0",
+          "building_val": "0 3 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Patrick Finnigan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 1 20",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "John Finnigan",
+          "lessor": "Same",
+          "desc": "L (severance)",
+          "area": "0 0 20",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Cormack Waters",
+          "lessor": "Same",
+          "desc": "L, H",
+          "area": "7 2 16",
+          "land_val": "4 0 0",
+          "building_val": "0 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Henry Gallagher",
+          "lessor": "Same",
+          "desc": "L, H",
+          "area": "19 0 25",
+          "land_val": "8 0 0",
+          "building_val": "1 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "John O'Neill",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 2 8",
+          "land_val": "3 15 0",
+          "building_val": "",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "Terence Waters, jun.",
+          "lessor": "Same",
+          "desc": "L, H",
+          "area": "11 2 12",
+          "land_val": "3 5 0",
+          "building_val": "0 10 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "15 a",
+          "occupier": "Phelim Gallagher",
+          "lessor": "Same",
+          "desc": "L, H",
+          "area": "8 2 10",
+          "land_val": "4 0 0",
+          "building_val": "0 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "16 a",
+          "occupier": "Terence Waters, sen.",
+          "lessor": "Same",
+          "desc": "L, H",
+          "area": "18 3 36",
+          "land_val": "9 5 0",
+          "building_val": "0 15 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "202 3 33",
+          "land_val": "70 7 0",
+          "building_val": "7 13 0",
+          "total_val": "78 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "DRUMFAD",
+          "os": "5, 6, 2, & 3",
+          "occupier": "Luke Gilmartin",
+          "lessor": "Viscount Palmerston",
+          "desc": "L, H",
+          "area": "22 0 12",
+          "land_val": "5 13 0",
+          "building_val": "0 12 0",
+          "total_val": "6 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 b",
+          "occupier": "John Gilmartin",
+          "lessor": "Same",
+          "desc": "L, H",
+          "area": "",
+          "land_val": "2 17 0",
+          "building_val": "0 8 0",
+          "total_val": "3 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 a",
+          "occupier": "John Moffit",
+          "lessor": "Same",
+          "desc": "L, H",
+          "area": "5 3 1",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Patrick Moffit, jun.",
+          "lessor": "Same",
+          "desc": "L, H",
+          "area": "19 2 5",
+          "land_val": "9 10 0",
+          "building_val": "0 15 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Michael Gilmartin",
+          "lessor": "Same",
+          "desc": "L, H",
+          "area": "6 3 2",
+          "land_val": "3 5 0",
+          "building_val": "0 15 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Peter Gilmartin",
+          "lessor": "Same",
+          "desc": "L, H",
+          "area": "9 1 12",
+          "land_val": "3 15 0",
+          "building_val": "0 15 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Anne Feeny",
+          "lessor": "Same",
+          "desc": "L, H",
+          "area": "4 2 9",
+          "land_val": "1 13 0",
+          "building_val": "0 12 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Patrick Gilmartin, jun.",
+          "lessor": "Same",
+          "desc": "L, H",
+          "area": "4 2 0",
+          "land_val": "1 12 0",
+          "building_val": "1 0 0",
+          "total_val": "3 12 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "8",
+          "occupier": "Patrick Gilmartin, jun.",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 30",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": ""
+        }
+      ]
+    }
+  ]
+}

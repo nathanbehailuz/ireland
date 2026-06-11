@@ -1,0 +1,455 @@
+{
+  "parishes": [
+    {
+      "parish": "ROSCREA",
+      "entries": [
+        {
+          "mr": "19",
+          "townland": "TOWNPARKS",
+          "sublocation_1": "TOWN OF ROSCREA",
+          "sublocation_2": "CASTLE STREET",
+          "occupier": "Martin Brien",
+          "lessor": "Earl of Portarlington",
+          "desc": "O (in rere)",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "20",
+          "occupier": "Daniel Bowe",
+          "lessor": "Earl of Portarlington",
+          "desc": "O (in rere)",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "James Grady",
+          "lessor": "Earl of Portarlington",
+          "desc": "H & yard",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "William Hackett",
+          "lessor": "Earl of Portarlington",
+          "desc": "H, O, & yard",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Patrick Healy",
+          "lessor": "Earl of Portarlington",
+          "desc": "H, O, & yard",
+          "building_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Thomas Feeny",
+          "lessor": "Earl of Portarlington",
+          "desc": "H, O, & yard",
+          "building_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Daniel Bowe",
+          "lessor": "Mrs. Maryanne Browne",
+          "desc": "H, O, & yard",
+          "building_val": "8 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Mrs. Maryanne Browne",
+          "lessor": "Earl of Portarlington",
+          "desc": "H, O, & G",
+          "area": "0 1 10",
+          "land_val": "2 0 0",
+          "building_val": "30 0 0",
+          "total_val": "32 0 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Francis Dudley",
+          "lessor": "Earl of Portarlington",
+          "desc": "H, O, & G",
+          "area": "0 0 24",
+          "land_val": "1 0 0",
+          "building_val": "34 0 0",
+          "total_val": "35 0 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Henry Powell",
+          "lessor": "Reps. Wm. Bridge, Esq.",
+          "desc": "H, O, & G",
+          "area": "0 0 11",
+          "land_val": "0 5 0",
+          "building_val": "21 15 0",
+          "total_val": "22 0 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "George Hayes",
+          "lessor": "Reps. Wm. Bridge, Esq.",
+          "desc": "H, O, & G",
+          "area": "0 0 11",
+          "land_val": "0 5 0",
+          "building_val": "18 5 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "John Quaney",
+          "lessor": "Earl of Portarlington",
+          "desc": "H & small G",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Martin Dwan",
+          "lessor": "Earl of Portarlington",
+          "desc": "H & small G",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "Paul C. Eggars",
+          "lessor": "Earl of Portarlington",
+          "desc": "H, O, & small G",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "Daniel Kelly",
+          "lessor": "Earl of Portarlington",
+          "desc": "H, O, & yard",
+          "building_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "34",
+          "lessor": "Earl of Portarlington",
+          "desc": "Shambles",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Matthew Maher",
+          "lessor": "George Fawcett",
+          "desc": "H, O, & yard",
+          "building_val": "11 15 0",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "William Lowry",
+          "lessor": "Reps. John Cousins",
+          "desc": "H, O, & yard",
+          "building_val": "8 5 0",
+          "total_val": "8 5 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "John O'Shaughnessy",
+          "lessor": "Reps. John Cousins",
+          "desc": "H, O, & yard",
+          "building_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Joseph Glennan",
+          "lessor": "Reps. John Cousins",
+          "desc": "H, O, & yard",
+          "building_val": "9 5 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "THE MALL",
+          "occupier": "Bridget Lawler",
+          "lessor": "Earl of Portarlington",
+          "desc": "H & yard",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Winifred Bannon",
+          "lessor": "Earl of Portarlington",
+          "desc": "H, O, & yard",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Mary Maher",
+          "lessor": "Earl of Portarlington",
+          "desc": "H, O, & yard",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Thomas and William Smallman, Esqrs.",
+          "lessor": "Earl of Portarlington",
+          "desc": "O (inclu. in No. 5)",
+          "n_shared": 2
+        },
+        {
+          "mr": "5",
+          "occupier": "Thomas and William Smallman, Esqrs.",
+          "lessor": "Earl of Portarlington",
+          "desc": "O & yard",
+          "building_val": "21 0 0",
+          "total_val": "21 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "Thos. Smallman, Esq.",
+          "lessor": "Earl of Portarlington",
+          "desc": "Ruins & G",
+          "area": "0 1 5",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Rev. Robert Bruce",
+          "lessor": "Earl of Portarlington",
+          "desc": "H, O, & yard",
+          "building_val": "11 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "8",
+          "lessor": "Earl of Portarlington",
+          "desc": "Wesleyan Methodist Meeting house & yard",
+          "building_val": "15 0 0",
+          "total_val": "15 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "9",
+          "occupier": "Wm. Smallman, Esq.",
+          "lessor": "Earl of Portarlington",
+          "desc": "H, O, & G",
+          "area": "0 0 25",
+          "land_val": "1 0 0",
+          "building_val": "21 0 0",
+          "total_val": "22 0 0"
+        },
+        {
+          "mr": "10",
+          "lessor": "Earl of Portarlington",
+          "desc": "Building-ground",
+          "area": "0 0 8",
+          "land_val": "0 3 0",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Patrick Feehan",
+          "lessor": "Earl of Portarlington",
+          "desc": "H, O, & sm. G",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "James Murray",
+          "lessor": "Earl of Portarlington",
+          "desc": "H & yard",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Thomas and William Smallman, Esqrs.",
+          "lessor": "Earl of Portarlington",
+          "desc": "O & tanyard",
+          "building_val": "25 0 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "BALLYHALL STREET",
+          "occupier": "John Finn",
+          "lessor": "Earl of Portarlington",
+          "desc": "H, O, & yard",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Francis Bethal",
+          "lessor": "Earl of Portarlington",
+          "desc": "H, O, & yard",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Joseph Sheppard",
+          "lessor": "Earl of Portarlington",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "GLEBE VIEW",
+          "occupier": "Patrick Quinlan",
+          "lessor": "Earl of Portarlington",
+          "desc": "O & yard",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Charles Kenor",
+          "lessor": "Earl of Portarlington",
+          "desc": "H & yard",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Henry Bradley",
+          "lessor": "Earl of Portarlington",
+          "desc": "H & yard",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "CHURCH STREET",
+          "lessor": "Earl of Portarlington",
+          "desc": "Church & grave-yard",
+          "area": "1 2 0",
+          "land_val": "3 5 0",
+          "building_val": "55 0 0",
+          "total_val": "58 5 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "2",
+          "occupier": "John Coonan",
+          "lessor": "Wm. Smallman, Esq.",
+          "desc": "H, O, & G",
+          "area": "0 0 10",
+          "land_val": "0 4 0",
+          "building_val": "3 6 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John White",
+          "lessor": "Wm. Smallman, Esq.",
+          "desc": "H, O, & sm. G",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Edward Jenny",
+          "lessor": "Wm. Smallman, Esq.",
+          "desc": "H, O, & sm. G",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Rebecca M'Guinness",
+          "lessor": "Wm. Smallman, Esq.",
+          "desc": "H, O, & sm. G",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Vacant",
+          "lessor": "Wm. Smallman, Esq.",
+          "desc": "H, O, & sm. G",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Thomas Phelan",
+          "lessor": "Wm. Smallman, Esq.",
+          "desc": "H, O, & sm. G",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "John Kennedy",
+          "lessor": "Edward White",
+          "desc": "H, O, & sm. G",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Edward White",
+          "lessor": "Wm. Smallman, Esq.",
+          "desc": "H, O, & yard",
+          "building_val": "4 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Wm. Smallman, Esq.",
+          "lessor": "Earl of Portarlington",
+          "desc": "Flour-mill & O",
+          "building_val": "58 0 0",
+          "total_val": "58 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Rev. Charles Skuse",
+          "lessor": "Earl of Portarlington",
+          "desc": "H, O, & sm. G",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "12",
+          "lessor": "Earl of Portarlington",
+          "desc": "Primitive Methodist Meeting-house & yard",
+          "building_val": "13 15 0",
+          "total_val": "13 15 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "13",
+          "occupier": "Wm. Smallman, Esq.",
+          "lessor": "John Smallman, Esq.",
+          "desc": "O & yard",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "William Egar",
+          "lessor": "John Smallman, Esq.",
+          "desc": "H, O, & yard",
+          "building_val": "9 10 0",
+          "total_val": "9 10 0"
+        }
+      ]
+    }
+  ]
+}

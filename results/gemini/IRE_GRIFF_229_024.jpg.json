@@ -1,0 +1,517 @@
+{
+  "parishes": [
+    {
+      "parish": "CLONES",
+      "entries": [
+        {
+          "mr": "9",
+          "townland": "CREEVELEA",
+          "os": "",
+          "occupier": "James Whitman",
+          "lessor": "Rev. Patrick Kearney",
+          "desc": "H,O,&L",
+          "area": "15 2 35",
+          "land_val": "14 5 0",
+          "building_val": "1 5 0",
+          "total_val": "15 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Thomas Goooodwin",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "29 3 15",
+          "land_val": "26 10 0",
+          "building_val": "2 0 0",
+          "total_val": "28 10 0"
+        },
+        {
+          "mr": "10 b",
+          "occupier": "Sarah Andrews",
+          "lessor": "Thomas Goodwin",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "10 c",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Anne Henry",
+          "lessor": "Rev. Patrick Kearney",
+          "desc": "H,O,&L",
+          "area": "19 3 0",
+          "land_val": "18 10 0",
+          "building_val": "1 10 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "11 b",
+          "occupier": "Samuel Black",
+          "lessor": "Anne Henry",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "11 c",
+          "occupier": "Francis Maguire",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "12 A",
+          "occupier": "James M'Gillie",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "2 3 25",
+          "land_val": "1 8 0",
+          "building_val": "0 10 0",
+          "total_val": "2 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "12 B",
+          "occupier": "James M'Gillie",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "0 2 0",
+          "land_val": "0 2 0",
+          "total_val": "2 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "13",
+          "occupier": "Rev. Patrick Kearney",
+          "lessor": "In fee",
+          "desc": "B",
+          "area": "0 3 30",
+          "land_val": "0 1 0",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Dundalk Steam Packet Co. (Wm. M'Master, Secretary)",
+          "lessor": "Ulster Canal Co.",
+          "desc": "Canal and banks (136 lineal perches)",
+          "area": "7 1 15",
+          "total_val": "6 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "213 3 22",
+          "land_val": "176 11 0",
+          "building_val": "22 10 0",
+          "total_val": "205 16 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "EDENAFORAN",
+          "os": "12",
+          "occupier": "Mary Armstrong",
+          "lessor": "Sir Thos. B. Lennard, Bt.",
+          "desc": "H,O,&L",
+          "area": "11 3 15",
+          "land_val": "10 5 0",
+          "building_val": "1 15 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Thomas Dolar",
+          "lessor": "Mary Armstrong",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Fausset",
+          "lessor": "Catherine Moorhead",
+          "desc": "L",
+          "area": "4 0 25",
+          "land_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Sarah Graham",
+          "lessor": "John Fausset",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "George Storey",
+          "lessor": "Sir Thos. B. Lennard, Bt.",
+          "desc": "H,O,&L",
+          "area": "21 1 0",
+          "land_val": "18 0 0",
+          "building_val": "2 10 0",
+          "total_val": "20 10 0"
+        },
+        {
+          "mr": "4 A a",
+          "occupier": "Joseph M'Elnea",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "0 1 35",
+          "land_val": "0 10 0",
+          "building_val": "1 10 0",
+          "total_val": "10 5 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "4 B",
+          "occupier": "Joseph M'Elnea",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "0 3 10",
+          "land_val": "0 15 0",
+          "total_val": "10 5 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "4 C",
+          "occupier": "Joseph M'Elnea",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 2 30",
+          "land_val": "7 5 0",
+          "total_val": "10 5 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "4 D",
+          "occupier": "Joseph M'Elnea",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "0 1 0",
+          "land_val": "0 5 0",
+          "total_val": "10 5 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "5 A c",
+          "occupier": "Joseph M'Elnea",
+          "lessor": "James M'Elnea",
+          "desc": "G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "5 4 b",
+          "occupier": "Thomas M'Elnea",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 0 20",
+          "land_val": "0 5 0",
+          "total_val": "0 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 4 b",
+          "occupier": "Thomas M'Elnea",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 A, B",
+          "occupier": "James Blakely",
+          "lessor": "Sir Thos. B. Lennard, Bt.",
+          "desc": "L",
+          "area": "16 0 35",
+          "land_val": "14 5 0",
+          "total_val": "14 5 0"
+        },
+        {
+          "mr": "6 A, B a",
+          "occupier": "Hamilton Wright",
+          "lessor": "James Blakely",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "6 A, B b",
+          "occupier": "David Crawford",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "6 A, B c",
+          "occupier": "Andrew Maguire",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "7 A a",
+          "occupier": "Robert M'Elnea",
+          "lessor": "Sir Thos. B. Lennard, Bt.",
+          "desc": "H,O,&L",
+          "area": "4 2 20",
+          "land_val": "4 15 0",
+          "building_val": "1 10 0",
+          "total_val": "8 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "7 B",
+          "occupier": "Robert M'Elnea",
+          "lessor": "Sir Thos. B. Lennard, Bt.",
+          "desc": "H,O,&L",
+          "area": "1 0 0",
+          "land_val": "0 15 0",
+          "total_val": "8 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "7 C",
+          "occupier": "Robert M'Elnea",
+          "lessor": "Sir Thos. B. Lennard, Bt.",
+          "desc": "H,O,&L",
+          "area": "2 1 30",
+          "land_val": "1 15 0",
+          "total_val": "8 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "8 A",
+          "occupier": "James M'Elnea",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "0 0 32",
+          "land_val": "0 5 0",
+          "total_val": "1 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "8 B",
+          "occupier": "James M'Elnea",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "0 3 15",
+          "land_val": "0 15 0",
+          "building_val": "0 15 0",
+          "total_val": "1 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9 A, B",
+          "occupier": "Robert Dobson",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 3 0",
+          "land_val": "6 5 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "10 A G, B, C",
+          "occupier": "William Lough",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "34 2 30",
+          "land_val": "25 15 0",
+          "building_val": "2 10 0",
+          "total_val": "28 5 0"
+        },
+        {
+          "mr": "10 A G, B, C a",
+          "occupier": "John Bevis",
+          "lessor": "William Lough",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "11 A",
+          "occupier": "Ulster Railway Co. (F. Broughton, Secretary)",
+          "lessor": "Sir Thos. B. Lennard, Bt.",
+          "desc": "B",
+          "area": "4 1 35",
+          "land_val": "0 4 0",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "11 B",
+          "occupier": "Ulster Railway Co. (F. Broughton, Secretary)",
+          "lessor": "Sir Thos. B. Lennard, Bt.",
+          "desc": "B",
+          "area": "1 0 0",
+          "land_val": "0 1 0",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "12",
+          "occupier": "Ulster Railway Co. (F. Broughton, Secretary)",
+          "lessor": "In fee",
+          "desc": "Railway (140 lin. perches)",
+          "area": "5 1 20",
+          "total_val": "4 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "127 1 32",
+          "land_val": "95 17 0",
+          "building_val": "13 10 0",
+          "total_val": "113 12 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "GLEAR",
+          "os": "12",
+          "occupier": "Martin N. Wall",
+          "lessor": "Freehold",
+          "desc": "H,O, herd's house, &L",
+          "area": "50 3 10",
+          "land_val": "45 10 0",
+          "building_val": "16 0 0",
+          "total_val": "63 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 B",
+          "occupier": "Martin N. Wall",
+          "lessor": "Freehold",
+          "desc": "H,O, herd's house, &L",
+          "area": "3 0 0",
+          "land_val": "1 15 0",
+          "total_val": "63 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2",
+          "occupier": "Christopher E. Wall",
+          "lessor": "Freehold",
+          "desc": "L",
+          "area": "14 2 20",
+          "land_val": "11 15 0",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "John M'Kernan",
+          "lessor": "Christopher E. Wall",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Herbert",
+          "lessor": "Rev. Patrick Kearney",
+          "desc": "H,O,&L",
+          "area": "14 0 30",
+          "land_val": "11 15 0",
+          "building_val": "1 5 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Anne Nugent",
+          "lessor": "Patrick Herbert",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Alexander Connolly",
+          "lessor": "Rev. Patrick Kearney",
+          "desc": "H,O,&L",
+          "area": "8 3 0",
+          "land_val": "6 0 0",
+          "building_val": "1 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Edward M'Willan",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "2 2 0",
+          "land_val": "2 0 0",
+          "building_val": "1 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "National School-house",
+          "lessor": "(See Exemptions.)",
+          "is_exemption": 1
+        },
+        {
+          "mr": "7",
+          "occupier": "Thomas M'Farland",
+          "lessor": "Rev. Patrick Kearney",
+          "desc": "H&L",
+          "area": "16 1 0",
+          "land_val": "11 15 0",
+          "building_val": "0 10 0",
+          "total_val": "12 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Ellen Kearney",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "0 2 0",
+          "land_val": "0 8 0",
+          "building_val": "0 12 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "John Kearney",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 0 30",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Owen Slowey",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 2 5",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Dundalk Steam Packet Co. (Wm. M'Master, Secretary)",
+          "lessor": "Ulster Canal Co.",
+          "desc": "Canal and banks (98 lineal perches), Lock-keeper's house",
+          "area": "3 3 24",
+          "building_val": "1 10 0",
+          "total_val": "5 0 0"
+        }
+      ]
+    }
+  ]
+}

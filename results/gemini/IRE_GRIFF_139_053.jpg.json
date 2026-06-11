@@ -1,0 +1,472 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF KILLAHY",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "REDACRES, STH.",
+          "occupier": "Richard Aylward,",
+          "lessor": "Reps. of Morgan Kavanagh, Esq.",
+          "desc": "L",
+          "area": "4 1 36",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Catherine Walsh,",
+          "lessor": "Reps. of Morgan Kavanagh, Esq.",
+          "desc": "H,O,&L",
+          "area": "52 1 9",
+          "land_val": "35 0 0",
+          "building_val": "5 0 0",
+          "total_val": "40 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Malone,",
+          "lessor": "Reps. of Morgan Kavanagh, Esq.",
+          "desc": "H,O,&L",
+          "area": "59 3 0",
+          "land_val": "40 10 0",
+          "building_val": "4 0 0",
+          "total_val": "44 10 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "116 2 5",
+          "land_val": "78 5 0",
+          "building_val": "9 0 0",
+          "total_val": "87 5 0",
+          "is_total": 1
+        }
+      ]
+    },
+    {
+      "parish": "PARISH OF KNOCKTOPHER",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "BALLYBOODAN",
+          "occupier": "Rev.SirR.Langrishe,Bt",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "44 3 10",
+          "land_val": "37 10 0",
+          "building_val": "",
+          "total_val": "37 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "James Corcoran,",
+          "lessor": "Rev SirR.Langrishe,Bt",
+          "desc": "H&G",
+          "area": "0 0 17",
+          "land_val": "0 2 0",
+          "building_val": "1 0 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "2 A a b & 4 C b",
+          "occupier": "Patrick Cody,",
+          "lessor": "Rev.SirR.Langrishe,Bt",
+          "desc": "H,O,&L",
+          "area": "64 2 27",
+          "land_val": "52 5 0",
+          "building_val": "7 15 0",
+          "total_val": "60 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Cody,",
+          "lessor": "Rev.SirR.Langrishe,Bt",
+          "desc": "L",
+          "area": "1 0 9",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3",
+          "occupier": "Bridget Cody,",
+          "lessor": "Rev.SirR.Langrishe,Bt",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4 A B C a D",
+          "occupier": "Bridget Cody,",
+          "lessor": "Rev.SirR.Langrishe,Bt",
+          "desc": "H,O,&L",
+          "area": "32 2 31",
+          "land_val": "27 0 0",
+          "building_val": "2 15 0",
+          "total_val": "29 15 0"
+        },
+        {
+          "mr": "5 A B a",
+          "occupier": "James Keeffe,",
+          "lessor": "Rev.SirR.Langrishe,Bt",
+          "desc": "H,O,&L",
+          "area": "62 0 29",
+          "land_val": "52 5 0",
+          "building_val": "6 10 0",
+          "total_val": "58 15 0"
+        },
+        {
+          "mr": "- B b",
+          "occupier": "Stephen Cassin and James Keeffe,",
+          "lessor": "Rev.SirR.Langrishe,Bt",
+          "desc": "L (waste),",
+          "area": "0 2 4",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- c",
+          "occupier": "David Cassin,",
+          "lessor": "Rev.SirR.Langrishe,Bt",
+          "desc": "L (waste),",
+          "area": "0 1 8",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "6",
+          "occupier": "Richard Holohan,",
+          "lessor": "Rev.SirR.Langrishe,Bt",
+          "desc": "L",
+          "area": "31 0 18",
+          "land_val": "32 15 0",
+          "building_val": "",
+          "total_val": "32 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Stephen Cassin,",
+          "lessor": "Rev.SirR.Langrishe,Bt",
+          "desc": "O&L",
+          "area": "18 0 17",
+          "land_val": "14 0 0",
+          "building_val": "2 0 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Michael Foley,",
+          "lessor": "Rev.SirR.Langrishe,Bt",
+          "desc": "L",
+          "area": "21 0 28",
+          "land_val": "7 15 0",
+          "building_val": "",
+          "total_val": "7 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "8",
+          "occupier": "Richard Leahy,",
+          "lessor": "Rev.SirR.Langrishe,Bt",
+          "desc": "L",
+          "area": "",
+          "land_val": "7 15 0",
+          "building_val": "",
+          "total_val": "7 15 0",
+          "n_shared": 2
+        },
+        {
+          "desc": "Total,",
+          "area": "276 2 38",
+          "land_val": "231 17 0",
+          "building_val": "20 0 0",
+          "total_val": "251 17 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A a B",
+          "townland": "BALLYGEARDRA",
+          "occupier": "Stephen Cassin,",
+          "lessor": "Rev.SirR.Langrishe,Bt",
+          "desc": "H,O,&L",
+          "area": "84 0 14",
+          "land_val": "41 15 0",
+          "building_val": "5 15 0",
+          "total_val": "47 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "David Cassin,",
+          "lessor": "Rev.SirR.Langrishe,Bt",
+          "desc": "L",
+          "area": "13 2 21",
+          "land_val": "11 10 0",
+          "building_val": "",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "3 A a B C",
+          "occupier": "David Cassin,",
+          "lessor": "Rev.SirR.Langrishe,Bt",
+          "desc": "H,O,&L",
+          "area": "173 3 25",
+          "land_val": "96 0 0",
+          "building_val": "7 10 0",
+          "total_val": "103 10 0"
+        },
+        {
+          "mr": "- A b",
+          "occupier": "Vacant,",
+          "lessor": "David Cassin,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Vacant,",
+          "lessor": "David Cassin,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- C a",
+          "occupier": "Edmond Walsh,",
+          "lessor": "David Cassin,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "4 A B",
+          "occupier": "John Gorman,",
+          "lessor": "Robert Langrishe, Esq.",
+          "desc": "L",
+          "area": "55 1 4",
+          "land_val": "35 15 0",
+          "building_val": "",
+          "total_val": "35 15 0"
+        },
+        {
+          "mr": "5 A B a",
+          "occupier": "John Gorman,",
+          "lessor": "Robt.Langrishe,Esq.",
+          "desc": "H,O,&L",
+          "area": "72 1 21",
+          "land_val": "17 0 0",
+          "building_val": "3 10 0",
+          "total_val": "20 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "C D E b",
+          "occupier": "Catherine Gorman,",
+          "lessor": "Robt.Langrishe,Esq.",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "17 0 0",
+          "building_val": "4 10 0",
+          "total_val": "21 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "Catherine Gorman,",
+          "lessor": "Robert Langrishe, Esq.",
+          "desc": "L",
+          "area": "54 0 8",
+          "land_val": "33 5 0",
+          "building_val": "",
+          "total_val": "33 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Michael Wall,",
+          "lessor": "Robert Langrishe, Esq.",
+          "desc": "H,O,&L",
+          "area": "25 3 11",
+          "land_val": "16 18 0",
+          "building_val": "0 17 0",
+          "total_val": "17 15 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Michael Wall,",
+          "lessor": "Robert Langrishe, Esq.",
+          "desc": "L (waste)",
+          "area": "1 1 27",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 3
+        },
+        {
+          "mr": "8",
+          "occupier": "John Gorman,",
+          "lessor": "Robert Langrishe, Esq.",
+          "desc": "L (waste)",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 3
+        },
+        {
+          "mr": "8",
+          "occupier": "Catherine Gorman,",
+          "lessor": "Robert Langrishe, Esq.",
+          "desc": "L (waste)",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 3
+        },
+        {
+          "mr": "9",
+          "occupier": "John Moore,",
+          "lessor": "Robert Langrishe, Esq.",
+          "desc": "H,O,&L",
+          "area": "27 0 8",
+          "land_val": "16 10 0",
+          "building_val": "2 5 0",
+          "total_val": "18 15 0"
+        },
+        {
+          "mr": "10 A a B",
+          "occupier": "John Kennedy,",
+          "lessor": "Robert Langrishe, Esq.",
+          "desc": "H,O,&L",
+          "area": "23 0 18",
+          "land_val": "17 12 0",
+          "building_val": "2 8 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "11 A a B",
+          "occupier": "Oliver Walsh,",
+          "lessor": "Robert Langrishe, Esq.",
+          "desc": "H,O,&L",
+          "area": "34 3 11",
+          "land_val": "16 0 0",
+          "building_val": "3 0 0",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "12 A B a C D a",
+          "occupier": "John Cassin,",
+          "lessor": "Rev.SirR.Langrishe,Bt",
+          "desc": "H,O,&L",
+          "area": "90 1 1",
+          "land_val": "50 0 0",
+          "building_val": "6 0 0",
+          "total_val": "56 0 0"
+        },
+        {
+          "mr": "13 A B C a D E F & 14 a b c d",
+          "occupier": "James Barron,",
+          "lessor": "Robert Langrishe, Esq.",
+          "desc": "H,O,&L",
+          "area": "31 1 31",
+          "land_val": "15 0 0",
+          "building_val": "2 10 0",
+          "total_val": "17 10 0"
+        },
+        {
+          "mr": "14 A B",
+          "occupier": "Rev.SirR.Langrishe,Bt",
+          "lessor": "In fee,",
+          "desc": "L (plantation),",
+          "area": "22 2 0",
+          "land_val": "5 0 0",
+          "building_val": "",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "- B a",
+          "occupier": "Patrick Gorman,",
+          "lessor": "Rev.SirR.Langrishe,Bt",
+          "desc": "H&G",
+          "area": "0 0 25",
+          "land_val": "0 2 0",
+          "building_val": "0 18 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "15 A B C a D F C F G",
+          "occupier": "Michael Foley,",
+          "lessor": "Robert Langrishe, Esq.",
+          "desc": "H,O,&L",
+          "area": "37 0 26",
+          "land_val": "17 0 0",
+          "building_val": "4 0 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Michael Foley,",
+          "lessor": "Robert Langrishe, Esq.",
+          "desc": "L",
+          "area": "5 0 32",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "16",
+          "occupier": "Richard Leahy,",
+          "lessor": "Robert Langrishe, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "17 A B a C",
+          "occupier": "Richard Leahy,",
+          "lessor": "Rev.SirR.Langrishe,Bt",
+          "desc": "H,O,&L",
+          "area": "33 3 31",
+          "land_val": "16 12 0",
+          "building_val": "1 18 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Patrick Jephson,",
+          "lessor": "David Cassin,",
+          "desc": "L",
+          "area": "2 0 1",
+          "land_val": "1 4 0",
+          "building_val": "",
+          "total_val": "1 4 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "793 0 35",
+          "land_val": "427 13 0",
+          "building_val": "46 15 0",
+          "total_val": "474 8 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

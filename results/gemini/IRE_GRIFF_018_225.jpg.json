@@ -1,0 +1,590 @@
+{
+  "parishes": [
+    {
+      "parish": "DERRYNOOSE",
+      "entries": [
+        {
+          "mr": "27 A",
+          "townland": "BROOTALLY",
+          "is_continued": 1,
+          "occupier": "Patrick Mallon,",
+          "lessor": "Maxwell Close,",
+          "desc": "H,O,&L",
+          "area": "5 1 0",
+          "land_val": "5 5 0",
+          "building_val": "1 5 0",
+          "total_val": "9 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "— B",
+          "occupier": "Patrick Mallon,",
+          "lessor": "Maxwell Close,",
+          "desc": "H,O,&L",
+          "area": "1 1 30",
+          "land_val": "1 5 0",
+          "total_val": "9 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "— C",
+          "occupier": "Patrick Mallon,",
+          "lessor": "Maxwell Close,",
+          "desc": "H,O,&L",
+          "area": "1 1 30",
+          "land_val": "1 5 0",
+          "total_val": "9 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "28",
+          "occupier": "Michael Mallon, jun.,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "10 0 30",
+          "land_val": "10 5 0",
+          "building_val": "1 0 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Joseph Mallon,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "10 3 30",
+          "land_val": "10 15 0",
+          "building_val": "1 5 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "John Mallon,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "10 1 10",
+          "land_val": "10 5 0",
+          "building_val": "1 10 0",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Bernard Mallon,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "13 2 15",
+          "land_val": "12 15 0",
+          "total_val": "12 15 0"
+        },
+        {
+          "mr": "32 A",
+          "occupier": "John & Peter Grumley,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "6 0 10",
+          "land_val": "5 5 0",
+          "building_val": "1 0 0",
+          "total_val": "12 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "John & Peter Grumley,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "6 3 28",
+          "land_val": "6 5 0",
+          "total_val": "12 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "33",
+          "occupier": "Alice Mallon,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "14 1 5",
+          "land_val": "12 10 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Alice Mallon,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "1 1 0",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "34",
+          "occupier": "Patrick Mallon,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "1 1 0",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0",
+          "n_shared": 2
+        },
+        {
+          "desc": "Total,",
+          "area": "528 3 8",
+          "land_val": "533 16 0",
+          "building_val": "64 15 0",
+          "total_val": "598 11 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "DERNALEA",
+          "os": "15",
+          "occupier": "Patrick Kelly,",
+          "lessor": "William J. Armstrong,",
+          "desc": "H,O,&L",
+          "area": "24 0 25",
+          "land_val": "25 5 0",
+          "building_val": "1 15 0",
+          "total_val": "31 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "Patrick Kelly,",
+          "lessor": "William J. Armstrong,",
+          "desc": "H,O,&L",
+          "area": "4 0 15",
+          "land_val": "4 0 0",
+          "total_val": "31 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2",
+          "occupier": "James Kelly,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "28 1 30",
+          "land_val": "29 5 0",
+          "building_val": "2 0 0",
+          "total_val": "31 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Mallon,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "3 0 0",
+          "land_val": "3 5 0",
+          "building_val": "1 5 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "David Irwin,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "21 3 27",
+          "land_val": "20 10 0",
+          "building_val": "1 10 0",
+          "total_val": "22 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Jane Read,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "18 3 30",
+          "land_val": "19 10 0",
+          "building_val": "1 0 0",
+          "total_val": "20 10 0"
+        },
+        {
+          "mr": "6 A",
+          "occupier": "Alexander Gray,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "28 0 3",
+          "land_val": "29 0 0",
+          "building_val": "2 10 0",
+          "total_val": "56 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "Alexander Gray,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "23 3 20",
+          "land_val": "24 10 0",
+          "total_val": "56 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B a",
+          "occupier": "Unoccupied,",
+          "lessor": "Alexander Gray,",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "John Robinson,",
+          "lessor": "William J. Armstrong,",
+          "desc": "H,O,&L",
+          "area": "11 0 20",
+          "land_val": "11 10 0",
+          "building_val": "1 10 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Thomas M'Garvey,",
+          "lessor": "John Robinson,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Robert Robinson,",
+          "lessor": "William J. Armstrong,",
+          "desc": "H&L",
+          "area": "2 1 30",
+          "land_val": "2 10 0",
+          "building_val": "0 15 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Anne Robinson,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "10 3 30",
+          "land_val": "10 15 0",
+          "building_val": "1 10 0",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Samuel Barns,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "20 1 15",
+          "land_val": "20 15 0",
+          "building_val": "2 0 0",
+          "total_val": "22 5 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Joseph Stewart,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "13 2 5",
+          "land_val": "14 5 0",
+          "building_val": "1 10 0",
+          "total_val": "16 5 0"
+        },
+        {
+          "mr": "12 A",
+          "occupier": "Patrick M'Ardle,",
+          "lessor": "Joseph Stewart,",
+          "desc": "H,O,&L",
+          "area": "12 0 5",
+          "land_val": "12 7 0",
+          "total_val": "14 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "Patrick M'Ardle,",
+          "lessor": "Joseph Stewart,",
+          "desc": "H,O,&L",
+          "area": "0 2 5",
+          "land_val": "0 8 0",
+          "total_val": "14 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B a",
+          "occupier": "Francis Woods,",
+          "lessor": "William J. Armstrong,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Mary Anne Robinson,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "12 2 15",
+          "land_val": "12 15 0",
+          "building_val": "1 5 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Ralph Read,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "7 0 0",
+          "land_val": "7 5 0",
+          "building_val": "1 5 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Reps. Margt. M'Garvey,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "10 1 30",
+          "land_val": "11 5 0",
+          "building_val": "1 10 0",
+          "total_val": "12 15 0"
+        },
+        {
+          "mr": "16 A",
+          "occupier": "Anne Read,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "9 2 29",
+          "land_val": "10 0 0",
+          "building_val": "1 5 0",
+          "total_val": "13 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "Anne Read,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "2 0 30",
+          "land_val": "2 5 0",
+          "total_val": "13 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "17",
+          "occupier": "Anne Robinson,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "17 2 10",
+          "land_val": "18 10 0",
+          "building_val": "2 10 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Ralph Read,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "0 3 15",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "18",
+          "occupier": "Anne Read,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "0 3 15",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "19",
+          "occupier": "Reps. Margaret M'Garvey,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "4 1 0",
+          "land_val": "4 0 0",
+          "total_val": "1 14 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "19",
+          "occupier": "Samuel Barns,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "4 1 0",
+          "land_val": "4 0 0",
+          "total_val": "0 12 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "19",
+          "occupier": "Arthur M'Ilvanny,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "4 1 0",
+          "land_val": "4 0 0",
+          "total_val": "0 12 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "19",
+          "occupier": "Hugh M'Ilvanny,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "4 1 0",
+          "land_val": "4 0 0",
+          "total_val": "0 5 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "19",
+          "occupier": "John Mallon,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "4 1 0",
+          "land_val": "4 0 0",
+          "total_val": "0 12 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "20 A",
+          "occupier": "Arthur M'Ilvanny,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "19 3 5",
+          "land_val": "20 0 0",
+          "building_val": "1 10 0",
+          "total_val": "26 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "Arthur M'Ilvanny,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "4 2 25",
+          "land_val": "4 10 0",
+          "total_val": "26 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Henry M'Ilvanny,",
+          "lessor": "Arthur M'Ilvanny,",
+          "desc": "H&O",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "21 A",
+          "occupier": "Hugh M'Ilvanny,",
+          "lessor": "William J. Armstrong,",
+          "desc": "H,O,&L",
+          "area": "1 1 30",
+          "land_val": "1 10 0",
+          "building_val": "1 5 0",
+          "total_val": "11 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "— B",
+          "occupier": "Hugh M'Ilvanny,",
+          "lessor": "William J. Armstrong,",
+          "desc": "H,O,&L",
+          "area": "5 1 25",
+          "land_val": "5 0 0",
+          "total_val": "11 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "— C",
+          "occupier": "Hugh M'Ilvanny,",
+          "lessor": "William J. Armstrong,",
+          "desc": "H,O,&L",
+          "area": "3 3 35",
+          "land_val": "4 0 0",
+          "total_val": "11 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "22",
+          "occupier": "James M'Keon,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "10 0 15",
+          "land_val": "10 5 0",
+          "building_val": "1 15 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "333 0 35",
+          "land_val": "340 0 0",
+          "building_val": "32 5 0",
+          "total_val": "372 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "TAMLAGHT",
+          "os": "15",
+          "occupier": "John Crummey,",
+          "lessor": "John L. Simpson,",
+          "desc": "H,O,&L",
+          "area": "23 3 38",
+          "land_val": "18 15 0",
+          "building_val": "1 10 0",
+          "total_val": "20 5 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "John L. Simpson,",
+          "lessor": "Reps. Anne Lyne,",
+          "desc": "H,O,&L",
+          "area": "18 1 7",
+          "land_val": "18 5 0",
+          "building_val": "6 15 0",
+          "total_val": "27 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "John L. Simpson,",
+          "lessor": "Reps. Anne Lyne,",
+          "desc": "H,O,&L",
+          "area": "2 1 35",
+          "land_val": "2 0 0",
+          "total_val": "27 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3",
+          "occupier": "William Leslie,",
+          "lessor": "Reps. Samuel Leslie,",
+          "desc": "H,O,&L",
+          "area": "0 1 0",
+          "land_val": "0 5 0",
+          "building_val": "2 10 0",
+          "total_val": "9 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3",
+          "occupier": "William Leslie,",
+          "lessor": "Reps. Samuel Leslie,",
+          "desc": "H,O,&L",
+          "area": "7 1 24",
+          "land_val": "7 0 0",
+          "total_val": "9 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4",
+          "occupier": "John Riddell,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "7 1 25",
+          "land_val": "5 10 0",
+          "building_val": "1 10 0",
+          "total_val": "7 0 0"
+        }
+      ]
+    }
+  ]
+}

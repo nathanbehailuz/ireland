@@ -1,0 +1,568 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF NEWTOWN ARDS",
+      "entries": [
+        {
+          "mr": "13",
+          "townland": "DRUMAWHY",
+          "os": "",
+          "occupier": "James Rankin",
+          "lessor": "Marquis of Londonderry",
+          "desc": "L",
+          "area": "4 2 25",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "14",
+          "occupier": "John Ewart",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 3 35",
+          "land_val": "8 15 0",
+          "building_val": "1 5 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "William Ewart",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "4 0 4",
+          "land_val": "3 5 0",
+          "building_val": "1 10 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Widow Ewart",
+          "lessor": "Same",
+          "desc": "O&L",
+          "area": "6 1 20",
+          "land_val": "5 0 0",
+          "building_val": "0 15 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "1125 3 29",
+          "land_val": "691 0 0",
+          "building_val": "124 0 0",
+          "total_val": "915 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BALLYHAFT",
+          "os": "6 & 11",
+          "occupier": "James Robinson",
+          "lessor": "Marquis of Londonderry",
+          "desc": "H,O,&L",
+          "area": "10 2 25",
+          "land_val": "8 10 0",
+          "building_val": "1 10 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Andrew M'Gimpsey",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "13 1 35",
+          "land_val": "12 15 0",
+          "building_val": "",
+          "total_val": "12 15 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Robert Robinson",
+          "lessor": "Andrew M'Gimpsey",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Robert Pegan",
+          "lessor": "Same",
+          "desc": "H, forge, & G",
+          "area": "0 0 25",
+          "land_val": "0 5 0",
+          "building_val": "1 10 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "John Finlay",
+          "lessor": "Marquis of Londonderry",
+          "desc": "H,O,&L",
+          "area": "62 0 35",
+          "land_val": "28 0 0",
+          "building_val": "5 10 0",
+          "total_val": "33 10 0"
+        },
+        {
+          "mr": "3 b",
+          "occupier": "Francis Finlay",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "28 0 0",
+          "building_val": "3 5 0",
+          "total_val": "31 5 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Sarah Garven",
+          "lessor": "John & Francis Finlay",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "John Gaw",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Henry M'Bratney",
+          "lessor": "Marquis of Londonderry",
+          "desc": "H,O,&L",
+          "area": "11 2 20",
+          "land_val": "9 0 0",
+          "building_val": "1 10 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Samuel Edgar",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "18 1 15",
+          "land_val": "16 10 0",
+          "building_val": "3 0 0",
+          "total_val": "19 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Andrew Patton",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "34 2 35",
+          "land_val": "31 15 0",
+          "building_val": "3 5 0",
+          "total_val": "35 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "John Patton",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "39 0 35",
+          "land_val": "41 10 0",
+          "building_val": "4 10 0",
+          "total_val": "46 0 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Jas. M'Cully Johnston",
+          "lessor": "Same",
+          "desc": "H,O, flax-mill, &L",
+          "area": "81 2 30",
+          "land_val": "106 0 0",
+          "building_val": "19 0 0",
+          "total_val": "125 0 0"
+        },
+        {
+          "mr": "8 b",
+          "occupier": "Rev. James G. Pooler",
+          "lessor": "Jas. M'Cully Johnston",
+          "desc": "H&G",
+          "area": "0 2 16",
+          "land_val": "1 0 0",
+          "building_val": "3 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Robert Robinson",
+          "lessor": "Marquis of Londonderry",
+          "desc": "H,O,&L",
+          "area": "10 2 17",
+          "land_val": "7 10 0",
+          "building_val": "2 10 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Matilda Miskelly",
+          "lessor": "Robert Robinson",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Eliza Aikens",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "283 1 17",
+          "land_val": "290 15 0",
+          "building_val": "52 5 0",
+          "total_val": "343 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CUNNINGBURN",
+          "os": "6 & 11",
+          "occupier": "John Brown",
+          "lessor": "Marquis of Londonderry",
+          "desc": "H,O,&L",
+          "area": "12 3 10",
+          "land_val": "11 10 0",
+          "building_val": "1 10 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John M'Cauley",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "33 0 20",
+          "land_val": "30 0 0",
+          "building_val": "2 10 0",
+          "total_val": "32 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John M'Cracken",
+          "lessor": "Same",
+          "desc": "Herd's ho., off., &L",
+          "area": "24 3 10",
+          "land_val": "25 10 0",
+          "building_val": "2 0 0",
+          "total_val": "27 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Robert Burrows",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "5 1 15",
+          "land_val": "5 10 0",
+          "building_val": "1 0 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "William Dickson",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 3 5",
+          "land_val": "7 5 0",
+          "building_val": "",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "5 b",
+          "occupier": "Henry M'Bratney",
+          "lessor": "Same",
+          "desc": "O&L",
+          "area": "5 2 30",
+          "land_val": "6 5 0",
+          "building_val": "0 15 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Unoccupied",
+          "lessor": "Henry M'Bratney",
+          "desc": "H & sm. G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "John Robinson",
+          "lessor": "Robert Richey",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Thomas Smith",
+          "lessor": "Same",
+          "desc": "H & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- e",
+          "occupier": "Mary Richey",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "William Richey",
+          "lessor": "Marquis of Londonderry",
+          "desc": "H,O,&L",
+          "area": "2 0 0",
+          "land_val": "2 0 0",
+          "building_val": "1 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Robert Richey",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "3 2 10",
+          "land_val": "2 15 0",
+          "building_val": "1 5 0",
+          "total_val": "8 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- a",
+          "occupier": "Alexander Hanna",
+          "lessor": "Robert Richey",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "8 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- b",
+          "occupier": "Hugh White",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Hill Finlay",
+          "lessor": "Marquis of Londonderry",
+          "desc": "H,O,&L",
+          "area": "30 2 30",
+          "land_val": "27 10 0",
+          "building_val": "2 15 0",
+          "total_val": "29 15 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "James Finlay",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "17 3 0",
+          "land_val": "14 5 0",
+          "building_val": "2 10 0",
+          "total_val": "24 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- b",
+          "occupier": "Widow Jackson",
+          "lessor": "James Finlay",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "24 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- c",
+          "occupier": "Widow Sloan",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "4 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "11",
+          "occupier": "Samuel M'Cauley",
+          "lessor": "Marquis of Londonderry",
+          "desc": "H,O,&G",
+          "area": "0 0 15",
+          "land_val": "0 2 0",
+          "building_val": "1 0 0",
+          "total_val": "4 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "12",
+          "occupier": "Thomas Finlay",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "26 1 10",
+          "land_val": "24 0 0",
+          "building_val": "3 0 0",
+          "total_val": "27 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "William Patton",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "18 0 5",
+          "land_val": "13 10 0",
+          "building_val": "4 0 0",
+          "total_val": "17 10 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "James Wallace",
+          "lessor": "Same",
+          "desc": "Ho., offs., flax-mill, & ld.",
+          "area": "51 0 30",
+          "land_val": "51 0 0",
+          "building_val": "10 0 0",
+          "total_val": "61 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Hugh Armour",
+          "lessor": "James Wallace",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 5 0",
+          "building_val": "1 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "William M'Andlas",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Samuel Cisby",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 1 0",
+          "land_val": "0 10 0",
+          "building_val": "1 0 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "- e",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H & sm. G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "- f",
+          "occupier": "Edward Beatty",
+          "lessor": "Same",
+          "desc": "H & sm. G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "John Robinson",
+          "lessor": "Marquis of Londonderry",
+          "desc": "H,O,&L",
+          "area": "11 0 5",
+          "land_val": "11 15 0",
+          "building_val": "2 15 0",
+          "total_val": "14 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Hugh Cooper",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 1 25",
+          "land_val": "4 15 0",
+          "building_val": "",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Hugh Cooper and John Robinson",
+          "lessor": "Same",
+          "desc": "Flax-mill and store",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "John Boyd",
+          "lessor": "Hugh Cooper and John Robinson",
+          "desc": "H & sm. G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Robert Allen",
+          "lessor": "Same",
+          "desc": "H & sm. G",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        }
+      ]
+    }
+  ]
+}

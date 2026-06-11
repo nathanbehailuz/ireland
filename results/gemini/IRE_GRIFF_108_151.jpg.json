@@ -1,0 +1,427 @@
+{
+  "parishes": [
+    {
+      "parish": "ROSSORRY",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "DERNASHESK",
+          "os": "21",
+          "occupier": "William Elliott",
+          "lessor": "Marquis of Ely",
+          "desc": "H,O,&L",
+          "area": "19 3 35",
+          "land_val": "13 10 0",
+          "building_val": "1 10 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "William Miller",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 1 20",
+          "land_val": "8 15 0",
+          "building_val": "0 15 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Maguire",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "34 2 25",
+          "land_val": "23 10 0",
+          "building_val": "1 10 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "66 0 0",
+          "land_val": "45 15 0",
+          "building_val": "3 15 0",
+          "total_val": "49 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "DINNYDOON",
+          "os": "21",
+          "occupier": "William Graham",
+          "lessor": "Marquis of Ely",
+          "desc": "H,O,&L",
+          "area": "21 2 5",
+          "land_val": "18 10 0",
+          "building_val": "4 10 0",
+          "total_val": "27 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "William Graham",
+          "lessor": "Marquis of Ely",
+          "desc": "L",
+          "area": "5 0 10",
+          "land_val": "4 0 0",
+          "total_val": "27 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 A",
+          "occupier": "Matthew Fearis",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "4 0 0",
+          "land_val": "4 15 0",
+          "building_val": "3 0 0",
+          "total_val": "26 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "Matthew Fearis",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "21 2 5",
+          "land_val": "18 15 0",
+          "total_val": "26 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 A",
+          "occupier": "Joseph Storey",
+          "lessor": "Same",
+          "desc": "H,O,corn-mill,kiln,&L",
+          "area": "1 2 25",
+          "land_val": "1 10 0",
+          "building_val": "6 10 0",
+          "total_val": "12 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "Joseph Storey",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 2 10",
+          "land_val": "4 15 0",
+          "total_val": "12 15 0",
+          "n_shared": 2
+        },
+        {
+          "desc": "Total",
+          "area": "59 1 15",
+          "land_val": "52 5 0",
+          "building_val": "14 0 0",
+          "total_val": "66 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DRUMSILLAGH",
+          "os": "21",
+          "occupier": "John Hewston",
+          "lessor": "Sir Josiah Wm. Hort, Bt.",
+          "desc": "H,O,&L",
+          "area": "54 0 5",
+          "land_val": "47 10 0",
+          "building_val": "5 10 0",
+          "total_val": "53 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Bernard Maguire",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "31 2 15",
+          "land_val": "28 0 0",
+          "building_val": "1 10 0",
+          "total_val": "29 10 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Thomas Hall",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "95 2 30",
+          "land_val": "80 0 0",
+          "building_val": "3 0 0",
+          "total_val": "83 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Ellen Phelan",
+          "lessor": "Thomas Hall",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Maguire",
+          "lessor": "Sir Josiah Wm. Hort, Bt.",
+          "desc": "Herd's ho.,offs.,&L",
+          "area": "43 2 10",
+          "land_val": "37 10 0",
+          "building_val": "1 10 0",
+          "total_val": "39 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "227 3 20",
+          "land_val": "193 0 0",
+          "building_val": "12 0 0",
+          "total_val": "205 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "KILLYCAT",
+          "os": "21",
+          "occupier": "Launcelot Weir",
+          "lessor": "Viscountess Dowager Harberton",
+          "desc": "H,O,&L",
+          "area": "99 2 14",
+          "land_val": "76 10 0",
+          "building_val": "3 10 0",
+          "total_val": "80 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Luke Maguire",
+          "lessor": "Launcelot Weir",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Patrick Leonard",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "3 3 35",
+          "land_val": "2 15 0",
+          "building_val": "0 5 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "3",
+          "desc": "Water",
+          "area": "3 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "106 2 9",
+          "land_val": "79 5 0",
+          "building_val": "4 5 0",
+          "total_val": "83 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "KILNALOO",
+          "os": "21",
+          "occupier": "Edward Hall",
+          "lessor": "Town Commissioners of Enniskillen",
+          "desc": "Herd's ho., off., & L",
+          "area": "48 1 20",
+          "land_val": "36 10 0",
+          "building_val": "1 10 0",
+          "total_val": "38 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Little",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 2 0",
+          "land_val": "7 0 0",
+          "building_val": "1 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Margaret Little",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "6 0 0",
+          "land_val": "5 5 0",
+          "building_val": "0 10 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Little",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 2 0",
+          "land_val": "4 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Hewston, sen.",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 0",
+          "land_val": "0 10 0",
+          "total_val": "17 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "John Hewston, sen.",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "18 0 0",
+          "land_val": "15 10 0",
+          "building_val": "1 5 0",
+          "total_val": "17 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "7",
+          "occupier": "John Hewston, jun.",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 2 12",
+          "land_val": "8 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Thomas Hall",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "25 3 0",
+          "land_val": "24 0 0",
+          "total_val": "24 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "122 0 32",
+          "land_val": "101 10 0",
+          "building_val": "4 5 0",
+          "total_val": "105 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "LOCKARD, BIG",
+          "os": "21",
+          "occupier": "William Bothwell",
+          "lessor": "Viscountess Dowager Harberton",
+          "desc": "L",
+          "area": "15 0 15",
+          "land_val": "13 10 0",
+          "total_val": "14 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "William Bothwell",
+          "lessor": "Viscountess Dowager Harberton",
+          "desc": "L",
+          "area": "0 2 25",
+          "land_val": "0 10 0",
+          "total_val": "14 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 a",
+          "occupier": "John Blair",
+          "lessor": "William Bothwell",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3 A",
+          "occupier": "George Elliott",
+          "lessor": "Viscountess Dowager Harberton",
+          "desc": "L",
+          "area": "14 3 30",
+          "land_val": "10 15 0",
+          "total_val": "11 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "George Elliott",
+          "lessor": "Viscountess Dowager Harberton",
+          "desc": "L",
+          "area": "0 1 26",
+          "land_val": "0 5 0",
+          "total_val": "11 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4",
+          "occupier": "Christopher Browne",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "15 1 5",
+          "land_val": "11 0 0",
+          "building_val": "1 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "5",
+          "desc": "Water",
+          "area": "1 2 0"
+        },
+        {
+          "desc": "Total",
+          "area": "62 3 11",
+          "land_val": "46 10 0",
+          "building_val": "1 10 0",
+          "total_val": "48 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "LOCKARD, LITTLE",
+          "os": "21",
+          "occupier": "James Quinn",
+          "lessor": "David Wilkin",
+          "desc": "H,O,&L",
+          "area": "52 0 30",
+          "land_val": "33 10 0",
+          "building_val": "1 10 0",
+          "total_val": "35 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Unoccupied",
+          "lessor": "James Quinn",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Edward Flanagan",
+          "lessor": "Viscountess Dowager Harberton",
+          "desc": "H,O,&L",
+          "area": "20 2 34",
+          "land_val": "14 10 0",
+          "building_val": "0 10 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "3",
+          "desc": "Water",
+          "area": "1 0 30"
+        },
+        {
+          "desc": "Total",
+          "area": "74 0 14",
+          "land_val": "48 0 0",
+          "building_val": "3 0 0",
+          "total_val": "51 0 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

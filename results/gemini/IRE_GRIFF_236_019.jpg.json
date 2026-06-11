@@ -1,0 +1,569 @@
+{
+  "parishes": [
+    {
+      "parish": "ABBEYLEIX",
+      "entries": [
+        {
+          "mr": "6",
+          "townland": "KNOCKNAMOE",
+          "os": "",
+          "occupier": "Jane Malone",
+          "lessor": "Jeremiah King",
+          "desc": "H, yard, and G",
+          "area": "0 0 17",
+          "land_val": "0 5 0",
+          "building_val": "4 10 0",
+          "total_val": "4 15 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "7",
+          "occupier": "James Morrissey",
+          "lessor": "Thomas Hogan",
+          "desc": "H, O, yd. & G",
+          "area": "0 0 11",
+          "land_val": "0 4 0",
+          "building_val": "16 0 0",
+          "total_val": "16 4 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "James Morrissey",
+          "lessor": "James Jestin",
+          "desc": "O and yard",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Miss Elizabeth Nevin",
+          "lessor": "James Morrissey",
+          "desc": "H",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Margaret Sheil",
+          "lessor": "James Morrissey",
+          "desc": "H and yard",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Susan Sutliffe",
+          "lessor": "James Jestin",
+          "desc": "H, O, yd. & G",
+          "area": "0 0 11",
+          "land_val": "0 3 0",
+          "building_val": "4 2 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Allan Murphy",
+          "lessor": "James Jestin",
+          "desc": "H, O, & yard",
+          "building_val": "6 5 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Denis M'Evoy, and William Glennon",
+          "lessor": "James Jestin",
+          "desc": "H, O, and yard",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "14",
+          "occupier": "William Skehan",
+          "lessor": "James Jestin",
+          "desc": "H, O, yd. & G",
+          "area": "0 0 36",
+          "land_val": "0 7 0",
+          "building_val": "5 10 0",
+          "total_val": "5 17 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Wm. Skehan & lodgers",
+          "lessor": "James Jestin",
+          "desc": "H, O, & yard",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Bridget Lewis",
+          "lessor": "Free",
+          "desc": "H and O",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Rev. James Lancaster",
+          "lessor": "Viscount De Vesci",
+          "desc": "H, O, yd. & G",
+          "area": "0 3 0",
+          "land_val": "1 5 0",
+          "building_val": "20 15 0",
+          "total_val": "22 0 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Rev. Francis Burkett",
+          "lessor": "Viscount De Vesci",
+          "desc": "H, O, yd. & G",
+          "area": "0 1 13",
+          "land_val": "0 15 0",
+          "building_val": "22 15 0",
+          "total_val": "23 10 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Miss Anne Lodge",
+          "lessor": "Viscount De Vesci",
+          "desc": "H, O, yd. & G",
+          "area": "0 1 12",
+          "land_val": "0 15 0",
+          "building_val": "22 15 0",
+          "total_val": "23 10 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Thomas Swan, Esq.",
+          "lessor": "Viscount De Vesci",
+          "desc": "H, O, yd. & G",
+          "area": "0 1 24",
+          "land_val": "1 0 0",
+          "building_val": "21 10 0",
+          "total_val": "22 10 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Thos. Cloughan & others",
+          "lessor": "John Carter",
+          "desc": "H and yard",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "John Sutliffe, jun.",
+          "lessor": "John Carter",
+          "desc": "G",
+          "area": "0 0 38",
+          "land_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "John Sutliffe, jun.",
+          "lessor": "Viscount De Vesci",
+          "desc": "H, O, yd. & G",
+          "area": "0 1 26",
+          "land_val": "0 15 0",
+          "building_val": "7 0 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "John M'Creery",
+          "lessor": "Mrs. Sarah Boxwell",
+          "desc": "H, O, yd. & G",
+          "area": "0 0 19",
+          "land_val": "0 4 0",
+          "building_val": "7 0 0",
+          "total_val": "7 4 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Wesleyan Methodist Chapel",
+          "lessor": "Viscount De Vesci",
+          "desc": "Wesleyan Methodist Chapel and yard",
+          "area": "0 0 14",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "26",
+          "occupier": "Robert Dobbs",
+          "lessor": "Trustees of Wesleyan Methodist Chapel",
+          "desc": "L",
+          "area": "0 1 17",
+          "land_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Edward L. Swan, Esq.",
+          "lessor": "Viscount De Vesci",
+          "desc": "H, yard, & G",
+          "area": "0 1 20",
+          "land_val": "0 12 0",
+          "building_val": "20 0 0",
+          "total_val": "20 12 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Rev. Bartholomew Donnellan",
+          "lessor": "Samuel Galbraith",
+          "desc": "H, O, yd. & G",
+          "area": "0 0 26",
+          "land_val": "0 6 0",
+          "building_val": "8 14 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Vacant",
+          "lessor": "George Pratt",
+          "desc": "H, O, yd. & G",
+          "area": "0 0 31",
+          "land_val": "0 8 0",
+          "building_val": "11 7 0",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Dispensary",
+          "lessor": "Mrs. Sarah Boxwell",
+          "desc": "Dispensary",
+          "building_val": "6 5 0",
+          "total_val": "6 5 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "31",
+          "occupier": "Mrs. Sarah Delany",
+          "lessor": "Mrs. Sarah Boxwell",
+          "desc": "H, yard, and G",
+          "area": "0 0 14",
+          "land_val": "0 4 0",
+          "building_val": "2 2 0",
+          "total_val": "2 6 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "Vacant",
+          "lessor": "John Sutliffe, jun.",
+          "desc": "H, O, yd. & G",
+          "area": "0 0 18",
+          "land_val": "0 5 0",
+          "building_val": "6 5 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "William Wilde",
+          "lessor": "Edward White, Esq.",
+          "desc": "H, O, yd. & G",
+          "area": "0 0 30",
+          "land_val": "0 7 0",
+          "building_val": "4 18 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Vacant",
+          "lessor": "Samuel Pratt",
+          "desc": "H and yard",
+          "building_val": "7 15 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Samuel Pratt",
+          "lessor": "Viscount De Vesci",
+          "desc": "H, O, yd. & L",
+          "area": "0 3 25",
+          "land_val": "0 15 0",
+          "building_val": "7 10 0",
+          "total_val": "8 5 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "John Sutliffe, jun.",
+          "lessor": "Viscount De Vesci",
+          "desc": "O and L",
+          "area": "0 2 10",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "James Wilson",
+          "lessor": "John Sutliffe, jun.",
+          "desc": "H, yard, and G",
+          "area": "0 1 0",
+          "land_val": "0 8 0",
+          "building_val": "2 17 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Miss Maryanne Irwin",
+          "lessor": "Viscount De Vesci",
+          "desc": "H, O, and yard",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "Mrs. Fanny Hetherington",
+          "lessor": "Mrs. Sarah Boxwell",
+          "desc": "H and small yard",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "Michael Jeffers",
+          "lessor": "Mrs. Sarah Boxwell",
+          "desc": "H, O, & yard",
+          "building_val": "4 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "Robert Dobbs",
+          "lessor": "Viscount De Vesci",
+          "desc": "H, O, yd. & G",
+          "area": "0 0 31",
+          "land_val": "0 8 0",
+          "building_val": "13 0 0",
+          "total_val": "13 8 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "Thomas Case",
+          "lessor": "Mrs. Rose Lodge",
+          "desc": "H, O, yd. & G",
+          "area": "0 0 31",
+          "land_val": "0 8 0",
+          "building_val": "14 0 0",
+          "total_val": "14 8 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "Thomas Gorman and William Bardin",
+          "lessor": "William Sutliffe",
+          "desc": "H",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "44",
+          "occupier": "Patrick Fitzgerald",
+          "lessor": "William Sutliffe",
+          "desc": "H, O, yd. & G",
+          "area": "0 0 14",
+          "land_val": "0 4 0",
+          "building_val": "4 0 0",
+          "total_val": "4 4 0"
+        },
+        {
+          "mr": "45",
+          "occupier": "Patrick Revington",
+          "lessor": "William Sutliffe",
+          "desc": "H, O, yd. & sm. G",
+          "building_val": "4 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "Vacant",
+          "lessor": "Nathaniel Hurst",
+          "desc": "H, O, yd. & sm. G",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "47",
+          "occupier": "Michael Brophy",
+          "lessor": "John Sutliffe, sen.",
+          "desc": "H, yard, and G",
+          "area": "0 0 14",
+          "land_val": "0 4 0",
+          "building_val": "4 16 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "48",
+          "occupier": "John Kennedy",
+          "lessor": "Thomas Brandon",
+          "desc": "H",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "49",
+          "occupier": "Thomas Brandon",
+          "lessor": "John Sutliffe, sen.",
+          "desc": "H, O, yd. & sm. G",
+          "building_val": "2 12 0",
+          "total_val": "2 12 0"
+        },
+        {
+          "mr": "50",
+          "occupier": "James Gorman",
+          "lessor": "John Sutliffe, sen.",
+          "desc": "H, O, yd. & G",
+          "area": "0 0 10",
+          "land_val": "0 3 0",
+          "building_val": "3 0 0",
+          "total_val": "3 3 0"
+        },
+        {
+          "mr": "51",
+          "occupier": "Patrick Casey",
+          "lessor": "David Mercier",
+          "desc": "H",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "52",
+          "occupier": "George Shea",
+          "lessor": "David Mercier",
+          "desc": "H, forge, & sm. G",
+          "building_val": "1 16 0",
+          "total_val": "1 16 0"
+        },
+        {
+          "mr": "53",
+          "occupier": "Edward Walsh",
+          "lessor": "David Mercier",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "54",
+          "occupier": "John Coogan",
+          "lessor": "David Mercier",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "55",
+          "occupier": "William Betts",
+          "lessor": "Mrs. Sarah Boxwell",
+          "desc": "H, yd. & sm. G",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "56",
+          "occupier": "Thomas Hughes",
+          "lessor": "William Betts",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "57",
+          "occupier": "Michael Connor",
+          "lessor": "William Betts",
+          "desc": "H",
+          "building_val": "0 18 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "58",
+          "occupier": "Patrick Greene",
+          "lessor": "Mrs. Sarah Boxwell",
+          "desc": "H, O, yd. & sm. G",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "59",
+          "occupier": "Daniel Coyle",
+          "lessor": "Viscount De Vesci",
+          "desc": "H, O, & yard",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "60",
+          "occupier": "Finton Kavanagh",
+          "lessor": "Patrick Carroll",
+          "desc": "H, yard, & G",
+          "area": "0 0 16",
+          "land_val": "0 4 0",
+          "building_val": "4 6 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "61",
+          "occupier": "James Glascock",
+          "lessor": "Viscount De Vesci",
+          "desc": "H, O, yd. & G",
+          "area": "0 0 10",
+          "land_val": "0 3 0",
+          "building_val": "5 0 0",
+          "total_val": "5 3 0"
+        },
+        {
+          "mr": "62",
+          "occupier": "Finton Phelan",
+          "lessor": "Edward L. Swan, Esq.",
+          "desc": "H, O, yd. & G",
+          "area": "0 1 26",
+          "land_val": "0 15 0",
+          "building_val": "10 0 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "CHAMBERS' LANE",
+          "occupier": "Honoria Roche",
+          "lessor": "Edward Taylor",
+          "desc": "H",
+          "building_val": "0 3 0",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Edward Taylor",
+          "lessor": "Reps. Daniel Chambers, Esq.",
+          "desc": "H",
+          "building_val": "0 2 0",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Finton Maginn",
+          "lessor": "Reps. Daniel Chambers, Esq.",
+          "desc": "H and small G",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Thomas Cullen",
+          "lessor": "Finton Maginn",
+          "desc": "H",
+          "building_val": "0 3 0",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Vacant",
+          "lessor": "Reps. D. Chambers, Esq.",
+          "desc": "Ruins",
+          "area": "0 0 1"
+        }
+      ]
+    }
+  ]
+}

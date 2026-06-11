@@ -1,0 +1,596 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF ANNAGH",
+      "entries": [
+        {
+          "mr": "20",
+          "townland": "DRUMALURE MORE",
+          "os": "15",
+          "occupier": "William Bell, jun.,",
+          "lessor": "Earl of Lanesborough,",
+          "desc": "H,O,&L",
+          "area": "6 1 36",
+          "land_val": "6 5 0",
+          "building_val": "1 15 0",
+          "total_val": "8 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "21",
+          "occupier": "Daniel Bell,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "6 3 1",
+          "land_val": "6 0 0",
+          "building_val": "1 10 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "22 a",
+          "occupier": "John Smith,",
+          "lessor": "Daniel Bell,",
+          "desc": "H & G",
+          "area": "0 0 11",
+          "land_val": "0 1 0",
+          "building_val": "0 7 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "23 a",
+          "occupier": "Anne Hewitt,",
+          "lessor": "Earl of Lanesborough,",
+          "desc": "H,O,&L",
+          "area": "5 2 0",
+          "land_val": "4 8 0",
+          "building_val": "1 7 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Mary Hewitt,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "0 2 21",
+          "land_val": "0 8 0",
+          "building_val": "",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "John Hewitt,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "1 3 26",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Mary Hewitt,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "4 2 15",
+          "land_val": "4 5 0",
+          "building_val": "1 10 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Thomas Lynch,",
+          "lessor": "Mary Hewitt,",
+          "desc": "H",
+          "area": "0 0 8",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "27 a",
+          "occupier": "James Hewitt,",
+          "lessor": "Earl of Lanesborough,",
+          "desc": "H,O,&L",
+          "area": "2 1 36",
+          "land_val": "2 10 0",
+          "building_val": "1 10 0",
+          "total_val": ""
+        },
+        {
+          "mr": "28",
+          "occupier": "James Hewitt,",
+          "lessor": "Earl of Lanesborough,",
+          "desc": "L",
+          "area": "0 3 13",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "29",
+          "occupier": "James Hewitt,",
+          "lessor": "Earl of Lanesborough,",
+          "desc": "L",
+          "area": "1 0 15",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Charles Bell (Little),",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "10 2 15",
+          "land_val": "8 0 0",
+          "building_val": "1 4 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "William Bell, jun.,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "2 1 30",
+          "land_val": "0 4 0",
+          "building_val": "",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Charles Bell (Little),",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 4 0",
+          "building_val": "",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "William Bell, sen.,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 4 0",
+          "building_val": "",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Charles Bell (Will),",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 4 0",
+          "building_val": "",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "Thomas Hewitt (Red),",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "7 3 14",
+          "land_val": "6 0 0",
+          "building_val": "1 5 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "Thomas Hewitt (Red),",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "0 3 34",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "34",
+          "occupier": "James Browne,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "4 2 11",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "James Browne (Black),",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "4 0 11",
+          "land_val": "2 10 0",
+          "building_val": "0 15 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Wm. Browne (Sergeant),",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "8 1 24",
+          "land_val": "5 10 0",
+          "building_val": "1 5 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "James Fitzpatrick,",
+          "lessor": "Wm Browne (Sergeant),",
+          "desc": "H & L",
+          "area": "1 1 23",
+          "land_val": "0 8 0",
+          "building_val": "0 7 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Earl of Lanesborough,",
+          "lessor": "In fee,",
+          "desc": "B",
+          "area": "3 2 4",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "39",
+          "occupier": "Earl of Lanesborough,",
+          "lessor": "In fee,",
+          "desc": "B",
+          "area": "5 2 24",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "40 a",
+          "occupier": "William Browne,",
+          "lessor": "Earl of Lanesborough,",
+          "desc": "G",
+          "area": "0 1 30",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "William Browne,",
+          "lessor": "Same,",
+          "desc": "G",
+          "area": "0 0 10",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "41",
+          "occupier": "Wm. Browne (Black),",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "3 2 18",
+          "land_val": "1 18 0",
+          "building_val": "0 17 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "Wm. Browne (Black),",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "10 2 28",
+          "land_val": "5 15 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "43 a",
+          "occupier": "James Jones,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "13 3 14",
+          "land_val": "7 18 0",
+          "building_val": "1 2 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "James Jones,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "0 0 35",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "44",
+          "occupier": "John North,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "0 3 11",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "2 12 0"
+        },
+        {
+          "mr": "45",
+          "occupier": "John North,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "3 2 29",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "46 a",
+          "occupier": "Owen M'Cusker,",
+          "lessor": "John North,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "William Bell, sen.,",
+          "lessor": "Earl of Lanesborough,",
+          "desc": "L",
+          "area": "7 2 31",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "47",
+          "occupier": "William Bell, jun.,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "48",
+          "occupier": "Earl of Lanesborough,",
+          "lessor": "In fee,",
+          "desc": "B",
+          "area": "1 3 28",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "occupier": "Earl of Lanesborough,",
+          "lessor": "In fee,",
+          "desc": "Water (Drunalure Lough)",
+          "area": "2 2 25",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "occupier": "Earl of Lanesborough,",
+          "lessor": "In fee,",
+          "desc": "Water (Tullyroan Lough)",
+          "area": "7 1 38",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "desc": "Total,",
+          "area": "295 0 15",
+          "land_val": "120 7 0",
+          "building_val": "28 2 0",
+          "total_val": "148 9 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DRUMAVADDY",
+          "os": "15",
+          "occupier": "Michael Connell,",
+          "lessor": "Earl of Lanesborough,",
+          "desc": "H,O,&L",
+          "area": "24 2 26",
+          "land_val": "20 15 0",
+          "building_val": "0 10 0",
+          "total_val": "21 5 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "2",
+          "occupier": "William Cosgrave,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "15 3 20",
+          "land_val": "14 5 0",
+          "building_val": "",
+          "total_val": "14 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "William Cosgrave,",
+          "lessor": "Same,",
+          "desc": "B",
+          "area": "4 0 0",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "4",
+          "occupier": "Thomas Hinch,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "35 3 38",
+          "land_val": "25 10 0",
+          "building_val": "1 10 0",
+          "total_val": "27 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Michael O'Donnell,",
+          "lessor": "Same,",
+          "desc": "H & L",
+          "area": "13 2 8",
+          "land_val": "12 15 0",
+          "building_val": "0 10 0",
+          "total_val": "13 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "James M'Guire,",
+          "lessor": "Same,",
+          "desc": "H & L",
+          "area": "3 2 19",
+          "land_val": "2 15 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "James M'Guire,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "0 2 1",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "8",
+          "occupier": "Luke M'Guire,",
+          "lessor": "Same,",
+          "desc": "H & L",
+          "area": "3 1 29",
+          "land_val": "2 10 0",
+          "building_val": "0 5 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Earl of Lanesborough,",
+          "lessor": "In fee,",
+          "desc": "B",
+          "area": "4 2 24",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Earl of Lanesborough,",
+          "lessor": "In fee,",
+          "desc": "Water (Dawson's Lough)",
+          "area": "6 1 30",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "11",
+          "occupier": "Earl of Lanesborough,",
+          "lessor": "In fee,",
+          "desc": "Water (Puttiaghan Lough)",
+          "area": "1 2 34",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "desc": "Total,",
+          "area": "114 1 35",
+          "land_val": "79 2 0",
+          "building_val": "3 5 0",
+          "total_val": "82 7 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "DRUMCALPIN",
+          "os": "15",
+          "occupier": "Jane Galloway,",
+          "lessor": "James M'Fadden,",
+          "desc": "H & L",
+          "area": "7 2 24",
+          "land_val": "4 17 0",
+          "building_val": "0 8 0",
+          "total_val": "5 5 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "b",
+          "occupier": "James M'Gee,",
+          "lessor": "Jane Galloway,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Pratt,",
+          "lessor": "James M'Fadden,",
+          "desc": "H,O,&L",
+          "area": "11 2 16",
+          "land_val": "7 12 0",
+          "building_val": "0 18 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Robert Leathem,",
+          "lessor": "Same,",
+          "desc": "O & L",
+          "area": "17 1 8",
+          "land_val": "10 5 0",
+          "building_val": "0 5 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Joseph Pratt,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "6 0 4",
+          "land_val": "4 5 0",
+          "building_val": "",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Thomas Sheils,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "9 2 11",
+          "land_val": "5 0 0",
+          "building_val": "",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Michael M'Gerty,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "30 1 19",
+          "land_val": "20 15 0",
+          "building_val": "1 10 0",
+          "total_val": "22 5 0"
+        }
+      ]
+    }
+  ]
+}

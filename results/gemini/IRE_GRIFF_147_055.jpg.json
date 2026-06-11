@@ -1,0 +1,422 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF PORTNASCULLY",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "LUFFANY",
+          "os": "45",
+          "occupier": "Thomas Henneberry, .",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "H,O,&L",
+          "area": "403 2 21",
+          "land_val": "33 0 0",
+          "building_val": "4 0 0",
+          "total_val": "37 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Walter Walsh, .",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "H,O,&L",
+          "area": "403 2 21",
+          "land_val": "33 0 0",
+          "building_val": "4 0 0",
+          "total_val": "37 0 0"
+        },
+        {
+          "mr": "1 c",
+          "occupier": "John Walsh, .",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "H,O,&L",
+          "area": "403 2 21",
+          "land_val": "33 0 0",
+          "building_val": "4 5 0",
+          "total_val": "37 5 0"
+        },
+        {
+          "mr": "1 d",
+          "occupier": "William Delahunty, .",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "H,O,&L",
+          "area": "403 2 21",
+          "land_val": "33 0 0",
+          "building_val": "4 15 0",
+          "total_val": "37 15 0"
+        },
+        {
+          "mr": "1 e",
+          "occupier": "Patrick Dunphy, .",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "H,O,&L",
+          "area": "403 2 21",
+          "land_val": "33 0 0",
+          "building_val": "4 5 0",
+          "total_val": "37 5 0"
+        },
+        {
+          "mr": "1 f",
+          "occupier": "William Doyle, .",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "H,O,&L",
+          "area": "403 2 21",
+          "land_val": "33 0 0",
+          "building_val": "3 5 0",
+          "total_val": "36 5 0"
+        },
+        {
+          "mr": "1 g",
+          "occupier": "Margaret Dunphy, .",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "H,O,&L",
+          "area": "403 2 21",
+          "land_val": "33 0 0",
+          "building_val": "4 0 0",
+          "total_val": "37 0 0"
+        },
+        {
+          "mr": "1 h",
+          "occupier": "James Grant, .",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "H,O,&L",
+          "area": "403 2 21",
+          "land_val": "33 0 0",
+          "building_val": "3 5 0",
+          "total_val": "36 5 0"
+        },
+        {
+          "mr": "1 i",
+          "occupier": "Thomas Delahunty, .",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "H,O,&L",
+          "area": "403 2 21",
+          "land_val": "33 0 0",
+          "building_val": "5 10 0",
+          "total_val": "38 10 0"
+        },
+        {
+          "mr": "1 j",
+          "occupier": "Wra. Henneberry, sen.",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "H,O,&L",
+          "area": "403 2 21",
+          "land_val": "33 0 0",
+          "building_val": "5 10 0",
+          "total_val": "38 10 0"
+        },
+        {
+          "mr": "1 k",
+          "occupier": "William Walsh, .",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "H,O,&L",
+          "area": "403 2 21",
+          "land_val": "33 0 0",
+          "building_val": "3 15 0",
+          "total_val": "36 15 0"
+        },
+        {
+          "mr": "1 l",
+          "occupier": "James Quinn, .",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "H,O,&L",
+          "area": "403 2 21",
+          "land_val": "33 0 0",
+          "building_val": "3 15 0",
+          "total_val": "36 15 0"
+        },
+        {
+          "mr": "1 m",
+          "occupier": "Michael Walsh, .",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "H,O,&L",
+          "area": "403 2 21",
+          "land_val": "33 0 0",
+          "building_val": "3 5 0",
+          "total_val": "36 5 0"
+        },
+        {
+          "mr": "1 n",
+          "occupier": "Margaret Broaders, .",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "H,O,&L",
+          "area": "403 2 21",
+          "land_val": "33 0 0",
+          "building_val": "3 0 0",
+          "total_val": "36 0 0"
+        },
+        {
+          "mr": "1 o",
+          "occupier": "Thomas Moran, .",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "H,O,&L",
+          "area": "403 2 21",
+          "land_val": "33 0 0",
+          "building_val": "3 15 0",
+          "total_val": "36 15 0"
+        },
+        {
+          "mr": "1 p",
+          "occupier": "James Keeffe, .",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "H,O,&L",
+          "area": "0 3 13",
+          "land_val": "1 0 0",
+          "building_val": "1 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "1 q",
+          "occupier": "John Brennan, .",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "H,O,&sm.G",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "1 r",
+          "occupier": "Richard Raftice, .",
+          "lessor": "Thomas Moran, .",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "1 s",
+          "occupier": "John Lanegar, .",
+          "lessor": "Patrick Dunphy, .",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "1 t",
+          "occupier": "Peter Delahunty, .",
+          "lessor": "Michael Walsh, .",
+          "desc": "H&O",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "2 A B C D G E F",
+          "occupier": "Peter Walsh, .",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "H,O,&L",
+          "area": "24 0 33",
+          "land_val": "30 0 0",
+          "building_val": "3 10 0",
+          "total_val": "33 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Walsh, .",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "L",
+          "area": "2 3 22",
+          "land_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "4 A B",
+          "occupier": "James Dunphy, .",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "L",
+          "area": "8 0 10",
+          "land_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Michael Comerford, .",
+          "lessor": "James Dunphy, .",
+          "desc": "H&O",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "5 a & 1 n",
+          "occupier": "Philip Maguire, .",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "H,O,&L",
+          "area": "3 3 16",
+          "land_val": "5 0 0",
+          "building_val": "1 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "5 b",
+          "occupier": "James Hickey, .",
+          "lessor": "Philip Maguire, .",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Edmund Walsh, .",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "L",
+          "area": "1 1 25",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Wm. Henneberry, jun.",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "6 b",
+          "occupier": "Margaret Delahunty,",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "6 c",
+          "occupier": "Patrick Cunningham,",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "6 d",
+          "occupier": "Joseph Harney, .",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "6 e",
+          "occupier": "James Walsh, .",
+          "lessor": "Hugh Power, Esq.",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "desc": "Total, . .",
+          "area": "444 3 20",
+          "land_val": "546 10 0",
+          "building_val": "74 8 0",
+          "total_val": "620 18 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A B C D E 2 G a & 7 a d",
+          "townland": "MOONVEEN",
+          "os": "45",
+          "occupier": "Richard Walsh, .",
+          "lessor": "John Congreve, Esq.",
+          "desc": "H,O,&L",
+          "area": "27 3 1",
+          "land_val": "27 0 0",
+          "building_val": "2 15 0",
+          "total_val": "29 15 0"
+        },
+        {
+          "mr": "2 A B C D E F 4 G H I",
+          "occupier": "Walter Walsh, .",
+          "lessor": "John Congreve, Esq.",
+          "desc": "H,O,&L",
+          "area": "104 2 9",
+          "land_val": "110 0 0",
+          "building_val": "15 0 0",
+          "total_val": "125 0 0"
+        },
+        {
+          "mr": "3 A B C D E F G H I 5 F a & 2 f b",
+          "occupier": "John Congreve, Esq. .",
+          "lessor": "In fee, . .",
+          "desc": "L",
+          "area": "48 0 9",
+          "land_val": "37 0 0",
+          "total_val": "37 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "John Deady, .",
+          "lessor": "Walter Walsh, .",
+          "desc": "H&O",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "4 A B 4 C D 5 A B C D E F G H I 1 c",
+          "occupier": "Edmund Keeffe, .",
+          "lessor": "John Congreve, Esq.",
+          "desc": "H,O,&L",
+          "area": "44 1 6",
+          "land_val": "46 0 0",
+          "building_val": "3 10 0",
+          "total_val": "49 10 0"
+        },
+        {
+          "mr": "3 a a & 5 b",
+          "occupier": "Edmund Dunphy,",
+          "lessor": "John Congreve, Esq.",
+          "desc": "H,O,&L",
+          "area": "65 1 30",
+          "land_val": "33 5 0",
+          "building_val": "3 15 0",
+          "total_val": "37 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 a a & 5 b",
+          "occupier": "Mary Cummins,",
+          "lessor": "John Congreve, Esq.",
+          "desc": "H,O,&L",
+          "area": "65 1 30",
+          "land_val": "33 5 0",
+          "building_val": "3 15 0",
+          "total_val": "37 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 A B C D E 3 F a & 3 H c",
+          "occupier": "Michael Fitzpatrick, .",
+          "lessor": "John Congreve, Esq.",
+          "desc": "H,O,&L",
+          "area": "36 0 15",
+          "land_val": "37 5 0",
+          "building_val": "3 15 0",
+          "total_val": "41 0 0"
+        },
+        {
+          "desc": "Total, . .",
+          "area": "326 0 30",
+          "land_val": "323 15 0",
+          "building_val": "33 10 0",
+          "total_val": "357 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "PORTNASCULLY",
+          "os": "45",
+          "occupier": "John Walsh, .",
+          "lessor": "Thomas Boyce, Robert Backas, Charles Newport, and William Moore, Esqrs.",
+          "desc": "L",
+          "area": "3 3 80",
+          "land_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "1 a",
+          "occupier": "Henry Tyler, .",
+          "lessor": "John Walsh, .",
+          "desc": "H,forge,&O",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        }
+      ]
+    }
+  ]
+}

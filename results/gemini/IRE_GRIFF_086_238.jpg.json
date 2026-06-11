@@ -1,0 +1,402 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF NEWTOWN ARDS",
+      "entries": [
+        {
+          "mr": "81 46",
+          "townland": "CORPORATION, NORTH",
+          "sublocation_1": "TOWN OF NEWTOWN ARDS",
+          "sublocation_2": "SOUTH-STREET",
+          "occupier": "William J. Sefton and John M'Clemont",
+          "lessor": "William Dobbyn",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0",
+          "n_shared": 2,
+          "is_continued": 1
+        },
+        {
+          "mr": "47",
+          "occupier": "James M'Neilly and Jeremiah M'Cafferty",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "48",
+          "occupier": "John M'Williams and Thomas Shannon",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "49",
+          "occupier": "John Blackwood and John Russell",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "50",
+          "occupier": "Robert Irvine and John Heuston",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "51",
+          "occupier": "Richard Murphy and James Thompson",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "52",
+          "occupier": "Samuel Dunne and James Mahard",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "53",
+          "occupier": "William Woods and William Sandford",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "54",
+          "occupier": "William Dobbyn",
+          "lessor": "Marquis of Londonderry",
+          "desc": "L (in rear)",
+          "area": "2 0 5",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "55",
+          "occupier": "Presbyterian Church, Session-ho., and yard",
+          "lessor": "Trustees of Presbyterian Church",
+          "desc": "L",
+          "area": "0 1 35",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "- a",
+          "occupier": "Hans Shaw",
+          "lessor": "Leadbetter and Co.",
+          "desc": "L",
+          "area": "0 0 35",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "56",
+          "occupier": "John Fletcher",
+          "lessor": "Marquis of Londonderry",
+          "desc": "H,O,yd,&G",
+          "area": "0 1 30",
+          "land_val": "1 10 0",
+          "building_val": "8 0 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "57",
+          "occupier": "Patrick Flynn",
+          "lessor": "James Finlay",
+          "desc": "H and yard",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "58",
+          "occupier": "Isaac Gray and John M'Allister",
+          "lessor": "Same",
+          "desc": "H and yard",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "59",
+          "occupier": "Adam Donnelly and Patrick M'Donough",
+          "lessor": "Same",
+          "desc": "H,O, and yard",
+          "building_val": "4 15 0",
+          "total_val": "4 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "60",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H,O, and yard",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "61",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H,O, and yard",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "62",
+          "occupier": "Robert Boyd",
+          "lessor": "Same",
+          "desc": "H and yard",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "63",
+          "occupier": "John Browne",
+          "lessor": "Charles Nelson",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "64",
+          "occupier": "James Bennett",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "65",
+          "occupier": "Mary Henderson",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "66",
+          "occupier": "James Hamilton",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "67",
+          "occupier": "Samuel Johnston",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "68",
+          "occupier": "Margaret Robinson",
+          "lessor": "Samuel Russell",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "69",
+          "occupier": "Samuel Russell",
+          "lessor": "Marquis of Londonderry",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "9 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "70",
+          "occupier": "Hugh Cairns",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "71",
+          "occupier": "Hugh Todd",
+          "lessor": "David Patton",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "72",
+          "occupier": "James Murray",
+          "lessor": "Robert Agnew",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "73",
+          "occupier": "John M'Clune",
+          "lessor": "Marquis of Londonderry",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "74",
+          "occupier": "George Purdy",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "75",
+          "occupier": "Joseph Nicholson",
+          "lessor": "Thomas Strain",
+          "desc": "H (part of),O,& yard",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "76",
+          "occupier": "Ruth Robinson",
+          "lessor": "James Jamison",
+          "desc": "H",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "77",
+          "occupier": "Jane Cochrane",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "78",
+          "occupier": "Jane Rainey",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "COURT-STREET. (T. P. 15 & 11.)",
+          "occupier": "James Finlay",
+          "lessor": "Marquis of Londonderry",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "15 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "George Apperson",
+          "lessor": "James Finlay",
+          "desc": "H,O,and yard",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Anne Simmonds",
+          "lessor": "Same",
+          "desc": "H,O,and yard",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Mary M'Cormack, David M'Clean and others",
+          "lessor": "Thomas Montgomery",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "5",
+          "occupier": "Unoccupied",
+          "lessor": "James Hiles",
+          "desc": "H (part of),O,& yd.",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "James Hiles",
+          "lessor": "Marquis of Londonderry",
+          "desc": "H (part of) & sm. gar.",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Robert Bailey",
+          "lessor": "James Hiles",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Horatio Doggart",
+          "lessor": "William Dobbyn",
+          "desc": "H, work-rooms, yard, & sm. garden",
+          "building_val": "16 0 0",
+          "total_val": "16 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "8",
+          "occupier": "Horatio Doggart",
+          "lessor": "William Dobbyn",
+          "desc": "H, work-rooms, yard, & sm. garden",
+          "building_val": "16 0 0",
+          "total_val": "16 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9",
+          "occupier": "David Gilmer",
+          "lessor": "George Fife",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Robert Muntz",
+          "lessor": "Marquis of Londonderry",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Thomas Muntz",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "7 10 0",
+          "total_val": "7 10 0"
+        }
+      ]
+    }
+  ]
+}

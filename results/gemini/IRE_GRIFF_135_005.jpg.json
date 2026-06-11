@@ -1,0 +1,313 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF BALRAHEEN",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "BALRAHEEN",
+          "os": "10",
+          "occupier": "Michael Toole",
+          "lessor": "Samuel N. Watson, Esq.",
+          "desc": "H,O,&L",
+          "area": "7 2 35",
+          "land_val": "4 10 0",
+          "building_val": "1 5 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "2 A B",
+          "occupier": "James Gill",
+          "lessor": "Samuel N. Watson, Esq.",
+          "desc": "H,O,&L",
+          "area": "23 3 23",
+          "land_val": "16 0 0",
+          "building_val": "2 0 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Michael M'Gowan",
+          "lessor": "James Gill",
+          "desc": "H & G",
+          "area": "0 2 8",
+          "land_val": "0 10 0",
+          "building_val": "0 3 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Gill",
+          "lessor": "Samuel N. Watson, Esq.",
+          "desc": "L",
+          "area": "1 3 0",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Peter Clarke",
+          "lessor": "Samuel N. Watson, Esq.",
+          "desc": "H & O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "William Maher",
+          "lessor": "Samuel N. Watson, Esq.",
+          "desc": "H & L",
+          "area": "11 0 30",
+          "land_val": "6 5 0",
+          "building_val": "0 15 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Walsh",
+          "lessor": "William Maher",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Alexander Anderson",
+          "lessor": "Samuel N. Watson, Esq.",
+          "desc": "H,O,&L",
+          "area": "3 0 33",
+          "land_val": "2 0 0",
+          "building_val": "0 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Anne Gill",
+          "lessor": "Samuel N. Watson, Esq.",
+          "desc": "H,O,&L",
+          "area": "46 3 26",
+          "land_val": "31 5 0",
+          "building_val": "2 15 0",
+          "total_val": "34 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Matthew Gill",
+          "lessor": "Samuel N. Watson, Esq.",
+          "desc": "H,O,&L",
+          "area": "56 2 20",
+          "land_val": "37 10 0",
+          "building_val": "3 5 0",
+          "total_val": "40 15 0"
+        },
+        {
+          "mr": "8 A B a",
+          "occupier": "Peter Gill",
+          "lessor": "Samuel N. Watson, Esq.",
+          "desc": "H,O,&L",
+          "area": "5 2 7",
+          "land_val": "3 15 0",
+          "building_val": "0 15 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Peter Gill",
+          "lessor": "Mrs. Elizabeth Eives",
+          "desc": "L",
+          "area": "4 0 20",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Thomas Farrell",
+          "lessor": "Samuel N. Watson, Esq.",
+          "desc": "H,O,&L",
+          "area": "138 0 10",
+          "land_val": "97 0 0",
+          "building_val": "5 0 0",
+          "total_val": "102 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Thomas Walsh",
+          "lessor": "Samuel N. Watson, Esq.",
+          "desc": "Herd's ho., offices, & L",
+          "area": "142 0 21",
+          "land_val": "110 0 0",
+          "building_val": "2 5 0",
+          "total_val": "112 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Patrick Proctor",
+          "lessor": "Bridget Brien",
+          "desc": "H,O,&L",
+          "area": "36 2 10",
+          "land_val": "27 0 0",
+          "building_val": "1 10 0",
+          "total_val": "28 10 0"
+        },
+        {
+          "mr": "13 & 14 c",
+          "occupier": "Laurence Gill",
+          "lessor": "Bridget Brien",
+          "desc": "H,O,&L",
+          "area": "4 3 0",
+          "land_val": "3 10 0",
+          "building_val": "0 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "14 { a",
+          "occupier": "Bridget Brien",
+          "lessor": "Mrs. Elizabeth Eives",
+          "desc": "H & L",
+          "area": "6 3 14",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "{ b",
+          "occupier": "Edward Gill",
+          "lessor": "Bridget Brien",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "2 10 0",
+          "building_val": "1 0 0",
+          "total_val": "3 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "15",
+          "occupier": "Samuel Walsh",
+          "lessor": "Thomas Walsh",
+          "desc": "Herd's ho., offices, & L",
+          "area": "100 3 6",
+          "land_val": "134 5 0",
+          "building_val": "1 15 0",
+          "total_val": "136 0 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Samuel Walsh, x",
+          "lessor": "Mrs. Elizabeth Eives",
+          "desc": "H,O, corn-mill, & L",
+          "area": "41 0 2",
+          "land_val": "29 0 0",
+          "building_val": "20 0 0",
+          "total_val": "49 0 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "William Tracey",
+          "lessor": "Samuel N. Watson, Esq.",
+          "desc": "H,O,&L",
+          "area": "14 1 27",
+          "land_val": "14 0 0",
+          "building_val": "1 15 0",
+          "total_val": "15 15 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Sarah Canavan",
+          "lessor": "Thomas Farrell",
+          "desc": "H,O,&L",
+          "area": "1 1 5",
+          "land_val": "0 15 0",
+          "building_val": "2 0 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "707 1 17",
+          "land_val": "526 5 0",
+          "building_val": "48 15 0",
+          "total_val": "575 0 0",
+          "is_total": 1
+        }
+      ]
+    },
+    {
+      "parish": "PARISH OF BARREEN",
+      "entries": [
+        {
+          "mr": "1 A a B",
+          "townland": "BARREEN",
+          "os": "10",
+          "occupier": "Thomas Frayne",
+          "lessor": "Duke of Leinster",
+          "desc": "H,O,&L",
+          "area": "117 1 27",
+          "land_val": "88 0 0",
+          "building_val": "5 10 0",
+          "total_val": "93 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Patrick Frayne",
+          "lessor": "Ven. Archdn. E. Johnson",
+          "desc": "H,O,&L",
+          "area": "117 2 23",
+          "land_val": "92 10 0",
+          "building_val": "4 15 0",
+          "total_val": "97 5 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Grave-yard",
+          "lessor": "Ven. Archdn. E. Johnson",
+          "desc": "Grave-yard",
+          "area": "0 1 6",
+          "land_val": "0 4 0",
+          "building_val": "",
+          "total_val": "0 4 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "3 —",
+          "occupier": "Denis Dunne",
+          "lessor": "Ven. Archdn. E. Johnson",
+          "desc": "O & L",
+          "area": "59 3 33",
+          "land_val": "44 10 0",
+          "building_val": "0 10 0",
+          "total_val": "45 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "295 1 9",
+          "land_val": "225 4 0",
+          "building_val": "10 15 0",
+          "total_val": "235 19 0",
+          "is_total": 1
+        },
+        {
+          "desc": "Exemptions: Grave-yard",
+          "area": "0 1 6",
+          "land_val": "0 4 0",
+          "building_val": "",
+          "total_val": "0 4 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of exemptions",
+          "area": "295 0 3",
+          "land_val": "225 0 0",
+          "building_val": "10 15 0",
+          "total_val": "235 15 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

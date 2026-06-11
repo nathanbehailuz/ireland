@@ -1,0 +1,576 @@
+{
+  "parishes": [
+    {
+      "parish": "MUNGRET",
+      "entries": [
+        {
+          "mr": "4 a",
+          "townland": "DOORADOYLE",
+          "occupier": "John O'Shea",
+          "lessor": "George Gough, Esq.",
+          "desc": "H,O,L & embankment",
+          "area": "102 1 36",
+          "land_val": "110 17 0",
+          "building_val": "2 8 0",
+          "total_val": "113 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Thomas Holmes",
+          "lessor": "George Gough, Esq.",
+          "desc": "H,O,&L",
+          "area": "8 1 4",
+          "land_val": "9 17 0",
+          "building_val": "1 3 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Patrick M'Namara",
+          "lessor": "George Gough, Esq.",
+          "desc": "H,O,&L",
+          "area": "11 2 8",
+          "land_val": "15 8 0",
+          "building_val": "1 2 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Michael Ryan",
+          "lessor": "George Gough, Esq.",
+          "desc": "H,O,&L",
+          "area": "8 0 34",
+          "land_val": "11 12 0",
+          "building_val": "0 18 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Philip Shea",
+          "lessor": "George Gough, Esq.",
+          "desc": "H,O,&L",
+          "area": "16 2 10",
+          "land_val": "20 15 0",
+          "building_val": "1 15 0",
+          "total_val": "22 10 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Michael Flannery",
+          "lessor": "George Gough, Esq.",
+          "desc": "H&L",
+          "area": "1 2 22",
+          "land_val": "2 7 0",
+          "building_val": "0 16 0",
+          "total_val": "3 3 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "James Murphy",
+          "lessor": "George Gough, Esq.",
+          "desc": "H&L",
+          "area": "4 0 30",
+          "land_val": "5 9 0",
+          "building_val": "0 11 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Michael Nugent",
+          "lessor": "George Gough, Esq.",
+          "desc": "H&L",
+          "area": "1 3 33",
+          "land_val": "2 18 0",
+          "building_val": "0 12 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Bartholomew Nugent",
+          "lessor": "George Gough, Esq.",
+          "desc": "H,O,&L",
+          "area": "4 1 24",
+          "land_val": "6 7 0",
+          "building_val": "1 3 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "Henry Neill",
+          "lessor": "George Gough, Esq.",
+          "desc": "H,O,&L",
+          "area": "26 2 31",
+          "land_val": "34 18 0",
+          "building_val": "2 12 0",
+          "total_val": "37 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Vacant",
+          "lessor": "Henry Neill",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Mary Nagle",
+          "lessor": "Henry Neale",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Daniel Brennan",
+          "lessor": "George Gough, Esq.",
+          "desc": "L",
+          "area": "2 3 13",
+          "land_val": "3 3 0",
+          "building_val": "",
+          "total_val": "3 3 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Daniel Brennan",
+          "lessor": "George Gough, Esq.",
+          "desc": "L",
+          "area": "4 1 20",
+          "land_val": "5 7 0",
+          "building_val": "",
+          "total_val": "5 7 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "James Donovan",
+          "lessor": "George Gough, Esq.",
+          "desc": "H&L",
+          "area": "0 3 13",
+          "land_val": "1 2 0",
+          "building_val": "0 13 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "16 a",
+          "occupier": "John Nugent",
+          "lessor": "George Gough, Esq.",
+          "desc": "H,O,&L",
+          "area": "8 0 7",
+          "land_val": "9 15 0",
+          "building_val": "1 0 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "17 a",
+          "occupier": "Thomas Goonan",
+          "lessor": "George Gough, Esq.",
+          "desc": "H&L",
+          "area": "4 3 2",
+          "land_val": "6 2 0",
+          "building_val": "0 13 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "18 a",
+          "occupier": "William White",
+          "lessor": "George Gough, Esq.",
+          "desc": "H,O,&L",
+          "area": "2 2 32",
+          "land_val": "3 12 0",
+          "building_val": "0 18 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "19 A a",
+          "occupier": "Timothy Goonan",
+          "lessor": "George Gough, Esq.",
+          "desc": "L",
+          "area": "1 2 28",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "17 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "19 B a",
+          "occupier": "Timothy Goonan",
+          "lessor": "George Gough, Esq.",
+          "desc": "H&L",
+          "area": "9 1 9",
+          "land_val": "13 12 0",
+          "building_val": "1 8 0",
+          "total_val": "17 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "20",
+          "occupier": "Joseph Myles",
+          "lessor": "George Gough, Esq.",
+          "desc": "L",
+          "area": "20 3 27",
+          "land_val": "27 15 0",
+          "building_val": "",
+          "total_val": "27 15 0"
+        },
+        {
+          "mr": "21 a",
+          "occupier": "William Nugent",
+          "lessor": "George Gough, Esq.",
+          "desc": "H,O,&L",
+          "area": "4 2 25",
+          "land_val": "6 8 0",
+          "building_val": "1 2 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "22 a",
+          "occupier": "John Treahy",
+          "lessor": "George Gough, Esq.",
+          "desc": "H&L",
+          "area": "2 0 37",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "23 A a",
+          "occupier": "Michael Quann",
+          "lessor": "George Gough, Esq.",
+          "desc": "H,O,&L",
+          "area": "5 1 32",
+          "land_val": "7 17 0",
+          "building_val": "0 18 0",
+          "total_val": "16 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "23 B",
+          "occupier": "Michael Quann",
+          "lessor": "George Gough, Esq.",
+          "desc": "L",
+          "area": "5 3 3",
+          "land_val": "7 5 0",
+          "building_val": "",
+          "total_val": "16 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "A b",
+          "occupier": "Honoria Quann",
+          "lessor": "George Gough, Esq.",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 8 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "24 A",
+          "occupier": "Honoria Quann",
+          "lessor": "George Gough, Esq.",
+          "desc": "L",
+          "area": "1 2 24",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "4 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "24 B",
+          "occupier": "Honoria Quann",
+          "lessor": "George Gough, Esq.",
+          "desc": "L",
+          "area": "1 2 35",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "4 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "25 a",
+          "occupier": "John Lahiff",
+          "lessor": "George Gough, Esq.",
+          "desc": "H,O,&L",
+          "area": "13 2 18",
+          "land_val": "17 4 0",
+          "building_val": "1 1 0",
+          "total_val": "18 5 0"
+        },
+        {
+          "mr": "26 a",
+          "occupier": "Thaddeus Harty",
+          "lessor": "George Gough, Esq.",
+          "desc": "H&L",
+          "area": "15 3 9",
+          "land_val": "19 12 0",
+          "building_val": "0 18 0",
+          "total_val": "20 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Honoria Kiely (See also lot 28.)",
+          "lessor": "George Gough, Esq.",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "27 A",
+          "occupier": "George Gough, Esq.",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "6 1 27",
+          "land_val": "8 5 0",
+          "building_val": "",
+          "total_val": "11 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "27 B",
+          "occupier": "George Gough, Esq.",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "2 2 16",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "11 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "A a",
+          "occupier": "John White",
+          "lessor": "George Gough, Esq.",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Honoria Kiely",
+          "lessor": "George Gough, Esq.",
+          "desc": "L",
+          "area": "2 0 31",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "3 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "467 2 7",
+          "land_val": "576 13 0",
+          "building_val": "35 11 0",
+          "total_val": "612 4 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "DROMDARRIG",
+          "os": "13",
+          "occupier": "Rev. Thomas Westropp",
+          "lessor": "Bishop of Limerick",
+          "desc": "Church & burial ground",
+          "area": "1 2 22",
+          "land_val": "1 10 0",
+          "building_val": "14 0 0",
+          "total_val": "15 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Mrs. Frances Alton",
+          "lessor": "In fee",
+          "desc": "H,O,&L",
+          "area": "106 3 17",
+          "land_val": "141 10 0",
+          "building_val": "7 0 0",
+          "total_val": "148 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Walsh",
+          "lessor": "Mrs. Frances Alton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "John Halpin",
+          "lessor": "Mrs. Frances Alton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 13 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "William Malone",
+          "lessor": "Mrs. Frances Alton",
+          "desc": "H&L",
+          "area": "6 1 27",
+          "land_val": "8 12 0",
+          "building_val": "0 18 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Patrick Burns",
+          "lessor": "Mrs. Frances Alton",
+          "desc": "L",
+          "area": "2 1 26",
+          "land_val": "3 5 0",
+          "building_val": "",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "John Gaynon",
+          "lessor": "Mrs. Frances Alton",
+          "desc": "H,O,&L",
+          "area": "5 2 3",
+          "land_val": "7 12 0",
+          "building_val": "0 13 0",
+          "total_val": "8 5 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "James Dillon",
+          "lessor": "Mrs. Frances Alton",
+          "desc": "H,O,&L",
+          "area": "8 1 2",
+          "land_val": "10 18 0",
+          "building_val": "1 2 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "John Caffern",
+          "lessor": "Mrs. Frances Alton",
+          "desc": "H&L",
+          "area": "4 1 2",
+          "land_val": "5 2 0",
+          "building_val": "0 18 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Anne Collins",
+          "lessor": "Mrs. Frances Alton",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 2 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Anne Collins",
+          "lessor": "Mrs. Frances Alton",
+          "desc": "L",
+          "area": "5 2 20",
+          "land_val": "7 15 0",
+          "building_val": "",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Johanna Cullenan",
+          "lessor": "Mrs. Frances Alton",
+          "desc": "H,O,&L",
+          "area": "5 2 9",
+          "land_val": "7 9 0",
+          "building_val": "0 11 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "146 2 8",
+          "land_val": "193 13 0",
+          "building_val": "27 9 0",
+          "total_val": "221 2 0",
+          "is_total": 1
+        },
+        {
+          "desc": "Church & burial ground",
+          "area": "1 2 22",
+          "land_val": "1 10 0",
+          "building_val": "14 0 0",
+          "total_val": "15 10 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of Exemptions",
+          "area": "144 3 26",
+          "land_val": "192 3 0",
+          "building_val": "13 9 0",
+          "total_val": "205 12 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "GOULDAVOHER",
+          "os": "13",
+          "occupier": "Anne Daly",
+          "lessor": "George Gough, Esq.",
+          "desc": "H,O,&L",
+          "area": "9 1 37",
+          "land_val": "13 0 0",
+          "building_val": "1 15 0",
+          "total_val": "14 15 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Thomas Malony",
+          "lessor": "George Gough, Esq.",
+          "desc": "H,O,&L",
+          "area": "9 1 17",
+          "land_val": "12 15 0",
+          "building_val": "1 5 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Constabulary Force",
+          "lessor": "George Gough, Esq.",
+          "desc": "Police barrack and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Thomas Molony",
+          "lessor": "George Gough, Esq.",
+          "desc": "L",
+          "area": "3 0 37",
+          "land_val": "4 10 0",
+          "building_val": "",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Thomas O'Keeffe",
+          "lessor": "George Gough, Esq.",
+          "desc": "H,O,&L",
+          "area": "2 1 6",
+          "land_val": "3 2 0",
+          "building_val": "0 18 0",
+          "total_val": "4 0 0"
+        }
+      ]
+    }
+  ]
+}

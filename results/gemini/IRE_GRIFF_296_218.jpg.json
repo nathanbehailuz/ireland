@@ -1,0 +1,526 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF TIPPERARY",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "SPRINGFIELD",
+          "os": "59 & 67",
+          "occupier": "Laurence Murnane,",
+          "lessor": "Nicholas Sadlier, Esq.",
+          "desc": "H&L",
+          "area": "2 0 29",
+          "land_val": "2 10 0",
+          "building_val": "0 5 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Nicholas Sadlier, Esq.",
+          "lessor": "Jas. H. S. Barry, Esq.",
+          "desc": "O&L",
+          "area": "115 2 16",
+          "land_val": "161 15 0",
+          "building_val": "3 10 0",
+          "total_val": "165 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Martin Fitzgerald,",
+          "lessor": "Nicholas Sadlier, Esq.",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total,",
+          "area": "117 3 5",
+          "land_val": "164 5 0",
+          "building_val": "5 5 0",
+          "total_val": "169 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "TIPPERARYHILLS",
+          "os": "59 & 67",
+          "occupier": "William Flynn,",
+          "lessor": "Miss Honoria Scully,",
+          "desc": "H,O,&L",
+          "area": "13 0 20",
+          "land_val": "18 0 0",
+          "building_val": "1 15 0",
+          "total_val": "19 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "William Guerin,",
+          "lessor": "Miss Honoria Scully,",
+          "desc": "H,O,&L",
+          "area": "6 0 24",
+          "land_val": "8 5 0",
+          "building_val": "2 0 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Healy,",
+          "lessor": "Miss Honoria Scully,",
+          "desc": "H,O,&L",
+          "area": "5 3 23",
+          "land_val": "8 10 0",
+          "building_val": "1 15 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Denis Gooly,",
+          "lessor": "Miss Honoria Scully,",
+          "desc": "H,O,&L",
+          "area": "12 0 16",
+          "land_val": "11 10 0",
+          "building_val": "2 10 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Roger Birrane,",
+          "lessor": "Denis Gooly,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total,",
+          "area": "37 1 3",
+          "land_val": "46 5 0",
+          "building_val": "8 15 0",
+          "total_val": "55 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "TOWN-LOT",
+          "os": "67",
+          "sublocation_1": "TOWN OF TIPPERARY (Part of).",
+          "sublocation_2": "MAIN-STREET.",
+          "occupier": "Eleanor Driscoll,",
+          "lessor": "Thomas Adams, Esq.",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "13 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Thomas Ferris,",
+          "lessor": "Thomas Adams, Esq.",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "12 10 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "George Hutchins,",
+          "lessor": "Robert Buney,",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "9 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James Hurley,",
+          "lessor": "Jas. H. S. Barry, Esq.",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "9 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Richard Dalton,",
+          "lessor": "Jas. H. S. Barry, Esq.",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 20",
+          "land_val": "0 15 0",
+          "building_val": "33 0 0",
+          "total_val": "33 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Michael Coleman,",
+          "lessor": "Jas. H. S. Barry, Esq.",
+          "desc": "H,tan-yard,&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "49 0 0",
+          "total_val": "49 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Denis Dwyer,",
+          "lessor": "Lawrence Ryan,",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "14 10 0",
+          "total_val": "14 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Lawrence Ryan,",
+          "lessor": "Jas. H. S. Barry, Esq.",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 33",
+          "land_val": "1 0 0",
+          "building_val": "24 10 0",
+          "total_val": "25 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Thomas Hayes,",
+          "lessor": "Lawrence Ryan,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "14 10 0",
+          "total_val": "14 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "John Norris Russell and Sons,",
+          "lessor": "Lawrence Ryan,",
+          "desc": "H,shop,yard,&G",
+          "area": "0 0 13",
+          "land_val": "0 10 0",
+          "building_val": "24 10 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Patrick O'Donnell,",
+          "lessor": "Lawrence Ryan,",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "15 10 0",
+          "total_val": "15 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Bridget Myers,",
+          "lessor": "Thomas Ryan,",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "12 10 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "James Godfrey,",
+          "lessor": "Thomas Ryan,",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "12 10 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Michael Ryan,",
+          "lessor": "Thomas Ryan,",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 24",
+          "land_val": "0 15 0",
+          "building_val": "14 10 0",
+          "total_val": "15 5 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Mrs. Margt. O'Leary,",
+          "lessor": "Jas. H. S. Barry, Esq.",
+          "desc": "H,shop,O,yard,&G",
+          "area": "0 0 11",
+          "land_val": "0 10 0",
+          "building_val": "42 10 0",
+          "total_val": "43 0 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Michael Grant,",
+          "lessor": "William Tuomy,",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "11 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Margaret Sexton,",
+          "lessor": "William Smithwick,",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "14 10 0",
+          "total_val": "14 10 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Bernard O'Rourke,",
+          "lessor": "John Quinlan, Esq.",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "15 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Anne Flanagan,",
+          "lessor": "Chas. Wilkinson, Esq.",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "19 10 0",
+          "total_val": "19 10 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "John Dunne,",
+          "lessor": "Chas. Wilkinson, Esq.",
+          "desc": "H,store,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "18 10 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Edward Dillon,",
+          "lessor": "Chas. Wilkinson, Esq.",
+          "desc": "H,shop,&stores",
+          "area": "",
+          "land_val": "",
+          "building_val": "25 0 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Thomas Ryan,",
+          "lessor": "Mrs. Maria Louisa Hewston,",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 33",
+          "land_val": "1 0 0",
+          "building_val": "29 0 0",
+          "total_val": "30 0 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "John O'Leary,",
+          "lessor": "Mrs. Jane Prosser,",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "17 10 0",
+          "total_val": "17 10 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "James Tarrant,",
+          "lessor": "Mrs. Jane Prosser,",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "17 10 0",
+          "total_val": "17 10 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Jeremiah Cotter,",
+          "lessor": "Catherine Fitzgerald,",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "15 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "John Collins,",
+          "lessor": "Mrs. Honoria Scully & others,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "17 0 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Michael Greene,",
+          "lessor": "Avary Holmes, Esq.",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 24",
+          "land_val": "0 15 0",
+          "building_val": "28 0 0",
+          "total_val": "28 15 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Thomas Harney,",
+          "lessor": "James Daly,",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 17",
+          "land_val": "0 10 0",
+          "building_val": "36 0 0",
+          "total_val": "36 10 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "John Costelloe,",
+          "lessor": "Thomas Harney,",
+          "desc": "Shop&rooms",
+          "area": "",
+          "land_val": "",
+          "building_val": "10 10 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Mary M'Grath,",
+          "lessor": "Jeremiah Finn and William Fitzgerald,",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "19 10 0",
+          "total_val": "19 10 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Vacant,",
+          "lessor": "Jeremiah Finn and William Fitzgerald,",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "22 0 0",
+          "total_val": "22 0 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "John England,",
+          "lessor": "Richard Harney,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "13 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "John England,",
+          "lessor": "John Ryan,",
+          "desc": "O&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "John Ryan,",
+          "lessor": "Mrs. Slattery,",
+          "desc": "H,O,yard,&G",
+          "area": "0 1 14",
+          "land_val": "2 0 0",
+          "building_val": "30 10 0",
+          "total_val": "32 10 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "John Bradshaw,",
+          "lessor": "Mrs. Slattery,",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "18 10 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Mrs. Mary O'Donnell, and Richard Molloy,",
+          "lessor": "Reps. — Slattery, Esq.",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "19 0 0",
+          "total_val": "19 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "37",
+          "occupier": "Richard Molloy,",
+          "lessor": "Patrick Morrissy,",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "30 10 0",
+          "total_val": "30 10 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "James Harcourt,",
+          "lessor": "Thomas Cotter,",
+          "desc": "H,O,yard,&G",
+          "area": "0 1 11",
+          "land_val": "2 0 0",
+          "building_val": "34 10 0",
+          "total_val": "36 10 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "Theobald Morrissy,",
+          "lessor": "Mrs. Wilhelmina Armstrong,",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "38 0 0",
+          "total_val": "38 0 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "Simon Armstrong,",
+          "lessor": "Mrs. Wilhelmina Armstrong,",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "29 10 0",
+          "total_val": "29 10 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "James Davis,",
+          "lessor": "Mrs. Wilhelmina Armstrong,",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "23 0 0",
+          "total_val": "23 0 0"
+        }
+      ]
+    }
+  ]
+}

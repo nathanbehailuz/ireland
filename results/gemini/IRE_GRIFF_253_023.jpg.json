@@ -1,0 +1,529 @@
+{
+  "parishes": [
+    {
+      "parish": "AHAMLISH",
+      "entries": [
+        {
+          "mr": "10 a",
+          "townland": "EDENREAGH",
+          "os": "2",
+          "occupier": "James Conway",
+          "lessor": "Viscount Palmerston",
+          "desc": "L&H",
+          "area": "10 0 10",
+          "land_val": "4 15 0",
+          "building_val": "0 15 0",
+          "total_val": "5 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "11",
+          "occupier": "John Gallagher",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "5 0 37",
+          "land_val": "1 10 0",
+          "building_val": "0 5 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Michael Horkin",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "4 2 36",
+          "land_val": "1 10 0",
+          "building_val": "0 10 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "John Horkin",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "5 2 10",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "Michael Burne",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "12 3 4",
+          "land_val": "5 10 0",
+          "building_val": "0 15 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Viscount Palmerston, In fee",
+          "lessor": "",
+          "desc": "L(B)",
+          "area": "14 0 15",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "16",
+          "occupier": "Viscount Palmerston, In fee",
+          "lessor": "",
+          "desc": "L(sand-hills)",
+          "area": "99 3 37",
+          "land_val": "5 0 0",
+          "building_val": "",
+          "total_val": "5 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "17 a",
+          "occupier": "Patrick M'Gowan",
+          "lessor": "Viscount Palmerston",
+          "desc": "L&H",
+          "area": "4 3 30",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "18 a",
+          "occupier": "James M'Gowan",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "7 1 0",
+          "land_val": "3 10 0",
+          "building_val": "0 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "19 a",
+          "occupier": "Thomas Finnigan",
+          "lessor": "Same",
+          "desc": "L&O",
+          "area": "8 0 15",
+          "land_val": "2 10 0",
+          "building_val": "0 5 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "246 2 27",
+          "land_val": "57 18 0",
+          "building_val": "7 2 0",
+          "total_val": "65 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "MULLAGHMORE, WEST",
+          "os": "2",
+          "occupier": "Viscount Palmerston, In fee",
+          "lessor": "",
+          "desc": "L",
+          "area": "133 3 1",
+          "land_val": "6 10 0",
+          "building_val": "",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "133 3 1",
+          "land_val": "6 10 0",
+          "building_val": "",
+          "total_val": "6 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "NEWTOWNCLIFFONY",
+          "os": "2",
+          "occupier": "Viscount Palmerston, In fee",
+          "lessor": "",
+          "desc": "L&herd's H",
+          "area": "28 2 29",
+          "land_val": "2 15 0",
+          "building_val": "0 15 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Gilmartin",
+          "lessor": "Viscount Palmerston",
+          "desc": "L",
+          "area": "6 3 21",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 1
+        },
+        {
+          "mr": "3 a",
+          "occupier": "James Gilmartin",
+          "lessor": "Viscount Palmerston",
+          "desc": "L&H",
+          "area": "9 2 17",
+          "land_val": "4 15 0",
+          "building_val": "1 0 0",
+          "total_val": "9 5 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "4 a",
+          "occupier": "William Gillespy",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "0 3 13",
+          "land_val": "0 8 0",
+          "building_val": "0 17 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Catherine Gillespy",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "2 0 6",
+          "land_val": "1 0 0",
+          "building_val": "1 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Mary Gillespy",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "8 0 37",
+          "land_val": "4 5 0",
+          "building_val": "0 15 0",
+          "total_val": "",
+          "n_shared": 1
+        },
+        {
+          "mr": "7",
+          "occupier": "Mary Gillespy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 0 26",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "6 0 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Daniel Conway",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "4 0 5",
+          "land_val": "2 5 0",
+          "building_val": "0 15 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Edward Gillespy, jun.",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "5 2 20",
+          "land_val": "2 10 0",
+          "building_val": "1 0 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Andrew Gillespy",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "15 2 28",
+          "land_val": "7 15 0",
+          "building_val": "1 0 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "John Gallagher",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "3 3 0",
+          "land_val": "2 0 0",
+          "building_val": "1 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Edward Gillespy, sen.",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "6 1 33",
+          "land_val": "3 10 0",
+          "building_val": "1 0 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "Patrick Cullen",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "7 3 27",
+          "land_val": "3 15 0",
+          "building_val": "0 15 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Patrick Conway",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 8",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "105 0 30",
+          "land_val": "40 18 0",
+          "building_val": "9 17 0",
+          "total_val": "50 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "ISLANDS",
+          "os": "1",
+          "sublocation_1": "No. 1, INISHMURRAY ISLAND",
+          "occupier": "John Waters",
+          "lessor": "Viscount Palmerston",
+          "desc": "L&H",
+          "area": "57 1 0",
+          "land_val": "8 0 0",
+          "building_val": "0 15 0",
+          "total_val": "8 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Martin Heraghty",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "",
+          "land_val": "4 0 0",
+          "building_val": "0 10 0",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 a",
+          "occupier": "James Heraghty",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "49 2 10",
+          "land_val": "7 2 0",
+          "building_val": "0 8 0",
+          "total_val": "7 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Henry Hart",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "",
+          "land_val": "2 7 0",
+          "building_val": "0 3 0",
+          "total_val": "2 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "2 c",
+          "occupier": "John Boyle",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "",
+          "land_val": "5 2 0",
+          "building_val": "0 8 0",
+          "total_val": "5 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Bridget Brady",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "45 0 28",
+          "land_val": "3 8 0",
+          "building_val": "0 7 0",
+          "total_val": "3 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "3 b",
+          "occupier": "Bridget Brady",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "3 c",
+          "occupier": "Patrick Brady",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "",
+          "land_val": "1 2 0",
+          "building_val": "",
+          "total_val": "1 2 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "4",
+          "occupier": "Thomas Hoy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "38 0 5",
+          "land_val": "1 3 0",
+          "building_val": "",
+          "total_val": "1 3 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "4",
+          "occupier": "William Brady",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "4",
+          "occupier": "Bridget Heraghty",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Bridget Heraghty",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "19 0 2",
+          "land_val": "0 15 0",
+          "building_val": "0 2 0",
+          "total_val": "0 17 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "5 b",
+          "occupier": "William Brady",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "",
+          "land_val": "0 15 0",
+          "building_val": "0 2 0",
+          "total_val": "0 17 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "5 c",
+          "occupier": "Thomas Hoy",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "",
+          "land_val": "1 10 0",
+          "building_val": "0 5 0",
+          "total_val": "1 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "-",
+          "occupier": "Patrick Brady",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "John Waters and the other Tenants of this Townland",
+          "lessor": "Same",
+          "desc": "Right of seaweed",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "209 0 5",
+          "land_val": "38 19 0",
+          "building_val": "3 0 0",
+          "total_val": "51 19 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "ISLANDS",
+          "os": "2 & 5",
+          "sublocation_1": "No. 2, CONOR'S ISLAND",
+          "occupier": "James O'Connor",
+          "lessor": "Ormsby Jones",
+          "desc": "L,H,&O",
+          "area": "111 0 30",
+          "land_val": "21 0 0",
+          "building_val": "1 0 0",
+          "total_val": "22 0 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "1 a",
+          "occupier": "James O'Connor",
+          "lessor": "Ormsby Jones",
+          "desc": "Right of seaweed",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "20 0 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "111 0 30",
+          "land_val": "21 0 0",
+          "building_val": "1 0 0",
+          "total_val": "42 0 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

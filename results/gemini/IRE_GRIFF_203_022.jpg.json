@@ -1,0 +1,545 @@
+{
+  "parishes": [
+    {
+      "parish": "ARDEE",
+      "entries": [
+        {
+          "mr": "5 a",
+          "townland": "TOWNPARKS",
+          "occupier": "James M'Gill",
+          "lessor": "Nathaniel Milling",
+          "desc": "House and bog",
+          "area": "2 2 36",
+          "land_val": "0 4 0",
+          "building_val": "0 4 0",
+          "total_val": "0 8 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "5 b",
+          "occupier": "Henry M'Cullagh",
+          "lessor": "Nathaniel Milling",
+          "desc": "House and bog",
+          "area": "2 2 36",
+          "land_val": "0 4 0",
+          "building_val": "0 4 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Blaney T. Balfour",
+          "lessor": "In fee",
+          "desc": "Bog",
+          "area": "6 3 22",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Terence M'Cabe",
+          "lessor": "Bryan Rooney",
+          "desc": "House, garden, & bog",
+          "area": "4 3 6",
+          "land_val": "0 16 0",
+          "building_val": "0 4 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Patrick Nugent",
+          "lessor": "Alexander Lee",
+          "desc": "Land and bog",
+          "area": "9 3 32",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "John Reilly",
+          "lessor": "Alexander Lee",
+          "desc": "Land and bog",
+          "area": "9 3 32",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Bernard M'Loughlin",
+          "lessor": "William Ruxton",
+          "desc": "Land",
+          "area": "4 2 26",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Bernard M'Loughlin",
+          "lessor": "In fee",
+          "desc": "Land",
+          "area": "7 1 12",
+          "land_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Michael Murphy",
+          "lessor": "Rev. Arthur Ellis",
+          "desc": "House and gardens",
+          "area": "1 2 0",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "John Casey",
+          "lessor": "Same",
+          "desc": "Land",
+          "area": "4 2 14",
+          "land_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "John Casey",
+          "lessor": "William Filgate",
+          "desc": "Land and bog",
+          "area": "12 3 27",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "John Casey",
+          "lessor": "Major Ruxton",
+          "desc": "House and bog",
+          "area": "13 1 3",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "John Casey",
+          "lessor": "Major Ruxton",
+          "desc": "Turbary",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "James Swinburn",
+          "lessor": "Free",
+          "desc": "Bog",
+          "area": "13 1 35",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "James Swinburn",
+          "lessor": "Free",
+          "desc": "Turbary",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "James Swinburn",
+          "lessor": "Rev. A. J. Montgomery",
+          "desc": "Land",
+          "area": "8 1 13",
+          "land_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "16 a",
+          "occupier": "Patrick M Quillan",
+          "lessor": "James Swinburn",
+          "desc": "House",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "John M'Cartney",
+          "lessor": "James Malone",
+          "desc": "Land and bog",
+          "area": "7 1 1",
+          "land_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "17 a",
+          "occupier": "Bridget Moore",
+          "lessor": "Same",
+          "desc": "House & small garden",
+          "building_val": "0 4 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "John M'Cartney",
+          "lessor": "John Woolsey",
+          "desc": "Bog (turbary)",
+          "area": "3 3 9",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Thomas Meade",
+          "lessor": "James Gray",
+          "desc": "Bog",
+          "area": "1 0 0",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Thomas Malone",
+          "lessor": "Same",
+          "desc": "Bog (turbary)",
+          "area": "5 3 2",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "William Hatch",
+          "lessor": "In fee",
+          "desc": "Bog (turbary)",
+          "area": "3 1 7",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "21 a",
+          "occupier": "Owen M'Entegart",
+          "lessor": "William Hatch",
+          "desc": "House and bog",
+          "area": "2 2 0",
+          "land_val": "0 14 0",
+          "building_val": "0 6 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Nicholas Arthur",
+          "lessor": "William Munkittrick",
+          "desc": "Bog",
+          "area": "2 1 20",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Andrew Pepper",
+          "lessor": "In fee",
+          "desc": "Bog (turbary)",
+          "area": "3 1 22",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "23 a",
+          "occupier": "Thomas Malone",
+          "lessor": "Andrew Pepper",
+          "desc": "House and garden",
+          "area": "1 1 0",
+          "land_val": "0 9 0",
+          "building_val": "0 6 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "James Mertin",
+          "lessor": "William Munkittrick",
+          "desc": "Bog (turbary)",
+          "area": "3 0 39",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "John M'Cartney",
+          "lessor": "William Munkittrick",
+          "desc": "Bog (turbary)",
+          "area": "3 0 39",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "24 a",
+          "occupier": "John English",
+          "lessor": "John M'Cartney",
+          "desc": "House and garden",
+          "area": "0 3 20",
+          "land_val": "0 6 0",
+          "building_val": "0 9 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "John English",
+          "lessor": "John Woolsey",
+          "desc": "Bog (turbary)",
+          "area": "3 0 35",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Patrick Crosbie",
+          "lessor": "Foster & Blayney T. Balfour",
+          "desc": "Bog",
+          "area": "13 3 27",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Patrick Crosbie",
+          "lessor": "Foster & Blayney T. Balfour",
+          "desc": "Turbary",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Patrick Finnigan",
+          "lessor": "Rev. A. Nixon and James Bellew",
+          "desc": "Land and bog",
+          "area": "9 1 4",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Patrick Finnigan",
+          "lessor": "Francis Manning (minor)",
+          "desc": "House and bog",
+          "area": "14 3 17",
+          "land_val": "3 0 0",
+          "building_val": "0 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Patrick Finnigan",
+          "lessor": "William Ruxton",
+          "desc": "Bog",
+          "area": "4 3 9",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Ellen Carey",
+          "lessor": "Clement Mullin",
+          "desc": "House, land, and bog",
+          "area": "4 3 15",
+          "land_val": "1 0 0",
+          "building_val": "0 4 0",
+          "total_val": "1 4 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Joseph Hoey",
+          "lessor": "Patrick Nugent",
+          "desc": "House and bog",
+          "area": "5 0 31",
+          "land_val": "0 16 0",
+          "building_val": "0 4 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Joseph Hoey",
+          "lessor": "Patrick Nugent",
+          "desc": "Turbary",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "James M'Cabe",
+          "lessor": "William Munkittrick",
+          "desc": "Bog (turbary)",
+          "area": "3 3 31",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "John Finnigan",
+          "lessor": "William Gunnell",
+          "desc": "House and bog",
+          "area": "5 0 5",
+          "land_val": "1 6 0",
+          "building_val": "0 4 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "John Finnigan",
+          "lessor": "William Gunnell",
+          "desc": "Turbary",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Thomas M'Donnell",
+          "lessor": "Peter Winters",
+          "desc": "House and bog",
+          "area": "4 0 22",
+          "land_val": "0 16 0",
+          "building_val": "0 4 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Christopher Saul",
+          "lessor": "Blayney T. Balfour",
+          "desc": "Bog",
+          "area": "3 0 34",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Christopher Saul",
+          "lessor": "Blayney T. Balfour",
+          "desc": "Turbary",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "James Tierney",
+          "lessor": "Free",
+          "desc": "House and bog",
+          "area": "4 2 39",
+          "land_val": "1 4 0",
+          "building_val": "0 6 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "James Tierney",
+          "lessor": "Free",
+          "desc": "Turbary",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "Denis M'Cunnell",
+          "lessor": "Henry Hamil and William Armstrong",
+          "desc": "House and bog",
+          "area": "4 1 8",
+          "land_val": "0 16 0",
+          "building_val": "0 4 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "37 a",
+          "occupier": "Henry Hamil",
+          "lessor": "Mrs. Parkinson Ruxton",
+          "desc": "Turbary",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "37 a",
+          "occupier": "William Armstrong",
+          "lessor": "Mrs. Parkinson Ruxton",
+          "desc": "Turbary",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Denis M'Cunnell",
+          "lessor": "James Bellew",
+          "desc": "Bog",
+          "area": "8 1 34",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Catherine M'Manus",
+          "lessor": "James Bellew",
+          "desc": "Bog",
+          "area": "8 1 34",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "38 a",
+          "occupier": "Denis M'Cunnell",
+          "lessor": "Same",
+          "desc": "Turbary",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "38 a",
+          "occupier": "Catherine M'Manus",
+          "lessor": "Same",
+          "desc": "Turbary",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "Daniel Martin",
+          "lessor": "Patrick Brennan",
+          "desc": "Land",
+          "area": "4 0 15",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "39 a",
+          "occupier": "Daniel Martin",
+          "lessor": "Same",
+          "desc": "Bog (turbary)",
+          "area": "4 1 18",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "Bernard Mathews",
+          "lessor": "Same",
+          "desc": "Bog (turbary)",
+          "area": "4 1 18",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "40 a",
+          "occupier": "Patrick M'Cartney",
+          "lessor": "Same",
+          "desc": "Bog (turbary)",
+          "area": "4 1 18",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "Patrick Boyle",
+          "lessor": "Arthur Barlow",
+          "desc": "Bog",
+          "area": "7 0 2",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "Patrick Boyle",
+          "lessor": "Arthur Barlow",
+          "desc": "Turbary",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "John Halfpenny",
+          "lessor": "Thomas L. Norman",
+          "desc": "Bog",
+          "area": "5 1 18",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "John Halfpenny",
+          "lessor": "Thomas L. Norman",
+          "desc": "Turbary",
+          "total_val": "2 10 0"
+        }
+      ]
+    }
+  ]
+}

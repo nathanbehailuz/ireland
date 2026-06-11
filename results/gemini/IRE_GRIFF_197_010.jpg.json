@@ -1,0 +1,300 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF FIDDOWN",
+      "entries": [
+        {
+          "mr": "15 a",
+          "townland": "RAHEEN",
+          "os": "39",
+          "occupier": "William Daniel",
+          "lessor": "Peter Walsh",
+          "desc": "H,O,&L",
+          "area": "116 0 34",
+          "land_val": "21 0 0",
+          "building_val": "4 15 0",
+          "total_val": "25 15 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "15 b",
+          "occupier": "John Daniel, jun.",
+          "lessor": "Peter Walsh",
+          "desc": "H,O,&L",
+          "area": "116 0 34",
+          "land_val": "21 0 0",
+          "building_val": "5 15 0",
+          "total_val": "26 15 0"
+        },
+        {
+          "mr": "16 ABC & 12 Bb",
+          "occupier": "Thomas Walsh",
+          "lessor": "Peter Walsh",
+          "desc": "H&L",
+          "area": "5 1 4",
+          "land_val": "1 17 0",
+          "building_val": "0 18 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "3 AB a",
+          "townland": "SANDPITS",
+          "os": "39",
+          "occupier": "Hugh Carroll",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "26 2 25",
+          "land_val": "24 15 0",
+          "building_val": "3 15 0",
+          "total_val": "28 10 0"
+        },
+        {
+          "mr": "4 a & 6 b",
+          "occupier": "John Cormack",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "8 2 34",
+          "land_val": "8 0 0",
+          "building_val": "2 10 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "- pt. of 6 b",
+          "occupier": "Earl of Bessborough",
+          "lessor": "In fee",
+          "desc": "G",
+          "area": "0 0 25",
+          "land_val": "0 3 0",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "1",
+          "townland": "TEMPLEORUM",
+          "os": "39",
+          "occupier": "Earl of Bessborough",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "2 3 1",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "3 AB a & 4",
+          "occupier": "Thomas Byrne",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "24 1 6",
+          "land_val": "9 0 0",
+          "building_val": "1 5 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "3 B b",
+          "occupier": "Mary Flynn",
+          "lessor": "Earl of Bessborough",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 11 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Furniss",
+          "lessor": "Earl of Bessborough",
+          "desc": "L",
+          "area": "4 3 0",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "2 & 6 AB, 8 B c &, 7 B b",
+          "occupier": "Michael Harte",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "29 3 3",
+          "land_val": "11 0 0",
+          "building_val": "1 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "- 7 B a, 15 a & 7 B",
+          "occupier": "John Shaw",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "3 2 16",
+          "land_val": "2 14 0",
+          "building_val": "1 6 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Pierce Patrick",
+          "lessor": "Earl of Bessborough",
+          "desc": "H&small G",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Vacant",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&G",
+          "area": "0 2 14",
+          "land_val": "0 10 0",
+          "building_val": "2 15 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Ellen Johnston",
+          "lessor": "Earl of Bessborough",
+          "desc": "L",
+          "area": "1 2 36",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "Part of 17 a",
+          "occupier": "Daniel Whelan",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "35 3 21",
+          "land_val": "25 10 0",
+          "total_val": "25 10 0"
+        },
+        {
+          "mr": "19 & pt. of 17 f",
+          "occupier": "James Holden",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "4 0 27",
+          "land_val": "1 10 0",
+          "building_val": "1 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "2",
+          "townland": "TINNAKILLY",
+          "os": "39",
+          "occupier": "John Carew",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,flour & corn-mill,&L",
+          "area": "7 3 30",
+          "land_val": "5 0 0",
+          "building_val": "15 0 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Henry Daniel",
+          "lessor": "John Walsh",
+          "desc": "L",
+          "area": "43 1 13",
+          "land_val": "37 0 0",
+          "total_val": "37 0 0"
+        },
+        {
+          "mr": "6a & pt. of 5 b",
+          "occupier": "Thomas Walsh",
+          "lessor": "John Walsh",
+          "desc": "H,O,&L",
+          "area": "47 1 29",
+          "land_val": "34 10 0",
+          "building_val": "2 10 0",
+          "total_val": "37 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "John Quinan",
+          "lessor": "John Walsh",
+          "desc": "H,O,&L",
+          "area": "93 1 0",
+          "land_val": "94 10 0",
+          "building_val": "8 10 0",
+          "total_val": "103 0 0"
+        },
+        {
+          "mr": "4 A B C D a",
+          "townland": "TOBERNABRONE",
+          "os": "39",
+          "occupier": "Thomas Sexton",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "25 0 30",
+          "land_val": "8 10 0",
+          "building_val": "2 0 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "- 12a a(pt. of) b",
+          "occupier": "Earl of Bessborough",
+          "lessor": "In fee",
+          "desc": "G",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "18 19 A 20 & parts of 19 B 23 A & 23 B",
+          "occupier": "William Power",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "51 2 17",
+          "land_val": "22 0 0",
+          "building_val": "2 10 0",
+          "total_val": "24 10 0"
+        },
+        {
+          "mr": "19 A B, a 20 21 & 22",
+          "occupier": "Mary Butler",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "8 3 20",
+          "land_val": "3 15 0",
+          "building_val": "1 10 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "Pts. of 19 B & 23 B",
+          "occupier": "Mary Clancy",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "2 0 29",
+          "land_val": "1 10 0",
+          "building_val": "1 0 0",
+          "total_val": "2 10 0"
+        }
+      ]
+    },
+    {
+      "parish": "PARISH OF KILMACOW",
+      "entries": [
+        {
+          "mr": "5 & 2 c a",
+          "townland": "BALLYGRIFFIN",
+          "os": "43",
+          "occupier": "John Clancey",
+          "lessor": "Patk. Delahunty, sen.",
+          "desc": "H,O,&L",
+          "area": "1 0 3",
+          "land_val": "1 5 0",
+          "building_val": "3 15 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "1 A a B b & part of 2",
+          "townland": "BALLYNEARLA",
+          "os": "43",
+          "occupier": "Thomas Walsh",
+          "lessor": "Rep. of David O'N. Power, Esq.",
+          "desc": "H,O,&L",
+          "area": "118 1 11",
+          "land_val": "83 15 0",
+          "building_val": "6 10 0",
+          "total_val": "90 5 0"
+        }
+      ]
+    }
+  ]
+}

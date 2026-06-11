@@ -1,0 +1,485 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF ERRIGAL TROUGH",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "KILLYLOUGHAVOY",
+          "os": "3",
+          "occupier": "Mary M'Caghey",
+          "lessor": "Henry, William, and Charles Crofton",
+          "desc": "H,O,&L",
+          "area": "16 2 20",
+          "land_val": "9 10 0",
+          "building_val": "1 0 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Catherine M'Kenna",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "10 3 20",
+          "land_val": "5 5 0",
+          "building_val": "0 10 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick M'Kenna",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "18 1 30",
+          "land_val": "7 15 0",
+          "building_val": "0 10 0",
+          "total_val": "8 5 0"
+        },
+        {
+          "mr": "4 A",
+          "occupier": "Peter M'Kenna",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "15 3 0",
+          "land_val": "7 15 0",
+          "building_val": "0 10 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Peter M'Kenna",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 2 10",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "5 A a",
+          "occupier": "Edward Halligan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "4 2 10",
+          "land_val": "1 18 0",
+          "building_val": "0 15 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Edward Halligan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 1 10",
+          "land_val": "1 12 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- C",
+          "occupier": "Edward Halligan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 1 20",
+          "land_val": "4 15 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "b",
+          "occupier": "John Sonna",
+          "lessor": "Edward Halligan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Ardle M'Kenna",
+          "lessor": "Henry, William, and Charles Crofton",
+          "desc": "H,O,&L",
+          "area": "14 3 23",
+          "land_val": "7 5 0",
+          "building_val": "0 10 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "97 1 23",
+          "land_val": "48 5 0",
+          "building_val": "4 0 0",
+          "total_val": "52 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "KILLYREASK",
+          "os": "3",
+          "occupier": "Bernard Sweeny",
+          "lessor": "Thomas Singleton",
+          "desc": "H&L",
+          "area": "5 1 35",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "2 A a",
+          "occupier": "Michael M'Elmeel",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "13 1 20",
+          "land_val": "7 0 0",
+          "building_val": "1 0 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Michael M'Elmeel",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 0 25",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "3 A a",
+          "occupier": "Pk. M'Kenna (Jn. Roe)",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "14 2 25",
+          "land_val": "8 0 0",
+          "building_val": "0 15 0",
+          "total_val": "15 5 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Pk. M'Kenna (Jn. Roe)",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "14 2 35",
+          "land_val": "6 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "4 A a",
+          "occupier": "Catherine M'Kenna",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 0 0",
+          "land_val": "5 5 0",
+          "building_val": "0 15 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Catherine M'Kenna",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 1 15",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "desc": "Total",
+          "area": "68 2 35",
+          "land_val": "35 5 0",
+          "building_val": "3 0 0",
+          "total_val": "38 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "MULLAGHSELSANA",
+          "os": "3",
+          "occupier": "Hugh M'Kenna",
+          "lessor": "Charles P. Leslie",
+          "desc": "H,O,&L",
+          "area": "14 0 10",
+          "land_val": "7 10 0",
+          "building_val": "1 0 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Arthur M'Geough",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 1 36",
+          "land_val": "5 15 0",
+          "building_val": "1 0 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Michl. Mullen (Edwd.)",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 0 20",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Michl. Mullen (Edwd.)",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 0 24",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": ""
+        },
+        {
+          "mr": "4",
+          "occupier": "Michl. Mullen (Peter)",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 1 25",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Michl. Mullen (Peter)",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 20",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "5",
+          "occupier": "Thomas M'Cullagh",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "15 0 36",
+          "land_val": "7 10 0",
+          "building_val": "0 10 0",
+          "total_val": "4 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5",
+          "occupier": "James M'Cullagh",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "15 0 36",
+          "land_val": "7 10 0",
+          "building_val": "0 10 0",
+          "total_val": "4 0 0",
+          "n_shared": 2
+        },
+        {
+          "desc": "Total",
+          "area": "46 2 11",
+          "land_val": "23 12 0",
+          "building_val": "2 18 0",
+          "total_val": "26 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A a",
+          "townland": "MULLANACROSS",
+          "os": "3",
+          "occupier": "Jas. M'Kenna (Edwd.)",
+          "lessor": "Kane Bunbury",
+          "desc": "H,O,&L",
+          "area": "20 3 5",
+          "land_val": "15 15 0",
+          "building_val": "2 0 0",
+          "total_val": "20 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "Edwd. M'Kenna (Jas. Edward)",
+          "lessor": "Jas. M'Kenna (Edwd.)",
+          "desc": "H,O,&L",
+          "area": "3 0 30",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "20 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2",
+          "occupier": "Cormack Kieran",
+          "lessor": "Kane Bunbury",
+          "desc": "H,O,&L",
+          "area": "5 2 15",
+          "land_val": "4 5 0",
+          "building_val": "1 0 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "William M'Afee",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 3 15",
+          "land_val": "8 0 0",
+          "building_val": "1 10 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Thomas Quinn",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "3 0 35",
+          "land_val": "2 5 0",
+          "building_val": "0 15 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Philip Quinn",
+          "lessor": "Thomas Quinn",
+          "desc": "L",
+          "area": "3 2 35",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Philip Quinn",
+          "lessor": "Thomas Quinn",
+          "desc": "H, forge, & gar.",
+          "area": "0 0 20",
+          "land_val": "0 3 0",
+          "building_val": "0 12 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Owen M'Kenna (Edwd.)",
+          "lessor": "Kane Bunbury",
+          "desc": "H&L",
+          "area": "5 0 6",
+          "land_val": "3 5 0",
+          "building_val": "0 5 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Robert Dawson",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "51 1 30",
+          "land_val": "29 15 0",
+          "building_val": "2 5 0",
+          "total_val": "32 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Jn. M'Kenna (labourer)",
+          "lessor": "Robert Dawson",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Hugh O'Neill",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 9 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- e",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "John M'Kenna",
+          "lessor": "Kane Bunbury",
+          "desc": "H&L",
+          "area": "9 1 15",
+          "land_val": "4 5 0",
+          "building_val": "0 5 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Peter M'Kenna",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "7 1 5",
+          "land_val": "3 15 0",
+          "building_val": "0 5 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Peter M'Carn",
+          "lessor": "Same",
+          "desc": "Herd's house & land",
+          "area": "9 0 15",
+          "land_val": "4 15 0",
+          "building_val": "0 5 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Grave-yard",
+          "lessor": "(See Exemptions.)",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "",
+          "is_exemption": 1
+        },
+        {
+          "mr": "- a",
+          "occupier": "School-house",
+          "lessor": "(See Exemptions.)",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total of Rateable Property",
+          "area": "130 2 36",
+          "land_val": "80 19 0",
+          "building_val": "11 1 0",
+          "total_val": "92 0 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

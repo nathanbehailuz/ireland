@@ -1,0 +1,693 @@
+{
+  "parishes": [
+    {
+      "parish": "ROSENALLIS",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "AVOLEY",
+          "os": "7",
+          "occupier": "Isaac Griffith",
+          "lessor": "James Watson",
+          "desc": "H,O,&L",
+          "area": "37 2 24",
+          "land_val": "14 0 0",
+          "building_val": "2 15 0",
+          "total_val": "16 15 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "- b",
+          "occupier": "John Griffith",
+          "lessor": "Isaac Griffith",
+          "desc": "H,O,&G",
+          "area": "0 3 12",
+          "land_val": "0 10 0",
+          "building_val": "1 0 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Bently",
+          "lessor": "Isaac Griffith",
+          "desc": "H&G",
+          "area": "0 3 6",
+          "land_val": "0 10 0",
+          "building_val": "0 10 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Patrick Moran",
+          "lessor": "James Watson",
+          "desc": "H&L",
+          "area": "13 0 6",
+          "land_val": "5 0 0",
+          "building_val": "0 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Michael Dunne",
+          "lessor": "James Watson",
+          "desc": "H,O,&L",
+          "area": "20 2 16",
+          "land_val": "4 0 0",
+          "building_val": "0 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "William Mahon",
+          "lessor": "James Watson",
+          "desc": "H&L",
+          "area": "20 2 16",
+          "land_val": "2 0 0",
+          "building_val": "0 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "James Mahon",
+          "lessor": "James Watson",
+          "desc": "H,O,&L",
+          "area": "20 2 16",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Isaac Langford",
+          "lessor": "James Watson",
+          "desc": "H,O,&L",
+          "area": "33 3 2",
+          "land_val": "10 10 0",
+          "building_val": "1 0 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Marquis of Drogheda",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "65 3 0",
+          "land_val": "33 0 0",
+          "building_val": "",
+          "total_val": "33 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Elizabeth Brien",
+          "lessor": "James Watson",
+          "desc": "H&L",
+          "area": "3 1 29",
+          "land_val": "2 5 0",
+          "building_val": "0 10 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Cornelius Westman",
+          "lessor": "James Watson",
+          "desc": "H,O,&L",
+          "area": "5 2 25",
+          "land_val": "2 5 0",
+          "building_val": "0 10 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "8 A",
+          "occupier": "John Quigly",
+          "lessor": "James Watson",
+          "desc": "L",
+          "area": "2 0 34",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "John Quigly",
+          "lessor": "James Watson",
+          "desc": "H,O,&L",
+          "area": "2 0 11",
+          "land_val": "0 15 0",
+          "building_val": "0 10 0",
+          "total_val": ""
+        },
+        {
+          "mr": "9 a",
+          "occupier": "John Flynn",
+          "lessor": "James Watson",
+          "desc": "H,O,&L",
+          "area": "14 1 16",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Edward Flynn",
+          "lessor": "James Watson",
+          "desc": "H,O,&L",
+          "area": "14 1 16",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Anne Dunne",
+          "lessor": "Edward Flynn",
+          "desc": "H&G",
+          "area": "0 0 16",
+          "land_val": "0 2 0",
+          "building_val": "0 5 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Patrick Kearney",
+          "lessor": "James Watson",
+          "desc": "H,O,&L",
+          "area": "4 0 37",
+          "land_val": "1 15 0",
+          "building_val": "0 5 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "11 A a",
+          "occupier": "John Griffith",
+          "lessor": "James Watson",
+          "desc": "L",
+          "area": "9 1 8",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "11 A b",
+          "occupier": "John Griffith",
+          "lessor": "James Watson",
+          "desc": "L",
+          "area": "1 1 33",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "11 A c",
+          "occupier": "John Griffith",
+          "lessor": "James Watson",
+          "desc": "L",
+          "area": "13 2 0",
+          "land_val": "5 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "12",
+          "occupier": "Bryan Mahon",
+          "lessor": "John Sabatier",
+          "desc": "H&L",
+          "area": "2 1 20",
+          "land_val": "1 10 0",
+          "building_val": "0 10 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "13 A",
+          "occupier": "John Sabatier",
+          "lessor": "James Watson",
+          "desc": "L",
+          "area": "9 1 14",
+          "land_val": "7 0 0",
+          "building_val": "",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "John Sabatier",
+          "lessor": "James Watson",
+          "desc": "L",
+          "area": "1 1 25",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "14",
+          "occupier": "Maria Hall",
+          "lessor": "James Watson",
+          "desc": "H,O,&L",
+          "area": "27 1 21",
+          "land_val": "16 10 0",
+          "building_val": "2 10 0",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Robert Knaggs",
+          "lessor": "George Shannon",
+          "desc": "L",
+          "area": "4 1 32",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "16 a",
+          "occupier": "George Shannon",
+          "lessor": "Marquis of Drogheda",
+          "desc": "O&L",
+          "area": "9 2 36",
+          "land_val": "8 0 0",
+          "building_val": "1 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Robert Knaggs",
+          "lessor": "George Shannon",
+          "desc": "H,O,&gar.",
+          "area": "0 0 28",
+          "land_val": "0 5 0",
+          "building_val": "1 0 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Patrick Dempsey",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "15 0 30",
+          "land_val": "10 0 0",
+          "building_val": "1 10 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "18 a",
+          "occupier": "Arthur Harding",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&gar.",
+          "area": "0 3 20",
+          "land_val": "0 15 0",
+          "building_val": "0 15 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Humphrey Harding",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "3 1 19",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "John Dunne",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "2 1 34",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "William Boland",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "9 2 8",
+          "land_val": "7 10 0",
+          "building_val": "1 5 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "21 a",
+          "occupier": "William Napier",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H&L",
+          "area": "1 0 17",
+          "land_val": "1 0 0",
+          "building_val": "0 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Vacant",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H&G",
+          "area": "0 1 17",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Richard Graham",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "2 3 7",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "320 1 4",
+          "land_val": "158 7 0",
+          "building_val": "19 15 0",
+          "total_val": "178 2 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BALLYHUPPAHANE",
+          "os": "7",
+          "occupier": "James M'Loughlan",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "16 2 20",
+          "land_val": "8 0 0",
+          "building_val": "0 15 0",
+          "total_val": "8 15 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Charles Thompson",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "50 0 28",
+          "land_val": "23 0 0",
+          "building_val": "3 5 0",
+          "total_val": "26 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "John M'Cormack",
+          "lessor": "Charles Thompson",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Fitzpatrick",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "1 3 39",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Patrick Rooney",
+          "lessor": "Patrick Fitzpatrick",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "John Graham",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "58 1 38",
+          "land_val": "22 0 0",
+          "building_val": "1 5 0",
+          "total_val": "23 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "John Roe",
+          "lessor": "James Graham",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 2 0",
+          "building_val": "0 5 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Wesleyan Met. Chapel",
+          "lessor": "Marquis of Drogheda",
+          "desc": "Wesleyan Met. Chapel",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "William Fitzpatrick",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "7 1 15",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Margaret Costello",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H&L",
+          "area": "1 3 17",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "7 A a",
+          "occupier": "Edward Flynn",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "7 2 32",
+          "land_val": "4 0 0",
+          "building_val": "0 15 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "7 A b",
+          "occupier": "Edward Flynn",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "2 2 32",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "7 A c",
+          "occupier": "Edward Flynn",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "3 3 5",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "7 B d",
+          "occupier": "Anne Turner",
+          "lessor": "Edward Flynn",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "8 A",
+          "occupier": "George Pigott",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "57 1 37",
+          "land_val": "18 0 0",
+          "building_val": "1 0 0",
+          "total_val": "23 0 0"
+        },
+        {
+          "mr": "8 B",
+          "occupier": "George Pigott",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "27 3 26",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "-",
+          "occupier": "William Brien",
+          "lessor": "George Pigott",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Patrick Sullivan",
+          "lessor": "George Pigott",
+          "desc": "H,O,&L",
+          "area": "2 2 10",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Denis Deegan",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "12 0 14",
+          "land_val": "5 10 0",
+          "building_val": "0 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "11 A",
+          "occupier": "Nicholas Mooney",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "3 3 18",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "11 B",
+          "occupier": "Nicholas Mooney",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "16 2 37",
+          "land_val": "8 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "-",
+          "occupier": "George Fury",
+          "lessor": "Nicholas Mooney",
+          "desc": "H,O,&G",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Vacant",
+          "lessor": "Nicholas Mooney",
+          "desc": "H,O,&G",
+          "area": "0 0 38",
+          "land_val": "0 3 0",
+          "building_val": "0 10 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "William Lewis",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "46 0 7",
+          "land_val": "15 10 0",
+          "building_val": "1 0 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Christopher Lalor",
+          "lessor": "William Lewis",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 2 0",
+          "building_val": "0 5 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Joseph Beale",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L (plantation)",
+          "area": "11 1 31",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Catherine Flynn",
+          "lessor": "John Hipwell",
+          "desc": "H&L",
+          "area": "2 1 38",
+          "land_val": "1 0 0",
+          "building_val": "0 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Marquis of Drogheda",
+          "lessor": "In fee",
+          "desc": "H,O,&L",
+          "area": "49 3 31",
+          "land_val": "22 0 0",
+          "building_val": "2 0 0",
+          "total_val": "24 0 0"
+        },
+        {
+          "mr": "16 A",
+          "occupier": "Matthew Fitzpatrick",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "74 2 2",
+          "land_val": "20 0 0",
+          "building_val": "",
+          "total_val": "21 10 0"
+        },
+        {
+          "mr": "16 B",
+          "occupier": "Matthew Fitzpatrick",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "31 1 0",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "17 A a",
+          "occupier": "James Myles",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H,O,&L",
+          "area": "71 3 26",
+          "land_val": "29 0 0",
+          "building_val": "1 15 0",
+          "total_val": "31 5 0"
+        },
+        {
+          "mr": "17 A b",
+          "occupier": "James Myles",
+          "lessor": "Marquis of Drogheda",
+          "desc": "L",
+          "area": "25 0 9",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": ""
+        }
+      ]
+    }
+  ]
+}

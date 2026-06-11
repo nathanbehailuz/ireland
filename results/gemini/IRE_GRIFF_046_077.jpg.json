@@ -1,0 +1,407 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF FERMOY",
+      "entries": [
+        {
+          "mr": "48",
+          "townland": "FERMOY",
+          "sublocation_1": "TOWN OF FERMOY",
+          "sublocation_2": "POUND-LANE",
+          "occupier": "Thos. Bourke & another",
+          "lessor": "James Murphy,",
+          "desc": "H,yard,and G,",
+          "area": "0 0 10",
+          "land_val": "0 5 0",
+          "building_val": "1 5 0",
+          "total_val": "1 10 0",
+          "n_shared": 2,
+          "is_continued": 1
+        },
+        {
+          "mr": "49",
+          "occupier": "Lodgers,",
+          "lessor": "Same,",
+          "desc": "H,yard,and G,",
+          "area": "0 0 10",
+          "land_val": "0 5 0",
+          "building_val": "1 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "50",
+          "occupier": "Daniel Hume,",
+          "lessor": "John Carey,",
+          "desc": "H,yard,and G,",
+          "area": "0 0 10",
+          "land_val": "0 5 0",
+          "building_val": "1 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "51",
+          "occupier": "Hanora Lawlor,",
+          "lessor": "Sir Robt. Abercrombie, Bart.",
+          "desc": "H,yard,and G",
+          "area": "0 0 10",
+          "land_val": "0 5 0",
+          "building_val": "1 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "52",
+          "occupier": "Lodgers,",
+          "lessor": "John Callaghan,",
+          "desc": "H and yard,",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "53",
+          "occupier": "John Murley,",
+          "lessor": "Same,",
+          "desc": "H,yard,and G,",
+          "area": "0 0 16",
+          "land_val": "0 5 0",
+          "building_val": "1 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "54",
+          "occupier": "Unoccupied,",
+          "lessor": "William Ryan,",
+          "desc": "H,yard,and G,",
+          "area": "0 0 10",
+          "land_val": "0 5 0",
+          "building_val": "1 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "55",
+          "occupier": "Unoccupied,",
+          "lessor": "Edward Kirby,",
+          "desc": "H,yard,and G,",
+          "area": "0 0 10",
+          "land_val": "0 5 0",
+          "building_val": "1 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "56",
+          "occupier": "Eliza Nolan,",
+          "lessor": "Bryan Gorman,",
+          "desc": "H,yard,and G,",
+          "area": "0 0 10",
+          "land_val": "0 5 0",
+          "building_val": "1 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "57",
+          "occupier": "Ellen Walsh,",
+          "lessor": "Sir Robt. Abercrombie, Bart.",
+          "desc": "H,yard,and G,",
+          "area": "0 0 10",
+          "land_val": "0 5 0",
+          "building_val": "1 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "58",
+          "occupier": "Rt. Rev. Timothy Murphy, d.d.",
+          "lessor": "Same,",
+          "desc": "O and yard,",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "59",
+          "occupier": "John Cotter & Partner,",
+          "lessor": "Same,",
+          "desc": "H, yard, and L,",
+          "area": "2 1 23",
+          "land_val": "4 5 0",
+          "building_val": "2 10 0",
+          "total_val": "6 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "GRUBB'S-HILL",
+          "occupier": "Unoccupied,",
+          "lessor": "Robert Bailey,",
+          "desc": "Building-ground,",
+          "area": "0 0 4",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Halloran,",
+          "lessor": "Same,",
+          "desc": "H,",
+          "building_val": "1 2 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Catherine Walsh,",
+          "lessor": "Same,",
+          "desc": "H,",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Denis Drislane,",
+          "lessor": "Same,",
+          "desc": "H,",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "QUEEN SQUARE",
+          "occupier": "Jones Turner,",
+          "lessor": "Daniel Donovan,",
+          "desc": "H,",
+          "building_val": "36 0 0",
+          "total_val": "36 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Daniel O'Callaghan,",
+          "lessor": "Sir Robt. Abercrombie, Bart.",
+          "desc": "H and yard,",
+          "building_val": "44 0 0",
+          "total_val": "44 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "William Magnier,",
+          "lessor": "Margaret Fitt,",
+          "desc": "H and yard,",
+          "building_val": "42 0 0",
+          "total_val": "42 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Nicholas W. Roche,",
+          "lessor": "Sir Robt. Abercrombie, Bart.",
+          "desc": "H and yard,",
+          "building_val": "39 0 0",
+          "total_val": "39 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Cotter,",
+          "lessor": "Same,",
+          "desc": "H and yard,",
+          "building_val": "45 0 0",
+          "total_val": "45 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "John Cotter,",
+          "lessor": "Jane Cotter,",
+          "desc": "O,",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Jane Cotter,",
+          "lessor": "Sir Robt. Abercrombie, Bart.",
+          "desc": "H, O, and yard,",
+          "building_val": "39 0 0",
+          "total_val": "39 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "John Denehy,",
+          "lessor": "Reps. James Daly and Martin Lewis,",
+          "desc": "H,",
+          "building_val": "36 0 0",
+          "total_val": "36 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "John Sullivan,",
+          "lessor": "Ellen Waters,",
+          "desc": "H,",
+          "building_val": "28 0 0",
+          "total_val": "28 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Johanna Denehy,",
+          "lessor": "James Carroll,",
+          "desc": "H and O,",
+          "building_val": "36 0 0",
+          "total_val": "36 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "John Sullivan,",
+          "lessor": "Daniel Sullivan,",
+          "desc": "H,",
+          "building_val": "39 0 0",
+          "total_val": "39 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Daniel Sullivan,",
+          "lessor": "Sir Robt. Abercrombie, Bart.",
+          "desc": "H and yard,",
+          "building_val": "46 0 0",
+          "total_val": "46 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Jeremiah Dowling,",
+          "lessor": "Catherine Johnson,",
+          "desc": "H, O, and yard,",
+          "building_val": "46 0 0",
+          "total_val": "46 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "William Sherriff,",
+          "lessor": "Jeremiah Dowling,",
+          "desc": "H, O, and yard,",
+          "building_val": "32 0 0",
+          "total_val": "32 0 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Walter Denehy,",
+          "lessor": "Sir Robt. Abercrombie, Bart.",
+          "desc": "H, O, and yard,",
+          "building_val": "38 0 0",
+          "total_val": "38 0 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Messrs. Law & Johnson,",
+          "lessor": "Same,",
+          "desc": "H,",
+          "building_val": "37 0 0",
+          "total_val": "37 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "17",
+          "occupier": "Thomas M'Kee,",
+          "lessor": "Homer Land,",
+          "desc": "H,",
+          "building_val": "22 10 0",
+          "total_val": "22 10 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Thomas M'Kee,",
+          "lessor": "Mary Murphy,",
+          "desc": "H and yard,",
+          "building_val": "35 10 0",
+          "total_val": "35 10 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Frances Carey,",
+          "lessor": "Homer Land,",
+          "desc": "H (upper part) & yard",
+          "building_val": "24 0 0",
+          "total_val": "24 0 0"
+        },
+        {
+          "mr": "19 a",
+          "occupier": "J. Young,",
+          "lessor": "Same,",
+          "desc": "H (part of),",
+          "building_val": "14 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Unoccupied,",
+          "lessor": "Michael Myles,",
+          "desc": "H and yard,",
+          "building_val": "48 0 0",
+          "total_val": "48 0 0"
+        },
+        {
+          "mr": "20 a",
+          "occupier": "Bridget O'Mara,",
+          "lessor": "Same,",
+          "desc": "H and yard,",
+          "building_val": "32 0 0",
+          "total_val": "32 0 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Patrick Cahill,",
+          "lessor": "Sir Robt. Abercrombie, Bart.",
+          "desc": "H (hotel), O & yd.",
+          "building_val": "90 0 0",
+          "total_val": "90 0 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Patrick Cahill,",
+          "lessor": "Same,",
+          "desc": "Posting establishment, viz., O and yard,",
+          "building_val": "23 0 0",
+          "total_val": "23 0 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "WEST-QUAY",
+          "occupier": "Charles Bianconi,",
+          "lessor": "Mary Murphy,",
+          "desc": "O and yard,",
+          "building_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Samuel Little,",
+          "lessor": "Same,",
+          "desc": "O,",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Edward Kirby,",
+          "lessor": "Same,",
+          "desc": "O and yard,",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Mathew Henly,",
+          "lessor": "Sir Robt. Abercrombie, Bart.",
+          "desc": "O,",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Flynn,",
+          "lessor": "Mary Murphy,",
+          "desc": "Smithy,",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Edward Kirby,",
+          "lessor": "Same,",
+          "desc": "H and O,",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        }
+      ]
+    }
+  ]
+}

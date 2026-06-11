@@ -1,0 +1,479 @@
+{
+  "parishes": [
+    {
+      "parish": "KILLEEN",
+      "entries": [
+        {
+          "mr": "4 a",
+          "townland": "KILLEEN",
+          "os": "",
+          "occupier": "George Webb",
+          "lessor": "Earl of Fingal",
+          "desc": "H&L",
+          "area": "4 0 5",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "5 a",
+          "occupier": "John Daly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "16 1 5",
+          "land_val": "12 15 0",
+          "building_val": "0 15 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Nicholas Sherlock",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 1 13",
+          "land_val": "0 7 0",
+          "building_val": "0 18 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Martin Stapleton",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 1 0",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Christian M'Cann",
+          "lessor": "Same",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Patrick Stapleton",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 1 4",
+          "land_val": "0 5 0",
+          "building_val": "1 0 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- e",
+          "occupier": "Michael Martin",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 1 0",
+          "land_val": "0 5 0",
+          "building_val": "1 0 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- f",
+          "occupier": "Peter Rourke",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 1 0",
+          "land_val": "0 5 0",
+          "building_val": "1 0 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- g",
+          "occupier": "Patrick Russell",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 1 0",
+          "land_val": "0 5 0",
+          "building_val": "1 0 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- h",
+          "occupier": "Thomas Grace",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 1 0",
+          "land_val": "0 5 0",
+          "building_val": "1 0 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Waste of road, &c.",
+          "area": "0 2 19",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Thomas Brabazon",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "13 2 15",
+          "land_val": "10 10 0",
+          "building_val": "1 0 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "William Weldon",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 2 6",
+          "land_val": "0 8 0",
+          "building_val": "1 2 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "John Mulligan",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 2 6",
+          "land_val": "0 8 0",
+          "building_val": "1 2 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "John Reilly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "121 0 39",
+          "land_val": "95 0 0",
+          "building_val": "3 0 0",
+          "total_val": "98 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Bridget Reilly",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 0 17",
+          "land_val": "0 3 0",
+          "building_val": "0 9 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Anne Cullen",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 3 0",
+          "building_val": "0 7 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Thomas Dungan",
+          "lessor": "John Reilly",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 3 0",
+          "building_val": "0 7 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- e",
+          "occupier": "Catherine Stapleton",
+          "lessor": "Earl of Fingal",
+          "desc": "H,O,&G",
+          "area": "0 1 0",
+          "land_val": "0 7 0",
+          "building_val": "0 8 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Thomas Lynch",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "27 0 25",
+          "land_val": "27 0 0",
+          "building_val": "",
+          "total_val": "27 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Peter Stapleton",
+          "lessor": "Thomas Lynch",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Thomas Smith",
+          "lessor": "Earl of Fingal",
+          "desc": "Herd's ho., offis., & land",
+          "area": "2 3 22",
+          "land_val": "2 5 0",
+          "building_val": "0 10 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "Owen Hart",
+          "lessor": "Same",
+          "desc": "Steward's house, offices, and garden",
+          "area": "6 1 33",
+          "land_val": "0 10 0",
+          "building_val": "1 5 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "John Fitzsimmons",
+          "lessor": "Same",
+          "desc": "Ho., forge, offs., & land",
+          "area": "18 0 0",
+          "land_val": "17 0 0",
+          "building_val": "2 0 0",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "15 a",
+          "occupier": "Earl of Fingal",
+          "lessor": "In fee",
+          "desc": "Castle, offices, and land",
+          "area": "904 2 39",
+          "land_val": "1010 0 0",
+          "building_val": "90 0 0",
+          "total_val": "1100 0 0"
+        },
+        {
+          "mr": "16 a",
+          "occupier": "Lord Dunsany",
+          "lessor": "Earl of Fingal",
+          "desc": "H&L",
+          "area": "54 1 30",
+          "land_val": "60 0 0",
+          "building_val": "6 0 0",
+          "total_val": "66 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "1264 1 0",
+          "land_val": "1325 13 0",
+          "building_val": "118 19 0",
+          "total_val": "1444 12 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "SMITHSTOWN",
+          "os": "38",
+          "occupier": "Walter Logan",
+          "lessor": "Earl of Fingal",
+          "desc": "H,O,&L",
+          "area": "294 1 9",
+          "land_val": "302 0 0",
+          "building_val": "18 0 0",
+          "total_val": "320 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "John Mulvey",
+          "lessor": "Walter Logan",
+          "desc": "H&G",
+          "area": "0 0 8",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Patrick Swan",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 0 8",
+          "land_val": "0 2 0",
+          "building_val": "0 18 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "294 1 25",
+          "land_val": "302 4 0",
+          "building_val": "19 6 0",
+          "total_val": "321 10 0",
+          "is_total": 1
+        }
+      ]
+    },
+    {
+      "parish": "KILMOON",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "ALLCOLLEGE",
+          "os": "39",
+          "occupier": "James Keogh",
+          "lessor": "Richard Bailie and Henry Radcliffe",
+          "desc": "L",
+          "area": "17 1 38",
+          "land_val": "16 0 0",
+          "building_val": "",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Carpenter",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "18 0 32",
+          "land_val": "15 0 0",
+          "building_val": "",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Catherine Austin",
+          "lessor": "James Carpenter",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Patrick Dignan",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 4 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Bernard Connolly",
+          "lessor": "Richard Bailie and Henry Radcliffe",
+          "desc": "H,O,&L",
+          "area": "20 1 18",
+          "land_val": "16 10 0",
+          "building_val": "1 0 0",
+          "total_val": "17 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "56 0 8",
+          "land_val": "47 10 0",
+          "building_val": "2 4 0",
+          "total_val": "49 14 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "BALLYHACK",
+          "os": "38 & 39",
+          "occupier": "Jane M'Dermott",
+          "lessor": "Hamilton Gorges",
+          "desc": "H,O,&L",
+          "area": "64 3 35",
+          "land_val": "62 10 0",
+          "building_val": "2 10 0",
+          "total_val": "65 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "James Keogh",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "62 1 14",
+          "land_val": "53 15 0",
+          "building_val": "1 5 0",
+          "total_val": "55 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Andrew Murphy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "15 0 39",
+          "land_val": "12 5 0",
+          "building_val": "0 15 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "142 2 8",
+          "land_val": "128 10 0",
+          "building_val": "4 10 0",
+          "total_val": "133 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "COOLFORE",
+          "os": "39",
+          "occupier": "Hamilton Gorges",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "75 1 4",
+          "land_val": "54 0 0",
+          "building_val": "",
+          "total_val": "54 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Vacant",
+          "lessor": "Hamilton Gorges",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Andrew Murphy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "17 1 2",
+          "land_val": "11 0 0",
+          "building_val": "",
+          "total_val": "11 0 0"
+        }
+      ]
+    }
+  ]
+}

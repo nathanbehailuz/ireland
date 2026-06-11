@@ -1,0 +1,491 @@
+{
+  "parishes": [
+    {
+      "parish": "KILDRUMSHERDAN",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "CORICK",
+          "os": "17",
+          "occupier": "James Malone",
+          "lessor": "John Townley",
+          "desc": "H,O,&L",
+          "area": "7 3 19",
+          "land_val": "3 15 0",
+          "building_val": "0 15 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "John Martin",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 1 9",
+          "land_val": "7 0 0",
+          "building_val": "0 15 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "2 b",
+          "occupier": "William Higginbotham",
+          "lessor": "John Martin",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Thomas Martin",
+          "lessor": "John Townley",
+          "desc": "H,O,&L",
+          "area": "24 0 18",
+          "land_val": "17 10 0",
+          "building_val": "0 15 0",
+          "total_val": "21 15 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "4",
+          "occupier": "Thomas Martin",
+          "lessor": "John Townley",
+          "desc": "L",
+          "area": "5 1 39",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "21 15 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Thomas Fannin",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "18 3 23",
+          "land_val": "12 10 0",
+          "building_val": "1 0 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "5 b",
+          "occupier": "Mary Green",
+          "lessor": "Thomas Fannin",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Thomas Dyas",
+          "lessor": "John Townley",
+          "desc": "H,O,&L",
+          "area": "114 2 33",
+          "land_val": "97 0 0",
+          "building_val": "3 0 0",
+          "total_val": "100 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "181 1 21",
+          "land_val": "141 5 0",
+          "building_val": "6 15 0",
+          "total_val": "148 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "CORNABEAGH",
+          "os": "22",
+          "occupier": "William Falloon",
+          "lessor": "Church Educ. Society",
+          "desc": "H,O,&L",
+          "area": "2 0 12",
+          "land_val": "1 5 0",
+          "building_val": "1 15 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Church Education Society's school-house",
+          "lessor": "No rent (see Exemptions)",
+          "desc": "O&yard",
+          "area": "0 0 12",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "1 c",
+          "occupier": "Owen Foy",
+          "lessor": "Lord Bishop of Kilmore",
+          "desc": "L",
+          "area": "20 0 17",
+          "land_val": "8 0 0",
+          "building_val": "",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Richard Roundtree",
+          "lessor": "Same",
+          "desc": "H&small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Patrick Moghan",
+          "lessor": "Richard Roundtree",
+          "desc": "H&small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2 c",
+          "occupier": "Charles Garahan",
+          "lessor": "Same",
+          "desc": "H,O,&gar.",
+          "area": "0 0 13",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Reilly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 1 29",
+          "land_val": "3 15 0",
+          "building_val": "",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Richard Roundtree",
+          "lessor": "Lord Bishop of Kilmore",
+          "desc": "L",
+          "area": "10 0 0",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John M'Iver",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "35 1 24",
+          "land_val": "16 8 0",
+          "building_val": "1 0 0",
+          "total_val": "17 10 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "6",
+          "occupier": "John M'Iver",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 0 0",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "17 10 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "7",
+          "occupier": "James Brady",
+          "lessor": "John M'Iver",
+          "desc": "H,O,&L",
+          "area": "3 1 17",
+          "land_val": "1 8 0",
+          "building_val": "0 12 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "William Roundtree",
+          "lessor": "Lord Bishop of Kilmore",
+          "desc": "L",
+          "area": "12 0 37",
+          "land_val": "6 5 0",
+          "building_val": "",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Michael Hanigan",
+          "lessor": "William Roundtree",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Cornelius Cooney",
+          "lessor": "Lord Bishop of Kilmore",
+          "desc": "H&L",
+          "area": "1 0 23",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Anne Dobbyn",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "24 0 6",
+          "land_val": "9 0 0",
+          "building_val": "",
+          "total_val": "9 0 0"
+        },
+        {
+          "desc": "Total of Rateable Property",
+          "area": "117 0 2",
+          "land_val": "49 15 0",
+          "building_val": "5 5 0",
+          "total_val": "55 0 0",
+          "is_total": 1
+        },
+        {
+          "desc": "EXEMPTIONS:",
+          "is_exemption": 1
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Church Education Society's school-house",
+          "lessor": "Lord Bishop of Kilmore",
+          "desc": "Church Education Society's school-house",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, including Exemptions",
+          "area": "117 0 2",
+          "land_val": "49 15 0",
+          "building_val": "6 15 0",
+          "total_val": "56 10 0",
+          "is_total": 1,
+          "is_exemption": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CORNABRAHER",
+          "os": "17",
+          "occupier": "Thomas Magennis",
+          "lessor": "Maxwell W. Boyle",
+          "desc": "O&L",
+          "area": "7 0 18",
+          "land_val": "4 10 0",
+          "building_val": "0 5 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Edward Magennis",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 0 11",
+          "land_val": "5 5 0",
+          "building_val": "",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Marsden",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "18 3 17",
+          "land_val": "10 0 0",
+          "building_val": "",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James Drinnan",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "6 1 0",
+          "land_val": "4 15 0",
+          "building_val": "0 15 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Thomas Brady",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "5 2 17",
+          "land_val": "3 15 0",
+          "building_val": "0 15 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Henry M'Auley",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "12 2 14",
+          "land_val": "8 10 0",
+          "building_val": "1 10 0",
+          "total_val": "15 15 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "7",
+          "occupier": "Henry M'Auley",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 2 22",
+          "land_val": "5 15 0",
+          "building_val": "",
+          "total_val": "15 15 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Arthur Foster",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "4 1 34",
+          "land_val": "3 0 0",
+          "building_val": "0 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "8 b",
+          "occupier": "James Reagrah",
+          "lessor": "Arthur Foster",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Samuel Martin",
+          "lessor": "Maxwell W. Boyle",
+          "desc": "L",
+          "area": "30 0 12",
+          "land_val": "28 5 0",
+          "building_val": "",
+          "total_val": "28 10 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "10",
+          "occupier": "Samuel Martin",
+          "lessor": "Maxwell W. Boyle",
+          "desc": "L",
+          "area": "0 2 10",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "28 10 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "11",
+          "occupier": "John Cusack",
+          "lessor": "Samuel Martin",
+          "desc": "H,O,&L",
+          "area": "0 3 20",
+          "land_val": "0 15 0",
+          "building_val": "0 10 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Terence Nolan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 0 24",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Terence Nolan",
+          "lessor": "Maxwell W. Boyle",
+          "desc": "H,O,&L",
+          "area": "11 0 3",
+          "land_val": "8 5 0",
+          "building_val": "1 0 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Thomas Tummin",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "27 2 20",
+          "land_val": "23 0 0",
+          "building_val": "4 0 0",
+          "total_val": "27 0 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Henry Morrow",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "6 3 17",
+          "land_val": "5 15 0",
+          "building_val": "0 10 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "John Smith",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "6 3 17",
+          "land_val": "5 15 0",
+          "building_val": "0 10 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Maxwell W. Boyle",
+          "lessor": "In fee",
+          "desc": "L (cut-away B)",
+          "area": "31 3 26",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "199 2 2",
+          "land_val": "121 15 0",
+          "building_val": "11 5 0",
+          "total_val": "133 0 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

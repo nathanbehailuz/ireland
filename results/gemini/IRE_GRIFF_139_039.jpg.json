@@ -1,0 +1,347 @@
+{
+  "parishes": [
+    {
+      "parish": "KILBEACON",
+      "entries": [
+        {
+          "mr": "22",
+          "townland": "GARRANDARRAGH",
+          "occupier": "Michael Cashen,",
+          "lessor": "Rev. John T. Moore, Lewis Moore, Esq, and the Misses Moore,",
+          "desc": "L",
+          "area": "0 3 2",
+          "land_val": "0 18 0",
+          "building_val": "",
+          "total_val": "0 18 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "23",
+          "occupier": "Laurence Fleming,",
+          "lessor": "Rev. John T. Moore, Lewis Moore, Esq, and the Misses Moore,",
+          "desc": "L",
+          "area": "1 3 9",
+          "land_val": "1 18 0",
+          "building_val": "",
+          "total_val": "1 18 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Patrick Brennan,",
+          "lessor": "Rev. John T. Moore, Lewis Moore, Esq, and the Misses Moore,",
+          "desc": "L",
+          "area": "7 1 12",
+          "land_val": "7 10 0",
+          "building_val": "",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "William Morrissey,",
+          "lessor": "Rev. John T. Moore, Lewis Moore, Esq, & the Misses Moore,",
+          "desc": "L",
+          "area": "1 3 32",
+          "land_val": "1 8 0",
+          "building_val": "",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "R. C. Chapel,",
+          "lessor": "Rev. John T. Moore, Lewis Moore, Esq, & the Misses Moore,",
+          "desc": "R. C. Chapel and grave-yard,",
+          "area": "1 0 14",
+          "land_val": "0 15 0",
+          "building_val": "18 0 0",
+          "total_val": "18 15 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "b",
+          "occupier": "Rev. James Tobin,",
+          "lessor": "Rev. John T. Moore, Lewis Moore, Esq, & the Misses Moore,",
+          "desc": "H,O",
+          "area": "",
+          "land_val": "",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "James Dobbin,",
+          "lessor": "Rev. John T. Moore, Lewis Moore, Esq, & the Misses Moore,",
+          "desc": "L",
+          "area": "0 1 15",
+          "land_val": "0 7 0",
+          "building_val": "",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "National School,",
+          "lessor": "Rev. John T. Moore, Lewis Moore, Esq, & the Misses Moore,",
+          "desc": "H,Y",
+          "area": "0 1 10",
+          "land_val": "0 4 0",
+          "building_val": "4 6 0",
+          "total_val": "4 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "26",
+          "occupier": "Rev. James Tobin,",
+          "lessor": "Rev. John T. Moore, Lewis Moore, Esq, & the Misses Moore,",
+          "desc": "L",
+          "area": "8 3 3",
+          "land_val": "8 10 0",
+          "building_val": "",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Thomas Comerford,",
+          "lessor": "Rev. John T. Moore, Lewis Moore, Esq, and the Misses Moore,",
+          "desc": "L",
+          "area": "2 2 2",
+          "land_val": "1 8 0",
+          "building_val": "",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "William Ivory,",
+          "lessor": "Rev. John T. Moore, Lewis Moore, Esq, and the Misses Moore,",
+          "desc": "H,O,L",
+          "area": "18 0 14",
+          "land_val": "10 0 0",
+          "building_val": "4 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Judith Costello,",
+          "lessor": "Jas. H. Bunbury, Esq.",
+          "desc": "L",
+          "area": "29 1 4",
+          "land_val": "22 10 0",
+          "building_val": "",
+          "total_val": "22 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Rev. Michael Ryan,",
+          "lessor": "Judith Costello,",
+          "desc": "H,O,G",
+          "area": "0 0 20",
+          "land_val": "0 5 0",
+          "building_val": "2 0 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Rev. Patrick O'Brien,",
+          "lessor": "Judith Costello,",
+          "desc": "H,O,G",
+          "area": "0 1 39",
+          "land_val": "0 7 0",
+          "building_val": "3 3 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Thomas Costello,",
+          "lessor": "Judith Costello,",
+          "desc": "H,O,G",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "1 18 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Michael Walsh,",
+          "lessor": "Judith Costello,",
+          "desc": "H,G",
+          "area": "0 2 22",
+          "land_val": "0 10 0",
+          "building_val": "1 0 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "30 a",
+          "occupier": "Rev. W. G. Burroughes,",
+          "lessor": "Ecclesiastical Commrs.",
+          "desc": "H,O,L",
+          "area": "26 1 7",
+          "land_val": "18 10 0",
+          "building_val": "8 15 0",
+          "total_val": "27 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Rev. W. G. Burroughes,",
+          "lessor": "Ecclesiastical Commrs.",
+          "desc": "Church and graveyard,",
+          "area": "0 1 37",
+          "land_val": "0 6 0",
+          "building_val": "9 0 0",
+          "total_val": "9 6 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "31",
+          "occupier": "John Walsh,",
+          "lessor": "Rev. John T. Moore, Lewis Moore, Esq., and the Misses Moore,",
+          "desc": "L",
+          "area": "1 2 20",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "32 1",
+          "townland": "MULLINAVAT",
+          "sublocation_1": "TOWN OF MULLINAVAT",
+          "occupier": "Michael Fleming,",
+          "lessor": "Rev. John T. Moore, Lewis Moore, Esq., and the Misses Moore,",
+          "desc": "H,O,G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "2 8 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Vacant,",
+          "lessor": "Michael Fleming,",
+          "desc": "H,Y",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Constabulary,",
+          "lessor": "Patrick Brennan,",
+          "desc": "Barrack and yard,",
+          "area": "0 0 24",
+          "land_val": "",
+          "building_val": "12 0 0",
+          "total_val": "12 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "4 A B",
+          "occupier": "Patrick Brennan,",
+          "lessor": "Rev. John T. Moore, Lewis Moore, Esq., and the Misses Moore,",
+          "desc": "H,O,G",
+          "area": "0 0 12",
+          "land_val": "0 2 0",
+          "building_val": "4 8 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "5 A B",
+          "occupier": "Edward Fitzpatrick,",
+          "lessor": "Rev. John T. Moore, Lewis Moore, Esq., and the Misses Moore,",
+          "desc": "H,Y,G",
+          "area": "0 0 10",
+          "land_val": "0 3 0",
+          "building_val": "2 2 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "John Healy,",
+          "lessor": "Rev. James Tobin",
+          "desc": "H,G",
+          "area": "0 0 20",
+          "land_val": "0 4 0",
+          "building_val": "1 1 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Honoria Carroll,",
+          "lessor": "Rev. John T. Moore, Lewis Moore, Esq., and the Misses Moore,",
+          "desc": "H,L",
+          "area": "0 1 10",
+          "land_val": "0 10 0",
+          "building_val": "1 8 0",
+          "total_val": "1 18 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Vacant,",
+          "lessor": "Patrick Brennan,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 12 0",
+          "total_val": "1 12 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "John Mahony,",
+          "lessor": "Patrick Brennan,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Vacant,",
+          "lessor": "Rev. James Tobin,",
+          "desc": "H,sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Vacant,",
+          "lessor": "Rev. James Tobin,",
+          "desc": "H,sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Thomas Corcoran,",
+          "lessor": "Laurence Fleming,",
+          "desc": "H,Y",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Laurence Fleming,",
+          "lessor": "Rev. John T. Moore, Lewis Moore, Esq., and the Misses Moore,",
+          "desc": "H,Y",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 8 0",
+          "total_val": "2 8 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "John Barron,",
+          "lessor": "Mary Barron,",
+          "desc": "H,O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        }
+      ]
+    }
+  ]
+}

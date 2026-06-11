@@ -1,0 +1,491 @@
+{
+  "parishes": [
+    {
+      "parish": "KILLAVINOGE",
+      "entries": [
+        {
+          "mr": "c",
+          "townland": "DROMARDMORE",
+          "occupier": "Alley Laffan,",
+          "lessor": "The Misses Catherine and Fanny Lidwell,",
+          "desc": "H & B G",
+          "area": "0 1 1",
+          "land_val": "0 1 0",
+          "building_val": "0 4 0",
+          "total_val": "0 5 0",
+          "n_shared": 2,
+          "is_continued": 1
+        },
+        {
+          "mr": "d",
+          "occupier": "Margaret Murphy,",
+          "lessor": "The Misses Catherine and Fanny Lidwell,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "e",
+          "occupier": "John Gorman .",
+          "lessor": "The Misses Catherine and Fanny Lidwell,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "f",
+          "occupier": "Mary Cooney,",
+          "lessor": "The Misses Catherine and Fanny Lidwell,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "g",
+          "occupier": "James Keys,",
+          "lessor": "The Misses Catherine and Fanny Lidwell,",
+          "desc": "H & B G",
+          "area": "1 1 7",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "h",
+          "occupier": "Michael Ryan,",
+          "lessor": "James Keys,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9",
+          "occupier": "Morris Doohan .",
+          "lessor": "The Misses Catherine and Fanny Lidwell,",
+          "desc": "H,O,&L",
+          "area": "8 2 39",
+          "land_val": "1 10 0",
+          "building_val": "0 5 0",
+          "total_val": "1 15 0",
+          "n_shared": 2
+        },
+        {
+          "desc": "Total .",
+          "area": "1085 0 23",
+          "land_val": "341 1 0",
+          "building_val": "14 19 0",
+          "total_val": "356 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "GLEBE",
+          "os": "23 & 24",
+          "occupier": "William Fogarty,",
+          "lessor": "Rev. — Madden,",
+          "desc": "H,O,&L",
+          "area": "72 2 4",
+          "land_val": "37 10 0",
+          "building_val": "3 10 0",
+          "total_val": "41 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Delahunt,",
+          "lessor": "William Fogarty,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "lessor": "Rev. — Madden,",
+          "desc": "Grave-yard,",
+          "area": "0 2 15",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "73 0 19",
+          "land_val": "37 15 0",
+          "building_val": "3 15 0",
+          "total_val": "41 10 0",
+          "is_total": 1
+        },
+        {
+          "desc": "Exemptions : Grave-yard.",
+          "area": "0 2 15",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of Exemptions,",
+          "area": "72 2 4",
+          "land_val": "37 10 0",
+          "building_val": "3 15 0",
+          "total_val": "41 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "GORTNAGOWNA",
+          "os": "23",
+          "occupier": "George Roe, Esq.",
+          "lessor": "Reps. Hen. Clives, Esq.",
+          "desc": "O & L",
+          "area": "512 3 39",
+          "land_val": "235 15 0",
+          "building_val": "0 5 0",
+          "total_val": "236 0 0"
+        },
+        {
+          "occupier": "George Roe, Esq.",
+          "lessor": "Reps. Hen. Clives, Esq.",
+          "desc": "B",
+          "area": "67 3 27",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Roe,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Lawrence Long,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Michael Tierney,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Mary Bray,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Denis Anderson,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H & small G",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "William Reeds,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H & L",
+          "area": "1 2 20",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "William Fanning,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H & L",
+          "area": "11 3 6",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "John Hargrove,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H & L",
+          "land_val": "2 10 0",
+          "building_val": "0 5 0",
+          "total_val": "2 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Thomas Spunner,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H & L",
+          "area": "3 2 18",
+          "land_val": "1 10 0",
+          "building_val": "0 10 0",
+          "total_val": "2 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Mary Spunner,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H & L",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Patrick Tierney,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H & L",
+          "area": "31 0 39",
+          "land_val": "6 15 0",
+          "building_val": "0 15 0",
+          "total_val": "7 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "James Tierney,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H & L",
+          "land_val": "6 15 0",
+          "building_val": "0 15 0",
+          "total_val": "7 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5",
+          "occupier": "Michael Guinane,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H & L",
+          "area": "4 0 20",
+          "land_val": "1 15 0",
+          "building_val": "0 5 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Thomas Delahunt,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H & G",
+          "area": "0 0 19",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Michael Delahunt,",
+          "lessor": "Thomas Delahunt,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Catherine Connolly,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H & G",
+          "area": "1 1 2",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Thomas Motan,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H & L",
+          "area": "9 0 31",
+          "land_val": "4 5 0",
+          "building_val": "0 10 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Joseph Spooner,",
+          "lessor": "Thomas Motan,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Michael Quinlisk,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H & L",
+          "area": "4 3 31",
+          "land_val": "1 15 0",
+          "building_val": "0 5 0",
+          "total_val": "2 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "John Greed,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "10",
+          "occupier": "Thomas Lanigan,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H & L",
+          "area": "1 3 13",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Catherine Doohan,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H & L",
+          "area": "2 0 15",
+          "land_val": "1 0 0",
+          "building_val": "0 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "John Fanning,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H & L",
+          "area": "1 0 32",
+          "land_val": "0 10 0",
+          "building_val": "0 10 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Fanning,",
+          "lessor": "George Roe, Esq.",
+          "desc": "L",
+          "area": "1 2 3",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Sally Carroll,",
+          "lessor": "John Fanning,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "Daniel Quinlisk,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H & L",
+          "area": "6 2 15",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "James Quinlisk,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H & L",
+          "land_val": "1 0 0",
+          "building_val": "0 5 0",
+          "total_val": "1 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "15",
+          "occupier": "William Greed,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H & L",
+          "area": "1 1 2",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Anne Fogarty,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H & G",
+          "area": "1 0 12",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "17 a",
+          "occupier": "Daniel Doohan,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H,O,&L",
+          "area": "26 1 29",
+          "land_val": "3 5 0",
+          "building_val": "1 5 0",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Edward Doohan,",
+          "lessor": "George Roe, Esq.",
+          "desc": "L",
+          "land_val": "3 5 0",
+          "total_val": "3 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "18 a",
+          "occupier": "John Shelly,",
+          "lessor": "George Roe, Esq.",
+          "desc": "H & L",
+          "area": "69 0 22",
+          "land_val": "16 15 0",
+          "building_val": "0 15 0",
+          "total_val": "17 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Philip Scott,",
+          "lessor": "John Shelly,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Reps. Hen. Clives, Esq.",
+          "lessor": "In fee,",
+          "desc": "B",
+          "area": "121 2 6",
+          "total_val": "18 0 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "881 2 1",
+          "land_val": "296 7 0",
+          "building_val": "12 18 0",
+          "total_val": "327 5 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

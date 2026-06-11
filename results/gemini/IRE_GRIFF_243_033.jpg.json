@@ -1,0 +1,517 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF CLONENAGH AND CLONAGHEEN",
+      "entries": [
+        {
+          "mr": "41 {a, b}",
+          "townland": "COLT",
+          "os": "23",
+          "occupier": "Daniel Delany, Patrick Carroll",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "H,O,&L",
+          "area": "15 2 35",
+          "land_val": "5 15 0",
+          "building_val": "0 10 0",
+          "total_val": "6 5 0",
+          "n_shared": 2,
+          "is_continued": 1
+        },
+        {
+          "mr": "42 {a",
+          "occupier": "Thomas Doxey, Esq.",
+          "lessor": "Viscount De Vesci",
+          "desc": "H,O,&L",
+          "area": "63 2 0",
+          "land_val": "23 15 0",
+          "building_val": "0 15 0",
+          "total_val": "52 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Michael Carroll",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "L",
+          "area": "54 1 9",
+          "land_val": "27 10 0"
+        },
+        {
+          "mr": "Ba",
+          "occupier": "Vacant",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "H",
+          "building_val": "0 15 0"
+        },
+        {
+          "occupier": "John Lalor",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "43 {a, b}",
+          "occupier": "Thomas Finn, Thomas Thompson",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "H,O,H,&L",
+          "area": "3 0 0",
+          "land_val": "2 7 0",
+          "building_val": "0 15 0",
+          "total_val": "3 2 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "44",
+          "occupier": "Bridget Lalor",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "H,&O",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "45",
+          "occupier": "Thomas Wilde",
+          "lessor": "Viscount De Vesci",
+          "desc": "H,O,&L",
+          "area": "12 0 12",
+          "land_val": "10 0 0",
+          "building_val": "0 15 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "Margaret Boyle",
+          "lessor": "Thomas Wilde",
+          "desc": "H,O,&L",
+          "area": "132 0 6",
+          "land_val": "63 5 0",
+          "building_val": "2 0 0",
+          "total_val": "65 5 0"
+        },
+        {
+          "mr": "47",
+          "occupier": "John Claxton (Big)",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "H,&L",
+          "area": "1 0 1",
+          "land_val": "0 7 0",
+          "building_val": "0 3 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "48 {a, b}",
+          "occupier": "Garret Mahony, Patrick Mahony",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "L,H,&L",
+          "area": "25 1 18",
+          "land_val": "14 15 0",
+          "total_val": "14 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "49",
+          "occupier": "Ellen Kenna",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "H,&L",
+          "area": "1 1 11",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "50",
+          "occupier": "Daniel Dunne",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "H,O,&L",
+          "area": "32 1 24",
+          "land_val": "18 10 0",
+          "building_val": "1 0 0",
+          "total_val": "19 10 0"
+        },
+        {
+          "mr": "51",
+          "occupier": "Edward Lalor",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "L",
+          "area": "7 1 0",
+          "land_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "occupier": "Ellen Kenna",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "L",
+          "area": "2 0 13",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "occupier": "John Tehan",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "L",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "occupier": "Patrick Tehan (Mick)",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "L",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "occupier": "John Claxton (Big)",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "L",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "occupier": "Michael Tehan and Pat",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "L",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "52",
+          "occupier": "Tehan (Darby)",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "L",
+          "area": "14 1 1",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "occupier": "Patrick Tehan (sen.)",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "L",
+          "land_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "occupier": "Richard Hynes",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "L",
+          "land_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "occupier": "Mary Parkinson",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "L",
+          "land_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "occupier": "Daniel Carroll",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "L",
+          "land_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "occupier": "James Behan",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "L",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "53 {a",
+          "occupier": "Richard Hynes",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "H,O,&L",
+          "area": "55 0 22",
+          "land_val": "5 0 0",
+          "building_val": "0 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Tehan, sen.",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "H,O,&L",
+          "land_val": "3 2 0",
+          "building_val": "0 13 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Mary Parkinson",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "H,O,&L",
+          "land_val": "2 2 0",
+          "building_val": "0 8 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "James Behan",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "H,O,&L",
+          "land_val": "3 2 0",
+          "building_val": "0 13 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Patrick Carroll",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "L",
+          "land_val": "2 2 0",
+          "total_val": "2 2 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Daniel Carroll",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "H,O,&L",
+          "land_val": "4 0 0",
+          "building_val": "1 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "occupier": "Michael Tehan, and Patrick Tehan (Darby)",
+          "lessor": "Viscount De Vesci",
+          "desc": "L",
+          "land_val": "7 0 0",
+          "total_val": "7 0 0",
+          "n_shared": 2
+        },
+        {
+          "occupier": "Thomas Doxey, Esq.",
+          "lessor": "Mary Parkinson",
+          "desc": "L",
+          "land_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "occupier": "Lawrence Carroll",
+          "lessor": "Patrick Carroll",
+          "desc": "H,&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 8 0",
+          "total_val": "0 9 0"
+        },
+        {
+          "mr": "54",
+          "occupier": "Finton Goss",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "H,O,&G",
+          "area": "0 0 17",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "55",
+          "occupier": "Elizabeth M'Donnell",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "H,O,&L",
+          "area": "1 1 34",
+          "land_val": "1 2 0",
+          "building_val": "0 8 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "occupier": "Mrs. Mary Lester",
+          "lessor": "Thomas Doxey, Esq.",
+          "desc": "H,O,&L",
+          "area": "1 3 17",
+          "land_val": "1 10 0",
+          "building_val": "2 0 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "2082 2 22",
+          "land_val": "662 0 0",
+          "building_val": "66 0 0",
+          "total_val": "728 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "COOLE",
+          "os": "23",
+          "occupier": "James Lalor",
+          "lessor": "Rev. Wm. R. Lawrenson",
+          "desc": "L",
+          "area": "3 2 5",
+          "land_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Lalor",
+          "lessor": "Michael Fennelly",
+          "desc": "L",
+          "area": "1 2 11",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "William Fennelly",
+          "lessor": "Rev. Wm. R. Lawrenson",
+          "desc": "L",
+          "area": "51 1 4",
+          "land_val": "20 10 0",
+          "total_val": "29 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "William Fennelly",
+          "lessor": "Rev. Wm. R. Lawrenson",
+          "desc": "H,O,&L",
+          "area": "33 1 10",
+          "land_val": "19 5 0",
+          "building_val": "3 15 0",
+          "total_val": "23 0 0"
+        },
+        {
+          "mr": "5 {a",
+          "occupier": "Michael Fennelly",
+          "lessor": "Rev. Wm. R. Lawrenson",
+          "desc": "H,O,&L",
+          "area": "24 1 25",
+          "land_val": "6 15 0",
+          "building_val": "0 15 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Fennelly",
+          "lessor": "Rev. Wm. R. Lawrenson",
+          "desc": "H,&L",
+          "land_val": "7 5 0",
+          "building_val": "0 15 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "John Milbanks",
+          "lessor": "Patrick Fennelly",
+          "desc": "H",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "6 {A, B}",
+          "occupier": "Patrick Phelan",
+          "lessor": "Rev. Wm. R. Lawrenson",
+          "desc": "L,H,&L",
+          "area": "20 2 31",
+          "land_val": "9 15 0",
+          "total_val": "9 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Judith Phelan",
+          "lessor": "Rev. Wm. R. Lawrenson",
+          "desc": "H,&L",
+          "area": "10 2 17",
+          "land_val": "7 10 0",
+          "building_val": "0 15 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "8 {A, B}",
+          "occupier": "Patrick Kelly",
+          "lessor": "Rev. Wm. R. Lawrenson",
+          "desc": "L,H,O,&L",
+          "area": "20 3 30",
+          "land_val": "11 0 0",
+          "building_val": "0 15 0",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "9 {A, B}",
+          "occupier": "Michael Phelan",
+          "lessor": "Rev. Wm. R. Lawrenson",
+          "desc": "H,&L,L",
+          "area": "7 2 16",
+          "land_val": "4 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "10 {a",
+          "occupier": "Michael Delany",
+          "lessor": "Rev. Wm. R. Lawrenson",
+          "desc": "H,O,&L",
+          "area": "5 2 28",
+          "land_val": "1 15 0",
+          "building_val": "0 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Vacant",
+          "lessor": "Michael Delany",
+          "desc": "H,&O",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "James Phelan",
+          "lessor": "Rev. Wm. R. Lawrenson",
+          "desc": "H,O,&L",
+          "area": "3 0 0",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "225 3 4",
+          "land_val": "123 0 0",
+          "building_val": "10 17 0",
+          "total_val": "133 17 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 {a",
+          "townland": "COOLNACARTAN",
+          "os": "23",
+          "occupier": "Lady Arabella Parker, and Charles Vernon, Esq.",
+          "lessor": "Thomas C. Wakefield, Esq.",
+          "desc": "Herd's house and land",
+          "area": "236 0 24",
+          "land_val": "6 0 0",
+          "building_val": "0 5 0",
+          "total_val": "6 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Vacant",
+          "lessor": "Lady Arabella Parker, and Charles Vernon, Esq.",
+          "desc": "H,&O",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Elizabeth Duff",
+          "lessor": "Lady Arabella Parker, and Charles Vernon, Esq.",
+          "desc": "L",
+          "area": "24 3 0",
+          "land_val": "10 10 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "William Mulhull",
+          "lessor": "Lady Arabella Parker, and Charles Vernon, Esq.",
+          "desc": "H,O,&L",
+          "area": "124 3 0",
+          "land_val": "68 10 0",
+          "building_val": "3 15 0",
+          "total_val": "72 5 0"
+        }
+      ]
+    }
+  ]
+}

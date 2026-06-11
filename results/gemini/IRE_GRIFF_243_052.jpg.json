@@ -1,0 +1,639 @@
+{
+  "parishes": [
+    {
+      "parish": "CLONENAGH AND CLONAGHEEN",
+      "entries": [
+        {
+          "mr": "44",
+          "townland": "MOUNTRATH",
+          "occupier": "Constabulary Force,",
+          "lessor": "Sir Charles H. Coote, bt.",
+          "desc": "Police barrack, O, & yd.",
+          "building_val": "12 0 0",
+          "total_val": "12 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "45",
+          "occupier": "John Bowe,",
+          "lessor": "Michael Fitzpatrick,",
+          "desc": "H & G",
+          "area": "0 0 17",
+          "land_val": "0 4 0",
+          "building_val": "1 1 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "Thomas Jellico,",
+          "lessor": "Michael Fitzpatrick,",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "47",
+          "occupier": "Thomas Wallace,",
+          "lessor": "Michael Fitzpatrick,",
+          "desc": "H & G",
+          "area": "0 0 17",
+          "land_val": "0 4 0",
+          "building_val": "0 18 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "48",
+          "occupier": "John Dowsey,",
+          "lessor": "Joshua Cantrell,",
+          "desc": "H & G",
+          "area": "0 0 15",
+          "land_val": "0 4 0",
+          "building_val": "1 6 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "49",
+          "occupier": "Vacant,",
+          "lessor": "William Vize, Esq. .",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "50",
+          "occupier": "Vacant,",
+          "lessor": "William Vize, Esq. .",
+          "desc": "H, yd., & G",
+          "area": "0 0 24",
+          "land_val": "0 6 0",
+          "building_val": "1 14 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "51",
+          "occupier": "Joseph M'Evoy,",
+          "lessor": "William Vize, Esq. .",
+          "desc": "H, O, yd., & G",
+          "area": "0 0 22",
+          "land_val": "0 6 0",
+          "building_val": "1 19 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "52",
+          "occupier": "William Dwyer,",
+          "lessor": "William Vize, Esq. .",
+          "desc": "H",
+          "building_val": "0 18 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "53",
+          "occupier": "Thomas Adderly,",
+          "lessor": "Jonathan Walpole, .",
+          "desc": "H, yd., & G",
+          "area": "0 0 11",
+          "land_val": "0 3 0",
+          "building_val": "1 7 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "54",
+          "occupier": "Vacant,",
+          "lessor": "Jonathan Walpole, .",
+          "desc": "H, O, yd., & G",
+          "area": "0 0 17",
+          "land_val": "0 4 0",
+          "building_val": "4 1 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "55",
+          "occupier": "Grave-yard,",
+          "lessor": "Sir Charles H. Coote, bt.",
+          "desc": "Grave-yard,",
+          "area": "0 1 13",
+          "land_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "56",
+          "occupier": "Martin Cooke,",
+          "lessor": "Sir Charles H. Coote, bt.",
+          "desc": "H, O, yd. & sm. G",
+          "building_val": "5 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "57",
+          "occupier": "Vacant,",
+          "lessor": "Sir Charles H. Coote, bt.",
+          "desc": "Building ground,",
+          "area": "0 0 28",
+          "land_val": "0 4 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "58",
+          "occupier": "Arthur Miller,",
+          "lessor": "James Pattison,",
+          "desc": "G",
+          "area": "0 0 24",
+          "land_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "59",
+          "occupier": "Finton Fitzgerald, .",
+          "lessor": "James Pattison,",
+          "desc": "H, O, yd. & sm. G",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "60",
+          "occupier": "Anne Long,",
+          "lessor": "James Pattison,",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "61 A B",
+          "occupier": "Vacant,",
+          "lessor": "James Pattison,",
+          "desc": "H & sm. G",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "62",
+          "occupier": "James Fitzpatrick, .",
+          "lessor": "William Vize, Esq. .",
+          "desc": "H, O, & yd.",
+          "building_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "63",
+          "occupier": "William Vize, Esq. .",
+          "lessor": "Sir Charles H. Coote, bt.",
+          "desc": "H, O, yd., & G",
+          "area": "0 0 21",
+          "land_val": "0 10 0",
+          "building_val": "23 0 0",
+          "total_val": "23 10 0"
+        },
+        {
+          "mr": "64",
+          "occupier": "Henry Cornelius, jun.",
+          "lessor": "Sir Charles H. Coote, bt.",
+          "desc": "H, O, & part of yd. & G",
+          "area": "0 0 10",
+          "land_val": "0 5 0",
+          "building_val": "14 0 0",
+          "total_val": "14 5 0"
+        },
+        {
+          "mr": "65",
+          "occupier": "Henry Cornelius, jun.",
+          "lessor": "William Despard,",
+          "desc": "yd.",
+          "area": "0 0 8",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "66",
+          "occupier": "Henry Cornelius, jun.",
+          "lessor": "Peter Alley,",
+          "desc": "Part of G",
+          "area": "0 0 18",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "67",
+          "occupier": "John Wallace,",
+          "lessor": "William Despard,",
+          "desc": "H, yd. in common.",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "68",
+          "occupier": "James Dehany,",
+          "lessor": "William Despard,",
+          "desc": "H, yd. in common.",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "69",
+          "occupier": "John Leonard,",
+          "lessor": "William Despard,",
+          "desc": "H, yd. in common.",
+          "building_val": "0 9 0",
+          "total_val": "0 9 0"
+        },
+        {
+          "mr": "70",
+          "occupier": "Margaret Dudlow,",
+          "lessor": "Timothy Toohey,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "71",
+          "occupier": "Timothy Toohey,",
+          "lessor": "Peter Alley,",
+          "desc": "H, O, & yd.",
+          "building_val": "4 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "72",
+          "occupier": "John Young,",
+          "lessor": "Peter Alley,",
+          "desc": "H, O, yd., & G",
+          "area": "0 0 25",
+          "land_val": "0 8 0",
+          "building_val": "5 2 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "73",
+          "occupier": "Mrs Anne White,",
+          "lessor": "Messrs. Wm. Roe, & Sons,",
+          "desc": "H, O, yd. & G",
+          "area": "0 0 26",
+          "land_val": "0 10 0",
+          "building_val": "15 10 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "74",
+          "occupier": "Vacant,",
+          "lessor": "Messrs. Wm. Roe & Sons,",
+          "desc": "Ruins (in rere),",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "75",
+          "occupier": "Vacant,",
+          "lessor": "Rev. James Morton,",
+          "desc": "H, O, & yd.",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "76",
+          "occupier": "Thomas Despard,",
+          "lessor": "Rev. James Morton,",
+          "desc": "H, O, yd., & G",
+          "area": "0 0 31",
+          "land_val": "0 10 0",
+          "building_val": "7 0 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "77",
+          "occupier": "William Odlum,",
+          "lessor": "James Walpole,",
+          "desc": "H, O, yd. & G",
+          "area": "0 0 33",
+          "land_val": "0 13 0",
+          "building_val": "16 7 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "78",
+          "occupier": "Thomas Ryan,",
+          "lessor": "William Treacy,",
+          "desc": "H, O, yd. & G",
+          "area": "0 0 26",
+          "land_val": "0 10 0",
+          "building_val": "10 0 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "79",
+          "occupier": "Mrs. Letitia Dunne,",
+          "lessor": "William Treacy,",
+          "desc": "H, O, & yd.",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "80",
+          "occupier": "Miss Catherine Lalor,",
+          "lessor": "Rev. James Morton,",
+          "desc": "H",
+          "building_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "81 A B",
+          "occupier": "Patrick Connor,",
+          "lessor": "Mrs. Susan Jackson,",
+          "desc": "H, O, & yd.",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "82",
+          "occupier": "Mrs. Susan Jackson,",
+          "lessor": "Sir Charles H. Coote, bt.",
+          "desc": "H, O, yd., & G",
+          "area": "0 0 36",
+          "land_val": "0 6 0",
+          "building_val": "11 14 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "83",
+          "occupier": "Mrs. Catherine Rourke,",
+          "lessor": "John Fawcett,",
+          "desc": "H & O",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "84",
+          "occupier": "John Cusack, .",
+          "lessor": "Daniel Tracy,",
+          "desc": "H, O, & yd.",
+          "building_val": "13 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "85",
+          "occupier": "Vacant,",
+          "lessor": "John Treacy, Esq. .",
+          "desc": "H",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "86",
+          "occupier": "Market & Petit Sessions,",
+          "lessor": "Sir Charles H. Coote, bt.",
+          "desc": "H",
+          "building_val": "12 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Henry Webb, .",
+          "lessor": "Sir Charles H. Coote, bt.",
+          "desc": "Profits of tolls and cranes,",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "87",
+          "occupier": "Andrew Gorman,",
+          "lessor": "Thomas W. Harris,",
+          "desc": "H",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "88",
+          "occupier": "Andrew Gorman,",
+          "lessor": "Francis M'N. Calcutt and Charles Church, Esqrs.",
+          "desc": "O, yd., & sm. G",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "89",
+          "occupier": "James Kennedy,",
+          "lessor": "Samuel Heron,",
+          "desc": "H",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "90",
+          "occupier": "Martin Bray, .",
+          "lessor": "Thomas W. Harris,",
+          "desc": "H, O, yd., & sm. G",
+          "building_val": "14 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "91",
+          "occupier": "William Grennan, .",
+          "lessor": "Francis M'N. Calcutt and Charles Church, Esqrs.",
+          "desc": "H, O, yd., & G",
+          "area": "0 2 6",
+          "land_val": "2 5 0",
+          "building_val": "15 15 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "92",
+          "occupier": "Richard Neale,",
+          "lessor": "William Grennan, .",
+          "desc": "H, O, yd., & G",
+          "area": "0 0 21",
+          "land_val": "0 10 0",
+          "building_val": "2 15 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "93",
+          "occupier": "William Bray,",
+          "lessor": "Samuel Burrows, .",
+          "desc": "H, O, yd., & G",
+          "area": "0 1 2",
+          "land_val": "1 0 0",
+          "building_val": "20 0 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "OSPARK-LANE OR DIRTY-LANE.",
+          "occupier": "Vacant,",
+          "lessor": "Robert Butler, Esq.",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Roe,",
+          "lessor": "Robert Butler, Esq.",
+          "desc": "H",
+          "building_val": "1 4 0",
+          "total_val": "1 4 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Vacant,",
+          "lessor": "Robert Butler, Esq.",
+          "desc": "Ruins,",
+          "building_val": "0 2 0",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Patrick Costigan,",
+          "lessor": "Robert Butler, Esq.",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Vacant,",
+          "lessor": "Robert Butler, Esq.",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Vacant,",
+          "lessor": "Robert Butler, Esq.",
+          "desc": "Ruins,",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Mark Talbot,",
+          "lessor": "Robert Butler, Esq.",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Kevin Drury, .",
+          "lessor": "Robert Butler, Esq.",
+          "desc": "H & O",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "James Hyland,",
+          "lessor": "Michael Delany,",
+          "desc": "H & G",
+          "area": "0 0 11",
+          "land_val": "0 4 0",
+          "building_val": "1 1 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Matthew Dunphy,",
+          "lessor": "Henry Lawless,",
+          "desc": "H, yd., & sm. G",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Michael Costigan,",
+          "lessor": "Henry Lawless,",
+          "desc": "H, yd., & sm. G",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "John Costigan,",
+          "lessor": "John Treacy, .",
+          "desc": "H, yd., & sm. G",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Edmund Ryan,",
+          "lessor": "John Treacy, .",
+          "desc": "H, yd., & G",
+          "area": "0 0 25",
+          "land_val": "0 9 0",
+          "building_val": "1 6 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Michael Delany,",
+          "lessor": "Henry Lawless,",
+          "desc": "H & yd.",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "William Clark,",
+          "lessor": "James Pattison,",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Daniel Dunne,",
+          "lessor": "James Pattison,",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Vacant,",
+          "lessor": "James Pattison,",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Vacant,",
+          "lessor": "James Pattison,",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Margaret White,",
+          "lessor": "James Pattison,",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "James Drury, .",
+          "lessor": "Henry Lawless,",
+          "desc": "H & yd.",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Mary Hibbits,",
+          "lessor": "Michael Delany,",
+          "desc": "H & yd.",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Richard Cole, .",
+          "lessor": "Michael Delany,",
+          "desc": "O & yd. (included with No. 15, Main-street,)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,619 @@
+{
+  "parishes": [
+    {
+      "parish": "MYLERSTOWN",
+      "entries": [
+        {
+          "mr": "— c",
+          "townland": "BALLINDERRY",
+          "os": "",
+          "occupier": "William Connolly",
+          "lessor": "Emily Tyrrell",
+          "desc": "L",
+          "area": "0 2 21",
+          "land_val": "0 6 0",
+          "building_val": "—",
+          "total_val": "0 6 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "3",
+          "occupier": "Emily Tyrrell",
+          "lessor": "— Murphy",
+          "desc": "L (B)",
+          "area": "151 0 30",
+          "land_val": "1 3 0",
+          "building_val": "—",
+          "total_val": "1 3 0"
+        },
+        {
+          "mr": "4 A",
+          "occupier": "Patrick Whelehan",
+          "lessor": "Emily Tyrrell",
+          "desc": "H,O,&L",
+          "area": "1 2 23",
+          "land_val": "0 15 0",
+          "building_val": "0 15 0",
+          "total_val": "2 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "Patrick Whelehan",
+          "lessor": "Emily Tyrrell",
+          "desc": "L",
+          "area": "1 2 23",
+          "land_val": "0 15 0",
+          "building_val": "—",
+          "total_val": "2 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Larkin",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "1 2 23",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Joseph Haughton",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "40 0 28",
+          "land_val": "28 0 0",
+          "building_val": "5 0 0",
+          "total_val": "33 0 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Edward Hynam",
+          "lessor": "William Fagan",
+          "desc": "H,O,&L",
+          "area": "2 2 36",
+          "land_val": "1 0 0",
+          "building_val": "0 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Edward Hynam, jun.",
+          "lessor": "Edward Hynam",
+          "desc": "H&sm. G",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "0 9 0",
+          "total_val": "0 9 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "John Fagan",
+          "lessor": "Emily Tyrrell",
+          "desc": "H,O,&L",
+          "area": "5 2 23",
+          "land_val": "2 8 0",
+          "building_val": "0 12 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Fagan",
+          "lessor": "Emily Tyrrell",
+          "desc": "H&O",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "William Fagan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 3 10",
+          "land_val": "3 5 0",
+          "building_val": "—",
+          "total_val": "3 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "10",
+          "occupier": "Edward Hazlett",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "2 0 6",
+          "land_val": "0 17 0",
+          "building_val": "0 18 0",
+          "total_val": "3 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "503 1 1",
+          "land_val": "319 0 0",
+          "building_val": "36 0 0",
+          "total_val": "355 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BALLYNAMULLAGH",
+          "os": "3",
+          "occupier": "Ellen Byrne",
+          "lessor": "James Doylan",
+          "desc": "H&L",
+          "area": "1 1 34",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Edward Cosgrave",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "2 0 31",
+          "land_val": "1 10 0",
+          "building_val": "0 15 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Quirk",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "1 2 32",
+          "land_val": "1 5 0",
+          "building_val": "0 15 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Michael Ratigan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 3 9",
+          "land_val": "5 10 0",
+          "building_val": "0 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick M'Guinness",
+          "lessor": "Michael Ratigan",
+          "desc": "H",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Brennan",
+          "lessor": "James Boylan",
+          "desc": "L",
+          "area": "1 3 16",
+          "land_val": "1 0 0",
+          "building_val": "—",
+          "total_val": "5 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "Patrick Murphy",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "3 2 0",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "5 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "7 A",
+          "occupier": "Edward Brady",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "1 2 25",
+          "land_val": "1 5 0",
+          "building_val": "1 0 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "Edward Brady",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 3 30",
+          "land_val": "2 15 0",
+          "building_val": "—",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Thomas Brennan",
+          "lessor": "Frederick Hamilton",
+          "desc": "H,O,&L",
+          "area": "1 0 5",
+          "land_val": "0 12 0",
+          "building_val": "1 13 0",
+          "total_val": "4 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9 A a",
+          "occupier": "Mary Murray",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "3 0 7",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "4 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— b",
+          "occupier": "Mary Murray",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 14",
+          "land_val": "2 5 0",
+          "building_val": "—",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "Jane Mullally",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 2 10",
+          "land_val": "0 8 0",
+          "building_val": "0 12 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Thomas Brien",
+          "lessor": "Edward Fagan",
+          "desc": "H&L",
+          "area": "17 3 7",
+          "land_val": "8 0 0",
+          "building_val": "—",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Edward Fagan",
+          "lessor": "Frederick Hamilton",
+          "desc": "H,O,&L",
+          "area": "20 2 6",
+          "land_val": "10 10 0",
+          "building_val": "1 5 0",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "John Brennan",
+          "lessor": "Edward Fagan",
+          "desc": "H&G",
+          "area": "0 0 24",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Christr. Mullally (Little)",
+          "lessor": "Frederick Hamilton",
+          "desc": "H,O,&L",
+          "area": "27 1 19",
+          "land_val": "16 5 0",
+          "building_val": "2 0 0",
+          "total_val": "18 5 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Mary Dolan",
+          "lessor": "Christr. Mullally (Little)",
+          "desc": "H,O,&G",
+          "area": "0 0 20",
+          "land_val": "0 1 0",
+          "building_val": "0 12 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "Mary Farrell",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "— d",
+          "occupier": "James Landy",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "13 A",
+          "occupier": "Andrew Ryan",
+          "lessor": "Frederick Hamilton",
+          "desc": "H,O,&L",
+          "area": "15 2 3",
+          "land_val": "10 15 0",
+          "building_val": "1 10 0",
+          "total_val": "16 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "Andrew Ryan",
+          "lessor": "Frederick Hamilton",
+          "desc": "L",
+          "area": "11 1 12",
+          "land_val": "4 10 0",
+          "building_val": "—",
+          "total_val": "16 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "14 a",
+          "occupier": "Timothy Ryan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "15 1 12",
+          "land_val": "10 15 0",
+          "building_val": "1 0 0",
+          "total_val": "11 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "— —",
+          "occupier": "Vacant",
+          "lessor": "Timothy Ryan",
+          "desc": "H",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "0 5 0",
+          "total_val": "11 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "— c",
+          "occupier": "Patrick Reilly",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "0 5 0",
+          "total_val": "11 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "15 A",
+          "occupier": "Peter Dillon",
+          "lessor": "Frederick Hamilton",
+          "desc": "H,O,&L",
+          "area": "52 1 11",
+          "land_val": "28 10 0",
+          "building_val": "1 15 0",
+          "total_val": "32 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "Peter Dillon",
+          "lessor": "Frederick Hamilton",
+          "desc": "L",
+          "area": "7 2 38",
+          "land_val": "2 0 0",
+          "building_val": "—",
+          "total_val": "32 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B a",
+          "occupier": "Thomas Malone",
+          "lessor": "Peter Dillon",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Henry Moran",
+          "lessor": "Frederick Hamilton",
+          "desc": "H,O,&L",
+          "area": "72 0 0",
+          "land_val": "32 10 0",
+          "building_val": "2 15 0",
+          "total_val": "35 5 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Christr. Mullally (Big)",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "32 3 30",
+          "land_val": "16 0 0",
+          "building_val": "1 10 0",
+          "total_val": "17 10 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Patrick Quinn",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "45 0 20",
+          "land_val": "16 15 0",
+          "building_val": "1 5 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Edward Rynn",
+          "lessor": "Patrick Quinn",
+          "desc": "H&L",
+          "area": "2 0 31",
+          "land_val": "0 10 0",
+          "building_val": "0 8 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Margaret Quinn",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 2 18",
+          "land_val": "2 10 0",
+          "building_val": "0 15 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "James Boylan",
+          "lessor": "Frederick Hamilton",
+          "desc": "L",
+          "area": "40 3 20",
+          "land_val": "28 0 0",
+          "building_val": "—",
+          "total_val": "28 0 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "James Boylan",
+          "lessor": "Frederick Hamilton",
+          "desc": "L",
+          "area": "128 3 34",
+          "land_val": "82 0 0",
+          "building_val": "—",
+          "total_val": "82 0 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Frederick Hamilton",
+          "lessor": "In fee",
+          "desc": "L (B)",
+          "area": "76 2 22",
+          "land_val": "0 10 0",
+          "building_val": "—",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "611 3 35",
+          "land_val": "291 17 0",
+          "building_val": "23 8 0",
+          "total_val": "315 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "CALFSTOWN",
+          "os": "3",
+          "occupier": "Michael Cooney",
+          "lessor": "Viscount Harberton",
+          "desc": "H&L",
+          "area": "2 0 28",
+          "land_val": "1 5 0",
+          "building_val": "0 10 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Patrick Cooney",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "William Thompson",
+          "lessor": "Same",
+          "desc": "H,O,forge,&L",
+          "area": "3 2 21",
+          "land_val": "2 10 0",
+          "building_val": "1 0 0",
+          "total_val": "3 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— b",
+          "occupier": "Richard Thompson",
+          "lessor": "William Thompson",
+          "desc": "H",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "0 12 0",
+          "total_val": "3 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Patrick Kean",
+          "lessor": "Viscount Harberton",
+          "desc": "H,O,&L",
+          "area": "19 1 34",
+          "land_val": "13 10 0",
+          "building_val": "1 10 0",
+          "total_val": "15 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— b",
+          "occupier": "Patrick Powell",
+          "lessor": "Patrick Kean",
+          "desc": "H",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "0 5 0",
+          "total_val": "15 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Maurice Kean",
+          "lessor": "Thomas & John Kean (John)",
+          "desc": "H,O,&L",
+          "area": "4 2 7",
+          "land_val": "3 5 0",
+          "building_val": "1 5 0",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— b",
+          "occupier": "Catherine Gibbons",
+          "lessor": "Maurice Kean",
+          "desc": "H",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "0 5 0",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        }
+      ]
+    }
+  ]
+}

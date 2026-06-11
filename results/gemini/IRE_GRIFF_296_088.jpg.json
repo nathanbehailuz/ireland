@@ -1,0 +1,544 @@
+{
+  "parishes": [
+    {
+      "parish": "EMLY",
+      "entries": [
+        {
+          "mr": "2",
+          "townland": "CLASHDRUMSMITH",
+          "os": "66",
+          "occupier": "John M'Grath",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "H&L",
+          "area": "1 0 37",
+          "land_val": "1 10 0",
+          "building_val": "0 10 0",
+          "total_val": "2 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "3",
+          "occupier": "Richard Glasheen",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "L",
+          "area": "2 0 4",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Bridget Burns",
+          "lessor": "Richard Glasheen",
+          "desc": "H&small G",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Shea",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "H&L",
+          "area": "1 2 5",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Gerald Fitzgerald",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "O&L",
+          "area": "7 3 20",
+          "land_val": "9 10 0",
+          "building_val": "0 10 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Gerald Fitzgerald",
+          "lessor": "The Dean and Chapter of Emly",
+          "desc": "Glebe-L",
+          "area": "2 1 12",
+          "land_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Mary O'Brien",
+          "lessor": "Gerald Fitzgerald",
+          "desc": "L",
+          "area": "42 1 3",
+          "land_val": "50 15 0",
+          "total_val": "50 15 0"
+        },
+        {
+          "mr": "8 b",
+          "occupier": "Michael Fitzgerald",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "H&O",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Rev. Paul Heany",
+          "lessor": "James Scully, Esq.",
+          "desc": "H&L",
+          "area": "2 0 1",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "10 A",
+          "occupier": "Joseph Gubbins",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "L",
+          "area": "12 1 36",
+          "land_val": "15 10 0",
+          "total_val": "15 10 0"
+        },
+        {
+          "mr": "10 B a",
+          "occupier": "Joseph Gubbins",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "L",
+          "area": "1 0 35",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "10 B b",
+          "occupier": "John Carroll",
+          "lessor": "Joseph Gubbins",
+          "desc": "H&L",
+          "area": "3 3 28",
+          "land_val": "5 0 0",
+          "building_val": "0 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "11 A",
+          "occupier": "John Hanly",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "11 B",
+          "occupier": "John Hanly",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "L",
+          "area": "3 0 24",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Daniel Mulcahy",
+          "lessor": "John Hanly",
+          "desc": "L",
+          "area": "3 0 25",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "12 b",
+          "occupier": "James Power",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "H&G",
+          "area": "0 0 18",
+          "land_val": "0 3 0",
+          "building_val": "0 12 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "John Hanly",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "H&L",
+          "area": "0 3 10",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "Mary Glasheen",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "L",
+          "area": "13 0 29",
+          "land_val": "16 5 0",
+          "total_val": "16 5 0"
+        },
+        {
+          "mr": "13 b",
+          "occupier": "John M'Eniry",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "H&L",
+          "area": "0 3 35",
+          "land_val": "1 5 0",
+          "building_val": "0 10 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "James Hackett",
+          "lessor": "John M'Eniry",
+          "desc": "L",
+          "area": "3 3 24",
+          "land_val": "4 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "14 b",
+          "occupier": "John Beary",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "H&G",
+          "area": "0 0 28",
+          "land_val": "0 4 0",
+          "building_val": "0 16 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "15 A a",
+          "occupier": "Thomas Batters",
+          "lessor": "John Beary",
+          "desc": "L",
+          "area": "29 0 8",
+          "land_val": "36 15 0",
+          "total_val": "36 15 0"
+        },
+        {
+          "mr": "15 A b",
+          "occupier": "William O'Brien",
+          "lessor": "John Beary",
+          "desc": "H&O",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "15 B",
+          "occupier": "John Beary",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "H&G",
+          "area": "0 1 21",
+          "land_val": "0 8 0",
+          "building_val": "0 17 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "16 A",
+          "occupier": "John Beary",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "L",
+          "area": "0 3 32",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "16 B a",
+          "occupier": "John Quinlan",
+          "lessor": "John Beary",
+          "desc": "L",
+          "area": "2 0 20",
+          "land_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "16 B b",
+          "occupier": "Michael Carmody",
+          "lessor": "John Beary",
+          "desc": "H&G",
+          "area": "0 0 18",
+          "land_val": "0 3 0",
+          "building_val": "0 12 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "16 B b",
+          "occupier": "James Carmody",
+          "lessor": "John Beary",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "17 A",
+          "occupier": "Thomas Donovan",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "17 B",
+          "occupier": "Thomas O'Brien",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "L",
+          "area": "1 2 23",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "18 a",
+          "occupier": "Thomas O'Brien",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "L",
+          "area": "1 3 31",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "18 b",
+          "occupier": "Vacant",
+          "lessor": "Thomas O'Brien",
+          "desc": "L",
+          "area": "18 0 5",
+          "land_val": "23 5 0",
+          "total_val": "23 5 0"
+        },
+        {
+          "mr": "18 c",
+          "occupier": "Thomas Ladrigan",
+          "lessor": "Thomas O'Brien",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "19 a",
+          "occupier": "William Archer",
+          "lessor": "Thomas O'Brien",
+          "desc": "H&small G",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "19 b",
+          "occupier": "Thomas O'Brien",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "20 a",
+          "occupier": "Michael Ryan",
+          "lessor": "Thomas O'Brien",
+          "desc": "H&L",
+          "area": "42 1 35",
+          "land_val": "53 10 0",
+          "building_val": "0 10 0",
+          "total_val": "54 0 0"
+        },
+        {
+          "mr": "20 b",
+          "occupier": "Maurice Glasheen",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "21 a",
+          "occupier": "David Croagh",
+          "lessor": "Maurice Glasheen",
+          "desc": "H&L",
+          "area": "1 3 11",
+          "land_val": "2 5 0",
+          "building_val": "0 10 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "21 b",
+          "occupier": "William Daly",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "21 c",
+          "occupier": "Michael Daly",
+          "lessor": "James Scully, Esq.",
+          "desc": "Dairy-H,O,&L",
+          "area": "67 3 16",
+          "land_val": "81 5 0",
+          "building_val": "2 5 0",
+          "total_val": "83 10 0"
+        },
+        {
+          "mr": "22 a",
+          "occupier": "Thomas Daly",
+          "lessor": "Michael Daly",
+          "desc": "H&L",
+          "area": "15 0 0",
+          "land_val": "18 10 0",
+          "building_val": "0 15 0",
+          "total_val": "19 5 0"
+        },
+        {
+          "mr": "22 b",
+          "occupier": "Daniel Ryan",
+          "lessor": "Michael Daly",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "23 a",
+          "occupier": "John Ryan, sen.",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "23 b",
+          "occupier": "Thomas Ryan",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "H&L",
+          "area": "2 0 30",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "23 c",
+          "occupier": "David Rice",
+          "lessor": "Thomas Ryan",
+          "desc": "H&L",
+          "area": "1 0 15",
+          "land_val": "1 10 0",
+          "building_val": "0 10 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "John Ryan, jun.",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Timothy Mulcahy",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "H&L",
+          "area": "0 3 28",
+          "land_val": "1 5 0",
+          "building_val": "0 10 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Timothy Mulcahy",
+          "lessor": "Mrs. Anne Beary",
+          "desc": "H&L",
+          "area": "27 3 18",
+          "land_val": "33 10 0",
+          "building_val": "1 5 0",
+          "total_val": "34 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "320 0 37",
+          "land_val": "393 8 0",
+          "building_val": "21 16 0",
+          "total_val": "415 4 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A a",
+          "townland": "CLASHELEESHA",
+          "os": "66",
+          "occupier": "Otho Heffernan, jun.",
+          "lessor": "Heffernan Considine Esq",
+          "desc": "L",
+          "area": "4 1 2",
+          "land_val": "5 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "1 A b",
+          "occupier": "Otho Heffernan, jun.",
+          "lessor": "Heffernan Considine Esq",
+          "desc": "H,O,&L",
+          "area": "12 1 33",
+          "land_val": "15 10 0",
+          "building_val": "1 15 0",
+          "total_val": "17 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Otho Heffernan, sen.",
+          "lessor": "Heffernan Considine Esq",
+          "desc": "H,O,&L",
+          "area": "14 0 33",
+          "land_val": "18 0 0",
+          "building_val": "2 0 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "James Heffernan",
+          "lessor": "Heffernan Considine Esq",
+          "desc": "H,O,&L",
+          "area": "17 3 20",
+          "land_val": "21 5 0",
+          "building_val": "1 5 0",
+          "total_val": "22 10 0"
+        },
+        {
+          "mr": "3 b",
+          "occupier": "Michael Berlin",
+          "lessor": "James Heffernan",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "G. S. & W. Railway Co.",
+          "lessor": "In fee",
+          "desc": "Railway",
+          "area": "1 1 26",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "50 0 34",
+          "land_val": "61 15 0",
+          "building_val": "5 5 0",
+          "total_val": "67 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "COOLBOY",
+          "os": "65 & 66",
+          "occupier": "Michael Burke",
+          "lessor": "James Scully, Esq.",
+          "desc": "H,O,&L",
+          "area": "54 2 32",
+          "land_val": "72 5 0",
+          "building_val": "2 0 0",
+          "total_val": "74 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Glasheen",
+          "lessor": "James Scully, Esq.",
+          "desc": "L",
+          "area": "21 2 34",
+          "land_val": "27 10 0",
+          "total_val": "27 10 0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,552 @@
+{
+  "parishes": [
+    {
+      "parish": "KILGLASS",
+      "entries": [
+        {
+          "mr": "15 d",
+          "townland": "LEAFFONY",
+          "os": "",
+          "occupier": "John Harrison",
+          "lessor": "Charles Park",
+          "desc": "L,H,&O",
+          "area": "115 2 0",
+          "land_val": "4 0 0",
+          "building_val": "0 10 0",
+          "total_val": "4 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "15 e",
+          "occupier": "Patrick Beglain",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "land_val": "8 0 0",
+          "building_val": "1 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "15 f",
+          "occupier": "James M'Gowan",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "land_val": "4 0 0",
+          "building_val": "0 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "15 g",
+          "occupier": "Martin Conaghlin",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "land_val": "6 0 0",
+          "building_val": "0 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "15 h",
+          "occupier": "Patrick Harrison",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "land_val": "6 0 0",
+          "building_val": "0 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "16 a",
+          "occupier": "William Goulding",
+          "lessor": "Same",
+          "desc": "L and H",
+          "area": "23 2 17",
+          "land_val": "5 5 0",
+          "building_val": "0 10 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "16 b",
+          "occupier": "Thomas Goulding",
+          "lessor": "Same",
+          "desc": "L and H",
+          "land_val": "5 5 0",
+          "building_val": "0 10 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "17 a",
+          "occupier": "Francis Caffrey",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "38 0 35",
+          "land_val": "25 10 0",
+          "building_val": "2 0 0",
+          "total_val": "27 10 0"
+        },
+        {
+          "mr": "18 a",
+          "occupier": "Anne Slush",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "35 3 5",
+          "land_val": "16 10 0",
+          "building_val": "1 5 0",
+          "total_val": "17 15 0"
+        },
+        {
+          "mr": "18 b",
+          "occupier": "Eliza M'Kenly",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "land_val": "8 5 0",
+          "building_val": "1 5 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Unoccupied",
+          "lessor": "Henry Slush",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Anne Slush",
+          "lessor": "Eliza M'Kenly",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Anne Slush",
+          "lessor": "Charles Park",
+          "desc": "L",
+          "area": "9 1 35",
+          "land_val": "5 10 0",
+          "total_val": "3 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "-",
+          "occupier": "Eliza M'Kenly",
+          "lessor": "Same",
+          "desc": "L",
+          "total_val": "3 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "20",
+          "occupier": "John M'Kenly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 0 10",
+          "land_val": "2 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Eliza M'Kenly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "33 0 10",
+          "land_val": "12 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Unoccupied",
+          "lessor": "John M'Kenly",
+          "desc": "H and O",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Henry Slush",
+          "lessor": "Charles Park",
+          "desc": "L",
+          "area": "11 3 0",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Henry Slush",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "14 1 5",
+          "land_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "24 a",
+          "occupier": "John Lenny",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "11 2 26",
+          "land_val": "3 5 0",
+          "building_val": "0 5 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "25 a",
+          "occupier": "Bernard Lenny",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "6 1 10",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "26 a",
+          "occupier": "William Gray, jun.",
+          "lessor": "Same",
+          "desc": "L and O",
+          "area": "36 2 16",
+          "land_val": "10 0 0",
+          "building_val": "0 5 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "26 -",
+          "occupier": "John Gray",
+          "lessor": "Same",
+          "desc": "L",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "27 a",
+          "occupier": "William Gray, jun.",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "127 1 31",
+          "land_val": "9 15 0",
+          "building_val": "1 0 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "27 b",
+          "occupier": "John Gray",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "land_val": "3 5 0",
+          "building_val": "0 15 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "27 c",
+          "occupier": "Thomas Gray",
+          "lessor": "Same",
+          "desc": "L and H",
+          "land_val": "3 5 0",
+          "building_val": "0 5 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "27 d",
+          "occupier": "William Gray, sen.",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "land_val": "3 5 0",
+          "building_val": "0 10 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "27 e",
+          "occupier": "Richard Woods",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "land_val": "6 10 0",
+          "building_val": "0 15 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "27 f",
+          "occupier": "John Morgan",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "land_val": "3 5 0",
+          "building_val": "0 10 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "28 a",
+          "occupier": "Henry Burns",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "30 2 20",
+          "land_val": "10 10 0",
+          "building_val": "0 15 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Anne Linn",
+          "lessor": "Henry Burns",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Henry Burns",
+          "lessor": "John M'Nama",
+          "desc": "L",
+          "area": "9 1 31",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "30 a",
+          "occupier": "William Barrett",
+          "lessor": "Same",
+          "desc": "L and H",
+          "area": "4 0 30",
+          "land_val": "1 0 0",
+          "building_val": "0 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "31 a",
+          "occupier": "John M'Nama",
+          "lessor": "Charles Park",
+          "desc": "Ld., herd's ho., & offs.",
+          "area": "196 0 0",
+          "land_val": "25 10 0",
+          "building_val": "0 10 0",
+          "total_val": "26 0 0"
+        },
+        {
+          "mr": "31 b",
+          "occupier": "Peter O'Brien",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "land_val": "7 10 0",
+          "building_val": "0 10 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "31 c",
+          "occupier": "John Doude",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "land_val": "8 10 0",
+          "building_val": "0 10 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "31 d",
+          "occupier": "Francis Boland",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "land_val": "5 5 0",
+          "building_val": "0 10 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "31 e",
+          "occupier": "Edward Gibs",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "land_val": "5 5 0",
+          "building_val": "0 10 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "- f",
+          "occupier": "Edward Gibs",
+          "lessor": "Anthony Mullany",
+          "desc": "L",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "- g",
+          "occupier": "Patrick Boland",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "land_val": "1 15 0",
+          "building_val": "0 10 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "- h",
+          "occupier": "Edward Boland",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "land_val": "1 15 0",
+          "building_val": "0 10 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "- i",
+          "occupier": "Bridget Boland",
+          "lessor": "Francis Boland and partners",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- j",
+          "occupier": "John Caffrey",
+          "lessor": "John M'Nama",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- k",
+          "occupier": "William Quinn",
+          "lessor": "John Doude & P. O'Brien",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- l",
+          "occupier": "Cath. Corcoran & others",
+          "lessor": "Free",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "32 a",
+          "occupier": "William Slush",
+          "lessor": "Charles Park",
+          "desc": "L,H,&O",
+          "area": "40 0 15",
+          "land_val": "19 0 0",
+          "building_val": "1 0 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "33 a",
+          "occupier": "James Reilly",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "14 3 10",
+          "land_val": "8 0 0",
+          "building_val": "0 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "34 a",
+          "occupier": "Patrick Dolphin",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "16 0 18",
+          "land_val": "8 0 0",
+          "building_val": "0 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "35 a",
+          "occupier": "Michael Finegan",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "11 0 35",
+          "land_val": "5 10 0",
+          "building_val": "0 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "1484 0 0",
+          "land_val": "556 7 0",
+          "building_val": "41 13 0",
+          "total_val": "598 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CARRANDUFF",
+          "os": "10",
+          "occupier": "Anthony Mullany",
+          "lessor": "The Immediate Lessor",
+          "desc": "L",
+          "area": "23 0 18",
+          "land_val": "12 10 0",
+          "total_val": "12 10 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "2",
+          "occupier": "Anthony Mullany",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "77 2 29",
+          "land_val": "48 15 0",
+          "total_val": "48 15 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Owen Feeny",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "19 0 15",
+          "land_val": "11 0 0",
+          "building_val": "1 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Patrick Mullany",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "20 1 5",
+          "land_val": "12 15 0",
+          "total_val": "12 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Mullany",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "10 0 15",
+          "land_val": "8 5 0",
+          "total_val": "3 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "John Mullany",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 3 35",
+          "land_val": "2 5 0",
+          "total_val": "3 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "7",
+          "occupier": "John Magee",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "10 3 29",
+          "land_val": "8 15 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Miles Boland",
+          "lessor": "Same",
+          "desc": "L",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "William Mullany",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 3 35",
+          "land_val": "1 15 0",
+          "total_val": "5 5 0",
+          "n_shared": 2
+        }
+      ]
+    }
+  ]
+}

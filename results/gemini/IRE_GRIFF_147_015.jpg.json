@@ -1,0 +1,620 @@
+{
+  "parishes": [
+    {
+      "entries": [
+        {
+          "mr": "1 A B C a",
+          "townland": "BALLYGOWN",
+          "os": "39",
+          "occupier": "Thomas Brazil",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "30 1 14",
+          "land_val": "6 10 0",
+          "building_val": "1 15 0",
+          "total_val": "8 5 0",
+          "is_total": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Daniel Brazil",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "land_val": "6 10 0",
+          "building_val": "2 0 0",
+          "total_val": "8 10 0",
+          "is_total": 0
+        },
+        {
+          "mr": "2 & 1 a a b",
+          "occupier": "Patrick Maher",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&G",
+          "area": "1 3 6",
+          "land_val": "0 13 0",
+          "building_val": "0 17 0",
+          "total_val": "1 10 0",
+          "is_total": 0
+        },
+        {
+          "mr": "3 A (1 A c d B c)",
+          "occupier": "Patrick Brophy",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "35 2 0",
+          "land_val": "7 15 0",
+          "building_val": "2 15 0",
+          "total_val": "10 10 0",
+          "n_shared": 2,
+          "is_total": 0
+        },
+        {
+          "occupier": "John Brophy",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "land_val": "7 15 0",
+          "building_val": "2 0 0",
+          "total_val": "9 15 0",
+          "n_shared": 2,
+          "is_total": 0
+        },
+        {
+          "mr": "4",
+          "occupier": "Edmund Crowley",
+          "lessor": "Earl of Bessborough",
+          "desc": "H&L",
+          "area": "5 1 16",
+          "land_val": "1 10 0",
+          "building_val": "0 10 0",
+          "total_val": "2 10 0",
+          "is_total": 0
+        },
+        {
+          "mr": "5 A B C a",
+          "occupier": "Michael Larkin",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "11 1 38",
+          "land_val": "6 5 0",
+          "building_val": "1 10 0",
+          "total_val": "7 15 0",
+          "is_total": 0
+        },
+        {
+          "mr": "6 A a",
+          "occupier": "Catherine Brophy",
+          "lessor": "Earl of Bessborough",
+          "desc": "H&G",
+          "area": "0 1 1",
+          "land_val": "0 3 0",
+          "building_val": "0 17 0",
+          "total_val": "1 0 0",
+          "is_total": 0
+        },
+        {
+          "mr": "6 A B a c",
+          "occupier": "Richard Cotton",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "19 1 16",
+          "land_val": "9 4 0",
+          "building_val": "2 6 0",
+          "total_val": "11 10 0",
+          "is_total": 0
+        },
+        {
+          "mr": "7",
+          "occupier": "Margaret Dalton",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "1 0 22",
+          "land_val": "0 12 0",
+          "building_val": "0 18 0",
+          "total_val": "1 10 0",
+          "is_total": 0
+        },
+        {
+          "mr": "8 A B C a",
+          "occupier": "William Knox",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "31 3 6",
+          "land_val": "13 10 0",
+          "building_val": "1 15 0",
+          "total_val": "15 5 0",
+          "is_total": 0
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Timothy Egan",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "0 1 4",
+          "land_val": "0 5 0",
+          "building_val": "1 0 0",
+          "total_val": "1 5 0",
+          "is_total": 0
+        },
+        {
+          "mr": "9",
+          "occupier": "Michael Tierney",
+          "lessor": "Earl of Bessborough",
+          "desc": "H&G",
+          "area": "0 0 16",
+          "land_val": "0 1 0",
+          "building_val": "0 11 0",
+          "total_val": "0 12 0",
+          "is_total": 0
+        },
+        {
+          "occupier": "James Carron",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "16 2 8",
+          "land_val": "8 10 0",
+          "building_val": "2 0 0",
+          "total_val": "10 10 0",
+          "is_total": 0
+        },
+        {
+          "mr": "10",
+          "occupier": "Mary Walsh",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "21 3 2",
+          "land_val": "11 0 0",
+          "building_val": "3 0 0",
+          "total_val": "14 0 0",
+          "is_total": 0
+        },
+        {
+          "mr": "11",
+          "occupier": "Miss Eliza Hewetson",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "67 1 9",
+          "land_val": "41 10 0",
+          "building_val": "6 10 0",
+          "total_val": "48 0 0",
+          "is_total": 0
+        },
+        {
+          "mr": "12 & 5 a b",
+          "occupier": "William Daniel",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "1 2 4",
+          "land_val": "0 15 0",
+          "building_val": "0 15 0",
+          "total_val": "1 10 0",
+          "is_total": 0
+        },
+        {
+          "mr": "13",
+          "occupier": "Thomas Maher",
+          "lessor": "Earl of Bessborough",
+          "desc": "H&L",
+          "area": "0 3 11",
+          "land_val": "0 6 0",
+          "building_val": "0 19 0",
+          "total_val": "1 5 0",
+          "is_total": 0
+        },
+        {
+          "mr": "14 A B C d e f",
+          "occupier": "Richard Egan",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "27 3 24",
+          "land_val": "10 14 0",
+          "building_val": "2 16 0",
+          "total_val": "13 10 0",
+          "is_total": 0
+        },
+        {
+          "mr": "b",
+          "occupier": "James Shanahan",
+          "lessor": "Earl of Bessborough",
+          "desc": "H&G",
+          "area": "0 1 2",
+          "land_val": "0 3 0",
+          "building_val": "0 17 0",
+          "total_val": "1 0 0",
+          "is_total": 0
+        },
+        {
+          "mr": "c",
+          "occupier": "James Bourke",
+          "lessor": "Earl of Bessborough",
+          "desc": "H&sm.G",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0",
+          "is_total": 0
+        },
+        {
+          "mr": "15",
+          "occupier": "John Murphy",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "14 2 13",
+          "land_val": "5 15 0",
+          "building_val": "1 15 0",
+          "total_val": "7 10 0",
+          "is_total": 0
+        },
+        {
+          "mr": "16 A (15 a f B c d)",
+          "occupier": "Patrick Dalton",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "37 2 2",
+          "land_val": "7 8 0",
+          "building_val": "1 12 0",
+          "total_val": "9 0 0",
+          "n_shared": 2,
+          "is_total": 0
+        },
+        {
+          "occupier": "Richard Maher",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "land_val": "7 8 0",
+          "building_val": "1 12 0",
+          "total_val": "9 0 0",
+          "n_shared": 2,
+          "is_total": 0
+        },
+        {
+          "mr": "b",
+          "occupier": "John Whelan",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&G",
+          "area": "0 0 15",
+          "land_val": "0 2 0",
+          "building_val": "1 13 0",
+          "total_val": "1 15 0",
+          "is_total": 0
+        },
+        {
+          "mr": "c",
+          "occupier": "James Cummins",
+          "lessor": "Earl of Bessborough",
+          "desc": "H&sm.G",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0",
+          "is_total": 0
+        },
+        {
+          "mr": "d",
+          "occupier": "Michael Malone",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&sm.G",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0",
+          "is_total": 0
+        },
+        {
+          "mr": "17 A B (14 c d c e E F g h)",
+          "occupier": "Edward Kelly",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "36 0 32",
+          "land_val": "4 15 0",
+          "building_val": "1 10 0",
+          "total_val": "6 5 0",
+          "n_shared": 2,
+          "is_total": 0
+        },
+        {
+          "occupier": "Mary Maher",
+          "lessor": "Earl of Bessborough",
+          "desc": "L",
+          "land_val": "9 10 0",
+          "total_val": "9 10 0",
+          "n_shared": 2,
+          "is_total": 0
+        },
+        {
+          "mr": "g a",
+          "occupier": "Mary Cotton",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&sm.G",
+          "building_val": "0 18 0",
+          "total_val": "0 18 0",
+          "is_total": 0
+        },
+        {
+          "mr": "18 A a B c d f",
+          "occupier": "Michael Power",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "40 2 21",
+          "land_val": "18 10 0",
+          "building_val": "6 10 0",
+          "total_val": "25 0 0",
+          "is_total": 0
+        },
+        {
+          "desc": "Total",
+          "area": "405 2 2",
+          "land_val": "186 19 0",
+          "building_val": "53 8 0",
+          "total_val": "240 7 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BALLYNAMETAGH",
+          "os": "39",
+          "occupier": "Joseph Morris",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "34 0 25",
+          "land_val": "23 0 0",
+          "building_val": "4 10 0",
+          "total_val": "27 10 0",
+          "is_total": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "b",
+          "occupier": "James Oates",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&G",
+          "area": "0 2 7",
+          "land_val": "0 8 0",
+          "building_val": "1 2 0",
+          "total_val": "1 10 0",
+          "is_total": 0
+        },
+        {
+          "mr": "c",
+          "occupier": "William Carroll",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&G",
+          "area": "0 2 4",
+          "land_val": "0 8 0",
+          "building_val": "1 2 0",
+          "total_val": "1 10 0",
+          "is_total": 0
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Henry Daniel",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "19 3 9",
+          "land_val": "14 10 0",
+          "building_val": "5 5 0",
+          "total_val": "19 15 0",
+          "is_total": 0
+        },
+        {
+          "mr": "b",
+          "occupier": "John Dowling",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&G",
+          "area": "0 3 4",
+          "land_val": "0 12 0",
+          "building_val": "0 18 0",
+          "total_val": "1 10 0",
+          "is_total": 0
+        },
+        {
+          "mr": "c",
+          "occupier": "Thomas Mullowney",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&G",
+          "area": "0 3 20",
+          "land_val": "0 14 0",
+          "building_val": "1 16 0",
+          "total_val": "2 10 0",
+          "is_total": 0
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Patrick Whelan",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "28 1 36",
+          "land_val": "9 18 0",
+          "building_val": "2 2 0",
+          "total_val": "12 0 0",
+          "n_shared": 2,
+          "is_total": 0
+        },
+        {
+          "mr": "b",
+          "occupier": "Michael Whelan",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "land_val": "9 18 0",
+          "building_val": "1 12 0",
+          "total_val": "11 10 0",
+          "n_shared": 2,
+          "is_total": 0
+        },
+        {
+          "mr": "4",
+          "occupier": "Ellen Whelan",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "1 1 6",
+          "land_val": "1 0 0",
+          "building_val": "2 0 0",
+          "total_val": "3 0 0",
+          "is_total": 0
+        },
+        {
+          "desc": "Total",
+          "area": "86 1 31",
+          "land_val": "60 8 0",
+          "building_val": "20 7 0",
+          "total_val": "80 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BALLYPATRICK",
+          "os": "39",
+          "occupier": "Rev. Pierce Marum",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "22 0 4",
+          "land_val": "14 0 0",
+          "building_val": "9 0 0",
+          "total_val": "23 0 0",
+          "is_total": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "2",
+          "occupier": "Mary Walsh",
+          "lessor": "Earl of Bessborough",
+          "desc": "L",
+          "area": "6 0 31",
+          "land_val": "3 5 0",
+          "total_val": "3 5 0",
+          "is_total": 0
+        },
+        {
+          "mr": "3",
+          "occupier": "Ellen Whelan",
+          "lessor": "Earl of Bessborough",
+          "desc": "L",
+          "area": "7 1 0",
+          "land_val": "3 15 0",
+          "total_val": "3 15 0",
+          "is_total": 0
+        },
+        {
+          "mr": "4 a",
+          "occupier": "James Butler",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "3 1 19",
+          "land_val": "0 15 0",
+          "building_val": "1 0 0",
+          "total_val": "1 15 0",
+          "n_shared": 2,
+          "is_total": 0
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Kelly",
+          "lessor": "Earl of Bessborough",
+          "desc": "H&L",
+          "land_val": "0 15 0",
+          "building_val": "1 0 0",
+          "total_val": "1 15 0",
+          "n_shared": 2,
+          "is_total": 0
+        },
+        {
+          "desc": "Total",
+          "area": "38 3 14",
+          "land_val": "22 10 0",
+          "building_val": "11 0 0",
+          "total_val": "33 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BANAGHER",
+          "os": "39",
+          "occupier": "Earl of Bessborough",
+          "lessor": "In fee",
+          "desc": "Gate-ho.,O,&L",
+          "area": "80 3 22",
+          "land_val": "79 0 0",
+          "building_val": "5 0 0",
+          "total_val": "84 0 0",
+          "is_total": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "2",
+          "occupier": "Michael Power",
+          "lessor": "Earl of Bessborough",
+          "desc": "H,O,&L",
+          "area": "29 1 33",
+          "land_val": "29 15 0",
+          "building_val": "4 15 0",
+          "total_val": "34 10 0",
+          "is_total": 0
+        },
+        {
+          "mr": "3",
+          "occupier": "Edward Dalton",
+          "lessor": "Earl of Bessborough",
+          "desc": "L",
+          "area": "1 1 29",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0",
+          "is_total": 0
+        },
+        {
+          "mr": "4",
+          "occupier": "Thomas Dillon",
+          "lessor": "Earl of Bessborough",
+          "desc": "L",
+          "area": "4 0 37",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0",
+          "is_total": 0
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Cummins",
+          "lessor": "Earl of Bessborough",
+          "desc": "L",
+          "area": "1 3 33",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0",
+          "is_total": 0
+        },
+        {
+          "mr": "6",
+          "occupier": "William Morris",
+          "lessor": "Earl of Bessborough",
+          "desc": "L",
+          "area": "2 1 35",
+          "land_val": "3 0 0",
+          "total_val": "3 0 0",
+          "is_total": 0
+        },
+        {
+          "mr": "7",
+          "occupier": "John Jacques",
+          "lessor": "Earl of Bessborough",
+          "desc": "L",
+          "area": "2 0 28",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0",
+          "is_total": 0
+        },
+        {
+          "mr": "8",
+          "occupier": "Mrs. Anne Woods",
+          "lessor": "Earl of Bessborough",
+          "desc": "L",
+          "area": "2 1 17",
+          "land_val": "3 0 0",
+          "total_val": "3 0 0",
+          "is_total": 0
+        },
+        {
+          "mr": "9",
+          "occupier": "Peter Ryan",
+          "lessor": "Earl of Bessborough",
+          "desc": "L",
+          "area": "0 3 3",
+          "land_val": "0 18 0",
+          "total_val": "0 18 0",
+          "is_total": 0
+        }
+      ]
+    }
+  ]
+}

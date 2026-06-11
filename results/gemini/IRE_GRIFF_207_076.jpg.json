@@ -1,0 +1,444 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF CROSSMOLINA",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "KNOCKNAHORNA",
+          "os": "37",
+          "occupier": "Patrick Fergus",
+          "lessor": "Sir W. Roger Palmer, Bt.",
+          "desc": "L,H,&O",
+          "area": "128 1 32",
+          "land_val": "17 15 0",
+          "building_val": "0 5 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Michael Lynn",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "280 1 26",
+          "land_val": "9 5 0",
+          "total_val": "9 5 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "",
+          "occupier": "Patrick Lynn",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "280 1 26",
+          "land_val": "4 10 0",
+          "total_val": "4 10 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "",
+          "occupier": "Denis Lynn",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "280 1 26",
+          "land_val": "4 10 0",
+          "total_val": "4 10 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "",
+          "occupier": "Patrick Dunleavy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "280 1 26",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Dunleavy",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "113 3 36",
+          "land_val": "3 15 0",
+          "building_val": "0 10 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "522 3 14",
+          "land_val": "40 10 0",
+          "building_val": "0 15 0",
+          "total_val": "41 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "LACKALUSTRAUN",
+          "os": "37",
+          "occupier": "Michael O'Boyle",
+          "lessor": "Sir W. Roger Palmer, Bt.",
+          "desc": "L,H,&O",
+          "area": "396 2 11",
+          "land_val": "13 0 0",
+          "building_val": "1 5 0",
+          "total_val": "14 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Patrick O'Boyle",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 1 25",
+          "land_val": "0 10 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Patrick O'Boyle",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "372 1 14",
+          "land_val": "12 10 0",
+          "building_val": "1 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Francis O'Boyle",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "44 0 13",
+          "land_val": "7 0 0",
+          "building_val": "1 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Henry Barrett",
+          "lessor": "Patrick O'Boyle",
+          "desc": "L&H",
+          "area": "3 1 0",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "807 2 23",
+          "land_val": "33 15 0",
+          "building_val": "3 10 0",
+          "total_val": "37 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "LAUGHIL",
+          "os": "37",
+          "occupier": "James Cleary",
+          "lessor": "Sir W. Roger Palmer, Bt.",
+          "desc": "L&H",
+          "area": "320 1 2",
+          "land_val": "22 0 0",
+          "building_val": "0 15 0",
+          "total_val": "22 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "320 1 2",
+          "land_val": "22 0 0",
+          "building_val": "0 15 0",
+          "total_val": "22 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "MUNGAUN",
+          "os": "37",
+          "occupier": "Patrick Gallagher",
+          "lessor": "Walter Bourke",
+          "desc": "L,H,&O",
+          "area": "577 3 37",
+          "land_val": "20 0 0",
+          "building_val": "0 15 0",
+          "total_val": "20 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Dominick Gallagher",
+          "lessor": "Patrick Gallagher",
+          "desc": "L&H",
+          "area": "3 1 32",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Richard Gallagher",
+          "lessor": "Walter Bourke",
+          "desc": "L&H",
+          "area": "362 0 0",
+          "land_val": "9 0 0",
+          "building_val": "0 5 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Anthony Scanlan",
+          "lessor": "Richard Gallagher",
+          "desc": "L&H",
+          "area": "6 2 0",
+          "land_val": "1 10 0",
+          "building_val": "0 5 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "949 3 29",
+          "land_val": "31 0 0",
+          "building_val": "1 10 0",
+          "total_val": "32 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "SRANACALLY",
+          "os": "37",
+          "occupier": "James Fergus",
+          "lessor": "Sir W. Roger Palmer, Bt.",
+          "desc": "L&H",
+          "area": "347 1 23",
+          "land_val": "14 5 0",
+          "building_val": "0 15 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Francis O'Boyle",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "306 3 23",
+          "land_val": "14 5 0",
+          "building_val": "0 15 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "654 1 6",
+          "land_val": "28 10 0",
+          "building_val": "1 10 0",
+          "total_val": "30 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "TAWNAGHS",
+          "os": "37",
+          "occupier": "Edmond Fergus",
+          "lessor": "Sir W. Roger Palmer, Bt.",
+          "desc": "L,H,&O",
+          "area": "447 1 34",
+          "land_val": "18 0 0",
+          "building_val": "0 10 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Daniel Hopkins",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "261 3 16",
+          "land_val": "15 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "709 1 10",
+          "land_val": "33 0 0",
+          "building_val": "0 10 0",
+          "total_val": "33 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CARROWGARVE, SOUTH",
+          "os": "37 & 38",
+          "occupier": "Thomas Judge",
+          "lessor": "Earl of Arran",
+          "desc": "L",
+          "area": "145 2 39",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "John Caden",
+          "lessor": "Same",
+          "desc": "L&O",
+          "area": "171 3 13",
+          "land_val": "5 10 0",
+          "building_val": "0 5 0",
+          "total_val": "5 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "b",
+          "occupier": "Bridget Bartly",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "171 3 13",
+          "land_val": "1 15 0",
+          "building_val": "0 5 0",
+          "total_val": "2 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "c",
+          "occupier": "Bryan Monnelly",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "171 3 13",
+          "land_val": "3 15 0",
+          "building_val": "0 5 0",
+          "total_val": "4 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick O'Boyle",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "67 2 17",
+          "land_val": "13 5 0",
+          "building_val": "0 15 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Neal O'Boyle",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "21 2 34",
+          "land_val": "5 0 0",
+          "building_val": "0 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Bartley Gallagher",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "13 2 17",
+          "land_val": "4 15 0",
+          "building_val": "0 10 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "John Lynn",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "15 2 29",
+          "land_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "John Caden",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "22 3 31",
+          "land_val": "5 15 0",
+          "building_val": "0 15 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "James Merick",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "32 1 24",
+          "land_val": "5 10 0",
+          "building_val": "0 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Patrick Folan",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "13 1 13",
+          "land_val": "4 15 0",
+          "building_val": "0 10 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Patrick Caden",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "22 1 0",
+          "land_val": "3 10 0",
+          "building_val": "0 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Patrick Caden",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "12 2 36",
+          "land_val": "3 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Michael Hanahow",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "31 0 17",
+          "land_val": "5 0 0",
+          "building_val": "0 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "Anthony Donohoe",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "62 2 0",
+          "land_val": "12 0 0",
+          "building_val": "0 10 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "William Heffernan",
+          "lessor": "Same",
+          "desc": "G&H",
+          "area": "0 1 8",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "William Heffernan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "42 3 29",
+          "land_val": "9 15 0",
+          "total_val": "9 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "676 2 27",
+          "land_val": "92 0 0",
+          "building_val": "6 5 0",
+          "total_val": "98 5 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

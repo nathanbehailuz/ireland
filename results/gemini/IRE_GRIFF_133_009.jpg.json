@@ -1,0 +1,612 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF DONAGHCUMPER",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "LOUGHLINSTOWN",
+          "os": "11",
+          "occupier": "George Buckley",
+          "lessor": "George R. Keogh, Esq.",
+          "desc": "H,O,&L",
+          "area": "67 1 0",
+          "land_val": "52 10 0",
+          "building_val": "2 10 0",
+          "total_val": "55 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "b",
+          "occupier": "Arthur B. Cane, Esq.",
+          "lessor": "George R. Keogh, Esq.",
+          "desc": "H,O,&L",
+          "area": "171 2 36",
+          "land_val": "152 15 0",
+          "building_val": "12 15 0",
+          "total_val": "165 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Christopher Dowling",
+          "lessor": "Arthur B. Cane, Esq.",
+          "desc": "H",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "William Sweeney",
+          "lessor": "Arthur B. Cane, Esq.",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "3 A B",
+          "occupier": "Richard Cooney",
+          "lessor": "George R. Keogh, Esq.",
+          "desc": "L",
+          "area": "8 1 6",
+          "land_val": "7 15 0",
+          "total_val": "7 15 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "a a",
+          "occupier": "Thomas Dunne",
+          "lessor": "Richard Cooney",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "b",
+          "occupier": "Michael Masterson",
+          "lessor": "Richard Cooney",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "c",
+          "occupier": "Walter Wall",
+          "lessor": "Richard Cooney",
+          "desc": "H&G",
+          "area": "0 1 0",
+          "land_val": "0 5 0",
+          "building_val": "1 0 0",
+          "total_val": "1 5 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "4",
+          "occupier": "G. S. & W. Railway Co.",
+          "lessor": "In fee",
+          "desc": "Railway (43 lin. perches), and waste land",
+          "area": "1 0 32",
+          "total_val": "62 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "248 2 34",
+          "land_val": "213 5 0",
+          "building_val": "20 10 0",
+          "total_val": "296 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "NEWTOWN",
+          "os": "11 & 15",
+          "occupier": "Anne Murphy",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H,O,&L",
+          "area": "0 3 38",
+          "land_val": "1 10 0",
+          "building_val": "0 15 0",
+          "total_val": "2 5 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "b",
+          "occupier": "— M'Entyre",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H (part of)",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "c",
+          "occupier": "Elizabeth Gaynor",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "d",
+          "occupier": "Francis Wheeler",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "0 17 0",
+          "total_val": "0 17 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "e",
+          "occupier": "Joseph Shaw, Esq.",
+          "lessor": "Rt. Hon. Lord Cloncurry",
+          "desc": "H,O,flax manufactory,&L",
+          "area": "6 1 27",
+          "land_val": "9 0 0",
+          "building_val": "160 0 0",
+          "total_val": "169 0 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "b",
+          "occupier": "Bridget Dinnany",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Joseph Walsh",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "James Groves",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Margaret Gaven",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Elizabeth Kelly",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "Catherine Elliott",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "h",
+          "occupier": "Peter Robinson",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "i",
+          "occupier": "William Macusker",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "j",
+          "occupier": "Esther Geraghty",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "k",
+          "occupier": "John Masterson",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "l",
+          "occupier": "Bridget Troy",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "m",
+          "occupier": "Andrew Cassels",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "n",
+          "occupier": "Elizabeth Kirwan",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "0 17 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "o",
+          "occupier": "Nicholas Kenny",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "0 17 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "p",
+          "occupier": "Bridget Daly",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "q",
+          "occupier": "Patrick Geraghty",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "r",
+          "occupier": "Margaret Cusack",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "s",
+          "occupier": "James Tracy",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "t",
+          "occupier": "George Ivers",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "u",
+          "occupier": "Anne Tynan",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "v",
+          "occupier": "Hugh Moore",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "w",
+          "occupier": "Richard Byrne",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "0 17 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "3 A B",
+          "occupier": "Joseph Shaw, Esq.",
+          "lessor": "Richard Maunsell, Esq.",
+          "desc": "L",
+          "area": "34 1 0",
+          "land_val": "34 0 0",
+          "total_val": "34 0 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "a a",
+          "occupier": "Edward Shannon",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "b",
+          "occupier": "Christopher Cummins",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H,O,&G",
+          "area": "0 1 16",
+          "land_val": "0 15 0",
+          "building_val": "1 0 0",
+          "total_val": "1 15 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "c",
+          "occupier": "John Cummins",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H&O",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "d",
+          "occupier": "William Kilbride",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "0 11 0",
+          "total_val": "0 11 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "e",
+          "occupier": "James Walsh",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "f",
+          "occupier": "John Flanagan",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H,O,&G",
+          "area": "0 0 26",
+          "land_val": "0 7 0",
+          "building_val": "0 13 0",
+          "total_val": "1 0 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "g",
+          "occupier": "Lawrence Murtagh",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H&G",
+          "area": "0 0 28",
+          "land_val": "0 7 0",
+          "building_val": "0 13 0",
+          "total_val": "1 0 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "h",
+          "occupier": "John Finlay",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 7 0",
+          "building_val": "0 13 0",
+          "total_val": "1 0 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "i",
+          "occupier": "John Mapother",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "j",
+          "occupier": "Catherine Johnston",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 8 0",
+          "building_val": "0 12 0",
+          "total_val": "1 0 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "k",
+          "occupier": "Patrick Johnston",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H&G",
+          "area": "0 2 8",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "4",
+          "occupier": "Michael Barrett",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H&L",
+          "area": "1 0 16",
+          "land_val": "1 5 0",
+          "building_val": "0 15 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Thomas Martin",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H&L",
+          "area": "0 3 21",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Philip Murtagh",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "L",
+          "area": "0 3 5",
+          "land_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Thomas Murtagh",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H,O,&L",
+          "area": "1 2 36",
+          "land_val": "1 5 0",
+          "building_val": "0 15 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Barnaby M'Bride",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H,O,&L",
+          "area": "1 1 5",
+          "land_val": "1 0 0",
+          "building_val": "1 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Joseph Sheils",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H,O,&L",
+          "area": "1 3 6",
+          "land_val": "1 10 0",
+          "building_val": "0 15 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Owen Connolly",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H,O,&L",
+          "area": "2 3 11",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "10 A C B",
+          "occupier": "Peter Connolly",
+          "lessor": "Richard Maunsell, Esq.",
+          "desc": "H,O,&L",
+          "area": "20 3 13",
+          "land_val": "17 15 0",
+          "building_val": "1 15 0",
+          "total_val": "19 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Cornelius Denny",
+          "lessor": "Joseph Shaw, Esq.",
+          "desc": "H,O,&L",
+          "area": "1 2 30",
+          "land_val": "1 5 0",
+          "building_val": "0 15 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Thomas Dunne",
+          "lessor": "Richard Maunsell, Esq.",
+          "desc": "H,O,&L",
+          "area": "9 0 6",
+          "land_val": "7 15 0",
+          "building_val": "1 10 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "Richard Maunsell, Esq.",
+          "lessor": "In fee",
+          "desc": "H,O,&L",
+          "area": "196 1 38",
+          "land_val": "202 10 0",
+          "building_val": "7 10 0",
+          "total_val": "210 0 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Lawler",
+          "lessor": "Richard Maunsell, Esq.",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "c",
+          "occupier": "Vacant",
+          "lessor": "Richard Maunsell, Esq.",
+          "desc": "H",
+          "building_val": "0 14 0",
+          "total_val": "0 14 0",
+          "n_shared": 1
+        },
+        {
+          "desc": "Waste of River Liffey",
+          "area": "7 2 32"
+        },
+        {
+          "desc": "Total",
+          "area": "289 1 28",
+          "land_val": "285 6 0",
+          "building_val": "208 18 0",
+          "total_val": "494 4 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "REEVES",
+          "os": "14 & 15",
+          "occupier": "Maurice Hayden",
+          "lessor": "Richard Maunsell, Esq.",
+          "desc": "H,O,&L",
+          "area": "3 2 24",
+          "land_val": "2 15 0",
+          "building_val": "1 5 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "William Moore",
+          "lessor": "Richard Maunsell, Esq.",
+          "desc": "L",
+          "area": "9 0 36",
+          "land_val": "8 0 0",
+          "total_val": "8 0 0"
+        }
+      ]
+    }
+  ]
+}

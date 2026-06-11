@@ -1,0 +1,635 @@
+{
+  "parishes": [
+    {
+      "entries": [
+        {
+          "mr": "3 A B a",
+          "townland": "ANNAMULT",
+          "occupier": "Mary M'Donnell,",
+          "lessor": "Henry Wemys, Esq.",
+          "desc": "H,O,&L",
+          "area": "26 1 10",
+          "land_val": "19 0 0",
+          "building_val": "4 0 0",
+          "total_val": "23 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "4 A B & 3 B b",
+          "occupier": "James M'Donnell,",
+          "lessor": "Henry Wemys, Esq.",
+          "desc": "H,O,&L",
+          "area": "26 1 1",
+          "land_val": "20 0 0",
+          "building_val": "3 15 0",
+          "total_val": "23 15 0"
+        },
+        {
+          "mr": "— B a",
+          "occupier": "Bryan Dowling,",
+          "lessor": "James M'Donnell,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Anastasia Kennedy,",
+          "lessor": "James M'Donnell,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "5 A a B",
+          "occupier": "William Kelly,",
+          "lessor": "John Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "6 2 25",
+          "land_val": "5 10 0",
+          "building_val": "1 0 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Martin Grace,",
+          "lessor": "John Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "7 0 7",
+          "land_val": "5 17 0",
+          "building_val": "0 18 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Eleanor Larkin,",
+          "lessor": "John Butler, Esq.",
+          "desc": "H&L",
+          "area": "4 1 2",
+          "land_val": "3 11 0",
+          "building_val": "0 9 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Jeremiah Doyle,",
+          "lessor": "Henry Wemys, Esq.",
+          "desc": "H,O,&L",
+          "area": "3 0 30",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "9 A B a",
+          "occupier": "Patrick Stephens,",
+          "lessor": "James M. Loughlin, Esq.",
+          "desc": "H,O,&L",
+          "area": "5 1 14",
+          "land_val": "4 0 0",
+          "building_val": "2 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "— A a",
+          "occupier": "Michael Shea,",
+          "lessor": "Patrick Stephens,",
+          "desc": "H,O,&G",
+          "area": "0 0 25",
+          "land_val": "0 2 0",
+          "building_val": "0 18 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Catherine Grace,",
+          "lessor": "James Gorman,",
+          "desc": "H&G",
+          "area": "0 0 14",
+          "land_val": "0 1 0",
+          "building_val": "0 9 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Michael Corcoran,",
+          "lessor": "James M. Loughlin, Esq.",
+          "desc": "H,O,&L",
+          "area": "11 3 31",
+          "land_val": "7 10 0",
+          "building_val": "1 5 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Eleanor Gorman,",
+          "lessor": "James M. Loughlin, Esq.",
+          "desc": "L",
+          "area": "1 0 3",
+          "land_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "Patrick Stephens,",
+          "lessor": "James M. Loughlin, Esq.",
+          "desc": "L",
+          "land_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Eleanor Gorman,",
+          "lessor": "James M. Loughlin, Esq.",
+          "desc": "H,O,&L",
+          "area": "35 1 28",
+          "land_val": "26 10 0",
+          "building_val": "3 0 0",
+          "total_val": "29 10 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Patrick Murphy,",
+          "lessor": "James Gorman,",
+          "desc": "H,O,&G",
+          "area": "0 0 38",
+          "land_val": "0 5 0",
+          "building_val": "0 15 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "Bridget Murphy,",
+          "lessor": "James Gorman,",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "— d",
+          "occupier": "Mary Leahy,",
+          "lessor": "James Gorman,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Eleanor Gorman,",
+          "lessor": "John Butler, Esq.",
+          "desc": "L",
+          "area": "6 1 24",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Mary Redmonds,",
+          "lessor": "Eleanor Gorman,",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Patrick Reddy,",
+          "lessor": "Eleanor Gorman,",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "0 5 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "James Stanley,",
+          "lessor": "John Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "5 3 8",
+          "land_val": "4 10 0",
+          "building_val": "1 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Laurence Stanley,",
+          "lessor": "John Butler, Esq.",
+          "desc": "H,O,&L",
+          "area": "5 0 5",
+          "land_val": "4 0 0",
+          "building_val": "0 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "16 A b & 44 B c",
+          "occupier": "William Cullen,",
+          "lessor": "Henry Wemys, Esq.",
+          "desc": "H,O,&L",
+          "area": "55 0 10",
+          "land_val": "41 10 0",
+          "building_val": "2 10 0",
+          "total_val": "44 0 0"
+        },
+        {
+          "mr": "17 A b & 44 B b",
+          "occupier": "Thomas Dunne,",
+          "lessor": "Henry Wemys, Esq.",
+          "desc": "H,O,&L",
+          "area": "54 3 21",
+          "land_val": "37 10 0",
+          "building_val": "3 0 0",
+          "total_val": "40 10 0"
+        },
+        {
+          "mr": "18 A B & 44 B d",
+          "occupier": "William Maher,",
+          "lessor": "Henry Wemys, Esq.",
+          "desc": "H,O,&L",
+          "area": "118 1 28",
+          "land_val": "85 0 0",
+          "building_val": "5 0 0",
+          "total_val": "90 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "William Maher and Partners,",
+          "lessor": "Henry Wemys, Esq.",
+          "desc": "L (waste)",
+          "area": "1 0 0"
+        },
+        {
+          "mr": "20 A a",
+          "occupier": "James M'Donnell,",
+          "lessor": "Nicholas Lodge, Esq.",
+          "desc": "L",
+          "area": "12 1 27",
+          "land_val": "9 15 0",
+          "total_val": "9 15 0"
+        },
+        {
+          "mr": "— B a",
+          "occupier": "Thomas Hanrahan,",
+          "lessor": "James M'Donnell,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Mary M'Donnell,",
+          "lessor": "Nicholas Lodge, Esq.",
+          "desc": "L",
+          "area": "10 2 9",
+          "land_val": "8 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "22 A a B C",
+          "occupier": "John Skehan,",
+          "lessor": "Nicholas Lodge, Esq.",
+          "desc": "H,O,&L",
+          "area": "9 0 20",
+          "land_val": "6 5 0",
+          "building_val": "1 10 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Bridget Skehan,",
+          "lessor": "John Skehan,",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "23 A a B C D E f",
+          "occupier": "John Murphy,",
+          "lessor": "Nicholas Lodge, Esq.",
+          "desc": "H,O,&L",
+          "area": "24 0 6",
+          "land_val": "17 10 0",
+          "building_val": "2 10 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "John Murphy & Partrs.",
+          "lessor": "Nicholas Lodge, Esq.",
+          "desc": "L (waste)",
+          "area": "0 3 29"
+        },
+        {
+          "mr": "25 A B C D E",
+          "occupier": "Michael Reddy, jun.",
+          "lessor": "Nicholas Lodge, Esq.",
+          "desc": "L",
+          "area": "36 2 5",
+          "land_val": "28 15 0",
+          "total_val": "28 15 0"
+        },
+        {
+          "mr": "26 A F C & 23 A b",
+          "occupier": "Stephen Reddy,",
+          "lessor": "Nicholas Lodge, Esq.",
+          "desc": "H,O,&L",
+          "area": "20 2 24",
+          "land_val": "16 0 0",
+          "building_val": "2 10 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "— D E",
+          "occupier": "Grave-yard,",
+          "lessor": "Nicholas Lodge, Esq.",
+          "desc": "Grave-yard",
+          "area": "0 0 36",
+          "land_val": "0 3 0",
+          "total_val": "0 3 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "27",
+          "occupier": "William Maher,",
+          "lessor": "Nicholas Lodge, Esq.",
+          "desc": "O&L",
+          "area": "19 2 4",
+          "land_val": "15 7 0",
+          "building_val": "0 13 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "28 a",
+          "occupier": "Martin Maher,",
+          "lessor": "Nicholas Lodge, Esq.",
+          "desc": "H,O,&L",
+          "area": "6 0 38",
+          "land_val": "2 5 0",
+          "building_val": "1 0 0",
+          "total_val": "3 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— b",
+          "occupier": "John Maher,",
+          "lessor": "Nicholas Lodge, Esq.",
+          "desc": "H&L",
+          "land_val": "2 5 0",
+          "building_val": "0 10 0",
+          "total_val": "2 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "29",
+          "occupier": "Eleanor Gorman,",
+          "lessor": "Michael Hoben,",
+          "desc": "L",
+          "area": "11 1 38",
+          "land_val": "8 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Patrick Pender,",
+          "lessor": "Michael Hoben,",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Elizabeth Pender,",
+          "lessor": "Michael Hoben,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "Mary Cahill,",
+          "lessor": "Michael Hoben,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "— d",
+          "occupier": "Thomas Bryan,",
+          "lessor": "Michael Hoben,",
+          "desc": "H&G",
+          "area": "0 1 20",
+          "land_val": "0 5 0",
+          "building_val": "0 15 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Eleanor Gorman,",
+          "lessor": "Michael Hoben,",
+          "desc": "L",
+          "area": "5 1 2",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "—",
+          "occupier": "Patrick Pender,",
+          "lessor": "Michael Hoben,",
+          "desc": "L",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "31 A B",
+          "occupier": "John Lalor,",
+          "lessor": "Michael Hoben,",
+          "desc": "L",
+          "area": "13 3 0",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "—",
+          "occupier": "Michael Reddy, sen.",
+          "lessor": "Michael Hoben,",
+          "desc": "L",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— A a",
+          "occupier": "John Walsh,",
+          "lessor": "Michael Hoben,",
+          "desc": "H,O,&G",
+          "area": "0 0 30",
+          "land_val": "0 2 0",
+          "building_val": "0 18 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Vacant,",
+          "lessor": "Michael Hoben,",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "— B a",
+          "occupier": "Patrick Ryan,",
+          "lessor": "Jn. Lalor & Mich. Reddy,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "32 A C B",
+          "occupier": "Nicholas Lodge, Esq.",
+          "lessor": "William Perry, Esq.",
+          "desc": "H,O,&L",
+          "area": "23 3 39",
+          "land_val": "14 0 0",
+          "building_val": "4 10 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "John Murphy,",
+          "lessor": "Nicholas Lodge, Esq.",
+          "desc": "L",
+          "area": "2 3 3",
+          "land_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Stephen Reddy,",
+          "lessor": "Nicholas Lodge, Esq.",
+          "desc": "L",
+          "area": "5 0 23",
+          "land_val": "4 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "John Murphy,",
+          "lessor": "Nicholas Lodge, Esq.",
+          "desc": "L",
+          "area": "18 2 2",
+          "land_val": "7 0 0",
+          "total_val": "7 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "—",
+          "occupier": "Stephen Reddy,",
+          "lessor": "Nicholas Lodge, Esq.",
+          "desc": "L",
+          "land_val": "7 0 0",
+          "total_val": "7 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "36",
+          "occupier": "Stephen Reddy,",
+          "lessor": "Nicholas Lodge, Esq.",
+          "desc": "L",
+          "area": "8 1 29",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "—",
+          "occupier": "Michael Reddy, jun.",
+          "lessor": "Nicholas Lodge, Esq.",
+          "desc": "L",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "37",
+          "occupier": "Nicholas Lodge, Esq.",
+          "lessor": "In fee,",
+          "desc": "L & unfinished house",
+          "area": "2 2 4",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Michael Hoben,",
+          "lessor": "Henry Wemys, Esq.",
+          "desc": "L",
+          "area": "3 1 21",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "39 & 29 e",
+          "occupier": "Patrick Nowlan,",
+          "lessor": "Michael Hoben,",
+          "desc": "H&L",
+          "area": "3 0 4",
+          "land_val": "2 4 0",
+          "building_val": "0 11 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "John Maher,",
+          "lessor": "Michael Hoben,",
+          "desc": "H,O,&L",
+          "area": "4 0 8",
+          "land_val": "3 1 0",
+          "building_val": "0 14 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "James Clarke,",
+          "lessor": "Michael Hoben,",
+          "desc": "H,O,&L",
+          "area": "4 3 28",
+          "land_val": "3 10 0",
+          "building_val": "0 15 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "42 & 39 a",
+          "occupier": "John O'Neill,",
+          "lessor": "Michael Hoben,",
+          "desc": "H&L",
+          "area": "1 1 27",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Alice Ryan,",
+          "lessor": "Michael Hoben,",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "John Neill,",
+          "lessor": "Michael Hoben,",
+          "desc": "H&G",
+          "area": "0 0 18",
+          "land_val": "0 2 0",
+          "building_val": "0 13 0",
+          "total_val": "0 15 0"
+        }
+      ]
+    }
+  ]
+}

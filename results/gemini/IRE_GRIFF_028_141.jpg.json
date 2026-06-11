@@ -1,0 +1,454 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF CROSSERLOUGH",
+      "entries": [
+        {
+          "mr": "41",
+          "townland": "KILNALECK",
+          "os": "",
+          "sublocation_1": "TOWN OF KILNALECK",
+          "occupier": "Owen Lynch",
+          "lessor": "Matthew Boylan",
+          "desc": "H & yard",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "42",
+          "occupier": "Matthew Boylan",
+          "lessor": "George J. Lanauze",
+          "desc": "H,O,yd,&G",
+          "area": "0 1 8",
+          "land_val": "0 10 0",
+          "building_val": "20 10 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Court-house",
+          "lessor": "Matthew Boylan",
+          "desc": "Half annual rent of Court-house",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "Vacant",
+          "lessor": "Matthew Boylan",
+          "desc": "H",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "44",
+          "occupier": "Patrick Cooke",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "45",
+          "occupier": "Ambrose Blakeney",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "Rose Carney",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "47",
+          "occupier": "James Cartwright",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "48",
+          "occupier": "John Connerty",
+          "lessor": "George J. Lanauze",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 12",
+          "land_val": "0 2 0",
+          "building_val": "0 18 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "49",
+          "occupier": "John Sheridan",
+          "lessor": "Same",
+          "desc": "H,O,yd,&G",
+          "building_val": "3 18 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "50",
+          "occupier": "James Sheridan",
+          "lessor": "Same",
+          "desc": "H,O,yd,&G",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "51",
+          "occupier": "Philip Reilly",
+          "lessor": "Same",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 9",
+          "land_val": "0 2 0",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "52",
+          "occupier": "Rose Reilly",
+          "lessor": "Same",
+          "desc": "H & G",
+          "area": "0 0 9",
+          "land_val": "0 2 0",
+          "building_val": "6 0 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "53",
+          "occupier": "John Lynch",
+          "lessor": "Same",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 11",
+          "land_val": "0 2 0",
+          "building_val": "3 3 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "54",
+          "occupier": "Peter Sheridan",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "5 8 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "55",
+          "occupier": "Philip M'Givney",
+          "lessor": "John Connerty",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "8 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "56",
+          "occupier": "Matthew Boylan, jun.",
+          "lessor": "Patrick Donohoe",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "7 15 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "57",
+          "occupier": "Andrew Galligan",
+          "lessor": "George J. Lanauze",
+          "desc": "H,O,yd,&G",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "58",
+          "occupier": "Owen Galligan",
+          "lessor": "Same",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "59",
+          "occupier": "James Smith",
+          "lessor": "Patrick Donohoe",
+          "desc": "H & small G",
+          "building_val": "5 8 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "60",
+          "occupier": "Richard Maguire",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "61",
+          "occupier": "James Kelly",
+          "lessor": "Peter Sheridan",
+          "desc": "H,off.,& small gar.",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "62",
+          "occupier": "Patrick Galligan",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "63",
+          "occupier": "Bridget M'Cabe",
+          "lessor": "Same",
+          "desc": "H,O,& sm. gar.",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "64",
+          "occupier": "Laurence Corcoran",
+          "lessor": "Same",
+          "desc": "H,O,yd,& sm. gar.",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Waste under houses, yards, street, & small gardens",
+          "area": "4 0 13",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total of Rateable Property",
+          "area": "297 2 16",
+          "land_val": "148 15 0",
+          "building_val": "198 15 0",
+          "total_val": "361 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "43",
+          "occupier": "Constabulary Force",
+          "lessor": "Thomas Buchanan",
+          "desc": "Police-bar.,offs., & yard",
+          "building_val": "9 0 0",
+          "total_val": "9 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "35",
+          "occupier": "Guardians of the Poor of Cavan Union",
+          "lessor": "Matthew Boylan",
+          "desc": "Dispensary",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "42",
+          "occupier": "Grand Jury Co. Cavan",
+          "lessor": "Same",
+          "desc": "Court-house",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total of Exemptions",
+          "building_val": "14 0 0",
+          "total_val": "14 0 0",
+          "is_total": 1,
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total, including Exemptions",
+          "area": "297 2 16",
+          "land_val": "148 15 0",
+          "building_val": "212 15 0",
+          "total_val": "375 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "LATNADRONAGH",
+          "os": "32",
+          "occupier": "James Boylan",
+          "lessor": "William Smith",
+          "desc": "H,O,&L",
+          "area": "17 1 12",
+          "land_val": "6 0 0",
+          "building_val": "1 5 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Philip Cronin",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 1 5",
+          "land_val": "3 5 0",
+          "building_val": "1 5 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Anthony Caldwell",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "14 1 5",
+          "land_val": "5 10 0",
+          "building_val": "1 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Anthony Caldwell",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 1 30",
+          "land_val": "2 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Anthony Caldwell",
+          "lessor": "Same",
+          "desc": "L (plantation)",
+          "area": "6 2 16",
+          "land_val": "1 5 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Peter Coyle",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "5 1 30",
+          "land_val": "2 5 0",
+          "building_val": "0 15 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Thomas Lynch",
+          "lessor": "Same",
+          "desc": "H & L",
+          "area": "2 0 34",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Owen Mulvany",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "7 1 35",
+          "land_val": "1 15 0",
+          "building_val": "0 15 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "8 b",
+          "occupier": "Anne Smith",
+          "lessor": "Owen Mulvany",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Thomas Bird",
+          "lessor": "William Smith",
+          "desc": "L",
+          "area": "14 3 12",
+          "land_val": "4 5 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Thomas Bird",
+          "lessor": "William Smith",
+          "desc": "L",
+          "area": "5 1 39",
+          "land_val": "3 10 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Matthew Galligan",
+          "lessor": "Thomas Bird",
+          "desc": "Ho.,off.,& small garden",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "11 b",
+          "occupier": "John Caldwell",
+          "lessor": "William Smith",
+          "desc": "H & G",
+          "area": "0 2 20",
+          "land_val": "0 10 0",
+          "building_val": "0 10 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Thomas Bird",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "2 0 27",
+          "land_val": "1 0 0",
+          "building_val": "1 5 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Thomas Bird",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 2 15",
+          "land_val": "0 15 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Thomas Bird",
+          "lessor": "Same",
+          "desc": "L (plantation)",
+          "area": "0 3 23",
+          "land_val": "0 5 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Thomas Bird",
+          "lessor": "Same",
+          "desc": "L (plantation)",
+          "area": "5 1 12",
+          "land_val": "1 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Thomas Bird",
+          "lessor": "Same",
+          "desc": "L (plantation)",
+          "area": "4 2 20",
+          "land_val": "0 15 0",
+          "total_val": "5 5 0"
+        }
+      ]
+    }
+  ]
+}

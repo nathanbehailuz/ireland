@@ -1,0 +1,489 @@
+{
+  "parishes": [
+    {
+      "parish": "AGHNAMULLEN",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "CORWILLIN",
+          "os": "18, 23, & 24",
+          "occupier": "James M'Nally",
+          "lessor": "William H. Jackson",
+          "desc": "H, O, & L",
+          "area": "5 0 14",
+          "land_val": "3 5 0",
+          "building_val": "0 15 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "William H. Jackson",
+          "lessor": "Lord Cremorne",
+          "desc": "Steward's H, & L",
+          "area": "59 0 5",
+          "land_val": "35 10 0",
+          "building_val": "0 15 0",
+          "total_val": "36 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Francis Sheridan",
+          "lessor": "William H. Jackson",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Hugh Duffy",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Michael Donnelly",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- e",
+          "occupier": "Bartley Mullen",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- f",
+          "occupier": "Owen Connellan",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- g",
+          "occupier": "Michael M'Ardle",
+          "lessor": "Same",
+          "desc": "H & O",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- h",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "Mill building",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "John Jackson",
+          "lessor": "Lord Cremorne",
+          "desc": "H, O, & L",
+          "area": "165 1 26",
+          "land_val": "104 0 0",
+          "building_val": "12 0 0",
+          "total_val": "116 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "William H. Jackson",
+          "lessor": "Same",
+          "desc": "Clerk's H & corn-mill",
+          "building_val": "32 0 0",
+          "total_val": "32 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "229 2 5",
+          "land_val": "142 15 0",
+          "building_val": "53 15 0",
+          "total_val": "196 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "CUMRY",
+          "os": "18 & 23",
+          "occupier": "Sally Nevin",
+          "lessor": "Lord Cremorne",
+          "desc": "Herd's H, O, & L",
+          "area": "24 1 8",
+          "land_val": "18 0 0",
+          "building_val": "1 0 0",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "John Mullen",
+          "lessor": "Same",
+          "desc": "H, O, & L",
+          "area": "95 1 7",
+          "land_val": "69 0 0",
+          "building_val": "10 0 0",
+          "total_val": "79 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Rev. John Morell",
+          "lessor": "Same",
+          "desc": "H, O, & L",
+          "area": "40 0 20",
+          "land_val": "30 0 0",
+          "building_val": "12 0 0",
+          "total_val": "42 0 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Thomas Bryan",
+          "lessor": "Same",
+          "desc": "H, O, & L",
+          "area": "17 3 19",
+          "land_val": "11 10 0",
+          "building_val": "0 15 0",
+          "total_val": "12 5 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Owen Clerken",
+          "lessor": "Same",
+          "desc": "H, O, & L",
+          "area": "11 0 18",
+          "land_val": "6 0 0",
+          "building_val": "0 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "6 A",
+          "desc": "Water",
+          "area": "2 1 24"
+        },
+        {
+          "mr": "- B",
+          "desc": "Water",
+          "area": "0 3 16"
+        },
+        {
+          "mr": "- C",
+          "desc": "Water",
+          "area": "2 2 4"
+        },
+        {
+          "desc": "Total",
+          "area": "194 1 36",
+          "land_val": "134 10 0",
+          "building_val": "24 5 0",
+          "total_val": "158 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "DERRY",
+          "os": "23",
+          "occupier": "John F. Johnston",
+          "lessor": "John Leslie",
+          "desc": "H, O, & L",
+          "area": "65 2 3",
+          "land_val": "53 10 0",
+          "building_val": "22 0 0",
+          "total_val": "75 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Michael M'Cabe",
+          "lessor": "Same",
+          "desc": "H, O, & L",
+          "area": "23 2 21",
+          "land_val": "16 5 0",
+          "building_val": "0 15 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Alexander M'Creevy",
+          "lessor": "Same",
+          "desc": "H, O, & L",
+          "area": "37 3 18",
+          "land_val": "26 15 0",
+          "building_val": "1 15 0",
+          "total_val": "28 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Owen M'Cabe",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 1 11",
+          "land_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Cavanagh",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 0 28",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "138 2 1",
+          "land_val": "104 15 0",
+          "building_val": "24 10 0",
+          "total_val": "129 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "DERRYGOONY",
+          "os": "26",
+          "occupier": "John Simms",
+          "lessor": "Richard A. Minnitt",
+          "desc": "H, O, & L",
+          "area": "40 3 38",
+          "land_val": "26 0 0",
+          "building_val": "1 5 0",
+          "total_val": "27 5 0"
+        },
+        {
+          "mr": "2 A a",
+          "occupier": "Mary Simms",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 2 36",
+          "land_val": "5 10 0",
+          "total_val": "17 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B a",
+          "occupier": "Mary Simms",
+          "lessor": "Same",
+          "desc": "H, O, & L",
+          "area": "14 3 28",
+          "land_val": "10 10 0",
+          "building_val": "1 0 0",
+          "total_val": "17 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 a",
+          "occupier": "William Forde, jun.",
+          "lessor": "Same",
+          "desc": "H, O, & L",
+          "area": "29 3 17",
+          "land_val": "20 5 0",
+          "building_val": "1 5 0",
+          "total_val": "21 10 0"
+        },
+        {
+          "mr": "4 A a",
+          "occupier": "William Forde",
+          "lessor": "Same",
+          "desc": "H, O, & L",
+          "area": "36 2 10",
+          "land_val": "25 5 0",
+          "building_val": "1 5 0",
+          "total_val": "27 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "William Forde",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 2",
+          "land_val": "1 0 0",
+          "total_val": "27 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 a",
+          "occupier": "George Forde, jun.",
+          "lessor": "Same",
+          "desc": "H, O, & L",
+          "area": "26 1 20",
+          "land_val": "18 0 0",
+          "building_val": "1 0 0",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "John Forde",
+          "lessor": "Same",
+          "desc": "H, O, & L",
+          "area": "9 3 18",
+          "land_val": "7 0 0",
+          "building_val": "1 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "John Fleming",
+          "lessor": "Same",
+          "desc": "H, O, & L",
+          "area": "4 3 23",
+          "land_val": "3 5 0",
+          "building_val": "0 10 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "George Forde",
+          "lessor": "Same",
+          "desc": "Herd's H, & L",
+          "area": "5 0 39",
+          "land_val": "3 5 0",
+          "building_val": "0 10 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "John Charters",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 30",
+          "land_val": "0 2 0",
+          "total_val": "2 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9",
+          "occupier": "John Charters",
+          "lessor": "Same",
+          "desc": "H & L",
+          "area": "2 1 14",
+          "land_val": "1 8 0",
+          "building_val": "0 10 0",
+          "total_val": "2 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "10 A a",
+          "occupier": "James Boyd",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 3 12",
+          "land_val": "0 10 0",
+          "total_val": "5 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "James Boyd",
+          "lessor": "Same",
+          "desc": "H, O, & L",
+          "area": "6 1 1",
+          "land_val": "4 5 0",
+          "building_val": "0 15 0",
+          "total_val": "5 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Rose Corrigan",
+          "lessor": "Same",
+          "desc": "H & L",
+          "area": "2 2 34",
+          "land_val": "1 15 0",
+          "building_val": "0 5 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Margaret Corrigan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 1 12",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "James Jordan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 0 31",
+          "land_val": "4 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "Richard A. Minnitt",
+          "lessor": "In fee",
+          "desc": "H, O, flax-mill, & L",
+          "area": "35 3 18",
+          "land_val": "23 0 0",
+          "building_val": "35 0 0",
+          "total_val": "58 0 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Richard A. Minnitt",
+          "lessor": "In fee",
+          "desc": "L (B)",
+          "area": "1 2 32",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "16 A",
+          "desc": "Black Lough (part of)",
+          "area": "15 3 10"
+        },
+        {
+          "mr": "- B",
+          "desc": "Derrygoony Lough",
+          "area": "31 1 30"
+        },
+        {
+          "desc": "Total",
+          "area": "283 2 20",
+          "land_val": "156 5 0",
+          "building_val": "44 5 0",
+          "total_val": "200 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "DERRYROOSK",
+          "os": "23",
+          "occupier": "John Moncrief",
+          "lessor": "Thomas H. Fletcher",
+          "desc": "H, O, & L",
+          "area": "12 3 24",
+          "land_val": "9 10 0",
+          "building_val": "0 15 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Joseph Hughes",
+          "lessor": "Same",
+          "desc": "H, O, & L",
+          "area": "19 0 38",
+          "land_val": "14 0 0",
+          "building_val": "0 15 0",
+          "total_val": "14 15 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "John Pritchard",
+          "lessor": "Same",
+          "desc": "H, O, & L",
+          "area": "18 1 33",
+          "land_val": "13 10 0",
+          "building_val": "0 15 0",
+          "total_val": "14 5 0"
+        }
+      ]
+    }
+  ]
+}

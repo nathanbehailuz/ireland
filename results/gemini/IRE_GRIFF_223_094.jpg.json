@@ -1,0 +1,513 @@
+{
+  "parishes": [
+    {
+      "parish": "BECTIVE",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "BALDRIGH",
+          "os": "31",
+          "occupier": "James Clarke",
+          "lessor": "Richard Bolton",
+          "desc": "L",
+          "area": "13 2 10",
+          "land_val": "8 0 0",
+          "building_val": "",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Fagan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "27 1 31",
+          "land_val": "17 0 0",
+          "building_val": "",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Philip Lynch",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "56 0 37",
+          "land_val": "43 0 0",
+          "building_val": "1 0 0",
+          "total_val": "44 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Michael Murphy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 3 23",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Lawrence Smith",
+          "lessor": "Same",
+          "desc": "O&L",
+          "area": "29 0 7",
+          "land_val": "23 10 0",
+          "building_val": "0 5 0",
+          "total_val": "23 15 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Patrick Fagan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "55 2 6",
+          "land_val": "45 0 0",
+          "building_val": "1 10 0",
+          "total_val": "46 10 0"
+        },
+        {
+          "mr": "6 b",
+          "occupier": "John Masterson",
+          "lessor": "Patrick Fagan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "William Tisdall",
+          "lessor": "Richard Bolton",
+          "desc": "H,O,&L",
+          "area": "181 0 28",
+          "land_val": "146 10 0",
+          "building_val": "13 10 0",
+          "total_val": "160 0 0"
+        },
+        {
+          "mr": "7 b",
+          "occupier": "Michael Hartford",
+          "lessor": "William Tisdall",
+          "desc": "H&G",
+          "area": "0 2 0",
+          "land_val": "0 10 0",
+          "building_val": "0 10 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Richard Bolton",
+          "lessor": "In fee",
+          "desc": "Plantation",
+          "area": "1 2 0",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "365 3 22",
+          "land_val": "285 10 0",
+          "building_val": "17 0 0",
+          "total_val": "302 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "BALGILL",
+          "os": "31",
+          "occupier": "Richard Bolton",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "2 2 10",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "40 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "1 B",
+          "occupier": "Richard Bolton",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "1 1 3",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "40 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "1 C",
+          "occupier": "Richard Bolton",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "5 0 0",
+          "land_val": "4 5 0",
+          "building_val": "",
+          "total_val": "40 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "1 D",
+          "occupier": "Richard Bolton",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "43 2 20",
+          "land_val": "34 0 0",
+          "building_val": "",
+          "total_val": "40 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "2 A a",
+          "occupier": "Peter Boyle",
+          "lessor": "In fee",
+          "desc": "H,O,&L",
+          "area": "7 3 0",
+          "land_val": "5 10 0",
+          "building_val": "0 15 0",
+          "total_val": "12 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 A b",
+          "occupier": "Peter Boyle",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "7 1 20",
+          "land_val": "6 5 0",
+          "building_val": "",
+          "total_val": "12 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 B",
+          "occupier": "Richard Bolton",
+          "lessor": "In fee",
+          "desc": "Plantation",
+          "area": "0 2 20",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3 A a",
+          "occupier": "Patrick Boyle",
+          "lessor": "Peter Boyle",
+          "desc": "H,O,&L",
+          "area": "5 2 31",
+          "land_val": "4 10 0",
+          "building_val": "0 10 0",
+          "total_val": "13 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 A b",
+          "occupier": "Patrick Boyle",
+          "lessor": "Peter Boyle",
+          "desc": "L",
+          "area": "9 0 38",
+          "land_val": "8 0 0",
+          "building_val": "",
+          "total_val": "13 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 B",
+          "occupier": "Richard Bolton",
+          "lessor": "In fee",
+          "desc": "Plantation",
+          "area": "0 1 20",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Christopher Sheridan",
+          "lessor": "Richard Bolton",
+          "desc": "H,O,&L",
+          "area": "75 1 31",
+          "land_val": "60 0 0",
+          "building_val": "2 15 0",
+          "total_val": "62 15 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "William Mitchell",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "45 3 31",
+          "land_val": "33 0 0",
+          "building_val": "",
+          "total_val": "33 0 0"
+        },
+        {
+          "mr": "5 b",
+          "occupier": "Richard Bolton",
+          "lessor": "In fee",
+          "desc": "Plantation",
+          "area": "0 1 0",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 c",
+          "occupier": "Richard Bolton",
+          "lessor": "In fee",
+          "desc": "Plantation",
+          "area": "0 1 10",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "Bartholomew Smith",
+          "lessor": "Richard Bolton",
+          "desc": "H,O,&L",
+          "area": "13 0 17",
+          "land_val": "9 10 0",
+          "building_val": "0 10 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "John Bonynge",
+          "lessor": "Same",
+          "desc": "Herd's H&L",
+          "area": "15 1 31",
+          "land_val": "11 0 0",
+          "building_val": "0 5 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Robert Bell",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "11 1 10",
+          "land_val": "7 15 0",
+          "building_val": "",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "William Mitchell",
+          "lessor": "Same",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "9",
+          "desc": "River Boyne (part of)",
+          "area": "3 0 0",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "desc": "Total",
+          "area": "248 3 2",
+          "land_val": "167 0 0",
+          "building_val": "5 5 0",
+          "total_val": "192 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "BECTIVE",
+          "os": "31",
+          "occupier": "Philip Smith",
+          "lessor": "Richard Bolton",
+          "desc": "H,O,&L",
+          "area": "55 1 15",
+          "land_val": "45 0 0",
+          "building_val": "1 0 0",
+          "total_val": "46 0 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "Thomas Carolan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "34 1 5",
+          "land_val": "29 0 0",
+          "building_val": "",
+          "total_val": "60 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 B a",
+          "occupier": "Thomas Carolan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "36 1 5",
+          "land_val": "26 10 0",
+          "building_val": "4 10 0",
+          "total_val": "60 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Richard Bolton",
+          "lessor": "In fee",
+          "desc": "Gate-lodge & L",
+          "area": "55 3 14",
+          "land_val": "42 10 0",
+          "building_val": "2 10 0",
+          "total_val": "45 0 0"
+        },
+        {
+          "mr": "3 b",
+          "occupier": "Richard Bolton",
+          "lessor": "In fee",
+          "desc": "Grave-yard",
+          "area": "0 1 5",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "4 a",
+          "occupier": "John Sheridan",
+          "lessor": "Richard Bolton",
+          "desc": "H,O,&L",
+          "area": "24 2 19",
+          "land_val": "20 5 0",
+          "building_val": "0 15 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Thomas M'Kenna",
+          "lessor": "Same",
+          "desc": "O&L",
+          "area": "28 1 7",
+          "land_val": "24 10 0",
+          "building_val": "0 10 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "William Tisdall",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "46 1 0",
+          "land_val": "38 0 0",
+          "building_val": "",
+          "total_val": "38 0 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Patrick Jones",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "104 3 2",
+          "land_val": "90 0 0",
+          "building_val": "1 0 0",
+          "total_val": "91 0 0"
+        },
+        {
+          "mr": "7 b",
+          "occupier": "Richard Bolton",
+          "lessor": "In fee",
+          "desc": "Plantation",
+          "area": "9 2 20",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "8 a",
+          "occupier": "John Harlen",
+          "lessor": "Richard Bolton",
+          "desc": "H,O,&L",
+          "area": "43 3 15",
+          "land_val": "38 10 0",
+          "building_val": "2 10 0",
+          "total_val": "41 0 0"
+        },
+        {
+          "mr": "8 b",
+          "occupier": "Richard Bolton",
+          "lessor": "In fee",
+          "desc": "Plantation",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Thomas M'Keever",
+          "lessor": "Richard Bolton",
+          "desc": "H,O,&L",
+          "area": "40 3 17",
+          "land_val": "34 0 0",
+          "building_val": "1 10 0",
+          "total_val": "35 10 0"
+        },
+        {
+          "mr": "9 b",
+          "occupier": "Richard Bolton",
+          "lessor": "In fee",
+          "desc": "Plantation",
+          "area": "0 0 20",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Thomas Byrne",
+          "lessor": "Richard Bolton",
+          "desc": "H,O,corn-mill,&L",
+          "area": "36 0 6",
+          "land_val": "30 0 0",
+          "building_val": "40 0 0",
+          "total_val": "70 0 0"
+        },
+        {
+          "mr": "11",
+          "desc": "River Boyne (part of)",
+          "area": "13 3 26",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "desc": "Total",
+          "area": "521 1 36",
+          "land_val": "418 8 0",
+          "building_val": "54 5 0",
+          "total_val": "472 13 0",
+          "is_total": 1
+        },
+        {
+          "desc": "Grave-yard",
+          "area": "0 1 5",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of Exemptions",
+          "area": "521 0 31",
+          "land_val": "418 8 0",
+          "building_val": "54 5 0",
+          "total_val": "472 13 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

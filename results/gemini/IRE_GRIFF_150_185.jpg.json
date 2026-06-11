@@ -1,0 +1,654 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF REYNAGH",
+      "entries": [
+        {
+          "mr": "20",
+          "townland": "KYLEBEG, OR BANAGHER",
+          "occupier": "Eliza Glen",
+          "lessor": "Rep. Rev. James Bell",
+          "desc": "L",
+          "area": "3 3 7",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "3 10 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "21 A",
+          "occupier": "Michael Moylan",
+          "lessor": "Same",
+          "desc": "Herd's H,L",
+          "area": "2 0 10",
+          "land_val": "2 0 0",
+          "building_val": "0 5 0",
+          "total_val": ""
+        },
+        {
+          "mr": "— B",
+          "occupier": "Michael Moylan",
+          "lessor": "Same",
+          "desc": "Herd's H,O,&L",
+          "area": "39 3 37",
+          "land_val": "42 0 0",
+          "building_val": "0 15 0",
+          "total_val": "45 0 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "William Reynolds",
+          "lessor": "Michael Moylan",
+          "desc": "H,O,&L",
+          "area": "1 0 18",
+          "land_val": "1 0 0",
+          "building_val": "1 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Bernard Smith",
+          "lessor": "Rep. Rev. James Bell",
+          "desc": "L",
+          "area": "1 1 21",
+          "land_val": "1 3 0",
+          "building_val": "",
+          "total_val": "1 3 0"
+        },
+        {
+          "mr": "24 a",
+          "occupier": "Thomas Miller",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "15 3 35",
+          "land_val": "17 0 0",
+          "building_val": "2 10 0",
+          "total_val": "19 10 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "John M'Evoy",
+          "lessor": "Thomas Miller",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "William Cannon",
+          "lessor": "Same",
+          "desc": "H,G",
+          "area": "0 0 28",
+          "land_val": "0 5 0",
+          "building_val": "0 15 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Thomas Miller",
+          "lessor": "Henry Trench",
+          "desc": "L",
+          "area": "17 2 0",
+          "land_val": "10 0 0",
+          "building_val": "",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Patrick M'Donnell",
+          "lessor": "Rev. James Bell",
+          "desc": "H,O,&L",
+          "area": "7 0 0",
+          "land_val": "7 15 0",
+          "building_val": "1 5 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Thomas Deehan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 0 36",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Brinsley Purefoy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 2 0",
+          "land_val": "15 0 0",
+          "building_val": "10 0 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Kiran Molloy",
+          "lessor": "Henry Trench",
+          "desc": "L",
+          "area": "23 2 5",
+          "land_val": "31 10 0",
+          "building_val": "",
+          "total_val": "31 10 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Kiran Molloy",
+          "lessor": "Rev. James Bell",
+          "desc": "L",
+          "area": "3 3 35",
+          "land_val": "5 10 0",
+          "building_val": "",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Richard Finney",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 2 6",
+          "land_val": "8 10 0",
+          "building_val": "",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "Kiran Molloy",
+          "lessor": "Henry Trench",
+          "desc": "L",
+          "area": "1 3 6",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "Henry Trench",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "5 1 28",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "34 1",
+          "sublocation_1": "TOWN OF BANAGHER",
+          "sublocation_2": "MAIN-STREET",
+          "occupier": "Dublin Steam Packet Co.",
+          "lessor": "Shannon Commrs.",
+          "desc": "Store,yard,&quay",
+          "area": "",
+          "land_val": "",
+          "building_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "— 2",
+          "occupier": "Vacant",
+          "lessor": "Henry Trench",
+          "desc": "Flour&corn(steam)mill,O,yard,&G",
+          "area": "0 1 34",
+          "land_val": "1 0 0",
+          "building_val": "45 0 0",
+          "total_val": "46 0 0"
+        },
+        {
+          "mr": "— 3",
+          "occupier": "Board of Ordnance",
+          "lessor": "In fee",
+          "desc": "Military barracks&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "35 0 0",
+          "total_val": "35 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "— 4",
+          "occupier": "Francis Molloy",
+          "lessor": "Reps. Rev. Allan Bell",
+          "desc": "H,O,yard,&G",
+          "area": "0 1 10",
+          "land_val": "0 15 0",
+          "building_val": "10 5 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "— 5",
+          "occupier": "Vacant",
+          "lessor": "Francis Molloy",
+          "desc": "H,O",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "— 6",
+          "occupier": "Mary Egan",
+          "lessor": "Henry Trench",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 20",
+          "land_val": "0 10 0",
+          "building_val": "10 10 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "— 7",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 33",
+          "land_val": "0 15 0",
+          "building_val": "4 5 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "— 8",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "— 9",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "— 10",
+          "occupier": "Vacant",
+          "lessor": "William Armstrong",
+          "desc": "H,yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "— 11",
+          "occupier": "Bridget Martin",
+          "lessor": "Same",
+          "desc": "H,yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "— 12",
+          "occupier": "Vacant",
+          "lessor": "James Drought",
+          "desc": "H,yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "— 13",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H,yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "— 14",
+          "occupier": "James Drought",
+          "lessor": "Mary Jane Bird",
+          "desc": "H,O,yard,&G",
+          "area": "0 2 0",
+          "land_val": "2 0 0",
+          "building_val": "32 0 0",
+          "total_val": "34 0 0"
+        },
+        {
+          "mr": "— 15",
+          "occupier": "Johanna Scott",
+          "lessor": "Same",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 37",
+          "land_val": "1 0 0",
+          "building_val": "24 0 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "— 16",
+          "occupier": "John Mulholland",
+          "lessor": "Augustus J. Labatt",
+          "desc": "H,O,yard,&G",
+          "area": "0 3 22",
+          "land_val": "2 10 0",
+          "building_val": "5 10 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "— 17",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H,O,yard,&G",
+          "area": "0 2 0",
+          "land_val": "1 10 0",
+          "building_val": "7 10 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "— 18",
+          "occupier": "Vacant",
+          "lessor": "Thomas Seymour",
+          "desc": "H,yard,&ball-court",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "— 19",
+          "occupier": "Vacant",
+          "lessor": "John P. Armstrong",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "12 15 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "— 20",
+          "occupier": "Catherine M'Evoy",
+          "lessor": "Margaret Killeen",
+          "desc": "H,O,&sm.yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "— 21",
+          "occupier": "Margaret Killeen",
+          "lessor": "Reps. Rev. Allan Bell",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 19",
+          "land_val": "0 10 0",
+          "building_val": "6 0 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "— 22",
+          "occupier": "Vacant",
+          "lessor": "Margaret Killeen",
+          "desc": "Stores,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "13 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "— 23",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H,yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "9 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "— 24",
+          "occupier": "Henry Sheane",
+          "lessor": "Michael Moylan",
+          "desc": "H,O,yard,&G",
+          "area": "0 2 30",
+          "land_val": "2 10 0",
+          "building_val": "10 10 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "— 25",
+          "occupier": "James Mulhaire",
+          "lessor": "In fee",
+          "desc": "Forge-O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "— 26",
+          "occupier": "Kiran Molloy",
+          "lessor": "Reps. Emily Emerson",
+          "desc": "H,O,yard,&G",
+          "area": "1 0 30",
+          "land_val": "3 0 0",
+          "building_val": "25 0 0",
+          "total_val": "28 0 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Vacant",
+          "lessor": "Kiran Molloy",
+          "desc": "Brewery,stores,O,&yd",
+          "area": "",
+          "land_val": "",
+          "building_val": "40 0 0",
+          "total_val": "40 0 0"
+        },
+        {
+          "mr": "— 27",
+          "occupier": "Dorinda Harton",
+          "lessor": "Reps. Rev. Allan Bell",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 18",
+          "land_val": "0 10 0",
+          "building_val": "13 10 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "— 28",
+          "occupier": "Vacant",
+          "lessor": "Dorinda Harton",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 11",
+          "land_val": "0 5 0",
+          "building_val": "3 5 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "— 29",
+          "occupier": "Thomas Deehan",
+          "lessor": "Reps. Rev. Allan Bell",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 18",
+          "land_val": "0 10 0",
+          "building_val": "16 10 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "— 30",
+          "occupier": "Mary Mullock's lodgers",
+          "lessor": "Mary Mullock",
+          "desc": "H,yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "— 31",
+          "occupier": "Vacant",
+          "lessor": "Thomas Hussey",
+          "desc": "H,yard,&G",
+          "area": "0 1 10",
+          "land_val": "0 15 0",
+          "building_val": "0 15 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "— 32",
+          "occupier": "John Moran",
+          "lessor": "Thomas Deehan",
+          "desc": "H,yard,&G",
+          "area": "0 0 12",
+          "land_val": "0 5 0",
+          "building_val": "4 5 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Thomas Deehan",
+          "lessor": "Thomas Hussey",
+          "desc": "O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "— 33",
+          "occupier": "Vacant",
+          "lessor": "Thomas Deehan",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "— 34",
+          "occupier": "Vacant",
+          "lessor": "Michael Claffey",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 36",
+          "land_val": "0 15 0",
+          "building_val": "6 5 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "— 35",
+          "occupier": "William Johnstown",
+          "lessor": "Elizabeth Glenn & sisters",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 15",
+          "land_val": "0 10 0",
+          "building_val": "22 10 0",
+          "total_val": "23 0 0"
+        },
+        {
+          "mr": "— 36",
+          "occupier": "John Boyle",
+          "lessor": "Thomas Seymour",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "15 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "— 37",
+          "occupier": "John Boyle",
+          "lessor": "Same",
+          "desc": "H,O,yard,&G",
+          "area": "1 0 0",
+          "land_val": "2 10 0",
+          "building_val": "11 10 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "— 38",
+          "occupier": "Richard Finney",
+          "lessor": "Same",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 37",
+          "land_val": "1 0 0",
+          "building_val": "12 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "— 39",
+          "occupier": "George Mangan",
+          "lessor": "Same",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "— 40",
+          "occupier": "Vacant",
+          "lessor": "Kiran Molloy",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "9 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "— 41",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "— 42",
+          "occupier": "James Holloway",
+          "lessor": "Same",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "— 43",
+          "occupier": "Elizabeth Horan",
+          "lessor": "Henry D. Carden",
+          "desc": "H,yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "— 44",
+          "occupier": "Thomas M'Keon",
+          "lessor": "Same",
+          "desc": "H,yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "— 45",
+          "occupier": "Kiran Horan",
+          "lessor": "Same",
+          "desc": "H,O,&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        }
+      ]
+    }
+  ]
+}

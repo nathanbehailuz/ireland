@@ -1,0 +1,422 @@
+{
+  "parishes": [
+    {
+      "parish": "",
+      "entries": [
+        {
+          "mr": "13",
+          "townland": "AGLISH, SOUTH",
+          "os": "",
+          "occupier": "Thomas Walsh, sen.",
+          "lessor": "Thos. N. Hunt, Esq.",
+          "desc": "L",
+          "area": "5 2 35",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "2 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "14",
+          "occupier": "John Walsh (Pope)",
+          "lessor": "Thos. N. Hunt, Esq.",
+          "desc": "L",
+          "area": "8 1 22",
+          "land_val": "3 5 0",
+          "building_val": "",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Mary Walsh",
+          "lessor": "Thos. N. Hunt, Esq.",
+          "desc": "L",
+          "area": "4 0 11",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "15 a",
+          "occupier": "Edward Connolly",
+          "lessor": "Mary Walsh",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "291 3 7",
+          "land_val": "340 1 0",
+          "building_val": "53 15 0",
+          "total_val": "393 16 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "CURRAGHMARTIN",
+          "os": "43",
+          "occupier": "Thomas Delahunty",
+          "lessor": "Rep. late John Flood, Esq.",
+          "desc": "H,O,&L",
+          "area": "153 3 1",
+          "land_val": "192 0 0",
+          "building_val": "5 15 0",
+          "total_val": "29 15 0",
+          "n_shared": 8
+        },
+        {
+          "mr": "1 b",
+          "occupier": "William Delahunty",
+          "lessor": "Rep. late John Flood, Esq.",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "",
+          "building_val": "10 5 0",
+          "total_val": "34 5 0",
+          "n_shared": 8
+        },
+        {
+          "mr": "1 c",
+          "occupier": "Patrick Delahunty",
+          "lessor": "Rep. late John Flood, Esq.",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "",
+          "building_val": "11 5 0",
+          "total_val": "35 5 0",
+          "n_shared": 8
+        },
+        {
+          "mr": "1 d",
+          "occupier": "Mary Delahunty",
+          "lessor": "Rep. late John Flood, Esq.",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 10 0",
+          "total_val": "28 10 0",
+          "n_shared": 8
+        },
+        {
+          "mr": "1 e",
+          "occupier": "Ellen Delahunty",
+          "lessor": "Rep. late John Flood, Esq.",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 15 0",
+          "total_val": "27 15 0",
+          "n_shared": 8
+        },
+        {
+          "mr": "1 f",
+          "occupier": "Edmund Dunphy",
+          "lessor": "Rep. late John Flood, Esq.",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 10 0",
+          "total_val": "27 10 0",
+          "n_shared": 8
+        },
+        {
+          "mr": "1 g",
+          "occupier": "Bridget Delahunty",
+          "lessor": "Rep. late John Flood, Esq.",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 15 0",
+          "total_val": "27 15 0",
+          "n_shared": 8
+        },
+        {
+          "mr": "1 h",
+          "occupier": "Henry Delahunty",
+          "lessor": "Rep. late John Flood, Esq.",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 10 0",
+          "total_val": "27 10 0",
+          "n_shared": 8
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "153 3 1",
+          "land_val": "192 0 0",
+          "building_val": "46 5 0",
+          "total_val": "233 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CUSSANA",
+          "os": "45 & 46",
+          "occupier": "Edmund Kenny",
+          "lessor": "John Congreve, Esq.",
+          "desc": "L",
+          "area": "23 3 12",
+          "land_val": "25 10 0",
+          "building_val": "",
+          "total_val": "25 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Edmund Quinn",
+          "lessor": "John Congreve, Esq.",
+          "desc": "L",
+          "area": "34 2 0",
+          "land_val": "17 10 0",
+          "building_val": "",
+          "total_val": "17 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3",
+          "occupier": "James Quinn",
+          "lessor": "John Congreve, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "17 10 0",
+          "building_val": "",
+          "total_val": "17 10 3",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "58 1 12",
+          "land_val": "60 10 0",
+          "building_val": "",
+          "total_val": "60 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "MOUNTNEILL",
+          "os": "46",
+          "occupier": "Edmund Quinn, sen.",
+          "lessor": "John Congreve, Esq.",
+          "desc": "L",
+          "area": "76 3 36",
+          "land_val": "30 0 0",
+          "building_val": "",
+          "total_val": "30 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2",
+          "occupier": "James Quinn",
+          "lessor": "John Congreve, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "30 0 0",
+          "building_val": "",
+          "total_val": "30 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2",
+          "occupier": "Patrick Delahunty",
+          "lessor": "John Congreve, Esq.",
+          "desc": "L",
+          "area": "102 0 19",
+          "land_val": "50 10 0",
+          "building_val": "",
+          "total_val": "50 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 a",
+          "occupier": "William Delahunty",
+          "lessor": "John Congreve, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "50 10 0",
+          "building_val": "",
+          "total_val": "50 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3",
+          "occupier": "Michael Walsh",
+          "lessor": "John Congreve, Esq.",
+          "desc": "H,O,&L",
+          "area": "55 2 31",
+          "land_val": "72 0 0",
+          "building_val": "6 10 0",
+          "total_val": "78 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Mary Cummins",
+          "lessor": "John Congreve, Esq.",
+          "desc": "L",
+          "area": "12 3 11",
+          "land_val": "8 15 0",
+          "building_val": "",
+          "total_val": "8 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5",
+          "occupier": "Edmund Dunphy",
+          "lessor": "John Congreve, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "8 15 0",
+          "building_val": "",
+          "total_val": "8 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 a",
+          "occupier": "John Nowlan",
+          "lessor": "John Congreve, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Edmund Quinn, jun.",
+          "lessor": "John Congreve, Esq.",
+          "desc": "H,O,&L",
+          "area": "37 2 9",
+          "land_val": "42 5 0",
+          "building_val": "3 15 0",
+          "total_val": "46 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "John Walsh",
+          "lessor": "John Congreve, Esq.",
+          "desc": "H,O,&L",
+          "area": "2 0 10",
+          "land_val": "2 10 0",
+          "building_val": "1 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Thomas Knox",
+          "lessor": "John Congreve, Esq.",
+          "desc": "L",
+          "area": "28 1 2",
+          "land_val": "39 0 0",
+          "building_val": "",
+          "total_val": "39 0 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "315 1 38",
+          "land_val": "334 5 0",
+          "building_val": "12 10 0",
+          "total_val": "346 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A B C a D E f",
+          "townland": "PORTNAHULLY",
+          "os": "46",
+          "occupier": "William Doyle",
+          "lessor": "Thomas Boyce, Robt. Backas, Chas. Newport, and William Moore, Esqrs.",
+          "desc": "H,O,&L",
+          "area": "35 1 32",
+          "land_val": "44 10 0",
+          "building_val": "4 0 0",
+          "total_val": "48 10 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Catherine Brennan",
+          "lessor": "Thomas Boyce, Robt. Backas, Chas. Newport, and William Moore, Esqrs.",
+          "desc": "H&G",
+          "area": "0 0 39",
+          "land_val": "0 8 0",
+          "building_val": "1 0 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "1 c",
+          "occupier": "Johanna Connolly",
+          "lessor": "Thomas Boyce, Robt. Backas, Chas. Newport, and William Moore, Esqrs.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2 A B C D E F G H a 7 A",
+          "occupier": "Patrick Whelan",
+          "lessor": "Thomas Boyce, Robt. Backas, Chas. Newport, and William Moore, Esqrs.",
+          "desc": "H,O,&L",
+          "area": "31 3 4",
+          "land_val": "40 15 0",
+          "building_val": "3 15 0",
+          "total_val": "44 10 0"
+        },
+        {
+          "mr": "- D a",
+          "occupier": "John Brennan",
+          "lessor": "Thomas Boyce, Robt. Backas, Chas. Newport, and William Moore, Esqrs.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 13 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "John Murray",
+          "lessor": "Thomas Boyce, Robt. Backas, Chas. Newport, and William Moore, Esqrs.",
+          "desc": "H&G",
+          "area": "0 0 13",
+          "land_val": "0 2 0",
+          "building_val": "1 0 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "3 A B a C D E F",
+          "occupier": "Thomas Walsh",
+          "lessor": "Thomas Boyce, Robt. Backas, Chas. Newport, and William Moore, Esqrs.",
+          "desc": "H,O,&L",
+          "area": "56 3 32",
+          "land_val": "71 0 0",
+          "building_val": "5 0 0",
+          "total_val": "79 0 0"
+        },
+        {
+          "mr": "- c a",
+          "occupier": "Patrick Dowling",
+          "lessor": "Thomas Boyce, Robt. Backas, Chas. Newport, and William Moore, Esqrs.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- D a",
+          "occupier": "Edmund Doyle and others",
+          "lessor": "Thomas Boyce, Robt. Backas, Chas. Newport, and William Moore, Esqrs.",
+          "desc": "L (waste)",
+          "area": "1 0 30",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        }
+      ]
+    }
+  ]
+}

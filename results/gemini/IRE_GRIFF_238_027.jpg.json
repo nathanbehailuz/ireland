@@ -1,0 +1,557 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF ARDEA",
+      "entries": [
+        {
+          "mr": "22",
+          "townland": "STRAHARD",
+          "is_continued": 1,
+          "occupier": "Charles Dunne,",
+          "lessor": "Reps. Michl. Monteith, Esq.",
+          "desc": "H,O,&L",
+          "area": "6 3 3",
+          "land_val": "4 15 0",
+          "building_val": "1 10 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "23 a",
+          "occupier": "William Gray,",
+          "lessor": "Reps. Michl. Monteith, Esq.",
+          "desc": "H,O,&L",
+          "area": "4 2 10",
+          "land_val": "3 0 0",
+          "building_val": "1 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "James Bacon,",
+          "lessor": "William Gray,",
+          "desc": "H&O",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Mary Bacon,",
+          "lessor": "Reps. Michl. Monteith, Esq.",
+          "desc": "H,O,&L",
+          "area": "1 2 23",
+          "land_val": "1 5 0",
+          "building_val": "1 0 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "John Kershaw,",
+          "lessor": "Rich. Warburton, Esq.",
+          "desc": "H&L",
+          "area": "1 3 23",
+          "land_val": "1 10 0",
+          "building_val": "0 10 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "John Deegan,",
+          "lessor": "Rich. Warburton, Esq.",
+          "desc": "H,O,&L",
+          "area": "1 1 11",
+          "land_val": "1 0 0",
+          "building_val": "1 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "John Deegan,",
+          "lessor": "Guy Price,",
+          "desc": "L",
+          "area": "1 2 0",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "William Conroy,",
+          "lessor": "Guy Price,",
+          "desc": "L",
+          "area": "0 2 26",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "William Conroy,",
+          "lessor": "Guy Price,",
+          "desc": "H,O,&L",
+          "area": "2 1 35",
+          "land_val": "2 0 0",
+          "building_val": "1 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "John Bacon,",
+          "lessor": "Rich. Warburton, Esq.",
+          "desc": "L",
+          "area": "6 1 18",
+          "land_val": "4 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "John Bacon,",
+          "lessor": "Reps. Michl. Monteith, Esq.",
+          "desc": "L",
+          "area": "5 1 32",
+          "land_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Michael Bacon,",
+          "lessor": "Rich. Warburton, Esq.",
+          "desc": "H,O,&L",
+          "area": "7 3 21",
+          "land_val": "5 5 0",
+          "building_val": "1 5 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "32 a",
+          "occupier": "William Bacon,",
+          "lessor": "Reps. Michl. Monteith, Esq.",
+          "desc": "H,O,&L",
+          "area": "1 2 23",
+          "land_val": "1 5 0",
+          "building_val": "1 0 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Eliza Murphy,",
+          "lessor": "William Bacon,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "Bryan Kierne,",
+          "lessor": "Reps. Michl. Monteith, Esq.",
+          "desc": "H&L",
+          "area": "1 0 22",
+          "land_val": "0 18 0",
+          "building_val": "0 12 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "James Deegan,",
+          "lessor": "Reps. Michl. Monteith, Esq.",
+          "desc": "H,O,&L",
+          "area": "5 3 15",
+          "land_val": "4 0 0",
+          "building_val": "1 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Terence Dunne,",
+          "lessor": "Reps. Michl. Monteith, Esq.",
+          "desc": "H,O,&L",
+          "area": "12 2 34",
+          "land_val": "8 10 0",
+          "building_val": "2 0 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "36 a",
+          "occupier": "William Neill,",
+          "lessor": "John White,",
+          "desc": "H,O,&L",
+          "area": "2 1 25",
+          "land_val": "1 10 0",
+          "building_val": "1 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Vacant,",
+          "lessor": "John White,",
+          "desc": "H&O",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "John White,",
+          "lessor": "Rich. Warburton, Esq.",
+          "desc": "L",
+          "area": "21 3 12",
+          "land_val": "14 5 0",
+          "total_val": "14 5 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Jane Marks,",
+          "lessor": "John White,",
+          "desc": "H",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "38 A",
+          "occupier": "Thomas Brennan,",
+          "lessor": "Rich. Warburton, Esq.",
+          "desc": "L",
+          "area": "15 1 38",
+          "land_val": "8 0 0",
+          "total_val": "26 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B",
+          "occupier": "Christopher Brennan,",
+          "lessor": "Rich. Warburton, Esq.",
+          "desc": "L",
+          "area": "25 1 28",
+          "land_val": "15 15 0",
+          "building_val": "2 15 0",
+          "total_val": "26 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "39 A",
+          "occupier": "Christopher Brennan,",
+          "lessor": "R. Warburton, Esq.",
+          "desc": "L",
+          "area": "25 3 20",
+          "land_val": "9 15 0",
+          "total_val": "26 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B",
+          "occupier": "Thomas Brennan,",
+          "lessor": "R. Warburton, Esq.",
+          "desc": "H,O,&L",
+          "area": "19 2 24",
+          "land_val": "14 5 0",
+          "building_val": "2 0 0",
+          "total_val": "26 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "40",
+          "occupier": "Grand Canal Company,",
+          "lessor": "In fee,",
+          "desc": "Canal 100 lin. perches,",
+          "area": "5 2 20",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total,",
+          "area": "625 1 22",
+          "land_val": "405 18 0",
+          "building_val": "52 4 0",
+          "total_val": "461 7 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "TINNAKILL",
+          "os": "4 & 8",
+          "occupier": "William Bergin,",
+          "lessor": "Richd. Tibeaudo, Esq.",
+          "desc": "H,O,&L",
+          "area": "49 0 28",
+          "land_val": "26 0 0",
+          "building_val": "3 0 0",
+          "total_val": "29 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Richd. Tibeaudo, Esq.",
+          "lessor": "Rich. Warburton, Esq.",
+          "desc": "H,O,&L",
+          "area": "44 2 32",
+          "land_val": "22 5 0",
+          "building_val": "2 15 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Rich. Warburton, Esq.",
+          "lessor": "In fee,",
+          "desc": "L (wood),",
+          "area": "91 0 0",
+          "land_val": "47 10 0",
+          "total_val": "47 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Nathaniel Scales,",
+          "lessor": "Rich. Warburton, Esq.",
+          "desc": "H,O,&L",
+          "area": "14 2 24",
+          "land_val": "7 0 0",
+          "building_val": "1 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Margaret Siney,",
+          "lessor": "Rich. Warburton, Esq.",
+          "desc": "H,O,&L",
+          "area": "11 1 3",
+          "land_val": "6 0 0",
+          "building_val": "0 15 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "John Keegan,",
+          "lessor": "Rich. Warburton, Esq.",
+          "desc": "H,O,&L",
+          "area": "109 3 24",
+          "land_val": "52 5 0",
+          "building_val": "5 0 0",
+          "total_val": "57 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Dorah Errett,",
+          "lessor": "Rich. Warburton, Esq.",
+          "desc": "H,O,&L",
+          "area": "7 2 20",
+          "land_val": "3 10 0",
+          "building_val": "0 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Hugh Graham,",
+          "lessor": "Rich. Warburton, Esq.",
+          "desc": "H,O,&L",
+          "area": "7 3 4",
+          "land_val": "3 15 0",
+          "building_val": "0 15 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Daniel Cranston,",
+          "lessor": "Rich. Warburton, Esq.",
+          "desc": "L",
+          "area": "10 3 10",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Anne Tinkler,",
+          "lessor": "Rich. Warburton, Esq.",
+          "desc": "H,O,&G",
+          "area": "0 1 27",
+          "land_val": "0 6 0",
+          "building_val": "0 14 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Edward Cranston,",
+          "lessor": "R. Warburton, Esq.",
+          "desc": "H&L",
+          "area": "43 0 1",
+          "land_val": "11 0 0",
+          "building_val": "1 0 0",
+          "total_val": "12 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "b",
+          "occupier": "Daniel Cranston,",
+          "lessor": "R. Warburton, Esq.",
+          "desc": "H,O,&L",
+          "land_val": "6 10 0",
+          "building_val": "1 15 0",
+          "total_val": "8 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "c",
+          "occupier": "Archibald Cranston,",
+          "lessor": "R. Warburton, Esq.",
+          "desc": "H,O,&L",
+          "land_val": "4 15 0",
+          "building_val": "0 15 0",
+          "total_val": "5 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "d",
+          "occupier": "Jane Moss,",
+          "lessor": "Edward Cranston,",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Mary Coghlan,",
+          "lessor": "Rich. Warburton, Esq.",
+          "desc": "H,O,&L",
+          "area": "1 1 33",
+          "land_val": "0 15 0",
+          "building_val": "0 10 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Christopher Southern,",
+          "lessor": "Rich. Warburton, Esq.",
+          "desc": "L",
+          "area": "14 3 5",
+          "land_val": "8 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Matthew Corcoran,",
+          "lessor": "Rich. Warburton, Esq.",
+          "desc": "L",
+          "area": "5 2 22",
+          "land_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "John Delany,",
+          "lessor": "Rich. Warburton, Esq.",
+          "desc": "L",
+          "area": "2 0 5",
+          "land_val": "0 12 0",
+          "total_val": "0 12 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Jeremiah Delany,",
+          "lessor": "Rich. Warburton, Esq.",
+          "desc": "L",
+          "land_val": "0 12 0",
+          "total_val": "0 12 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "a",
+          "occupier": "John Delany,",
+          "lessor": "R. Warburton, Esq.",
+          "desc": "H,O,&L",
+          "area": "44 2 30",
+          "land_val": "12 18 0",
+          "building_val": "1 10 0",
+          "total_val": "15 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Jeremiah Delany,",
+          "lessor": "R. Warburton, Esq.",
+          "desc": "H,O,&L",
+          "land_val": "12 18 0",
+          "building_val": "1 5 0",
+          "total_val": "14 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "15",
+          "occupier": "Jeremiah Delany,",
+          "lessor": "Rich. Warburton, Esq.",
+          "desc": "L",
+          "area": "2 0 6",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Rich. Warburton, Esq.",
+          "lessor": "In fee,",
+          "desc": "L (gravel pit),",
+          "area": "0 3 5",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Andrew Conroy,",
+          "lessor": "Rich. Warburton, Esq.",
+          "desc": "L",
+          "area": "139 2 10",
+          "land_val": "62 15 0",
+          "total_val": "62 15 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Vacant,",
+          "lessor": "Andrew Conroy,",
+          "desc": "H&O",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "William Bergin,",
+          "lessor": "Andrew Conroy,",
+          "desc": "H&O",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Vacant,",
+          "lessor": "Andrew Conroy,",
+          "desc": "H&O",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Anne Kelly,",
+          "lessor": "Andrew Conroy,",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Vacant,",
+          "lessor": "Andrew Conroy,",
+          "desc": "H&O",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Owen Connor,",
+          "lessor": "Andrew Conroy,",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "Vacant,",
+          "lessor": "Andrew Conroy,",
+          "desc": "H&O",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        }
+      ]
+    }
+  ]
+}

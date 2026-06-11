@@ -1,0 +1,27 @@
+{
+  "parishes": [
+    {
+      "parish": "KILLASPUGBRONE",
+      "entries": [
+        {
+          "mr": "a",
+          "townland": "LARASS, or STRANDHILL",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Church and grave-yard (see Exemptions)",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 1,
+          "is_total": 0,
+          "is_exemption": 1,
+          "is_continued": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "parishes": [
+    {
+      "parish": "DRUMGOON",
+      "entries": [
+        {
+          "mr": "51",
+          "townland": "MAGHERANURE",
+          "sublocation_1": "TOWN OF COOTEHILL",
+          "sublocation_2": "CHURCH-STREET",
+          "occupier": "Philip Floody",
+          "lessor": "John Logan",
+          "desc": "H & G",
+          "area": "0 0 22",
+          "land_val": "0 10 0",
+          "building_val": "0 10 0",
+          "total_val": "1 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "52",
+          "occupier": "Bridget Pilkington",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "53",
+          "occupier": "David Genoe",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "54",
+          "occupier": "Bridget Smith",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "55",
+          "occupier": "Anne M'Dermott",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "56",
+          "occupier": "Edward Brady",
+          "lessor": "Same",
+          "desc": "H, yard, & sm. G",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "57",
+          "occupier": "Owen O'Brien",
+          "lessor": "Same",
+          "desc": "H, yard, & sm. G",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "58",
+          "occupier": "Ellen Sheils",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "59",
+          "occupier": "Mary M'Cabe",
+          "lessor": "Same",
+          "desc": "H (in rere)",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "60",
+          "occupier": "Vacant",
+          "lessor": "Jane Dolan",
+          "desc": "Store",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "61",
+          "occupier": "Charles Duffin",
+          "lessor": "Same",
+          "desc": "Store (under part of)",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "61",
+          "occupier": "John Preston",
+          "lessor": "Same",
+          "desc": "Store (upper part of)",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "62",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "Store",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "63",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "Store",
+          "building_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "64",
+          "occupier": "Rosanna Farrell",
+          "lessor": "John M'Fadden",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "65",
+          "occupier": "Catherine Lee",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "66",
+          "occupier": "Terence Maguire",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "67",
+          "occupier": "Vacant",
+          "lessor": "Edward Cooney",
+          "desc": "H (in rere)",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "68",
+          "occupier": "Patrick M'Manus",
+          "lessor": "Same",
+          "desc": "H (in rere)",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "69",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H (in rere)",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "70",
+          "occupier": "Joseph Brown",
+          "lessor": "Same",
+          "desc": "H (in rere)",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "71",
+          "occupier": "Edward Cooney",
+          "lessor": "John M'Fadden",
+          "desc": "Workshop(unfinished), tan-yard (in rere), & sm. G",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "72",
+          "occupier": "Vacant",
+          "lessor": "Edward Cooney",
+          "desc": "H",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "73",
+          "occupier": "Vacant",
+          "lessor": "John Connell",
+          "desc": "H (in rere)",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "74",
+          "occupier": "Terence M'Donnell",
+          "lessor": "Same",
+          "desc": "H (in rere)",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "75",
+          "occupier": "Alice M'Donnell",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "76",
+          "occupier": "John M'Cabe",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "77",
+          "occupier": "Patrick Munnaker",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "78",
+          "occupier": "John Connell",
+          "lessor": "Richard Coote (minor)",
+          "desc": "H, O, yd., & G",
+          "area": "0 0 25",
+          "land_val": "0 10 0",
+          "building_val": "4 10 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "79",
+          "occupier": "Margaret Connell",
+          "lessor": "Same",
+          "desc": "Store, yd., & sm. G",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "80",
+          "occupier": "Philip Brady",
+          "lessor": "Same",
+          "desc": "H, yd., & sm. G",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "81",
+          "occupier": "James Woods",
+          "lessor": "Same",
+          "desc": "H, O, yd., & G",
+          "area": "0 0 12",
+          "land_val": "0 10 0",
+          "building_val": "8 10 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "82",
+          "occupier": "James Woods",
+          "lessor": "Charles Murphy",
+          "desc": "Store (part of, in rere)",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "83",
+          "occupier": "James B. Boyd",
+          "lessor": "Samuel Fisher",
+          "desc": "Store",
+          "building_val": "9 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "84",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "Store (under part of)",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "84",
+          "occupier": "Owen Dignam",
+          "lessor": "Same",
+          "desc": "Store (upper part of)",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "85",
+          "occupier": "John M'Mahon",
+          "lessor": "Same",
+          "desc": "Store (under part of)",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "85",
+          "occupier": "J. Ewer and Co.",
+          "lessor": "Same",
+          "desc": "Store (upper part of)",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "86",
+          "occupier": "John J. Maxwell",
+          "lessor": "Same",
+          "desc": "Store (under part of)",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "86",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "Store (upper part of)",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "87",
+          "occupier": "Richard Clarke",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "10 10 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "88",
+          "occupier": "Francis Germain",
+          "lessor": "Charles Murphy",
+          "desc": "H, O, & yard",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "89",
+          "occupier": "John Germain",
+          "lessor": "Same",
+          "desc": "H, O, & yard",
+          "building_val": "8 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "90",
+          "occupier": "Alice Kelly",
+          "lessor": "Samuel Fisher",
+          "desc": "H & yard",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "91",
+          "occupier": "Anne Horner",
+          "lessor": "Same",
+          "desc": "H & yard",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "92",
+          "occupier": "Matthew Lynch",
+          "lessor": "Same",
+          "desc": "H, O, & yard",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "93",
+          "occupier": "Anne Rehill",
+          "lessor": "Same",
+          "desc": "H, O, & yard",
+          "building_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "94",
+          "occupier": "Mary M'Cabe",
+          "lessor": "Epaphroditus Young",
+          "desc": "H",
+          "building_val": "5 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "SHERCOCK-ROAD",
+          "occupier": "Police barrack, yard, and garden",
+          "lessor": "(See Exemptions.)",
+          "desc": "Half annual rent of police barrack &c., Waste of houses, yards, streets, & sm. gardens",
+          "area": "18 1 11",
+          "total_val": "12 0 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total of Rateable Property",
+          "area": "204 1 15",
+          "land_val": "272 16 0",
+          "building_val": "1259 15 0",
+          "total_val": "1544 11 0",
+          "is_total": 1
+        },
+        {
+          "mr": "9 d",
+          "occupier": "Richard Coote (minor)",
+          "desc": "Moravian Meeting-ho.",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "38 10",
+          "townland": "TOWN OF COOTEHILL",
+          "sublocation_1": "CAVAN NEW-ROAD",
+          "occupier": "Bd. of Nat. Education",
+          "lessor": "Richard Coote (minor)",
+          "desc": "National school-house",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0",
+          "is_exemption": 1
+        }
+      ]
+    }
+  ]
+}

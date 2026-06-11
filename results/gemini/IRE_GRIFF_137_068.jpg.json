@@ -1,0 +1,597 @@
+{
+  "parishes": [
+    {
+      "parish": "KILMEAGE",
+      "entries": [
+        {
+          "mr": "9 b",
+          "townland": "PLUCKERSTOWN",
+          "os": "",
+          "occupier": "John Walsh",
+          "lessor": "Thomas Flood",
+          "desc": "H,O,&G",
+          "area": "0 0 16",
+          "land_val": "0 2 0",
+          "building_val": "0 15 0",
+          "total_val": "0 17 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "10",
+          "occupier": "John Dunne",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "1 2 10",
+          "land_val": "1 5 0",
+          "building_val": "0 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "William Curtis",
+          "lessor": "Sir Gerald G. Aylmer, Bt.",
+          "desc": "L",
+          "area": "56 0 19",
+          "land_val": "33 10 0",
+          "building_val": "",
+          "total_val": "33 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Grand Canal Company,",
+          "lessor": "In fee",
+          "desc": "Milltown canal supply and banks (waste)",
+          "area": "6 1 18",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "565 0 9",
+          "land_val": "276 11 0",
+          "building_val": "12 15 0",
+          "total_val": "289 6 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "ROBERTSTOWN, EAST",
+          "os": "13 & 18",
+          "occupier": "Peter Farrell",
+          "lessor": "William Ireland",
+          "desc": "H,O,&L",
+          "area": "5 0 10",
+          "land_val": "2 10 0",
+          "building_val": "1 5 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Catherine Sherry",
+          "lessor": "Peter Farrell",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Mary Reynolds",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "John Shea",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "John Freney",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Thomas Russell",
+          "lessor": "William Ireland",
+          "desc": "H&L",
+          "area": "2 0 37",
+          "land_val": "1 0 0",
+          "building_val": "0 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Kelly",
+          "lessor": "Thomas Russell",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Walter Keeffe",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 28",
+          "land_val": "0 2 0",
+          "building_val": "0 5 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Charles S. Eustace",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "2 0 4",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James Collins",
+          "lessor": "Charles S. Eustace",
+          "desc": "H&L",
+          "area": "2 2 5",
+          "land_val": "1 5 0",
+          "building_val": "0 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Peter Carroll",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "0 3 12",
+          "land_val": "0 7 0",
+          "building_val": "0 5 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Lawrence Byrne",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "3 2 27",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Kirwan",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "3 2 27",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "7",
+          "occupier": "Michael Carton",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 3 28",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Patrick Hyland",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 3 30",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Garrett Farrell",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 3 24",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Loughlin Moore",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 3 24",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "John Farrell",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 2 16",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Bernard Adderly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 3 28",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Denis Lawler",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 3 23",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Eugene Scully",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "15 2 2",
+          "land_val": "6 0 0",
+          "building_val": "0 5 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Edward Kelly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 0 12",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "12 2 9",
+          "land_val": "4 10 0",
+          "building_val": "",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Margaret Darby",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "2 0 8",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Thomas Heffernan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 3 8",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "19 A",
+          "occupier": "Matthew Archbold",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "9 0 12",
+          "land_val": "3 5 0",
+          "building_val": "",
+          "total_val": "23 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "B",
+          "occupier": "Matthew Archbold",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "9 3 20",
+          "land_val": "5 0 0",
+          "building_val": "",
+          "total_val": "23 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "C",
+          "occupier": "Matthew Archbold",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "17 1 39",
+          "land_val": "20 0 0",
+          "building_val": "",
+          "total_val": "23 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "20",
+          "occupier": "James Callan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 1 8",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Mary Ryan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 2 7",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Joseph Roberts",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 2 15",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "23 A",
+          "occupier": "James Fagan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 3 38",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "25 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "B",
+          "occupier": "James Fagan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 1 5",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "25 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "C",
+          "occupier": "James Fagan",
+          "lessor": "Same",
+          "desc": "O&L",
+          "area": "24 2 24",
+          "land_val": "21 0 0",
+          "building_val": "0 5 0",
+          "total_val": "25 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "a",
+          "occupier": "Edward Fagan",
+          "lessor": "James Fagan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Mary Cassidy",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "James Kavanagh",
+          "lessor": "Same",
+          "desc": "H&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "24 A",
+          "occupier": "Robert O'Leary",
+          "lessor": "Charles S. Eustace",
+          "desc": "L",
+          "area": "4 0 16",
+          "land_val": "1 12 0",
+          "building_val": "",
+          "total_val": "35 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "B",
+          "occupier": "Robert O'Leary",
+          "lessor": "Charles S. Eustace",
+          "desc": "L",
+          "area": "0 3 34",
+          "land_val": "0 8 0",
+          "building_val": "",
+          "total_val": "35 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "C",
+          "occupier": "Robert O'Leary",
+          "lessor": "Charles S. Eustace",
+          "desc": "H&L",
+          "area": "41 2 21",
+          "land_val": "33 5 0",
+          "building_val": "0 5 0",
+          "total_val": "35 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "25",
+          "occupier": "Patrick Kavanagh",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 30",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Martin Ryan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 3 15",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Simon Hickey",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "10 3 35",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "John Fagan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "49 1 0",
+          "land_val": "42 0 0",
+          "building_val": "",
+          "total_val": "42 0 0"
+        },
+        {
+          "mr": "29 a",
+          "occupier": "Margaret Connell",
+          "lessor": "William Ireland",
+          "desc": "H,O,&L",
+          "area": "12 3 10",
+          "land_val": "7 0 0",
+          "building_val": "1 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Mary Hynes",
+          "lessor": "Margaret Connell",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Jasper W. Rogers",
+          "lessor": "Charles S. Eustace",
+          "desc": "L",
+          "area": "1 1 0",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Jasper W. Rogers",
+          "lessor": "Grand Canal Company",
+          "desc": "H,O,&L",
+          "area": "9 1 10",
+          "land_val": "5 10 0",
+          "building_val": "20 0 0",
+          "total_val": "25 10 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "John Fagan",
+          "lessor": "Rev. Arthur J. Preston",
+          "desc": "L",
+          "area": "3 3 9",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "Grand Canal Company",
+          "lessor": "In fee",
+          "desc": "Canal and towing-path (150 lineal perches)",
+          "area": "8 2 28",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "15 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "a",
+          "occupier": "Patrick Kavanagh",
+          "lessor": "Grand Canal Company",
+          "desc": "G",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Grand Canal Company",
+          "lessor": "In fee",
+          "desc": "Canal supply and banks (2 perches wide)",
+          "area": "1 2 20",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "parishes": [
+    {
+      "parish": "LARAGHBRYAN",
+      "entries": [
+        {
+          "mr": "18",
+          "townland": "LARAGHBRYAN",
+          "os": "",
+          "occupier": "Michael Connor",
+          "lessor": "John M'Clean",
+          "desc": "H, yard, & sm. gar.",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "19",
+          "occupier": "Elizabeth Kelly",
+          "lessor": "John M'Clean",
+          "desc": "H, yard, & sm. gar.",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Thomas Clarkson",
+          "lessor": "John M'Clean",
+          "desc": "H, yard, & sm. gar.",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Thomas Clarkson",
+          "lessor": "John M'Clean",
+          "desc": "Ho., offi., yd., & sm. gar.",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Bridget Hannigan",
+          "lessor": "John M'Clean",
+          "desc": "H, yard, & sm. gar.",
+          "building_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Margaret Doogan",
+          "lessor": "John M'Clean",
+          "desc": "H, yard, & sm. gar.",
+          "building_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "James Kenny",
+          "lessor": "John M'Clean",
+          "desc": "H, yard, & sm. gar.",
+          "building_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "James Carroll",
+          "lessor": "John M'Clean",
+          "desc": "H, yard, & sm. gar.",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "John M'Clean",
+          "lessor": "Duke of Leinster",
+          "desc": "L (Orchard)",
+          "area": "1 1 15",
+          "land_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Joseph Pacey",
+          "lessor": "Duke of Leinster",
+          "desc": "Ho., offs., yard, gar., & ld.",
+          "area": "1 2 30",
+          "land_val": "4 10 0",
+          "building_val": "22 0 0",
+          "total_val": "26 10 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Thos. Chamberlain, Esq.",
+          "lessor": "Duke of Leinster",
+          "desc": "G",
+          "area": "0 0 34",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Thos. Chamberlain, Esq.",
+          "lessor": "John M'Clean",
+          "desc": "Ho., offis., yard, and gar.",
+          "area": "0 1 31",
+          "land_val": "2 15 0",
+          "building_val": "21 0 0",
+          "total_val": "23 15 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "LEINSTER-STREET.",
+          "occupier": "Constabulary force",
+          "lessor": "Duke of Leinster",
+          "desc": "Police-barrack, office, yard, & sm. garden",
+          "building_val": "16 0 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "2 A 3",
+          "occupier": "Robert Hudson",
+          "lessor": "Duke of Leinster",
+          "desc": "H, yard, & G",
+          "area": "0 0 12",
+          "land_val": "0 10 0",
+          "building_val": "4 0 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Mrs. Sarah M'Cullagh",
+          "lessor": "Duke of Leinster",
+          "desc": "H, yard, & G",
+          "area": "0 0 12",
+          "land_val": "0 10 0",
+          "building_val": "4 10 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "William Sullivan",
+          "lessor": "Duke of Leinster",
+          "desc": "L",
+          "area": "0 3 31",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Mrs. Mary Brangan",
+          "lessor": "Lawrence Brangan",
+          "desc": "H, office, & sm. gar.",
+          "building_val": "14 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Joseph Walsh",
+          "lessor": "Lawrence Brangan",
+          "desc": "H, office, and yard",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "desc": "Waste under houses, yards, streets, and small gardens",
+          "area": "24 2 7"
+        },
+        {
+          "desc": "Total",
+          "area": "483 3 23",
+          "land_val": "578 10 0",
+          "building_val": "1424 17 0",
+          "total_val": "2035 7 0",
+          "is_total": 1
+        },
+        {
+          "desc": "Court-house",
+          "building_val": "18 0 0",
+          "total_val": "18 0 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Dispensary",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Roman Catholic chapel",
+          "building_val": "7 10 0",
+          "total_val": "7 10 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Female National School-house",
+          "building_val": "9 10 0",
+          "total_val": "9 10 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Male National School-house and garden",
+          "area": "0 0 20",
+          "land_val": "0 10 0",
+          "building_val": "8 5 0",
+          "total_val": "8 15 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Church Education Society's School-house",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Church and yard",
+          "area": "0 0 33",
+          "building_val": "22 0 0",
+          "total_val": "22 0 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total of Exemptions",
+          "area": "0 1 13",
+          "land_val": "0 10 0",
+          "building_val": "70 0 0",
+          "total_val": "70 10 0",
+          "is_total": 1,
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of Exemptions",
+          "area": "483 2 10",
+          "land_val": "578 0 0",
+          "building_val": "1354 17 0",
+          "total_val": "1964 17 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "MAYNOOTH, SOUTH",
+          "os": "5",
+          "occupier": "Trustees of the Royal College of St. Patrick",
+          "lessor": "Duke of Leinster",
+          "desc": "L",
+          "area": "19 1 4",
+          "land_val": "19 5 0",
+          "total_val": "19 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "M.G.W.Railway and Royal Canal Co.",
+          "lessor": "In fee",
+          "desc": "Railway, 100 lineal perches, and Canal and banks, 98 lineal perches",
+          "area": "3 2 28",
+          "total_val": "19 15 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Simon Meabe",
+          "lessor": "Duke of Leinster",
+          "desc": "L (Canal banks)",
+          "area": "0 3 10",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "occupier": "Simon Meabe",
+          "lessor": "Duke of Leinster",
+          "desc": "L",
+          "area": "12 3 3",
+          "land_val": "10 15 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "36 2 5",
+          "land_val": "30 5 0",
+          "total_val": "50 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "MONEYCOOLEY",
+          "os": "10 & 11",
+          "occupier": "Michael Cullen",
+          "lessor": "Thomas Swords",
+          "desc": "Ho., offices, and land",
+          "area": "270 0 30",
+          "land_val": "244 0 0",
+          "building_val": "11 0 0",
+          "total_val": "255 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Maguire",
+          "lessor": "Michael Cullen",
+          "desc": "House, offices, & sm. gar.",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Downes",
+          "lessor": "Thomas Swords",
+          "desc": "House, offices, and land",
+          "area": "78 1 4",
+          "land_val": "58 10 0",
+          "building_val": "2 15 0",
+          "total_val": "61 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Michael Chamberlain",
+          "lessor": "Thomas Swords",
+          "desc": "House, offices, and land",
+          "area": "30 2 22",
+          "land_val": "20 0 0",
+          "building_val": "1 0 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Michael Larkin",
+          "lessor": "Thomas Swords",
+          "desc": "House, offices, and land",
+          "area": "28 3 33",
+          "land_val": "17 10 0",
+          "building_val": "1 0 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "408 0 14",
+          "land_val": "340 0 0",
+          "building_val": "16 15 0",
+          "total_val": "356 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "NEWTOWN",
+          "os": "5 & 10",
+          "occupier": "Bartholomew Meabe",
+          "lessor": "Duke of Leinster",
+          "desc": "House, offices, and land",
+          "area": "105 1 25",
+          "land_val": "76 10 0",
+          "building_val": "5 10 0",
+          "total_val": "82 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Rev. John Keenan",
+          "lessor": "Duke of Leinster",
+          "desc": "L",
+          "area": "10 3 7",
+          "land_val": "9 5 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "3 A a B",
+          "occupier": "Catherine M'Cormack",
+          "lessor": "Duke of Leinster",
+          "desc": "House, offices, and land",
+          "area": "34 2 9",
+          "land_val": "35 0 0",
+          "building_val": "2 10 0",
+          "total_val": "37 10 0"
+        }
+      ]
+    }
+  ]
+}

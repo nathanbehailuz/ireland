@@ -1,0 +1,585 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF MONASTEREVIN",
+      "entries": [
+        {
+          "mr": "31",
+          "townland": "MONASTEREVIN",
+          "sublocation_1": "TOWN OF MONASTEREVIN",
+          "occupier": "Timothy M'Dermott",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H, yard, & G",
+          "area": "0 0 24",
+          "land_val": "0 4 0",
+          "building_val": "3 6 0",
+          "total_val": "3 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "32",
+          "occupier": "Patrick Sullivan",
+          "lessor": "Robert Cassidy",
+          "desc": "H, O, & yard",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "John Doyle",
+          "lessor": "Same",
+          "desc": "H, O, & yard",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Michael Dunne",
+          "lessor": "Bridget Mowles",
+          "desc": "H, O, yd., & G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "5 13 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Mary Murphy",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H, O, yd., & G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "6 8 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Edward Kelly",
+          "lessor": "Thomas Loughman",
+          "desc": "H, O, yd., & G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "7 18 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "Bartholomew Stockears",
+          "lessor": "Same",
+          "desc": "H, O, & yard",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Thomas Conlan",
+          "lessor": "Thomas Kelly",
+          "desc": "H, O, & yard",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "Thomas Kelly",
+          "lessor": "Thomas Loughman",
+          "desc": "H, O, yd., & G",
+          "area": "0 0 27",
+          "land_val": "0 5 0",
+          "building_val": "16 5 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "Richard Hyland",
+          "lessor": "Robert Cassidy",
+          "desc": "H, O, yd., & G",
+          "area": "1 3 12",
+          "land_val": "1 10 0",
+          "building_val": "38 10 0",
+          "total_val": "40 0 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "William Whelan",
+          "lessor": "Thomas Loughman",
+          "desc": "H, O, & yard",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "John Lane",
+          "lessor": "Same",
+          "desc": "H, O, & yard",
+          "building_val": "7 10 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "Thomas Loughman",
+          "lessor": "Rev. John Bagot",
+          "desc": "H, O, yd., & G",
+          "area": "0 0 20",
+          "land_val": "0 3 0",
+          "building_val": "13 17 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "44",
+          "occupier": "Patrick O'Brien",
+          "lessor": "John Gerrard",
+          "desc": "H, O, & yard",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "45",
+          "occupier": "John Gerrard",
+          "lessor": "Robert H. Borrowes",
+          "desc": "H, O, & yard",
+          "building_val": "9 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "Richard Hyland",
+          "lessor": "John Gerrard",
+          "desc": "H, O, & yard",
+          "building_val": "17 0 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "47",
+          "occupier": "Mary Kelly",
+          "lessor": "Marquis of Drogheda",
+          "desc": "H & yard",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "48",
+          "occupier": "Denis Dalton",
+          "lessor": "Sophia Hulbert",
+          "desc": "H, O, & yard",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "49",
+          "occupier": "Vacant",
+          "lessor": "Thomas Hackett",
+          "desc": "H, O, & yard",
+          "building_val": "14 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "50",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H, O, & yard",
+          "building_val": "12 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "51",
+          "occupier": "Rev. Charles Moore",
+          "lessor": "- Winter",
+          "desc": "O & building ground",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "52",
+          "occupier": "John Yeates",
+          "lessor": "Rev. Charles Moore",
+          "desc": "H, O, & yard",
+          "building_val": "18 0 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "53",
+          "occupier": "Thomas Carroll",
+          "lessor": "Same",
+          "desc": "H, O, & yard",
+          "building_val": "16 10 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "54",
+          "occupier": "Richard Harris",
+          "lessor": "Thomas Loughman",
+          "desc": "H, O, & yard",
+          "building_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "55",
+          "occupier": "Rev. William Hoyte",
+          "lessor": "Same",
+          "desc": "H, O, & yard",
+          "building_val": "16 0 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "56",
+          "occupier": "Charles Hughes",
+          "lessor": "Rev. Charles Moore",
+          "desc": "H, O, & yard",
+          "building_val": "11 10 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "57",
+          "occupier": "Rev. Charles Moore",
+          "lessor": "William Horan",
+          "desc": "H, O, & yard",
+          "building_val": "38 0 0",
+          "total_val": "38 0 0"
+        },
+        {
+          "mr": "58",
+          "occupier": "Rev. Charles Moore",
+          "lessor": "Marquis of Drogheda",
+          "desc": "G",
+          "area": "1 1 10",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "59",
+          "occupier": "Rev. Charles Moore",
+          "lessor": "Same",
+          "desc": "Pleasure ground",
+          "area": "0 1 36",
+          "land_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "60",
+          "occupier": "Charles Hughes",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 10",
+          "land_val": "0 3 0",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "61",
+          "occupier": "Rev. William Hoyte",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 10",
+          "land_val": "0 3 0",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "62",
+          "occupier": "Richard Harris",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 11",
+          "land_val": "0 3 0",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "63",
+          "occupier": "Thomas Carroll",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 12",
+          "land_val": "0 3 0",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "64",
+          "occupier": "John Yeates",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 26",
+          "land_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "65",
+          "occupier": "Vacant",
+          "lessor": "Thomas Hackett",
+          "desc": "G",
+          "area": "0 0 16",
+          "land_val": "0 4 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "66",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 16",
+          "land_val": "0 4 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "67",
+          "occupier": "Denis Dalton",
+          "lessor": "Marquis of Drogheda",
+          "desc": "G",
+          "area": "0 0 18",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "68",
+          "occupier": "Mary Kelly",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 17",
+          "land_val": "0 4 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "69",
+          "occupier": "John Gerrard",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 1 4",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "70",
+          "occupier": "Robert Cassidy",
+          "lessor": "Same",
+          "desc": "Pleasure ground",
+          "area": "0 3 19",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "71",
+          "occupier": "Thomas Kelly",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 26",
+          "land_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "72",
+          "occupier": "John Lane",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 7",
+          "land_val": "0 2 0",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "73",
+          "occupier": "William Whelan",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 7",
+          "land_val": "0 2 0",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "74",
+          "occupier": "Bartholomew Stockears",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 17",
+          "land_val": "0 4 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "75",
+          "occupier": "Edward Kelly",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 12",
+          "land_val": "0 3 0",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "76",
+          "occupier": "Mary Murphy",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 14",
+          "land_val": "0 3 0",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "77",
+          "occupier": "Michael Dunne",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 13",
+          "land_val": "0 3 0",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "78",
+          "occupier": "Patrick Sullivan",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 29",
+          "land_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "79",
+          "occupier": "Timothy M'Dermott",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 22",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "80",
+          "occupier": "Thomas Mathews",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 22",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "81",
+          "occupier": "John Turner",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 15",
+          "land_val": "0 4 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "82",
+          "occupier": "Vacant",
+          "lessor": "Mary Waldron",
+          "desc": "G",
+          "area": "0 0 15",
+          "land_val": "0 4 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "83",
+          "occupier": "William Long",
+          "lessor": "John Bond",
+          "desc": "G",
+          "area": "0 0 16",
+          "land_val": "0 4 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "84",
+          "occupier": "Rev. Paul Dennis",
+          "lessor": "Marquis of Drogheda",
+          "desc": "G",
+          "area": "0 1 0",
+          "land_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "85",
+          "occupier": "Arthur Rooney",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 17",
+          "land_val": "0 4 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "86",
+          "occupier": "Marquis of Drogheda",
+          "lessor": "In fee",
+          "desc": "L (plantation)",
+          "area": "0 0 7",
+          "land_val": "0 2 0",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "87",
+          "occupier": "Henry Williams",
+          "lessor": "Margaret Fleming",
+          "desc": "H, O, & yard",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "88",
+          "occupier": "Rev. Paul Dennis",
+          "lessor": "Same",
+          "desc": "H, O, & yard",
+          "building_val": "18 0 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "89",
+          "occupier": "Michael Fitzpatrick",
+          "lessor": "John Waldron",
+          "desc": "H, O, yd., & sm. G",
+          "building_val": "9 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "90",
+          "occupier": "William Dunne",
+          "lessor": "Mary Kelly",
+          "desc": "H, O, & yard",
+          "building_val": "18 0 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "91",
+          "occupier": "Charles Dunne",
+          "lessor": "Same",
+          "desc": "H & yard",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "92",
+          "occupier": "Marquis of Drogheda",
+          "lessor": "In fee",
+          "desc": "L (plantation)",
+          "area": "0 0 15",
+          "land_val": "0 4 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "KENNY'S-ALLEY, (Off Main-street.)",
+          "occupier": "Thomas Lawler",
+          "lessor": "Robert Cassidy",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Smith",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        }
+      ]
+    }
+  ]
+}

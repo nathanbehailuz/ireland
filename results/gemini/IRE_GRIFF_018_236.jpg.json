@@ -1,0 +1,475 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF DERRYNOOSE",
+      "entries": [
+        {
+          "mr": "24 A",
+          "townland": "MOWILLIN",
+          "occupier": "Robert Little",
+          "lessor": "William Kirk",
+          "desc": "H,O,&L",
+          "area": "16 0 30",
+          "land_val": "14 0 0",
+          "building_val": "3 10 0",
+          "total_val": "18 5 0",
+          "n_shared": 2,
+          "is_continued": 1
+        },
+        {
+          "mr": "— B",
+          "occupier": "Nathaniel Leslie",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 1 20",
+          "land_val": "0 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "25",
+          "occupier": "Presbyterian Church, Sexton's house, and grave-yard",
+          "lessor": "(See Exemptions.)",
+          "desc": "L",
+          "area": "1 0 30",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "26 a, b",
+          "occupier": "John Leslie",
+          "lessor": "William Kirk",
+          "desc": "L",
+          "area": "3 1 15",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "William Dunlop",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 10",
+          "land_val": "1 0 0",
+          "total_val": "2 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "28 A",
+          "desc": "L",
+          "area": "1 3 0",
+          "land_val": "1 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "James Mann",
+          "lessor": "Mary Wallace",
+          "desc": "H&L",
+          "area": "6 2 30",
+          "land_val": "5 5 0",
+          "building_val": "1 5 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Henry Gillespie",
+          "lessor": "James Dunlop (Quaker)",
+          "desc": "H,O,&L",
+          "area": "13 1 15",
+          "land_val": "10 0 0",
+          "building_val": "1 5 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "John M'Carton",
+          "lessor": "William J. Grier",
+          "desc": "H,O,&L",
+          "area": "7 2 15",
+          "land_val": "6 0 0",
+          "building_val": "1 5 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "John Walker",
+          "lessor": "Mary Wallace",
+          "desc": "H,O,&L",
+          "area": "11 1 15",
+          "land_val": "9 10 0",
+          "total_val": "11 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "32 A",
+          "desc": "L",
+          "area": "4 3 20",
+          "land_val": "2 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "Thomas Curry",
+          "lessor": "William J. Grier",
+          "desc": "H,O,&L",
+          "area": "17 0 5",
+          "land_val": "13 5 0",
+          "building_val": "1 10 0",
+          "total_val": "14 15 0"
+        },
+        {
+          "mr": "33",
+          "lessor": "Mary Wallace",
+          "desc": "L",
+          "area": "7 2 10",
+          "land_val": "5 15 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Patrick M'Carton",
+          "lessor": "William J. Grier",
+          "desc": "L",
+          "area": "7 3 0",
+          "land_val": "5 15 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "John English",
+          "lessor": "William Kirk",
+          "desc": "L(B)",
+          "area": "2 2 5",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "desc": "Total of Rateable Property",
+          "area": "400 0 1",
+          "land_val": "315 0 0",
+          "building_val": "32 10 0",
+          "total_val": "347 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "25",
+          "desc": "National School-house",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "26 a, b",
+          "desc": "Presbyterian Church, Sexton's house, and grave-yard",
+          "area": "2 0 0",
+          "land_val": "2 0 0",
+          "building_val": "16 0 0",
+          "total_val": "18 0 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total of Exemptions",
+          "area": "2 0 0",
+          "land_val": "2 0 0",
+          "building_val": "20 0 0",
+          "total_val": "22 0 0",
+          "is_total": 1,
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, including Exemptions",
+          "area": "402 0 1",
+          "land_val": "317 0 0",
+          "building_val": "52 10 0",
+          "total_val": "369 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DERRYHENNET",
+          "os": "15 & 19",
+          "occupier": "Thomas M'Cullough",
+          "lessor": "William Kirk",
+          "desc": "H,O,&L",
+          "area": "25 3 15",
+          "land_val": "16 10 0",
+          "building_val": "3 10 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "James Flanagan",
+          "lessor": "Nathaniel Tussy",
+          "desc": "H,O,&L",
+          "area": "9 1 0",
+          "land_val": "7 0 0",
+          "building_val": "0 15 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "Mary Smith",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "0 2 20",
+          "land_val": "0 10 0",
+          "building_val": "0 10 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "David Boyd",
+          "lessor": "William Kirk",
+          "desc": "H&L",
+          "area": "3 1 33",
+          "land_val": "3 0 0",
+          "total_val": "10 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "4",
+          "desc": "L",
+          "area": "5 2 15",
+          "land_val": "4 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "5",
+          "desc": "L",
+          "area": "2 3 30",
+          "land_val": "2 10 0",
+          "building_val": "0 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "6",
+          "occupier": "James Wilson",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "5 2 20",
+          "land_val": "4 15 0",
+          "building_val": "0 15 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Matthew Macartney",
+          "lessor": "Jane Sturgeon",
+          "desc": "L",
+          "area": "1 2 10",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Matthew Humphreys",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "7 1 25",
+          "land_val": "5 15 0",
+          "building_val": "1 0 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Mary Maxwell",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "James Hutton",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "11 1 15",
+          "land_val": "8 10 0",
+          "building_val": "0 15 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Henry M'Crum",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 0 20",
+          "land_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Samuel Freeland",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "9 3 10",
+          "land_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "John Hughes",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "7 0 0",
+          "land_val": "5 5 0",
+          "building_val": "1 0 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "13 A",
+          "occupier": "Henry M'Crum",
+          "lessor": "William Kirk",
+          "desc": "H,O,&L",
+          "area": "15 2 25",
+          "land_val": "12 15 0",
+          "building_val": "5 0 0",
+          "total_val": "18 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "area": "0 2 20",
+          "land_val": "0 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "14 A",
+          "occupier": "Anne Lawson",
+          "lessor": "James Johnston",
+          "desc": "L",
+          "area": "8 3 0",
+          "land_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "George Hertford",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "7 1 0",
+          "land_val": "5 5 0",
+          "building_val": "1 0 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "15 A",
+          "occupier": "George Mitchell",
+          "lessor": "William Kirk",
+          "desc": "H,O,&L",
+          "area": "10 0 20",
+          "land_val": "7 0 0",
+          "total_val": "22 15 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "— B",
+          "area": "2 0 25",
+          "land_val": "1 15 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "— C a",
+          "area": "8 1 10",
+          "land_val": "6 0 0",
+          "building_val": "3 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "— D",
+          "area": "6 2 35",
+          "land_val": "5 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "— A a",
+          "occupier": "Mary Campbell",
+          "lessor": "George Mitchell",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "— — b",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "— — c",
+          "occupier": "Ellen Keenan",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "— B a",
+          "occupier": "Mary Jane Campbell",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "— — b",
+          "occupier": "James M'Cracken",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "— C b",
+          "occupier": "John Reid and another",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "William Rogers",
+          "lessor": "John Cross",
+          "desc": "H,O,&L",
+          "area": "26 2 15",
+          "land_val": "19 10 0",
+          "building_val": "1 5 0",
+          "total_val": "20 15 0"
+        },
+        {
+          "mr": "17 a",
+          "occupier": "David M'Clelland",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "13 1 35",
+          "land_val": "9 15 0",
+          "building_val": "0 10 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Anne Jane M'Clelland",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 1 20",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "John Brown",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        }
+      ]
+    }
+  ]
+}

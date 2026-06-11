@@ -1,0 +1,498 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF SEAPATRICK",
+      "entries": [
+        {
+          "mr": "28",
+          "townland": "EDENLERRY",
+          "sublocation_1": "TOWN OF BANBRIDGE",
+          "sublocation_2": "REILLY-STREET",
+          "occupier": "John Harkless",
+          "lessor": "William Edw. E. Reilly",
+          "desc": "Sheds and G",
+          "area": "0 2 0",
+          "land_val": "1 5 0",
+          "building_val": "0 5 0",
+          "total_val": "1 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "- a",
+          "occupier": "John Harkless",
+          "lessor": "Same",
+          "desc": "Two H (unfinished)"
+        },
+        {
+          "mr": "29",
+          "occupier": "Thomas Archer",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 0 0",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Thomas Floyd",
+          "lessor": "William Friar",
+          "desc": "H and G",
+          "area": "0 0 20",
+          "land_val": "0 10 0",
+          "building_val": "3 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "James Fife",
+          "lessor": "Same",
+          "desc": "H and G",
+          "area": "0 0 20",
+          "land_val": "0 10 0",
+          "building_val": "3 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "James Duff",
+          "lessor": "William Edw. E. Reilly",
+          "desc": "H, yard, and G",
+          "area": "0 1 0",
+          "land_val": "1 0 0",
+          "building_val": "4 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "James Delany",
+          "lessor": "George Carde",
+          "desc": "H and yard",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Eliza Bodell",
+          "lessor": "Same",
+          "desc": "H and yard",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "William Gregg",
+          "lessor": "Same",
+          "desc": "H and yard",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Andrew Burnett",
+          "lessor": "Same",
+          "desc": "H, O, and yard",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "William Duff",
+          "lessor": "Same",
+          "desc": "H, O, and yard",
+          "building_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "George M'Keown",
+          "lessor": "Same",
+          "desc": "H, O, and yard",
+          "building_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "William Brown",
+          "lessor": "Mary Anne Carson",
+          "desc": "H, O, yd., & sm. G",
+          "building_val": "11 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "Mrs. Potts",
+          "lessor": "William Brown",
+          "desc": "H",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "Ulster Railway Co., (Fredk. Broughton, Sec.",
+          "lessor": "Wm. Edwd. E. Reilly",
+          "desc": "L",
+          "area": "0 1 5",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "Bernard O'Hare",
+          "lessor": "Robert Ervin",
+          "desc": "H, O, & sm. G",
+          "building_val": "8 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "Samuel Hamilton",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "44",
+          "occupier": "James M'Meekin",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "45",
+          "occupier": "Wm. Dunsheath, sen.",
+          "lessor": "Wm. Edwd. E. Reilly",
+          "desc": "H and sm. G",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "Wm. Dunsheath, jun.",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "47",
+          "occupier": "John Fleming",
+          "lessor": "Same",
+          "desc": "H and G",
+          "area": "0 1 0",
+          "land_val": "0 15 0",
+          "building_val": "2 15 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "48",
+          "occupier": "Banbridge Gas Co., (Geo. F. Long Sec.)",
+          "lessor": "Same",
+          "desc": "Manager's H, yd., G, & gas-works, in Electoral Division of Banbridge",
+          "area": "0 0 35",
+          "land_val": "0 15 0",
+          "building_val": "120 0 0",
+          "total_val": "120 15 0"
+        },
+        {
+          "mr": "49",
+          "occupier": "Unoccupied",
+          "lessor": "Daniel Geoghegan",
+          "desc": "H, yard, & G",
+          "area": "0 0 20",
+          "land_val": "0 5 0",
+          "building_val": "7 15 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "50",
+          "occupier": "Martha Stevenson",
+          "lessor": "Same",
+          "desc": "H and yard",
+          "building_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "51",
+          "occupier": "Daniel Geoghegan",
+          "lessor": "William Edw. E. Reilly",
+          "desc": "G",
+          "area": "0 0 29",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "52",
+          "occupier": "Unoccupied",
+          "lessor": "Daniel Geoghegan",
+          "desc": "H and yard",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "53",
+          "occupier": "Thomas Archer",
+          "lessor": "William Edw. E. Reilly",
+          "desc": "H, O, yard, & G",
+          "area": "0 0 36",
+          "land_val": "0 15 0",
+          "building_val": "8 5 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "54",
+          "occupier": "Unoccupied",
+          "lessor": "Thomas Archer",
+          "desc": "H",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "55",
+          "occupier": "Robert Bell",
+          "lessor": "George Linn",
+          "desc": "H and G",
+          "area": "0 0 22",
+          "land_val": "0 5 0",
+          "building_val": "1 15 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "56",
+          "occupier": "Hugh Flanagan",
+          "lessor": "Same",
+          "desc": "H and sm. G",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "57",
+          "occupier": "James Ervin",
+          "lessor": "Same",
+          "desc": "H and sm. G",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "58",
+          "occupier": "John M'Dowell",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "59",
+          "occupier": "Anne Johnson",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "60",
+          "occupier": "Charles Keating",
+          "lessor": "Same",
+          "desc": "H, O, yd., & G",
+          "area": "0 1 0",
+          "land_val": "0 15 0",
+          "building_val": "5 5 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "61",
+          "occupier": "James Spratt",
+          "lessor": "Same",
+          "desc": "H, O, yd., & sm. G",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "62",
+          "occupier": "Samuel Gibson",
+          "lessor": "Same",
+          "desc": "H, O, yd., & sm. G",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "63",
+          "occupier": "James Robinson",
+          "lessor": "Same",
+          "desc": "H, O, yd., & sm. G",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "64",
+          "occupier": "James Forsythe",
+          "lessor": "Same",
+          "desc": "H, O, yd., & sm. G",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "65",
+          "occupier": "William Adams",
+          "lessor": "William Edw. E. Reilly",
+          "desc": "H, O, yd., & G",
+          "area": "0 0 35",
+          "land_val": "0 10 0",
+          "building_val": "6 0 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "66",
+          "occupier": "Rose M'Keown",
+          "lessor": "William Adams",
+          "desc": "H",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "67",
+          "occupier": "John Boland",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "68",
+          "occupier": "Michael Martin",
+          "lessor": "Thomas M'Dowell",
+          "desc": "H",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "69",
+          "occupier": "Thomas Allen",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "70",
+          "occupier": "Thomas M'Dowell",
+          "lessor": "William Edw. E. Reilly",
+          "desc": "H, O, yard, & G",
+          "area": "0 0 30",
+          "land_val": "0 10 0",
+          "building_val": "3 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "71",
+          "occupier": "William Edw. E. Reilly",
+          "lessor": "Same",
+          "desc": "Building-ground & G",
+          "area": "0 1 24",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "72",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "73",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "74",
+          "occupier": "Joseph Shearin",
+          "lessor": "James Smith",
+          "desc": "H and sm. G",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "75",
+          "occupier": "James Graham",
+          "lessor": "Same",
+          "desc": "H and G",
+          "area": "0 0 21",
+          "land_val": "0 5 0",
+          "building_val": "4 5 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "76",
+          "occupier": "James Smith",
+          "lessor": "William Edw. E. Reilly",
+          "desc": "Building-ground & G",
+          "area": "0 0 10",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "77",
+          "occupier": "William Crozier",
+          "lessor": "Mary Anne Carson",
+          "desc": "H",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "78",
+          "occupier": "Robert Aston",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "79",
+          "occupier": "Samuel Coleman",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "80",
+          "occupier": "Thomas Cowan",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "81",
+          "occupier": "Mary Anne Carson",
+          "lessor": "William Edw. E. Reilly",
+          "desc": "L",
+          "area": "1 1 20",
+          "land_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "1 to 9",
+          "sublocation_2": "WORKHOUSE-ROAD",
+          "occupier": "(T. P. S.) (Valued in Townland of Ballyvally.) Part of Union Workhouse and yard",
+          "lessor": "(See Exemptions.)",
+          "desc": "Part of Union Workhouse and yard",
+          "is_exemption": 1
+        },
+        {
+          "mr": "10",
+          "occupier": "Part of Union Workhouse and yard",
+          "lessor": "(See Exemptions.)",
+          "desc": "Part of Union Workhouse and yard",
+          "is_exemption": 1
+        }
+      ]
+    }
+  ]
+}

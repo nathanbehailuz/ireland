@@ -1,0 +1,469 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF KELLS",
+      "entries": [
+        {
+          "mr": "16",
+          "townland": "KILLINNY",
+          "occupier": "John Nowlan",
+          "lessor": "Richard Woodrooffe",
+          "desc": "O&L",
+          "area": "31 1 16",
+          "land_val": "29 8 0",
+          "building_val": "1 7 0",
+          "total_val": "30 15 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "17 a",
+          "occupier": "Thomas Purcell",
+          "lessor": "Richard Woodrooffe",
+          "desc": "H,O,flour mill,&L",
+          "area": "25 1 13",
+          "land_val": "26 0 0",
+          "building_val": "100 0 0",
+          "total_val": "126 0 0"
+        },
+        {
+          "mr": "17 b",
+          "occupier": "Thomas Lonnergan",
+          "lessor": "Thomas Purcell",
+          "desc": "H&G",
+          "area": "0 0 34",
+          "land_val": "0 5 0",
+          "building_val": "2 5 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "17 c",
+          "occupier": "Michael Morrissey & William Keating",
+          "lessor": "Thomas Purcell",
+          "desc": "H&yard",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "17 d",
+          "occupier": "Bridget Walsh",
+          "lessor": "Thomas Purcell",
+          "desc": "H",
+          "building_val": "0 11 0",
+          "total_val": "0 11 0"
+        },
+        {
+          "mr": "17 e",
+          "occupier": "Richard Hofford",
+          "lessor": "Thomas Purcell",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "desc": "Total",
+          "area": "380 1 17",
+          "land_val": "355 17 0",
+          "building_val": "132 8 0",
+          "total_val": "488 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "LAGHTBRACK",
+          "occupier": "Jeremiah Whelan",
+          "lessor": "Thos. W. Bayley, Esq.",
+          "desc": "H,O,&L",
+          "area": "23 3 31",
+          "land_val": "20 5 0",
+          "building_val": "4 5 0",
+          "total_val": "24 10 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Elizabeth Cashen",
+          "lessor": "Jeremiah Whelan",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Edmond Keating",
+          "lessor": "Catherine Bassett",
+          "desc": "H,O,&L",
+          "area": "17 2 27",
+          "land_val": "14 14 0",
+          "building_val": "1 16 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Mary Mullins",
+          "lessor": "Thos. W. Bayley, Esq.",
+          "desc": "L",
+          "area": "16 3 3",
+          "land_val": "14 15 0",
+          "total_val": "14 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Catherine Keane",
+          "lessor": "Thos. W. Bayley, Esq.",
+          "desc": "L",
+          "area": "10 1 33",
+          "land_val": "4 15 0",
+          "total_val": "4 15 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "4",
+          "occupier": "Garret Keane",
+          "lessor": "Thos. W. Bayley, Esq.",
+          "desc": "L",
+          "area": "10 1 33",
+          "land_val": "4 15 0",
+          "total_val": "4 15 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "4",
+          "occupier": "Margaret Pender",
+          "lessor": "Thos. W. Bayley, Esq.",
+          "desc": "L",
+          "area": "10 1 33",
+          "land_val": "4 15 0",
+          "total_val": "4 15 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "4",
+          "occupier": "James Harris",
+          "lessor": "Thos. W. Bayley, Esq.",
+          "desc": "L",
+          "area": "10 1 33",
+          "land_val": "4 15 0",
+          "total_val": "4 15 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Margaret Pender",
+          "lessor": "Garret Keane",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "4 b",
+          "occupier": "James Harris",
+          "lessor": "Catherine and Garret Keane",
+          "desc": "Ho.,office,forge,&yard",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "4 c",
+          "occupier": "Michael Neill",
+          "lessor": "Catherine and Garret Keane",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 3 0",
+          "building_val": "0 5 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "4 d",
+          "occupier": "Michael Morrissey",
+          "lessor": "Catherine and Garret Keane",
+          "desc": "H&yard",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Lawrence Walsh",
+          "lessor": "Catherine and Garret Keane",
+          "desc": "L",
+          "area": "4 2 13",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "73 2 17",
+          "land_val": "63 7 0",
+          "building_val": "8 12 0",
+          "total_val": "71 19 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "RATHDUFF (Bayley)",
+          "occupier": "John Walsh",
+          "lessor": "Patrick Millen",
+          "desc": "L",
+          "area": "4 0 21",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Patrick Millea",
+          "lessor": "Thos. W. Bayley, Esq.",
+          "desc": "H,O,corn-mill,&L",
+          "area": "12 1 15",
+          "land_val": "10 15 0",
+          "building_val": "12 0 0",
+          "total_val": "22 15 0"
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Roger Purcell",
+          "lessor": "Patrick Millea",
+          "desc": "H,O,&G",
+          "area": "0 1 36",
+          "land_val": "0 10 0",
+          "building_val": "1 2 0",
+          "total_val": "1 12 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Thomas Tobin",
+          "lessor": "Thos. W. Bayley, Esq.",
+          "desc": "L",
+          "area": "28 2 8",
+          "land_val": "21 10 0",
+          "total_val": "21 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Daniel Phelan",
+          "lessor": "Thos. W. Bayley, Esq.",
+          "desc": "L",
+          "area": "30 0 27",
+          "land_val": "19 0 0",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "John Halloran",
+          "lessor": "Daniel Phelan",
+          "desc": "H,O,&G",
+          "area": "0 0 32",
+          "land_val": "0 4 0",
+          "building_val": "1 1 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "75 3 19",
+          "land_val": "55 19 0",
+          "building_val": "14 3 0",
+          "total_val": "70 2 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "RATHDUFF, LR.",
+          "occupier": "Patrick Millen",
+          "lessor": "Court of Chancery",
+          "desc": "H,O,&L",
+          "area": "40 1 11",
+          "land_val": "33 5 0",
+          "building_val": "3 10 0",
+          "total_val": "36 15 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Eleanor Hanly",
+          "lessor": "Patrick Millen",
+          "desc": "H&G",
+          "area": "0 0 18",
+          "land_val": "0 1 0",
+          "building_val": "0 11 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Millea",
+          "lessor": "Court of Chancery",
+          "desc": "H,O,&L",
+          "area": "45 0 28",
+          "land_val": "34 5 0",
+          "building_val": "2 15 0",
+          "total_val": "37 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Nicholas Hanrahan",
+          "lessor": "Patrick Millen",
+          "desc": "L",
+          "area": "1 2 16",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James Meagher",
+          "lessor": "Patrick Millen",
+          "desc": "L",
+          "area": "1 2 16",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Phelan",
+          "lessor": "Patrick Millen",
+          "desc": "H&L",
+          "area": "3 0 31",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "92 0 0",
+          "land_val": "72 11 0",
+          "building_val": "7 6 0",
+          "total_val": "79 17 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "RATHDUFF (Madden)",
+          "occupier": "Graveyard",
+          "lessor": "Rev. Chris. Darby",
+          "desc": "Graveyard",
+          "area": "2 0 14",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Rev. Chris. Darby",
+          "lessor": "Mrs. Frances Madden",
+          "desc": "L",
+          "area": "74 0 28",
+          "land_val": "80 0 0",
+          "total_val": "80 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "James Higgins",
+          "lessor": "Rev. Chris. Darby",
+          "desc": "H",
+          "building_val": "2 12 0",
+          "total_val": "2 12 0"
+        },
+        {
+          "mr": "3 A a B",
+          "occupier": "Benjamin Harney",
+          "lessor": "Mrs. Frances Madden",
+          "desc": "O&L",
+          "area": "9 3 2",
+          "land_val": "9 0 0",
+          "building_val": "1 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Catherine Kelly",
+          "lessor": "Benjamin Harney",
+          "desc": "H,O,&G",
+          "area": "0 0 32",
+          "land_val": "0 6 0",
+          "building_val": "1 6 0",
+          "total_val": "1 12 0"
+        },
+        {
+          "mr": "4 A a B",
+          "occupier": "Lawrence Lalor",
+          "lessor": "Mrs. Frances Madden",
+          "desc": "H,O,&L",
+          "area": "7 3 7",
+          "land_val": "7 3 0",
+          "building_val": "2 7 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Cahill",
+          "lessor": "Mrs. Frances Madden",
+          "desc": "H&L",
+          "area": "5 0 25",
+          "land_val": "4 15 0",
+          "building_val": "1 5 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "99 0 28",
+          "land_val": "103 4 0",
+          "building_val": "8 10 0",
+          "total_val": "111 14 0",
+          "is_total": 1
+        },
+        {
+          "desc": "Exemptions: Graveyard",
+          "area": "2 0 14",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of exemptions",
+          "area": "97 0 14",
+          "land_val": "101 4 0",
+          "building_val": "8 10 0",
+          "total_val": "109 14 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "RATHDUFF, UP.",
+          "occupier": "John Purcell",
+          "lessor": "Miss Julia Sweetman",
+          "desc": "H,O,&L",
+          "area": "118 3 29",
+          "land_val": "43 0 0",
+          "building_val": "3 5 0",
+          "total_val": "46 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Luke Purcell",
+          "lessor": "Miss Julia Sweetman",
+          "desc": "H,O,&L",
+          "area": "118 3 29",
+          "land_val": "43 0 0",
+          "building_val": "3 5 0",
+          "total_val": "46 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 & 1 c",
+          "occupier": "Martin Purcell",
+          "lessor": "Miss Julia Sweetman",
+          "desc": "H,O,&L",
+          "area": "6 3 38",
+          "land_val": "5 5 0",
+          "building_val": "1 5 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Denis Purcell",
+          "lessor": "Miss Julia Sweetman",
+          "desc": "H,O,&L",
+          "area": "8 1 30",
+          "land_val": "6 10 0",
+          "building_val": "3 0 0",
+          "total_val": "9 10 0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,524 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF EGLISH",
+      "entries": [
+        {
+          "mr": "3",
+          "townland": "COOLOGE",
+          "os": "",
+          "occupier": "John Lee",
+          "lessor": "Earl of Rosse",
+          "desc": "H,O,&L",
+          "area": "38 2 6",
+          "land_val": "21 0 0",
+          "building_val": "1 15 0",
+          "total_val": "22 15 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Robert Bulfin",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "39 3 32",
+          "land_val": "19 5 0",
+          "building_val": "3 15 0",
+          "total_val": "23 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Robert Bulfin",
+          "lessor": "Same",
+          "desc": "B",
+          "area": "17 0 0",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "23 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "4 b",
+          "occupier": "John Conroy",
+          "lessor": "Robert Bulfin",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "23 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "5 a",
+          "occupier": "George Mitchell",
+          "lessor": "Earl of Rosse",
+          "desc": "H,O,&L",
+          "area": "19 3 11",
+          "land_val": "11 0 0",
+          "building_val": "1 10 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "5 b",
+          "occupier": "John Guinan",
+          "lessor": "George Mitchell",
+          "desc": "H&G",
+          "area": "0 0 16",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Earl of Rosse",
+          "lessor": "In fee",
+          "desc": "L (plantation)",
+          "area": "7 2 18",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "248 3 33",
+          "land_val": "89 12 0",
+          "building_val": "9 3 0",
+          "total_val": "98 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CUSH",
+          "os": "30",
+          "occupier": "Smith Massey Berry",
+          "lessor": "In fee",
+          "desc": "L (pasture)",
+          "area": "44 0 31",
+          "land_val": "9 0 0",
+          "building_val": "",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "1",
+          "occupier": "Smith Massey Berry",
+          "lessor": "In fee",
+          "desc": "B",
+          "area": "215 0 0",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Michael Kelly",
+          "lessor": "Smith Massey Berry",
+          "desc": "H,O,&L",
+          "area": "5 1 37",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Molloy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "5 1 37",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "270 0 25",
+          "land_val": "14 0 0",
+          "building_val": "1 0 0",
+          "total_val": "45 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A a",
+          "townland": "DERRINLOUGH",
+          "os": "22 & 30",
+          "occupier": "William Bulfin",
+          "lessor": "Earl of Rosse",
+          "desc": "H,O,&L",
+          "area": "110 2 12",
+          "land_val": "64 0 0",
+          "building_val": "12 10 0",
+          "total_val": "90 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "1 A a",
+          "occupier": "William Bulfin",
+          "lessor": "Earl of Rosse",
+          "desc": "B",
+          "area": "34 0 0",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "90 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "1 A b",
+          "occupier": "Bridget Malien",
+          "lessor": "William Bulfin",
+          "desc": "L",
+          "area": "27 1 35",
+          "land_val": "13 0 0",
+          "building_val": "",
+          "total_val": "90 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Thomas Larkin",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "2 2 28",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "2 b",
+          "occupier": "William Bulfin",
+          "lessor": "Earl of Rosse",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Donnelly",
+          "lessor": "Same",
+          "desc": "B",
+          "area": "8 1 17",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Donnelly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "139 2 34",
+          "land_val": "63 0 0",
+          "building_val": "2 0 0",
+          "total_val": "65 0 0"
+        },
+        {
+          "mr": "5 A a",
+          "occupier": "William Coghlan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "4 1 1",
+          "land_val": "2 15 0",
+          "building_val": "1 0 0",
+          "total_val": "7 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 A b",
+          "occupier": "Patrick Kelly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 2 38",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "7 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "Thomas Egan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 3 0",
+          "land_val": "5 5 0",
+          "building_val": "0 15 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "7 A a",
+          "occupier": "Patrick Kelly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "1 0 34",
+          "land_val": "0 15 0",
+          "building_val": "1 0 0",
+          "total_val": "4 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "7 A b",
+          "occupier": "Thomas Egan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 22",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "4 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "8 A a",
+          "occupier": "Patrick Kelly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 1 24",
+          "land_val": "0 4 0",
+          "building_val": "",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "8 A b",
+          "occupier": "Thomas Egan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 0 32",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "9 A a",
+          "occupier": "Denis Murray",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "9 A b",
+          "occupier": "William Ryan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "76 2 11",
+          "land_val": "32 0 0",
+          "building_val": "1 5 0",
+          "total_val": "35 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "10 A a",
+          "occupier": "Francis Ferman",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 0 0",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "35 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "10 A b",
+          "occupier": "John Ferman",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "26 0 16",
+          "land_val": "13 0 0",
+          "building_val": "0 10 0",
+          "total_val": "13 15 0"
+        },
+        {
+          "mr": "10 A b",
+          "occupier": "John Ferman",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 2 21",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "13 15 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Michael Whelan",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "11 1 25",
+          "land_val": "5 15 0",
+          "building_val": "0 10 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "John Kennedy",
+          "lessor": "Same",
+          "desc": "B",
+          "area": "4 0 0",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "6 5 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "12",
+          "occupier": "John Kennedy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "16 3 19",
+          "land_val": "5 10 0",
+          "building_val": "0 15 0",
+          "total_val": "6 5 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "13 A a",
+          "occupier": "James Malien",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "9 2 27",
+          "land_val": "4 0 0",
+          "building_val": "0 10 0",
+          "total_val": "5 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "13 A b",
+          "occupier": "William Harding",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 0 18",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "5 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "14 a",
+          "occupier": "Michael Kelly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "18 3 0",
+          "land_val": "3 0 0",
+          "building_val": "0 15 0",
+          "total_val": "3 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "14 b",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "3 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "15 A a",
+          "occupier": "Michael Kelly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "48 0 9",
+          "land_val": "21 0 0",
+          "building_val": "1 0 0",
+          "total_val": "26 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "15 A b",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "11 0 24",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": "26 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "16 A a",
+          "occupier": "Earl of Rosse",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "55 0 24",
+          "land_val": "24 0 0",
+          "building_val": "",
+          "total_val": "25 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "16 A b",
+          "occupier": "Earl of Rosse",
+          "lessor": "In fee",
+          "desc": "B",
+          "area": "6 0 16",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "25 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "17 A a",
+          "occupier": "Earl of Rosse",
+          "lessor": "In fee",
+          "desc": "B",
+          "area": "508 2 12",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "3 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "17 A b",
+          "occupier": "Earl of Rosse",
+          "lessor": "In fee",
+          "desc": "Water of Lough",
+          "area": "316 2 0",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "3 0 0",
+          "n_shared": 2
+        },
+        {
+          "desc": "Total",
+          "area": "1514 1 27",
+          "land_val": "281 11 0",
+          "building_val": "24 5 0",
+          "total_val": "305 16 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DERRYAD",
+          "os": "30",
+          "occupier": "Patrick Mohan",
+          "lessor": "Earl of Rosse",
+          "desc": "H,O,&L",
+          "area": "112 1 26",
+          "land_val": "40 10 0",
+          "building_val": "2 10 0",
+          "total_val": "45 0 0"
+        },
+        {
+          "mr": "1",
+          "occupier": "Patrick Mohan",
+          "lessor": "Earl of Rosse",
+          "desc": "B",
+          "area": "148 0 0",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "45 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "260 1 26",
+          "land_val": "42 10 0",
+          "building_val": "2 10 0",
+          "total_val": "45 0 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF DONOHILL",
+      "entries": [
+        {
+          "mr": "6 A",
+          "townland": "GRANGE",
+          "os": "7",
+          "occupier": "Timothy Ryan",
+          "lessor": "Rich.S.Mansergh,Esq.",
+          "desc": "H,O,&L",
+          "area": "7 0 14",
+          "land_val": "7 5 0",
+          "building_val": "1 5 0",
+          "total_val": "8 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "- B",
+          "occupier": "James Ryan",
+          "lessor": "Rich.S.Mansergh,Esq.",
+          "desc": "L",
+          "area": "7 0 4",
+          "land_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "- C",
+          "occupier": "James Ryan",
+          "lessor": "Rich.S.Mansergh,Esq.",
+          "desc": "L",
+          "area": "3 2 32",
+          "land_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "- D",
+          "occupier": "James Ryan",
+          "lessor": "Rich.S.Mansergh,Esq.",
+          "desc": "L",
+          "area": "10 0 15",
+          "land_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "occupier": "Thomas Mulcahy",
+          "lessor": "Rich.S.Mansergh,Esq.",
+          "desc": "H,O,&L",
+          "area": "35 3 30",
+          "land_val": "40 0 0",
+          "building_val": "3 0 0",
+          "total_val": "43 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Denis Maher",
+          "lessor": "James Ryan",
+          "desc": "H&G",
+          "area": "0 0 25",
+          "land_val": "0 4 0",
+          "building_val": "0 11 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Ma'ony",
+          "lessor": "James Ryan",
+          "desc": "H&G",
+          "area": "0 0 18",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Miles Sweeny",
+          "lessor": "James Ryan",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "7 A",
+          "occupier": "Miles Sweeny",
+          "lessor": "Rich.S.Mansergh,Esq.",
+          "desc": "L",
+          "area": "2 2 8",
+          "land_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Honoria Sweeny",
+          "lessor": "Rich.S.Mansergh,Esq.",
+          "desc": "H&L",
+          "area": "9 3 23",
+          "land_val": "10 5 0",
+          "building_val": "0 15 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Edmond Elligott",
+          "lessor": "Miles Sweeny",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "William Mansergh",
+          "lessor": "Rich.S.Mansergh,Esq.",
+          "desc": "G",
+          "area": "0 0 25",
+          "land_val": "0 2 0",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "William Mansergh",
+          "lessor": "Rich.S.Mansergh,Esq.",
+          "desc": "H,O,&L",
+          "area": "19 2 30",
+          "land_val": "18 4 0",
+          "building_val": "1 10 0",
+          "total_val": "19 14 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "John Duhy",
+          "lessor": "Rich.S.Mansergh,Esq.",
+          "desc": "B",
+          "area": "1 0 0",
+          "land_val": "0 1 0",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Honoria Duhy",
+          "lessor": "Rich.S.Mansergh,Esq.",
+          "desc": "H,O,&L",
+          "area": "38 2 13",
+          "land_val": "40 0 0",
+          "building_val": "2 10 0",
+          "total_val": "42 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Timothy Hickey",
+          "lessor": "Rich.S.Mansergh,Esq.",
+          "desc": "L",
+          "area": "17 2 6",
+          "land_val": "15 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "G. S. & W. Railway Company",
+          "lessor": "Honoria Duhy",
+          "desc": "H&G",
+          "area": "0 0 14",
+          "land_val": "0 1 0",
+          "building_val": "0 5 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "11",
+          "lessor": "In fee",
+          "desc": "Railway",
+          "area": "4 2 36",
+          "land_val": "4 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "199 0 2",
+          "land_val": "193 4 0",
+          "building_val": "12 16 0",
+          "total_val": "206 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "LEENANE, EAST",
+          "os": "51",
+          "occupier": "Patrick O'Brien",
+          "lessor": "Rev. Benjamin Webb Bradshaw",
+          "desc": "L",
+          "area": "14 1 12",
+          "land_val": "14 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Patrick O'Brien",
+          "lessor": "Rev. Benjamin Webb Bradshaw",
+          "desc": "L",
+          "area": "0 3 13",
+          "land_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "William Alice",
+          "lessor": "Rev. Benjamin Webb Bradshaw",
+          "desc": "L",
+          "area": "8 0 3",
+          "land_val": "6 5 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "William Alice",
+          "lessor": "Rev. Benjamin Webb Bradshaw",
+          "desc": "H&L",
+          "area": "8 2 4",
+          "land_val": "8 0 0",
+          "building_val": "1 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "George Alice",
+          "lessor": "William Alice",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Burke",
+          "lessor": "William Alice",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Stephen Cross",
+          "lessor": "Rev. Benjamin Webb Bradshaw",
+          "desc": "L",
+          "area": "5 1 15",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Denis Corbett",
+          "lessor": "Stephen Cross",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "37 0 7",
+          "land_val": "33 1 0",
+          "building_val": "1 15 0",
+          "total_val": "34 16 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "LISHEENALEEN",
+          "os": "59",
+          "occupier": "Mary Fox",
+          "lessor": "Saml. Bradshaw, Esq.",
+          "desc": "H,O,&L",
+          "area": "23 2 20",
+          "land_val": "26 0 0",
+          "building_val": "1 5 0",
+          "total_val": "27 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Patrick Fox",
+          "lessor": "Saml. Bradshaw, Esq.",
+          "desc": "H,O,&L",
+          "area": "26 0 8",
+          "land_val": "28 15 0",
+          "building_val": "1 10 0",
+          "total_val": "30 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "49 2 28",
+          "land_val": "54 15 0",
+          "building_val": "2 15 0",
+          "total_val": "57 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "LISHEENDARBY",
+          "os": "59",
+          "occupier": "Thomas Breen",
+          "lessor": "Thomas Ryan, Esq.",
+          "desc": "H,O,&L",
+          "area": "31 1 23",
+          "land_val": "23 0 0",
+          "building_val": "1 10 0",
+          "total_val": "24 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Ryan",
+          "lessor": "Thomas Ryan, Esq.",
+          "desc": "L",
+          "area": "14 1 21",
+          "land_val": "11 15 0",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Ryan",
+          "lessor": "Thomas Ryan, Esq.",
+          "desc": "H,O,&L",
+          "area": "14 0 10",
+          "land_val": "12 0 0",
+          "building_val": "1 10 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Martin Breen",
+          "lessor": "Thomas Ryan, Esq.",
+          "desc": "L",
+          "area": "9 2 3",
+          "land_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "69 1 17",
+          "land_val": "53 5 0",
+          "building_val": "3 0 0",
+          "total_val": "56 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "LISHEENFRANKAGH",
+          "os": "59",
+          "occupier": "James Scully, Esq.",
+          "lessor": "In fee",
+          "desc": "Herd's H&L",
+          "area": "169 3 27",
+          "land_val": "204 19 0",
+          "building_val": "1 5 0",
+          "total_val": "206 4 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "James Scully, Esq.",
+          "lessor": "In fee",
+          "desc": "B",
+          "area": "1 0 0",
+          "land_val": "0 1 0",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Thomas Dwyer",
+          "lessor": "James Scully, Esq.",
+          "desc": "H&G",
+          "area": "0 0 33",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Cornelius Duhy",
+          "lessor": "James Scully, Esq.",
+          "desc": "H,O,&L",
+          "area": "8 1 29",
+          "land_val": "8 10 0",
+          "building_val": "2 0 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "179 2 9",
+          "land_val": "213 15 0",
+          "building_val": "3 15 0",
+          "total_val": "217 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "LISMURPHY",
+          "os": "59",
+          "occupier": "Thomas Breen",
+          "lessor": "Thomas Ryan, Esq.",
+          "desc": "Herd's H,O,&L",
+          "area": "20 0 13",
+          "land_val": "21 5 0",
+          "building_val": "1 5 0",
+          "total_val": "22 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "20 0 13",
+          "land_val": "21 5 0",
+          "building_val": "1 5 0",
+          "total_val": "22 10 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

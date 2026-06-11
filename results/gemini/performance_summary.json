@@ -1,0 +1,14 @@
+{
+  "llm": "gemini",
+  "pages_processed": 1904,
+  "entry_rows": 98790,
+  "townland_segments": 3800,
+  "segments_with_total_row": 3154,
+  "segments_with_total_row_pct": 83.0,
+  "valuation_pass_count": 2753,
+  "valuation_pass_pct": 87.29,
+  "one_page_townlands_segments": 2780,
+  "one_page_townlands_valuation_pass_pct": 86.68,
+  "multi_page_townlands_segments": 1020,
+  "multi_page_townlands_valuation_pass_pct": 88.9
+}

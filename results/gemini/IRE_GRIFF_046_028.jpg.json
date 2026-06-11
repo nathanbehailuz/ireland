@@ -1,0 +1,542 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF BRIGOWN",
+      "entries": [
+        {
+          "mr": "A b",
+          "townland": "CARRIGANE",
+          "is_continued": 1,
+          "occupier": "John Hanlon",
+          "lessor": "Earl of Kingston",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Thomas Sheridan",
+          "lessor": "John Fenessy",
+          "desc": "L",
+          "area": "1 0 25",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "a b",
+          "occupier": "Michael Sheridan",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 2 22",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Johanna Denahan",
+          "lessor": "Earl of Kingston",
+          "desc": "L",
+          "area": "13 2 19",
+          "land_val": "7 10 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "22 a",
+          "occupier": "James Shealy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "29 3 9",
+          "land_val": "16 15 0",
+          "building_val": "1 15 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "23 A a B C",
+          "occupier": "Bridget O'Brien",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "30 3 2",
+          "land_val": "8 0 0",
+          "building_val": "1 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "John Keeffe",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "17 1 35",
+          "land_val": "4 15 0",
+          "building_val": "0 10 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "25 a",
+          "occupier": "James Carroll",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Margaret Maguire",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 1 13",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "John Condon",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 1 31",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Margaret Magrath",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 1 2",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "James Carroll",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 2 0",
+          "land_val": "0 4 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "lessor": "Same",
+          "desc": "Waste of lot",
+          "area": "1 0 23"
+        },
+        {
+          "mr": "26",
+          "occupier": "John Glavan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "10 3 37",
+          "land_val": "4 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Thomas Glavan",
+          "lessor": "John Glavan",
+          "desc": "H&G",
+          "area": "0 1 4",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "27 a",
+          "occupier": "Edmond Glavan",
+          "lessor": "Earl of Kingston",
+          "desc": "H,O,&L",
+          "area": "23 2 37",
+          "land_val": "7 5 0",
+          "building_val": "0 15 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Johanna Moland",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "10 2 32",
+          "land_val": "8 5 0",
+          "total_val": "8 5 0"
+        },
+        {
+          "mr": "29 a",
+          "occupier": "Grace Keily",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "12 2 27",
+          "land_val": "6 0 0",
+          "building_val": "1 5 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "799 2 16",
+          "land_val": "395 3 0",
+          "building_val": "31 9 0",
+          "total_val": "426 12 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CLOONLOUGH",
+          "os": "10",
+          "occupier": "John Fitzgerald",
+          "lessor": "Earl of Kingston",
+          "desc": "L",
+          "area": "14 2 33",
+          "land_val": "16 10 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Unoccupied",
+          "lessor": "John Fitzgerald",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Edmond Norris",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Board of Ordnance",
+          "lessor": "Earl of Kingston",
+          "desc": "Barrack, yard, H,&L",
+          "area": "2 0 5",
+          "land_val": "0 10 0",
+          "building_val": "28 10 0",
+          "total_val": "29 0 0"
+        },
+        {
+          "mr": "3 A a B C D E",
+          "occupier": "Earl of Kingston",
+          "lessor": "In fee",
+          "desc": "H&L",
+          "area": "53 3 37",
+          "land_val": "38 10 0",
+          "building_val": "1 10 0",
+          "total_val": "40 0 0"
+        },
+        {
+          "mr": "c a",
+          "occupier": "Hugh O'Donnell",
+          "lessor": "Earl of Kingston",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Casey",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 2 33",
+          "land_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Unoccupied",
+          "lessor": "John Casey",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Piery Power",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Richard Evans",
+          "lessor": "Earl of Kingston",
+          "desc": "L",
+          "area": "7 2 27",
+          "land_val": "4 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "John Whelan",
+          "lessor": "Richard Evans",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "John Donegan",
+          "lessor": "Earl of Kingston",
+          "desc": "L",
+          "area": "3 1 38",
+          "land_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "John Slark",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "10 3 26",
+          "land_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "John King",
+          "lessor": "John Slark",
+          "desc": "H&sm.G",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Mary Casey",
+          "lessor": "Earl of Kingston",
+          "desc": "H,O,&L",
+          "area": "13 0 12",
+          "land_val": "7 5 0",
+          "building_val": "0 15 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Michael Cotter",
+          "lessor": "Same",
+          "desc": "O&L",
+          "area": "9 2 12",
+          "land_val": "6 0 0",
+          "building_val": "0 5 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "William Cotter",
+          "lessor": "Michael Cotter",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Michael Cotter",
+          "lessor": "Earl of Kingston",
+          "desc": "L",
+          "area": "8 0 9",
+          "land_val": "5 15 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "John Donegan",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "William Farrell",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 0 29",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Jeremiah M'Carthy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "15 2 19",
+          "land_val": "11 10 0",
+          "building_val": "1 5 0",
+          "total_val": "12 15 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Johanna M'Carthy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "9 2 2",
+          "land_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "James Condon",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 3 10",
+          "land_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "John Hayes",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 3 4",
+          "land_val": "4 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "16 a",
+          "occupier": "John Hayes",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "16 2 8",
+          "land_val": "11 5 0",
+          "building_val": "0 10 0",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Maurice Sullivan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "15 0 8",
+          "land_val": "5 15 0",
+          "building_val": "0 15 0",
+          "total_val": "6 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Mahony",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "15 0 8",
+          "land_val": "5 15 0",
+          "building_val": "0 10 0",
+          "total_val": "6 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "18 a",
+          "occupier": "James O'Donnell",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "53 2 10",
+          "land_val": "29 5 0",
+          "building_val": "2 10 0",
+          "total_val": "31 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Ahern",
+          "lessor": "James O'Donnell",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "19 a",
+          "occupier": "Thomas Condon",
+          "lessor": "Earl of Kingston",
+          "desc": "H,O,&L",
+          "area": "26 2 23",
+          "land_val": "15 5 0",
+          "building_val": "0 10 0",
+          "total_val": "15 15 0"
+        },
+        {
+          "mr": "20 A a B",
+          "occupier": "Michael Roche",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "22 3 20",
+          "land_val": "19 10 0",
+          "building_val": "0 5 0",
+          "total_val": "19 15 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Mary Dwyer",
+          "lessor": "Michael Roche",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Eliza Mahony",
+          "lessor": "Earl of Kingston",
+          "desc": "H&L",
+          "area": "15 1 1",
+          "land_val": "12 5 0",
+          "building_val": "0 5 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "327 0 25",
+          "land_val": "228 17 0",
+          "building_val": "41 14 0",
+          "total_val": "270 11 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "COOLNANAVE",
+          "os": "10, 11, & 19",
+          "occupier": "Denis Mahony",
+          "lessor": "Earl of Kingston",
+          "desc": "L",
+          "area": "9 1 20",
+          "land_val": "11 10 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Patrick Mullowney",
+          "lessor": "Denis Mahony",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "John Whelan",
+          "lessor": "Earl of Kingston",
+          "desc": "H&L",
+          "area": "26 0 0",
+          "land_val": "28 15 0",
+          "building_val": "1 0 0",
+          "total_val": "29 15 0"
+        }
+      ]
+    }
+  ]
+}

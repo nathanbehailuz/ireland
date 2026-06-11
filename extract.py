@@ -1,6 +1,8 @@
 import os
 import requests
+from typing import Optional
 import json
+from datetime import datetime
 import csv
 import base64
 from PIL import Image
@@ -11,26 +13,22 @@ import logging
 import pandas as pd
 from dotenv import load_dotenv
 
+from results_paths import results_log_file
+
 # Load environment variables from .env file
 load_dotenv()
 
-# Note: Logging is configured by the calling script (e.g., compare_llms.py)
+# Note: Logging is configured by the calling script (e.g., batch_llm_extract.py)
 # Library modules should not configure logging themselves
 
 # API configuration
 # Note: Configure API keys as environment variables before using each model
 API_URL = {
-    "claude": "https://api.anthropic.com/v1/messages",
-    "openai": "https://api.openai.com/v1/chat/completions",  # TODO: Configure before use
-    "gemini": "https://generativelanguage.googleapis.com/v1beta/models",  # TODO: Configure before use
+    "openai": "https://api.openai.com/v1/chat/completions",
+    "gemini": "https://generativelanguage.googleapis.com/v1beta/models",
 }
 
 LLM_HEADERS = {
-    "claude": {
-        "x-api-key": os.getenv("claude_api_key"),
-        "anthropic-version": "2023-06-01",
-        "content-type": "application/json"
-    },
     "openai": {
         "Authorization": f"Bearer {os.getenv('openai_api_key')}",
         "Content-Type": "application/json"
@@ -42,10 +40,266 @@ LLM_HEADERS = {
 }
 
 LLM_MODELS = {
-    "claude": "claude-sonnet-4-20250514",
     "openai": "gpt-5.2",
-    "gemini": "gemini-3-pro-image-preview"  
+    "gemini": "gemini-3-pro-image-preview"
 }
+
+# Gemini generateContent output cap (batch + sync). Tune if batch still truncates.
+GEMINI_MAX_OUTPUT_TOKENS = 65536
+
+# Shared by synchronous extract_table_data and batch_llm_extract (Cloudflare URL / JSONL).
+EXTRACTION_PROMPT = """
+    Extract data from this historical valuation table image. 
+        
+    Please identify:
+    1. The Parish name(s) (shown at the top of the page or within the page)
+    2. All entries in the table with the following fields, using the abbreviations specified:
+       - mr (Map reference in first column, including all letters and numbers, exactly as written)
+       - townland (the main place name in CAPITAL LETTERS, without any "continued" suffixes)
+       - os (just the number that appears in parentheses after the townland, e.g., extract "7" from "(Ord. S. 7.)")
+       - sublocation_1 (first level nested location hierarchy under the main townland, like "TOWN OF X")
+       - sublocation_2 (second level nested location hierarchy, like specific area names within a town)
+       - occupier (from the "Townlands and Occupiers" column, including any occupational notes in parentheses)
+       - lessor (from the "Immediate Lessor" column)
+       - desc (Description of Tenement, using these abbreviations: "H" for house, "O" for offices, "L" for land, 
+              "B" for bog, "G" for garden. Write out other terms in full. Example: "H,O,&L" instead of "House,offices,and land")
+       - area (combine A. R. P. values with spaces between them)
+       - land_val (land valuation in £ s. d. format)
+       - building_val (building valuation in £ s. d. format)
+       - total_val (total valuation in £ s. d. format)
+       - n_shared (number of occupiers sharing this property)
+       - is_total (use 1 for total/summary rows, 0 for normal entries)
+       - is_exemption (use 1 for exemption entries, 0 for normal entries)
+       - is_continued (use 1 if this townland line on the page shows "continued", "con.", or "contd" after the name, meaning it started on a previous page; 0 if it is the first appearance of this townland on this page)
+
+    Return a JSON object with this structure:
+    {
+        "parishes": [
+            {
+                "parish": "PARISH NAME",
+                "entries": [
+                    {
+                        "mr": "reference number and letter if present",
+                        "townland": "TOWNLAND NAME",
+                        "os": "just the number from parentheses",
+                        "sublocation_1": "first level nested location",
+                        "sublocation_2": "second level nested location",
+                        "occupier": "occupier name",
+                        "lessor": "lessor name",
+                        "desc": "description using abbreviations (H,O,L,B,G)",
+                        "area": "area measurement (A R P format)",
+                        "land_val": "land valuation (£ s. d.)",
+                        "building_val": "building valuation (£ s. d.)",
+                        "total_val": "total valuation (£ s. d.)",
+                        "n_shared": number of occupiers sharing this property,
+                        "is_total": 1 or 0,
+                        "is_exemption": 1 or 0,
+                        "is_continued": 1 or 0
+                    },
+                    ...
+                ]
+            },
+            ...
+        ]
+    }
+
+    **Important notes:**
+    - Only include the "parish" field for the first entry of each parish section
+    - For a sequence of entries in the same townland, only include the "townland" field for the first entry in that townland
+    - Similarly, only include "sublocation_1" and "sublocation_2" for the first entry in each distinct location
+    - Create separate entries for EACH unique combination of information
+    - Extract just the number from parentheses after the townland name for the "os" field (e.g., "7" from "Ord. S. 7.")
+    - Use abbreviations for description field: "H" for house, "O" for offices, "L" for land, "B" for bog, "G" for garden
+
+    - Carefully extract the "occupier" and "lessor" columns to ensure these exactly reflect the names in the images
+    - Include any notes in parentheses with the corresponding names
+
+    - When a row contains multiple descriptions or valuations, create a separate row for EACH description
+    - For example, if an occupier has "House,offices,and gar." and "Land" in the same row with different areas and valuations, create two separate rows, repeating the occupier and lessor names
+    - Each unique description must have its own row with its corresponding area and valuation details
+    - Repeat the occupier name and lessor name for each row as needed to represent all information fully    
+    - For entries with braces connecting multiple occupiers to one property in the "total_val" column, create separate entries but note how many share the property in "n_shared"
+
+    - Include all letters and numbers in map references exactly as shown (e.g., "5 a", "1 A", "21 C b")
+    - Remove suffixes like "—continued" or "—contd" from townland names. Set is_continued=1 for the first entry of a townland when that line on the page shows "continued", "con.", or "contd" after the townland name (meaning it started on a previous page); otherwise is_continued=0.
+
+    - Ensure that the rows where the "description" field includes the word "total" are fully extracted. For these rows, the "occupier" and "lessor" fields will typically be empty.
+    - For blank or missing values (including entries with just dashes), use an empty string
+    - Use 1 for true and 0 for false in boolean fields
+
+    **Numerical values:**
+    - Very carefully extract all numerical values in the "area", "land_val", "building_val" and "total_val" columns
+    - Carefully distinguish similar-looking numbers (3/8, 3/5, 8/0, 1/7, 4/6, 0/9, 2/9), noting that these are scans of old documents
+    - The number "3" has a distinct curved shape with two semi-circular elements. Do not confuse it with "5" which has a horizontal line at the top and a sharp angle. 
+    - The number "8" has two loops, one above the other. Do not confuse it with "0" which is a circle and do not confuse it with "3" which has two semi-circular elements.
+    - The number "5" has a straight horizontal line at the top and a sharp angle. Do not confuse it with "6," which has a continuous, rounded loop that fully encloses the bottom.
+    - The number "4" has a straight vertical line and a connecting horizontal stroke, forming an angular shape. Do not confuse it with "6," which has a smooth, rounded loop that encloses its lower section.
+    - The number "6" has a curved, open loop at the bottom that connects to a rounded upper section. Do not confuse it with "0," which is a fully enclosed oval shape with no openings or marks.
+    - Check each monetary value twice before finalizing.
+    - The number "8" has two loops stacked on top of each other, forming a figure-eight shape. The number "9" has a single loop on top with a straight line extending downwards, resembling a partially completed figure-eight.
+    - The number "3" has two semi-circular shapes stacked on top of each other, but they are not fully enclosed. The number "8" has two fully enclosed loops, one above the other, creating a continuous shape.
+    - The number "9" has a single loop with a straight line extending down from it, resembling a partially completed circle. The number "0" is a complete circle with no extra lines extending from it.
+
+    Return only the JSON object and no other text.
+    """
+
+
+def build_openai_chat_completions_body_for_image_url(image_public_url: str, prompt: Optional[str] = None) -> dict:
+    """Body for OpenAI Chat Completions API / Batch (`/v1/chat/completions`). Uses HTTPS image URL (e.g. Cloudflare R2)."""
+    p = prompt if prompt is not None else EXTRACTION_PROMPT
+    return {
+        "model": LLM_MODELS["openai"],
+        "max_completion_tokens": 16000,
+        "temperature": 0.0,
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {"type": "image_url", "image_url": {"url": image_public_url}},
+                    {"type": "text", "text": p},
+                ],
+            }
+        ],
+    }
+
+
+def build_gemini_generate_content_request_for_image_url(image_public_url: str, prompt: Optional[str] = None) -> dict:
+    """REST-shaped GenerateContentRequest for Gemini Batch JSONL (`request` field). Public HTTPS URI via file_data."""
+    p = prompt if prompt is not None else EXTRACTION_PROMPT
+    return {
+        "contents": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "file_data": {
+                            "mime_type": "image/jpeg",
+                            "file_uri": image_public_url,
+                        }
+                    },
+                    {"text": p},
+                ],
+            }
+        ],
+        "generationConfig": {
+            "temperature": 0.0,
+            "maxOutputTokens": GEMINI_MAX_OUTPUT_TOKENS,
+            "responseMimeType": "application/json",
+        },
+    }
+
+
+def build_openai_chat_completions_body_for_base64_jpeg(b64_jpeg: str, prompt: Optional[str] = None) -> dict:
+    """Batch/dev use when images are not available via HTTPS URL."""
+    p = prompt if prompt is not None else EXTRACTION_PROMPT
+    data_url = f"data:image/jpeg;base64,{b64_jpeg}"
+    return {
+        "model": LLM_MODELS["openai"],
+        "max_completion_tokens": 16000,
+        "temperature": 0.0,
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {"type": "image_url", "image_url": {"url": data_url}},
+                    {"type": "text", "text": p},
+                ],
+            }
+        ],
+    }
+
+
+def build_gemini_generate_content_request_for_base64_jpeg(b64_jpeg: str, prompt: Optional[str] = None) -> dict:
+    """Batch/dev alternative to file_uri when using inline image bytes."""
+    p = prompt if prompt is not None else EXTRACTION_PROMPT
+    return {
+        "contents": [
+            {
+                "role": "user",
+                "parts": [
+                    {"inline_data": {"mime_type": "image/jpeg", "data": b64_jpeg}},
+                    {"text": p},
+                ],
+            }
+        ],
+        "generationConfig": {
+            "temperature": 0.0,
+            "maxOutputTokens": GEMINI_MAX_OUTPUT_TOKENS,
+            "responseMimeType": "application/json",
+        },
+    }
+
+
+def normalize_extraction_result(data, model, image_path):
+    """Validate / normalize parsed JSON dict (same rules as extract_table_data). Returns dict or None."""
+    if not data:
+        return None
+    try:
+        if isinstance(data, list):
+            logging.warning(f"[{model}] Received flat array instead of nested structure, wrapping in expected format")
+            data = {
+                "parishes": [
+                    {
+                        "parish": "UNKNOWN",
+                        "entries": data,
+                    }
+                ]
+            }
+        elif isinstance(data, dict) and "parishes" not in data:
+            if "entries" in data and isinstance(data.get("entries"), list):
+                logging.warning(
+                    f"[{model}] Wrapping top-level parish/entries into parishes list"
+                )
+                data = {
+                    "parishes": [
+                        {
+                            "parish": data.get("parish") or "UNKNOWN",
+                            "entries": data["entries"],
+                        }
+                    ]
+                }
+            else:
+                logging.error(
+                    f"[{model}] Response is missing 'parishes' key. Keys found: {list(data.keys())}"
+                )
+                return None
+
+        if not isinstance(data["parishes"], list):
+            logging.error(f"[{model}] 'parishes' is not a list, got: {type(data['parishes'])}")
+            return None
+
+        for i, parish in enumerate(data["parishes"]):
+            if not isinstance(parish, dict):
+                logging.error(f"[{model}] Parish {i} is not a dictionary")
+                return None
+            if "entries" not in parish:
+                logging.warning(f"[{model}] Parish {i} missing 'entries', adding empty list")
+                parish["entries"] = []
+            if not isinstance(parish["entries"], list):
+                logging.error(f"[{model}] Parish {i} 'entries' is not a list")
+                return None
+
+        return data
+    except Exception as e:
+        logging.error(f"normalize_extraction_result failed for {image_path}: {e}")
+        return None
+
+
+# Append-only JSON lines: ts, image (basename), model, error (see log_json_parse_failure).
+JSON_PARSE_FAILURE_LOG = results_log_file("analysis", "json_parse_failures.log")
+
+
+def log_json_parse_failure(image_path: str, model: str, message: str) -> None:
+    """Record a JSON parse / extraction failure (one JSON object per line)."""
+    record = {
+        "ts": datetime.now().isoformat(timespec="seconds"),
+        "image": os.path.basename(image_path),
+        "model": model,
+        "error": message,
+    }
+    with open(JSON_PARSE_FAILURE_LOG, "a", encoding="utf-8") as f:
+        f.write(json.dumps(record, ensure_ascii=False) + "\n")
+
 
 def encode_image_to_base64(image_path):
     """Convert an image to base64 encoding."""
@@ -61,34 +315,7 @@ def query_model(model, image_path, prompt):
         headers = LLM_HEADERS[model]
         
         # Build payload based on model
-        if model == "claude":
-            payload = {
-                "model": LLM_MODELS[model],
-                "max_tokens": 20000,
-                "temperature": 0.0,
-                "messages": [
-                    {
-                        "role": "user",
-                        "content": [
-                            {
-                                "type": "image",
-                                "source": {
-                                    "type": "base64",
-                                    "media_type": "image/jpeg",
-                                    "data": base64_image
-                                }
-                            },
-                            {
-                                "type": "text",
-                                "text": prompt
-                            }
-                        ]
-                    }
-                ]
-            }
-            api_url = API_URL[model]
-            
-        elif model == "openai":
+        if model == "openai":
             payload = {
                 "model": LLM_MODELS[model],
                 "max_completion_tokens": 16000,  
@@ -132,7 +359,8 @@ def query_model(model, image_path, prompt):
                 ],
                 "generationConfig": {
                     "temperature": 0.0,
-                    "maxOutputTokens": 20000
+                    "maxOutputTokens": GEMINI_MAX_OUTPUT_TOKENS,
+                    "responseMimeType": "application/json"
                 }
             }
             # Construct full Gemini URL with API key
@@ -151,15 +379,9 @@ def query_model(model, image_path, prompt):
             # #endregion
             
             # Display token usage (format varies by model)
-            if model == "claude":
-                input_tokens = response_data.get('usage', {}).get('input_tokens', 0)
-                output_tokens = response_data.get('usage', {}).get('output_tokens', 0)
-                max_tokens = 20000
-                logging.info(f"Token usage - Input: {input_tokens}, Output: {output_tokens}, Total: {input_tokens + output_tokens}")
-                # #region agent log
-                with open('/Users/nathanbehailu/Desktop/projects/ireland/.cursor/debug.log', 'a') as f: f.write(json_lib.dumps({"sessionId":"debug-session","runId":"initial","hypothesisId":"A,E","location":"extract.py:153","message":"token usage check","data":{"model":model,"output_tokens":output_tokens,"max_tokens":max_tokens,"utilization_pct":round(output_tokens/max_tokens*100,2),"is_near_limit":output_tokens > max_tokens * 0.9},"timestamp":__import__('time').time()*1000})+'\n')
-                # #endregion
-            elif model == "openai":
+            input_tokens = 0
+            output_tokens = 0
+            if model == "openai":
                 input_tokens = response_data.get('usage', {}).get('prompt_tokens', 0)
                 output_tokens = response_data.get('usage', {}).get('completion_tokens', 0)
                 max_tokens = 16000
@@ -174,19 +396,58 @@ def query_model(model, image_path, prompt):
                 output_tokens = usage.get('candidatesTokenCount', 0)
                 max_tokens = 20000
                 logging.info(f"Token usage - Input: {input_tokens}, Output: {output_tokens}, Total: {input_tokens + output_tokens}")
+                
+                # Check if response was truncated
+                if output_tokens >= max_tokens * 0.95:
+                    logging.warning(f"⚠️  Gemini output is near token limit ({output_tokens}/{max_tokens})")
+                    logging.warning(f"⚠️  Response may be truncated - expect JSON parsing issues!")
+                
+                # Check for finish reason
+                candidates = response_data.get('candidates', [])
+                if candidates:
+                    finish_reason = candidates[0].get('finishReason', 'UNKNOWN')
+                    if finish_reason != 'STOP':
+                        logging.warning(f"⚠️  Gemini finish reason: {finish_reason} (not STOP - may indicate truncation)")
+                
                 # #region agent log
-                with open('/Users/nathanbehailu/Desktop/projects/ireland/.cursor/debug.log', 'a') as f: f.write(json_lib.dumps({"sessionId":"debug-session","runId":"initial","hypothesisId":"A,E","location":"extract.py:173","message":"token usage check","data":{"model":model,"output_tokens":output_tokens,"max_tokens":max_tokens,"utilization_pct":round(output_tokens/max_tokens*100,2),"is_near_limit":output_tokens > max_tokens * 0.9},"timestamp":__import__('time').time()*1000})+'\n')
+                try:
+                    with open('/Users/nathanbehailu/Desktop/projects/ireland/.cursor/debug.log', 'a') as f: f.write(json_lib.dumps({"sessionId":"debug-session","runId":"initial","hypothesisId":"A,E","location":"extract.py:173","message":"token usage check","data":{"model":model,"output_tokens":output_tokens,"max_tokens":max_tokens,"utilization_pct":round(output_tokens/max_tokens*100,2),"is_near_limit":output_tokens > max_tokens * 0.9,"finish_reason":finish_reason if candidates else "UNKNOWN"},"timestamp":__import__('time').time()*1000})+'\n')
+                except OSError:
+                    pass
                 # #endregion
             
-            return response_data
+            return (response_data, input_tokens, output_tokens)
         else:
             logging.error(f"API request failed with status code {response.status_code}")
             logging.error(f"Response: {response.text}")
-            return None
+            return (None, 0, 0)
             
     except Exception as e:
         logging.error(f"Error in {model} API request: {e}")
-        return None
+        return (None, 0, 0)
+
+def _recover_truncated_json(json_str: str, error: json.JSONDecodeError) -> Optional[dict]:
+    """Salvage truncated JSON by closing after the last complete entry object."""
+    truncated_str = json_str[: error.pos]
+    last_complete = truncated_str.rfind("},")
+    if last_complete != -1:
+        truncated_str = truncated_str[: last_complete + 1]
+        truncated_str += "\n            ]\n        }\n    ]\n}"
+        try:
+            return json.loads(truncated_str)
+        except json.JSONDecodeError:
+            pass
+    safe_str = json_str[: error.pos]
+    last_brace = safe_str.rfind("}")
+    if last_brace != -1:
+        safe_str = safe_str[: last_brace + 1]
+        for close_pattern in ("\n]\n}", "\n]\n}\n]", "\n]\n}\n]\n}"):
+            try:
+                return json.loads(safe_str + close_pattern)
+            except json.JSONDecodeError:
+                continue
+    return None
+
 
 def extract_json_from_content(content):
     """Extract JSON from model's response content, trying multiple approaches.
@@ -214,9 +475,21 @@ def extract_json_from_content(content):
             except json.JSONDecodeError as e:
                 # If JSON is incomplete at the end, try to fix it
                 logging.error(f"JSON parse error in code block: {e}")
+                logging.error(f"Error at position {e.pos}, line {e.lineno}, column {e.colno}")
+                logging.error(f"Context: ...{json_str[max(0, e.pos-50):e.pos+50]}...")
                 logging.error(f"⚠️  ATTEMPTING DATA RECOVERY - Some entries may be lost!")
-                # Find the last complete entry by looking for the last complete object
-                # Count opening and closing braces to find where to truncate
+                
+                # Strategy 1: Try to find and fix common JSON errors
+                # Remove trailing commas
+                fixed_json = json_str.replace(',]', ']').replace(',}', '}')
+                # Fix double quotes issues
+                fixed_json = fixed_json.replace('""', '"')
+                try:
+                    return (json.loads(fixed_json), False)
+                except:
+                    pass
+                
+                # Strategy 2: Find the last complete entry by looking for the last complete object
                 truncated_str = json_str[:e.pos]
                 # Find the last complete entry (last },)
                 last_complete = truncated_str.rfind('},')
@@ -234,6 +507,25 @@ def extract_json_from_content(content):
                         return (recovered_data, True)  # Recovered, flag as incomplete
                     except Exception as e2:
                         logging.error(f"Failed to fix truncated JSON: {e2}")
+                
+                # Strategy 3: Try removing content after error position entirely
+                try:
+                    # Find last complete object before error
+                    safe_str = json_str[:e.pos]
+                    last_brace = safe_str.rfind('}')
+                    if last_brace != -1:
+                        safe_str = safe_str[:last_brace+1]
+                        # Try to close structure
+                        for close_pattern in ['\n]\n}', '\n]\n}\n]', '\n]\n}\n]\n}']:
+                            try:
+                                test_json = safe_str + close_pattern
+                                recovered = json.loads(test_json)
+                                logging.error(f"⚠️  DATA RECOVERY SUCCEEDED with pattern: {repr(close_pattern)}")
+                                return (recovered, True)
+                            except:
+                                continue
+                except Exception as e3:
+                    logging.error(f"Strategy 3 failed: {e3}")
     
     # Try to find a JSON object directly using regex pattern matching
     json_match = re.search(r'(\{[\s\S]*\})', content)
@@ -241,8 +533,12 @@ def extract_json_from_content(content):
         json_str = json_match.group(1)
         try:
             return (json.loads(json_str), False)
-        except Exception as e:
+        except json.JSONDecodeError as e:
             logging.warning(f"JSON parse error in direct match: {e}")
+            recovered = _recover_truncated_json(json_str, e)
+            if recovered is not None:
+                logging.warning("Recovered truncated JSON from direct match")
+                return (recovered, True)
     
     # Try to find the first occurrence of '{' and the last occurrence of '}'
     start_idx = content.find('{')
@@ -252,8 +548,12 @@ def extract_json_from_content(content):
         json_str = content[start_idx:end_idx+1]
         try:
             return (json.loads(json_str), False)
-        except Exception as e:
+        except json.JSONDecodeError as e:
             logging.warning(f"JSON parse error with brace extraction: {e}")
+            recovered = _recover_truncated_json(json_str, e)
+            if recovered is not None:
+                logging.warning("Recovered truncated JSON from brace extraction")
+                return (recovered, True)
     
     # Try cleaning up the content and loading as JSON directly
     try:
@@ -276,102 +576,23 @@ def extract_json_from_content(content):
         return (None, False)
 
 def extract_table_data(image_path, model):
-    """Extract data from a valuation table image."""
-    extraction_prompt = """
-    Extract data from this historical valuation table image. 
-        
-    Please identify:
-    1. The Parish name(s) (shown at the top of the page or within the page)
-    2. All entries in the table with the following fields, using the abbreviations specified:
-       - mr (Map reference in first column, including all letters and numbers, exactly as written)
-       - townland (the main place name in CAPITAL LETTERS, without any "continued" suffixes)
-       - os (just the number that appears in parentheses after the townland, e.g., extract "7" from "(Ord. S. 7.)")
-       - sublocation_1 (first level nested location hierarchy under the main townland, like "TOWN OF X")
-       - sublocation_2 (second level nested location hierarchy, like specific area names within a town)
-       - occupier (from the "Townlands and Occupiers" column, including any occupational notes in parentheses)
-       - lessor (from the "Immediate Lessor" column)
-       - desc (Description of Tenement, using these abbreviations: "H" for house, "O" for offices, "L" for land, 
-              "B" for bog, "G" for garden. Write out other terms in full. Example: "H,O,&L" instead of "House,offices,and land")
-       - area (combine A. R. P. values with spaces between them)
-       - land_val (land valuation in £ s. d. format)
-       - building_val (building valuation in £ s. d. format)
-       - total_val (total valuation in £ s. d. format)
-       - n_shared (number of occupiers sharing this property)
-       - is_total (use 1 for total/summary rows, 0 for normal entries)
-       - is_exemption (use 1 for exemption entries, 0 for normal entries)
+    """Extract data from a valuation table image.
 
-    Return a JSON object with this structure:
-    {
-        "parishes": [
-            {
-                "parish": "PARISH NAME",
-                "entries": [
-                    {
-                        "mr": "reference number and letter if present",
-                        "townland": "TOWNLAND NAME",
-                        "os": "just the number from parentheses",
-                        "sublocation_1": "first level nested location",
-                        "sublocation_2": "second level nested location",
-                        "occupier": "occupier name",
-                        "lessor": "lessor name",
-                        "desc": "description using abbreviations (H,O,L,B,G)",
-                        "area": "area measurement (A R P format)",
-                        "land_val": "land valuation (£ s. d.)",
-                        "building_val": "building valuation (£ s. d.)",
-                        "total_val": "total valuation (£ s. d.)",
-                        "n_shared": number of occupiers sharing this property,
-                        "is_total": 1 or 0,
-                        "is_exemption": 1 or 0
-                    },
-                    ...
-                ]
-            },
-            ...
-        ]
-    }
-
-    **Important notes:**
-    - Only include the "parish" field for the first entry of each parish section
-    - For a sequence of entries in the same townland, only include the "townland" field for the first entry in that townland
-    - Similarly, only include "sublocation_1" and "sublocation_2" for the first entry in each distinct location
-    - Create separate entries for EACH unique combination of information
-    - Extract just the number from parentheses after the townland name for the "os" field (e.g., "7" from "Ord. S. 7.")
-    - Use abbreviations for description field: "H" for house, "O" for offices, "L" for land, "B" for bog, "G" for garden
-
-    - Carefully extract the "occupier" and "lessor" columns to ensure these exactly reflect the names in the images
-    - Include any notes in parentheses with the corresponding names
-
-    - When a row contains multiple descriptions or valuations, create a separate row for EACH description
-    - For example, if an occupier has "House,offices,and gar." and "Land" in the same row with different areas and valuations, create two separate rows, repeating the occupier and lessor names
-    - Each unique description must have its own row with its corresponding area and valuation details
-    - Repeat the occupier name and lessor name for each row as needed to represent all information fully    
-    - For entries with braces connecting multiple occupiers to one property in the "total_val" column, create separate entries but note how many share the property in "n_shared"
-
-    - Include all letters and numbers in map references exactly as shown (e.g., "5 a", "1 A", "21 C b")
-    - Remove suffixes like "—continued" or "—contd" from townland names
-
-    - Ensure that the rows where the "description" field includes the word "total" are fully extracted. For these rows, the "occupier" and "lessor" fields will typically be empty.
-    - For blank or missing values (including entries with just dashes), use an empty string
-    - Use 1 for true and 0 for false in boolean fields
-
-    **Numerical values:**
-    - Very carefully extract all numerical values in the "area", "land_val", "building_val" and "total_val" columns
-    - Carefully distinguish similar-looking numbers (3/8, 3/5, 8/0, 1/7, 4/6, 0/9, 2/9), noting that these are scans of old documents
-    - The number "3" has a distinct curved shape with two semi-circular elements. Do not confuse it with "5" which has a horizontal line at the top and a sharp angle. 
-    - The number "8" has two loops, one above the other. Do not confuse it with "0" which is a circle and do not confuse it with "3" which has two semi-circular elements.
-    - The number "5" has a straight horizontal line at the top and a sharp angle. Do not confuse it with "6," which has a continuous, rounded loop that fully encloses the bottom.
-    - The number "4" has a straight vertical line and a connecting horizontal stroke, forming an angular shape. Do not confuse it with "6," which has a smooth, rounded loop that encloses its lower section.
-    - The number "6" has a curved, open loop at the bottom that connects to a rounded upper section. Do not confuse it with "0," which is a fully enclosed oval shape with no openings or marks.
-    - Check each monetary value twice before finalizing.
-    - The number "8" has two loops stacked on top of each other, forming a figure-eight shape. The number "9" has a single loop on top with a straight line extending downwards, resembling a partially completed figure-eight.
-    - The number "3" has two semi-circular shapes stacked on top of each other, but they are not fully enclosed. The number "8" has two fully enclosed loops, one above the other, creating a continuous shape.
-    - The number "9" has a single loop with a straight line extending down from it, resembling a partially completed circle. The number "0" is a complete circle with no extra lines extending from it.
-
-    Return only the JSON object and no other text.
+    Token usage for the last call is stored in:
+    - extract_table_data.last_input_tokens
+    - extract_table_data.last_output_tokens
     """
-    
-    response = query_model(model, image_path, extraction_prompt)
-    
+    # Token usage for this extraction (updated from query_model response)
+    input_tokens = 0
+    output_tokens = 0
+    extract_table_data.last_input_tokens = 0
+    extract_table_data.last_output_tokens = 0
+
+    response, input_tokens, output_tokens = query_model(model, image_path, EXTRACTION_PROMPT)
+    extract_table_data.last_input_tokens = input_tokens
+    extract_table_data.last_output_tokens = output_tokens
+
+    print(f"Token usage - Input: {input_tokens}, Output: {output_tokens}")
     if not response:
         return None
     
@@ -379,9 +600,7 @@ def extract_table_data(image_path, model):
     try:
         content = None
         
-        if model == "claude":
-            content = response['content'][0]['text']
-        elif model == "openai":
+        if model == "openai":
             content = response['choices'][0]['message']['content']
         elif model == "gemini":
             content = response['candidates'][0]['content']['parts'][0]['text']
@@ -394,19 +613,8 @@ def extract_table_data(image_path, model):
         data, was_recovered = extract_json_from_content(content)
         
         if data:
-            # Handle case where Gemini with response_mime_type returns a flat array instead of nested structure
-            if isinstance(data, list):
-                logging.warning(f"[{model}] Received flat array instead of nested structure, wrapping in expected format")
-                data = {
-                    "parishes": [
-                        {
-                            "parish": "UNKNOWN",
-                            "entries": data
-                        }
-                    ]
-                }
-            elif isinstance(data, dict) and 'parishes' not in data:
-                logging.error(f"[{model}] Response is missing 'parishes' key. Keys found: {list(data.keys())}")
+            data = normalize_extraction_result(data, model, image_path)
+            if not data:
                 return None
             
             # #region agent log
@@ -428,14 +636,14 @@ def extract_table_data(image_path, model):
             
             return data
         else:
+            preview = content[:200].replace("\n", " ")
+            log_json_parse_failure(
+                image_path,
+                model,
+                f"Could not extract valid JSON from response. content_preview={preview!r}",
+            )
             logging.error("Couldn't extract valid JSON from the response")
             logging.error(f"Response content (first 200 chars): {content[:200]}...")
-            
-            # Save the full response to a file for debugging
-            debug_file = f"{os.path.basename(image_path)}_response.txt"
-            with open(debug_file, 'w', encoding='utf-8') as f:
-                f.write(content)
-            logging.error(f"Full response saved to {debug_file}")
             
             return None
     
@@ -454,7 +662,7 @@ def save_to_csv(data, output_file):
         with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
             fieldnames = ['parish', 'mr', 'townland', 'os', 'sublocation_1', 'sublocation_2', 
                           'occupier', 'lessor', 'desc', 'area', 'land_val', 
-                          'building_val', 'total_val', 'n_shared', 'is_total', 'is_exemption']
+                          'building_val', 'total_val', 'n_shared', 'is_total', 'is_exemption', 'is_continued']
             
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()
@@ -529,7 +737,8 @@ def save_to_csv(data, output_file):
                         'total_val': total_val,
                         'n_shared': entry.get('n_shared', 1),  # Default to 1 if not specified
                         'is_total': entry.get('is_total', 0),  # Default to 0 if not specified
-                        'is_exemption': entry.get('is_exemption', 0)  # Default to 0 if not specified
+                        'is_exemption': entry.get('is_exemption', 0),  # Default to 0 if not specified
+                        'is_continued': entry.get('is_continued', 0)  # Default to 0 if not specified
                     }
                     writer.writerow(row)
                 

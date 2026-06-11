@@ -1,0 +1,336 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF BALLYTOBIN",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "BALLYHALL",
+          "occupier": "Edmond Comerford,",
+          "lessor": "Thos. W. Lloyd, Esq.",
+          "desc": "H,O,&L",
+          "area": "29 2 31",
+          "land_val": "20 2 0",
+          "building_val": "1 3 0",
+          "total_val": "21 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Edmond Comerford,",
+          "lessor": "Thos. W. Lloyd, Esq.",
+          "desc": "L",
+          "area": "1 1 5",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3 A B & 1 b",
+          "occupier": "John Collins,",
+          "lessor": "Thos. W. Lloyd, Esq.",
+          "desc": "H,O,&L",
+          "area": "35 0 16",
+          "land_val": "23 14 0",
+          "building_val": "2 6 0",
+          "total_val": "26 0 0"
+        },
+        {
+          "mr": "4 & 1 d",
+          "occupier": "John Collins,",
+          "lessor": "Thos. W. Lloyd, Esq.",
+          "desc": "H,O,&L",
+          "area": "8 2 4",
+          "land_val": "3 0 0",
+          "building_val": "1 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "5 A B C & 1 e f",
+          "occupier": "Denis Collins,",
+          "lessor": "Thos. W. Lloyd, Esq.",
+          "desc": "H,O,&L",
+          "area": "35 2 28",
+          "land_val": "3 0 0",
+          "building_val": "1 19 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "5 A B C & 1 e f",
+          "occupier": "Denis Collins,",
+          "lessor": "Thos. W. Lloyd, Esq.",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "23 6 0",
+          "building_val": "",
+          "total_val": "25 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Abraham W. Baker, Esq.,",
+          "lessor": "Thos. W. Lloyd, Esq.",
+          "desc": "L",
+          "area": "7 0 30",
+          "land_val": "7 0 0",
+          "building_val": "",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "7 A B C",
+          "occupier": "Richard Collins,",
+          "lessor": "Thos. W. Lloyd, Esq.",
+          "desc": "H,O,&L",
+          "area": "22 1 39",
+          "land_val": "15 10 0",
+          "building_val": "3 15 0",
+          "total_val": "19 5 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Mary Collins,",
+          "lessor": "Denis & John Collins, & Edmond Comerford,",
+          "desc": "H,O,&L",
+          "area": "2 1 6",
+          "land_val": "1 10 0",
+          "building_val": "0 15 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Fahy,",
+          "lessor": "Mary Collins,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Bridget Wallace,",
+          "lessor": "Thos. W. Lloyd, Esq.",
+          "desc": "H,O,&L",
+          "area": "66 0 24",
+          "land_val": "50 16 0",
+          "building_val": "6 9 0",
+          "total_val": "57 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Funchion,",
+          "lessor": "Bridget Wallace,",
+          "desc": "H & small gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 14 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Bridget & Rd. Wallace,",
+          "lessor": "Thos. W. Lloyd, Esq.",
+          "desc": "Forge,",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 4 0",
+          "total_val": "0 4 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "d",
+          "occupier": "Mary Whelan,",
+          "lessor": "Bridget Wallace,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Bridget Lawlor,",
+          "lessor": "Bridget Wallace,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Ellen Walsh,",
+          "lessor": "Bridget Wallace,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "Patrick Dunphy,",
+          "lessor": "Bridget Wallace,",
+          "desc": "H,O,& gar.",
+          "area": "0 0 27",
+          "land_val": "0 3 0",
+          "building_val": "1 2 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Marquis of Ormonde,",
+          "lessor": "Thos. W. Lloyd, Esq. & Bridget & Rd. Wallace",
+          "desc": "Limestone Quarry,",
+          "area": "1 2 12",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "11 A B",
+          "occupier": "Richard Wallace,",
+          "lessor": "Thos. W. Lloyd, Esq.",
+          "desc": "L",
+          "area": "4 3 8",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Richard Wallace,",
+          "lessor": "Thos. W. Lloyd, Esq.",
+          "desc": "H,O,&L",
+          "area": "63 3 3",
+          "land_val": "48 17 0",
+          "building_val": "4 8 0",
+          "total_val": "53 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Murray,",
+          "lessor": "Richard Wallace,",
+          "desc": "H & small gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Mary Bambrick,",
+          "lessor": "Richard Wallace,",
+          "desc": "H,O,& gar.",
+          "area": "0 2 10",
+          "land_val": "0 10 0",
+          "building_val": "1 0 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Michael Power,",
+          "lessor": "Richard Wallace,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Mary Breene,",
+          "lessor": "Richard Wallace,",
+          "desc": "H & O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Rd. & John Corcoran,",
+          "lessor": "Richard Wallace,",
+          "desc": "H,O,& sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total,",
+          "area": "279 1 3",
+          "land_val": "201 8 0",
+          "building_val": "29 2 0",
+          "total_val": "230 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BALLYTOBIN",
+          "occupier": "Abm. W. Baker, Esq.",
+          "lessor": "In fee,",
+          "desc": "H,O,&L",
+          "area": "245 2 32",
+          "land_val": "238 0 0",
+          "building_val": "34 0 0",
+          "total_val": "272 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Eleanor Kenny,",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "L",
+          "area": "6 0 16",
+          "land_val": "5 0 0",
+          "building_val": "",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Proctor,",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "30 0 36",
+          "land_val": "22 0 0",
+          "building_val": "2 15 0",
+          "total_val": "24 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Patrick Campion,",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "15 3 37",
+          "land_val": "13 16 0",
+          "building_val": "4 4 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total,",
+          "area": "298 0 1",
+          "land_val": "278 16 0",
+          "building_val": "40 19 0",
+          "total_val": "319 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A B a b c 11 c d 16 c d & 33 e",
+          "townland": "CAHERLESK",
+          "occupier": "Abm. W. Baker, Esq.",
+          "lessor": "In fee,",
+          "desc": "H, steward's house,O,&L",
+          "area": "135 3 2",
+          "land_val": "107 0 0",
+          "building_val": "10 10 0",
+          "total_val": "117 10 0"
+        }
+      ]
+    }
+  ]
+}

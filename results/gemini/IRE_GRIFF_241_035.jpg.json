@@ -1,0 +1,531 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF KILMANMAN",
+      "entries": [
+        {
+          "mr": "3",
+          "townland": "KILLINAPARSON",
+          "os": "",
+          "occupier": "Luke Daly",
+          "lessor": "David Davis",
+          "desc": "H&L",
+          "area": "17 2 13",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "4",
+          "occupier": "Patrick Nolan",
+          "lessor": "David Davis",
+          "desc": "H,O,&L",
+          "area": "16 3 5",
+          "land_val": "3 10 0",
+          "building_val": "0 15 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Mooney",
+          "lessor": "David Davis",
+          "desc": "H&L",
+          "area": "2 2 0",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Patrick Daly",
+          "lessor": "David Davis",
+          "desc": "H&L",
+          "area": "3 1 35",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "819 2 23",
+          "land_val": "139 0 0",
+          "building_val": "14 0 0",
+          "total_val": "153 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "KILMANMAN",
+          "os": "2",
+          "occupier": "Michael Cummerton",
+          "lessor": "Sir Chas. H. Coote, Bt.",
+          "desc": "L",
+          "area": "13 0 15",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "1 B a",
+          "occupier": "Margt. Cummerton",
+          "lessor": "Sir Chas. H. Coote, Bt.",
+          "desc": "H,O,&L",
+          "area": "7 0 0",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "9 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 B b",
+          "occupier": "Margt. Cummerton",
+          "lessor": "Sir Chas. H. Coote, Bt.",
+          "desc": "H,O,&L",
+          "area": "19 0 19",
+          "land_val": "3 10 0",
+          "building_val": "1 5 0",
+          "total_val": "4 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 C",
+          "occupier": "Grave-yard",
+          "lessor": "Sir Chas. H. Coote, Bt.",
+          "desc": "Grave-yard",
+          "area": "0 2 25",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "2 A a",
+          "occupier": "William Murphy",
+          "lessor": "Sir Chas. H. Coote, Bt.",
+          "desc": "L",
+          "area": "10 3 30",
+          "land_val": "1 8 0",
+          "building_val": "",
+          "total_val": "1 8 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 A b",
+          "occupier": "Patrick Murphy",
+          "lessor": "Sir Chas. H. Coote, Bt.",
+          "desc": "H,O,&L",
+          "area": "1 7 0",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "1 7 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 A a",
+          "occupier": "William Murphy",
+          "lessor": "Sir Chas. H. Coote, Bt.",
+          "desc": "H,O,&L",
+          "area": "20 3 20",
+          "land_val": "6 10 0",
+          "building_val": "2 0 0",
+          "total_val": "8 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 A b",
+          "occupier": "Patrick Murphy",
+          "lessor": "Sir Chas. H. Coote, Bt.",
+          "desc": "H,O,&L",
+          "area": "3 5 0",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "4 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4 a",
+          "occupier": "John Murphy",
+          "lessor": "Sir Chas. H. Coote, Bt.",
+          "desc": "H,O,&L",
+          "area": "60 1 30",
+          "land_val": "22 10 0",
+          "building_val": "2 10 0",
+          "total_val": "29 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4 b",
+          "occupier": "William Murphy",
+          "lessor": "Sir Chas. H. Coote, Bt.",
+          "desc": "L",
+          "area": "9 2 30",
+          "land_val": "4 10 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "5",
+          "occupier": "Mary Cummerton",
+          "lessor": "John Murphy",
+          "desc": "H&L",
+          "area": "0 3 13",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "John Murphy",
+          "lessor": "Rev. John Baldwin",
+          "desc": "H&L",
+          "area": "2 3 11",
+          "land_val": "1 15 0",
+          "building_val": "1 0 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Mary Carroll",
+          "lessor": "Rev. John Baldwin",
+          "desc": "L",
+          "area": "36 3 33",
+          "land_val": "21 0 0",
+          "building_val": "",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Mary Carroll",
+          "lessor": "Rev. John Baldwin",
+          "desc": "H&L",
+          "area": "1 3 19",
+          "land_val": "1 5 0",
+          "building_val": "0 10 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "177 0 35",
+          "land_val": "77 0 0",
+          "building_val": "10 5 0",
+          "total_val": "87 5 0",
+          "is_total": 1
+        },
+        {
+          "desc": "Exemptions: Grave-yard",
+          "area": "0 2 25",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0",
+          "is_total": 1,
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of Exemptions",
+          "area": "176 2 10",
+          "land_val": "76 15 0",
+          "building_val": "10 5 0",
+          "total_val": "87 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "LARRAGAN",
+          "os": "2",
+          "occupier": "Robert Corbett, Esq.",
+          "lessor": "Sir Chas. H. Coote, Bt.",
+          "desc": "L",
+          "area": "14 1 37",
+          "land_val": "8 15 0",
+          "building_val": "",
+          "total_val": "66 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 B",
+          "occupier": "Robert Corbett, Esq.",
+          "lessor": "Sir Chas. H. Coote, Bt.",
+          "desc": "H&O",
+          "area": "115 3 29",
+          "land_val": "58 0 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 a",
+          "occupier": "John Molloy",
+          "lessor": "Robert Corbett, Esq.",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Vacant",
+          "lessor": "Robert Corbett, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Doyle",
+          "lessor": "Robert Corbett, Esq.",
+          "desc": "H,O,&L",
+          "area": "33 0 12",
+          "land_val": "15 10 0",
+          "building_val": "2 0 0",
+          "total_val": "17 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Mary Salmon",
+          "lessor": "Robert Corbett, Esq.",
+          "desc": "H,O,&L",
+          "area": "33 0 13",
+          "land_val": "14 10 0",
+          "building_val": "1 10 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Catherine Holohan",
+          "lessor": "Robert Corbett, Esq.",
+          "desc": "H,O,&L",
+          "area": "17 2 14",
+          "land_val": "4 15 0",
+          "building_val": "0 15 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Michael Conroy",
+          "lessor": "Robert Corbett, Esq.",
+          "desc": "H&L",
+          "area": "2 1 37",
+          "land_val": "1 5 0",
+          "building_val": "0 15 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "216 2 22",
+          "land_val": "102 15 0",
+          "building_val": "6 15 0",
+          "total_val": "109 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "LISNARODE",
+          "os": "2",
+          "occupier": "Patrick Murray",
+          "lessor": "James H. Hamilton, Esq.",
+          "desc": "H,O,&L",
+          "area": "7 0 0",
+          "land_val": "3 15 0",
+          "building_val": "1 0 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Christopher Everard",
+          "lessor": "James H. Hamilton, Esq.",
+          "desc": "H,O,&gar.",
+          "area": "0 0 28",
+          "land_val": "0 2 0",
+          "building_val": "1 18 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James H. Hamilton, Esq.",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "146 0 25",
+          "land_val": "38 0 0",
+          "building_val": "",
+          "total_val": "38 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Vacant",
+          "lessor": "James H. Hamilton, Esq.",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Lady H. W. Warmford",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "2 3 38",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Daniel Durney",
+          "lessor": "Lady H. W. Warmford",
+          "desc": "L",
+          "area": "1 2 6",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "157 3 17",
+          "land_val": "42 10 0",
+          "building_val": "3 13 0",
+          "total_val": "46 3 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "SCARROON",
+          "os": "6",
+          "occupier": "Francis P. Dunne, Esq.",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "38 3 12",
+          "land_val": "14 0 0",
+          "building_val": "",
+          "total_val": "24 0 0",
+          "n_shared": 5
+        },
+        {
+          "mr": "1 B",
+          "occupier": "Francis P. Dunne, Esq.",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "1 2 16",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 5
+        },
+        {
+          "mr": "1 C",
+          "occupier": "Francis P. Dunne, Esq.",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "9 2 30",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 5
+        },
+        {
+          "mr": "1 D",
+          "occupier": "Francis P. Dunne, Esq.",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "11 3 17",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 5
+        },
+        {
+          "mr": "1 E",
+          "occupier": "Francis P. Dunne, Esq.",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "330 0 2",
+          "land_val": "7 0 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 5
+        },
+        {
+          "mr": "2",
+          "occupier": "John Downes",
+          "lessor": "Francis P. Dunne, Esq.",
+          "desc": "H&L",
+          "area": "6 3 28",
+          "land_val": "1 15 0",
+          "building_val": "1 5 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Houlton",
+          "lessor": "Francis P. Dunne, Esq.",
+          "desc": "H,O,&L",
+          "area": "28 2 24",
+          "land_val": "16 10 0",
+          "building_val": "2 5 0",
+          "total_val": "18 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "William Dunne",
+          "lessor": "Francis P. Dunne, Esq.",
+          "desc": "L",
+          "area": "14 3 26",
+          "land_val": "4 5 0",
+          "building_val": "",
+          "total_val": "4 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4",
+          "occupier": "Elizabeth Poole",
+          "lessor": "Francis P. Dunne, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "4 5 0",
+          "building_val": "",
+          "total_val": "4 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 a",
+          "occupier": "William Dunne",
+          "lessor": "Francis P. Dunne, Esq.",
+          "desc": "L",
+          "area": "2 1 33",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 b",
+          "occupier": "Elizabeth Poole",
+          "lessor": "Francis P. Dunne, Esq.",
+          "desc": "H,O,&L",
+          "area": "4 0 9",
+          "land_val": "2 5 0",
+          "building_val": "1 5 0",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "5",
+          "occupier": "Elizabeth Poole",
+          "lessor": "Francis P. Dunne, Esq.",
+          "desc": "H,O,&gar.",
+          "area": "0 0 12",
+          "land_val": "0 2 0",
+          "building_val": "0 15 0",
+          "total_val": "0 17 0"
+        }
+      ]
+    }
+  ]
+}

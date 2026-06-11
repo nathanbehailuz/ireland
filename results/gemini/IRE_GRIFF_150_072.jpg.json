@@ -1,0 +1,444 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF LETTERLUNA",
+      "entries": [
+        {
+          "mr": "— c",
+          "townland": "DEERPARK",
+          "occupier": "Bridget Conrahy",
+          "lessor": "John Denis Conrahy",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "20",
+          "occupier": "Denis Donnelly",
+          "lessor": "Alicia O'Connor Malone",
+          "desc": "L",
+          "area": "80 0 39",
+          "land_val": "44 0 0",
+          "total_val": "44 0 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Vacant",
+          "lessor": "Denis Donnelly",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "21 A",
+          "occupier": "Thomas Lester",
+          "lessor": "Alicia O'Connor Malone",
+          "desc": "L",
+          "area": "14 1 21",
+          "land_val": "11 10 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "Thomas Lester",
+          "lessor": "Alicia O'Connor Malone",
+          "desc": "H,O,&L",
+          "area": "1 1 25",
+          "land_val": "1 0 0",
+          "building_val": "1 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "22 a",
+          "occupier": "Alice Connors",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "14 2 2",
+          "land_val": "8 10 0",
+          "building_val": "1 5 0",
+          "total_val": "9 15 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "William Fallon",
+          "lessor": "Alice Connors",
+          "desc": "H&O",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "James Ryan",
+          "lessor": "Same",
+          "desc": "Ho., office, forge, & gar.",
+          "area": "0 0 32",
+          "land_val": "0 5 0",
+          "building_val": "1 0 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "— d",
+          "occupier": "Daniel Kenny",
+          "lessor": "James Ryan",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "— e",
+          "occupier": "Patt Purcell",
+          "lessor": "Alice Connors",
+          "desc": "H,O,&G",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "1 0 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "— f",
+          "occupier": "James Corrigan",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "0 15 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "23 a",
+          "occupier": "Catherine Murphy",
+          "lessor": "Denis Donnelly",
+          "desc": "H&L",
+          "area": "2 2 8",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Letitia Barnwell",
+          "lessor": "Catherine Murphy",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "24 a",
+          "occupier": "Jane Connors",
+          "lessor": "Alicia O'Connor Malone",
+          "desc": "H,O,&L",
+          "area": "24 2 35",
+          "land_val": "16 0 0",
+          "building_val": "1 5 0",
+          "total_val": "17 5 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "John Davis",
+          "lessor": "James Connors",
+          "desc": "H,O,&yard",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "James Deegan",
+          "lessor": "Alicia O'Connor Malone",
+          "desc": "L",
+          "area": "34 3 36",
+          "land_val": "21 0 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "422 0 16",
+          "land_val": "217 15 0",
+          "building_val": "19 10 0",
+          "total_val": "237 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DRUMMIN",
+          "os": "36",
+          "occupier": "John Head Drought",
+          "lessor": "Alicia O'Connor Malone",
+          "desc": "L",
+          "area": "23 0 25",
+          "land_val": "12 10 0",
+          "total_val": "12 10 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "2",
+          "occupier": "Edward Brophy",
+          "lessor": "John H. Drought",
+          "desc": "H,O,&L",
+          "area": "11 0 31",
+          "land_val": "6 10 0",
+          "building_val": "1 0 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Troy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 21",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Sheridan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "2 1 25",
+          "land_val": "1 10 0",
+          "building_val": "0 15 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "40 0 22",
+          "land_val": "22 15 0",
+          "building_val": "1 15 0",
+          "total_val": "24 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "GLENLETTER",
+          "os": "37",
+          "occupier": "John Molloy",
+          "lessor": "Alicia O'Connor Malone",
+          "desc": "H,O,&L",
+          "area": "379 3 20",
+          "land_val": "26 15 0",
+          "building_val": "1 10 0",
+          "total_val": "28 5 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "— b",
+          "occupier": "Patt Scully",
+          "lessor": "Alicia O'Connor Malone",
+          "desc": "H,O,&L",
+          "area": "379 3 20",
+          "land_val": "11 15 0",
+          "building_val": "1 5 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "James Feehery",
+          "lessor": "Alicia O'Connor Malone",
+          "desc": "H,O,&L",
+          "area": "379 3 20",
+          "land_val": "19 15 0",
+          "building_val": "1 5 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "— d",
+          "occupier": "William Heany",
+          "lessor": "Alicia O'Connor Malone",
+          "desc": "H,O,&L",
+          "area": "379 3 20",
+          "land_val": "11 15 0",
+          "building_val": "0 15 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "— e",
+          "occupier": "John Heany",
+          "lessor": "Alicia O'Connor Malone",
+          "desc": "H,O,&L",
+          "area": "379 3 20",
+          "land_val": "11 15 0",
+          "building_val": "1 0 0",
+          "total_val": "12 15 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "John Molloy",
+          "lessor": "Same",
+          "desc": "B",
+          "area": "758 1 17",
+          "land_val": "5 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "Patt Scully",
+          "lessor": "Same",
+          "desc": "B",
+          "area": "758 1 17",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "James Feehery",
+          "lessor": "Same",
+          "desc": "B",
+          "area": "758 1 17",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "William Heany",
+          "lessor": "Same",
+          "desc": "B",
+          "area": "758 1 17",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "John Heany",
+          "lessor": "Same",
+          "desc": "B",
+          "area": "758 1 17",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "1,138 0 37",
+          "land_val": "97 15 0",
+          "building_val": "5 15 0",
+          "total_val": "103 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "HUNDRED ACRES",
+          "os": "39",
+          "occupier": "George M'Bride",
+          "lessor": "Alicia O'Connor Malone",
+          "desc": "H,O,&L",
+          "area": "158 2 15",
+          "land_val": "53 0 0",
+          "building_val": "1 10 0",
+          "total_val": "57 10 0",
+          "n_shared": 2,
+          "is_continued": 0
+        },
+        {
+          "mr": "— b",
+          "occupier": "Martin Cashen",
+          "lessor": "George M'Bride",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "—",
+          "occupier": "George M'Bride",
+          "lessor": "Alicia O'Connor Malone",
+          "desc": "B",
+          "area": "120 2 37",
+          "land_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "279 1 12",
+          "land_val": "56 0 0",
+          "building_val": "2 0 0",
+          "total_val": "58 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "KILMACUDDY",
+          "os": "31 & 36",
+          "occupier": "John Head Drought",
+          "lessor": "Alicia O'Connor Malone",
+          "desc": "L",
+          "area": "144 1 2",
+          "land_val": "89 10 0",
+          "total_val": "91 0 0",
+          "n_shared": 2,
+          "is_continued": 0
+        },
+        {
+          "mr": "—",
+          "occupier": "John Head Drought",
+          "lessor": "Alicia O'Connor Malone",
+          "desc": "B",
+          "area": "154 3 33",
+          "land_val": "1 10 0",
+          "total_val": "91 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2",
+          "occupier": "Andrew Brophy",
+          "lessor": "John Head Drought",
+          "desc": "H,O,&L",
+          "area": "5 1 33",
+          "land_val": "4 10 0",
+          "building_val": "2 5 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Brophy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "25 0 10",
+          "land_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "Matt Corrigan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "25 0 10",
+          "land_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Vacant",
+          "lessor": "John Brophy",
+          "desc": "H&O",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Vacant",
+          "lessor": "Matt Corrigan",
+          "desc": "H&O",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "William Connor",
+          "lessor": "John Head Drought",
+          "desc": "H&L",
+          "area": "3 2 35",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "333 1 33",
+          "land_val": "118 0 0",
+          "building_val": "4 0 0",
+          "total_val": "122 0 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

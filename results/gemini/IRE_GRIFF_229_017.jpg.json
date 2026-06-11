@@ -1,0 +1,549 @@
+{
+  "parishes": [
+    {
+      "parish": "CLONES",
+      "entries": [
+        {
+          "mr": "1 A",
+          "townland": "MULLANAMOY",
+          "os": "11",
+          "occupier": "John Bogue",
+          "lessor": "Sir Thos. B. Lennard, Bt.",
+          "desc": "L",
+          "area": "2 3 35",
+          "land_val": "3 15 0",
+          "total_val": "6 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 B",
+          "occupier": "James Gregg",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 0 0",
+          "land_val": "2 15 0",
+          "total_val": "6 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2",
+          "occupier": "Creighton Armstrong",
+          "lessor": "Same",
+          "desc": "H&O",
+          "area": "3 0 15",
+          "land_val": "4 15 0",
+          "building_val": "10 0 0",
+          "total_val": "14 15 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "3",
+          "occupier": "James Gregg",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 0",
+          "land_val": "4 15 0",
+          "total_val": "4 15 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "4",
+          "occupier": "William Clarke",
+          "lessor": "Same",
+          "desc": "Caretaker's ho. & L",
+          "area": "56 0 25",
+          "land_val": "68 0 0",
+          "building_val": "1 0 0",
+          "total_val": "69 0 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "5",
+          "occupier": "Hugh Mount",
+          "lessor": "William Clarke",
+          "desc": "L",
+          "area": "5 0 5",
+          "land_val": "5 5 0",
+          "total_val": "5 5 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Hugh Devanny",
+          "lessor": "Sir Thos. B. Lennard, Bt.",
+          "desc": "H&O",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "6",
+          "occupier": "Anne Cassidy",
+          "lessor": "Hugh Devanny",
+          "desc": "L",
+          "area": "6 0 16",
+          "land_val": "7 5 0",
+          "total_val": "7 5 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "-",
+          "occupier": "Amelia J. Conts",
+          "lessor": "James Gregg",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "7",
+          "occupier": "Dundalk and Enniskillen Railway Co. (Thomas Edwards, Secretary)",
+          "lessor": "James Gregg",
+          "desc": "H,O,&L",
+          "area": "1 1 20",
+          "land_val": "2 0 0",
+          "building_val": "13 0 0",
+          "total_val": "15 0 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "8",
+          "lessor": "In fee",
+          "desc": "Railway (37 lin. perches)",
+          "area": "0 2 30",
+          "total_val": "11 10 0",
+          "n_shared": 1
+        },
+        {
+          "desc": "Total",
+          "area": "80 2 26",
+          "land_val": "98 10 0",
+          "building_val": "25 0 0",
+          "total_val": "135 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A a",
+          "townland": "TIRNAHINCH FAR",
+          "os": "11",
+          "occupier": "Christopher Foster, sen.",
+          "lessor": "John Lentaigne",
+          "desc": "H,O,&L",
+          "area": "48 0 24",
+          "land_val": "38 0 0",
+          "building_val": "1 10 0",
+          "total_val": "40 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 A b",
+          "occupier": "Arthur Foster",
+          "lessor": "Christopher Foster, sen.",
+          "desc": "L",
+          "area": "1 0 30",
+          "land_val": "0 10 0",
+          "total_val": "40 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "-",
+          "occupier": "Christopher Foster, jun.",
+          "lessor": "John Lentaigne",
+          "desc": "H&O",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "2",
+          "occupier": "Robert Marshall, sen.",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "9 0 25",
+          "land_val": "7 0 0",
+          "building_val": "0 15 0",
+          "total_val": "7 15 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "3 A",
+          "occupier": "Robert Marshall, sen.",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "0 3 35",
+          "land_val": "0 15 0",
+          "building_val": "1 0 0",
+          "total_val": "11 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 B",
+          "occupier": "Thomas Donaldson",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "13 0 35",
+          "land_val": "9 10 0",
+          "total_val": "11 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4 A",
+          "occupier": "Thomas Donaldson",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 1 5",
+          "land_val": "6 10 0",
+          "building_val": "1 5 0",
+          "total_val": "9 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "4 B",
+          "occupier": "William Little",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "0 2 0",
+          "land_val": "0 5 0",
+          "total_val": "9 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "4 C",
+          "occupier": "Robert Marshall, jun.",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "3 1 20",
+          "land_val": "1 15 0",
+          "total_val": "9 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "5 A",
+          "occupier": "Edward Foster",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 1 25",
+          "land_val": "7 15 0",
+          "building_val": "2 0 0",
+          "total_val": "10 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 B",
+          "occupier": "Richard Foster",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 25",
+          "land_val": "0 5 0",
+          "total_val": "10 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "Anne Foster",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "7 0 0",
+          "land_val": "5 0 0",
+          "building_val": "0 15 0",
+          "total_val": "5 15 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "7 a",
+          "occupier": "William Moore",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "15 1 20",
+          "land_val": "6 0 0",
+          "building_val": "1 0 0",
+          "total_val": "7 0 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "7 b",
+          "occupier": "Jane Donnelly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "building_val": "1 5 0",
+          "total_val": "7 5 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "8",
+          "occupier": "Anne Foster",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 2 10",
+          "land_val": "7 0 0",
+          "building_val": "1 10 0",
+          "total_val": "8 10 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "9",
+          "occupier": "William Moore",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "6 3 35",
+          "land_val": "4 15 0",
+          "building_val": "1 0 0",
+          "total_val": "5 15 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "10",
+          "occupier": "Jane Donnelly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "5 2 35",
+          "land_val": "4 0 0",
+          "building_val": "1 0 0",
+          "total_val": "5 0 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "11",
+          "occupier": "Robert Thompson",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 3 25",
+          "land_val": "3 5 0",
+          "total_val": "3 5 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "12",
+          "occupier": "John Armstrong (a Minor)",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 0 30",
+          "land_val": "4 5 0",
+          "total_val": "4 5 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "-",
+          "occupier": "Thomas Donaldson",
+          "lessor": "John Armstrong",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "13 A",
+          "occupier": "John Lentaigne",
+          "lessor": "In fee",
+          "desc": "B",
+          "area": "2 1 0",
+          "land_val": "0 2 0",
+          "total_val": "0 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "13 B",
+          "occupier": "John Lentaigne",
+          "lessor": "In fee",
+          "desc": "Water",
+          "area": "5 3 5",
+          "land_val": "0 3 0",
+          "total_val": "0 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "14 A, B, C",
+          "occupier": "John Lentaigne",
+          "lessor": "In fee",
+          "desc": "Water",
+          "area": "6 3 8",
+          "total_val": "0 5 0",
+          "n_shared": 3
+        },
+        {
+          "desc": "Total",
+          "area": "166 1 32",
+          "land_val": "112 15 0",
+          "building_val": "14 15 0",
+          "total_val": "127 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "TIRNAHINCH NEAR",
+          "os": "11",
+          "occupier": "Robert Monaghan",
+          "lessor": "John Lentaigne",
+          "desc": "H,O,&L",
+          "area": "6 0 35",
+          "land_val": "5 5 0",
+          "building_val": "0 15 0",
+          "total_val": "7 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 B",
+          "occupier": "James Armstrong",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "2 2 0",
+          "land_val": "2 15 0",
+          "total_val": "7 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2",
+          "occupier": "Patrick Doonan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 3 15",
+          "land_val": "7 10 0",
+          "building_val": "1 15 0",
+          "total_val": "9 5 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "3 A",
+          "occupier": "William Thompson",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 1 10",
+          "land_val": "10 15 0",
+          "building_val": "1 0 0",
+          "total_val": "16 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 B",
+          "occupier": "James Boylan",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "6 1 30",
+          "land_val": "4 15 0",
+          "total_val": "16 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4",
+          "occupier": "Richard Foster",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 0 10",
+          "land_val": "9 0 0",
+          "building_val": "1 10 0",
+          "total_val": "10 10 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "5",
+          "occupier": "Edward Foster",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 3 0",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "6",
+          "lessor": "Richd. & Edwd. Foster",
+          "desc": "L",
+          "area": "6 2 0",
+          "land_val": "2 15 0",
+          "total_val": "2 15 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "a",
+          "occupier": "Elizabeth Wiggins",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "b",
+          "occupier": "Mary Cooper",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "c",
+          "occupier": "Catherine M'Loughlin",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "d",
+          "occupier": "Eleanor Simpson",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "7",
+          "occupier": "John Downard",
+          "lessor": "John Lentaigne",
+          "desc": "H,O,&L",
+          "area": "10 0 5",
+          "land_val": "8 5 0",
+          "building_val": "0 15 0",
+          "total_val": "9 0 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "8",
+          "occupier": "William Little",
+          "lessor": "Same",
+          "desc": "O&L",
+          "area": "12 1 10",
+          "land_val": "6 10 0",
+          "building_val": "0 5 0",
+          "total_val": "6 15 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "9",
+          "occupier": "Thomas Slowey",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 3 37",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "10",
+          "occupier": "Archibald Armstrong",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 2 0",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Moore Thompson",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 2 10",
+          "land_val": "9 0 0",
+          "building_val": "1 5 0",
+          "total_val": "10 5 0",
+          "n_shared": 1
+        }
+      ]
+    }
+  ]
+}

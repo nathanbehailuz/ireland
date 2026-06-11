@@ -1,0 +1,586 @@
+{
+  "parishes": [
+    {
+      "entries": [
+        {
+          "mr": "c",
+          "townland": "KNOCKNAMOE",
+          "occupier": "Mary Brennan",
+          "lessor": "John Sutliffe, sen.",
+          "desc": "H,O,&G",
+          "area": "0 1 25",
+          "land_val": "0 10 0",
+          "building_val": "1 0 0",
+          "total_val": "1 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "d",
+          "occupier": "John Roe",
+          "lessor": "John Sutliffe, sen.",
+          "desc": "H&G",
+          "area": "0 1 12",
+          "land_val": "0 10 0",
+          "building_val": "0 15 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "John Johnston",
+          "lessor": "John Sutliffe, sen.",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "James Dooley",
+          "lessor": "John Sutliffe, sen.",
+          "desc": "H&G",
+          "area": "0 0 37",
+          "land_val": "0 6 0",
+          "building_val": "0 15 0",
+          "total_val": "1 1 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "William Shea, and Judith Curran",
+          "lessor": "John Sutliffe, sen.",
+          "desc": "H&G",
+          "area": "0 1 4",
+          "land_val": "0 7 0",
+          "building_val": "1 0 0",
+          "total_val": "1 7 0"
+        },
+        {
+          "mr": "h & j",
+          "occupier": "Elizabeth Dunne",
+          "lessor": "William Phelan",
+          "desc": "H&G",
+          "area": "0 1 25",
+          "land_val": "0 7 0",
+          "building_val": "0 18 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "i & k",
+          "occupier": "George and Michael Jelly",
+          "lessor": "Richard Buggy",
+          "desc": "H&G",
+          "area": "0 1 33",
+          "land_val": "0 8 0",
+          "building_val": "1 0 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "1",
+          "occupier": "James Morrisey",
+          "lessor": "Mrs. Sarah Boxwell",
+          "desc": "G",
+          "area": "0 2 32",
+          "land_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "David Mercier",
+          "lessor": "Mrs. Sarah Boxwell",
+          "desc": "L",
+          "area": "0 3 11",
+          "land_val": "0 18 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "William Betts",
+          "lessor": "Mrs. Sarah Boxwell",
+          "desc": "L",
+          "area": "0 3 15",
+          "land_val": "0 18 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "David Mercier",
+          "lessor": "Viscount De Vesci",
+          "desc": "L",
+          "area": "7 2 11",
+          "land_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Holbrook",
+          "lessor": "Viscount De Vesci",
+          "desc": "H,O,&L",
+          "area": "4 0 34",
+          "land_val": "4 10 0",
+          "building_val": "2 10 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "John Holbrook",
+          "lessor": "Viscount De Vesci",
+          "desc": "L",
+          "area": "1 1 8",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Edward White",
+          "lessor": "Viscount De Vesci",
+          "desc": "L",
+          "area": "10 3 8",
+          "land_val": "9 5 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "William Phelan",
+          "lessor": "Viscount De Vesci",
+          "desc": "L",
+          "area": "6 1 18",
+          "land_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Robert Buggy",
+          "lessor": "Viscount De Vesci",
+          "desc": "G",
+          "area": "0 2 10",
+          "land_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Samuel Pratt",
+          "lessor": "Viscount De Vesci",
+          "desc": "L",
+          "area": "1 3 37",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Elizabeth Moran",
+          "lessor": "Viscount De Vesci",
+          "desc": "L",
+          "area": "1 2 6",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "11 b",
+          "occupier": "Bridget Moran",
+          "lessor": "Viscount De Vesci",
+          "desc": "H&L",
+          "area": "3 2 14",
+          "land_val": "1 12 0",
+          "building_val": "0 8 0",
+          "total_val": "2 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "11 -",
+          "occupier": "James Ryan",
+          "lessor": "Viscount De Vesci",
+          "desc": "H&L",
+          "land_val": "1 12 0",
+          "building_val": "1 3 0",
+          "total_val": "2 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "12",
+          "occupier": "Clements Betts",
+          "lessor": "Reps. Daniel Chambers, Esq.",
+          "desc": "H&L",
+          "area": "1 2 7",
+          "land_val": "1 8 0",
+          "building_val": "0 17 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Clements Betts",
+          "lessor": "Reps. Daniel Chambers, Esq.",
+          "desc": "H,O,&L",
+          "area": "1 3 22",
+          "land_val": "2 0 0",
+          "building_val": "2 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Viscount De Vesci",
+          "lessor": "Viscount De Vesci",
+          "desc": "L",
+          "area": "2 1 8",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "15 A B C",
+          "occupier": "Viscount De Vesci",
+          "lessor": "In fee",
+          "desc": "L (plantations & bog)",
+          "area": "79 0 18",
+          "land_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "15 a",
+          "occupier": "Mrs. Sarah Boxwell",
+          "lessor": "Reps. Thos. Hartnell",
+          "desc": "H,O,&L",
+          "area": "10 2 27",
+          "land_val": "11 0 0",
+          "building_val": "20 15 0",
+          "total_val": "31 15 0"
+        },
+        {
+          "mr": "16 -",
+          "occupier": "Gerald Redmond",
+          "lessor": "Mrs. Sarah Boxwell",
+          "desc": "L",
+          "area": "0 3 36",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "16 -",
+          "occupier": "Mrs. Sarah Boxwell",
+          "lessor": "Trustees of Loan Fund",
+          "desc": "L",
+          "area": "0 3 33",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "John Carthy",
+          "lessor": "Mrs. Sarah Boxwell",
+          "desc": "G",
+          "area": "0 1 30",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Mrs. Sarah Boxwell",
+          "lessor": "Viscount De Vesci",
+          "desc": "L",
+          "area": "4 0 0",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Guardians of the Poor of Abbeyleix Union",
+          "lessor": "Trustees of Loan Fund",
+          "desc": "Workhouse, Fever Hospital, and land",
+          "area": "1 2 8",
+          "land_val": "1 10 0",
+          "building_val": "40 0 0",
+          "total_val": "41 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "20",
+          "occupier": "Guardians of the Poor of Abbeyleix Union",
+          "lessor": "In fee",
+          "desc": "Workhouse, offices, & land",
+          "area": "5 2 20",
+          "land_val": "3 0 0",
+          "building_val": "150 0 0",
+          "total_val": "153 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "21 a",
+          "occupier": "James Wallace",
+          "lessor": "Hon. and Rev. W. Wingfield",
+          "desc": "H,O,&L",
+          "area": "1 3 3",
+          "land_val": "0 17 0",
+          "building_val": "2 10 0",
+          "total_val": "3 7 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "21 b",
+          "occupier": "William O'Neill",
+          "lessor": "Hon. and Rev. W. Wingfield",
+          "desc": "H,O,&L",
+          "land_val": "0 17 0",
+          "building_val": "2 10 0",
+          "total_val": "3 7 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "22 A B d c",
+          "occupier": "Lawrence Tobin",
+          "lessor": "Viscount De Vesci",
+          "desc": "H,O,&L",
+          "area": "3 3 0",
+          "land_val": "3 5 0",
+          "building_val": "1 15 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "James Dobbs",
+          "lessor": "Viscount De Vesci",
+          "desc": "H,O,&L",
+          "area": "36 1 6",
+          "land_val": "23 0 0",
+          "building_val": "9 5 0",
+          "total_val": "32 5 0"
+        },
+        {
+          "mr": "23 c a",
+          "occupier": "Michael Doherty",
+          "lessor": "James Dobbs",
+          "desc": "H,O,&gar.",
+          "area": "0 0 39",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Thomas Case",
+          "lessor": "Viscount De Vesci",
+          "desc": "L",
+          "area": "2 3 10",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "25 A B",
+          "occupier": "Daniel Macklin",
+          "lessor": "Viscount De Vesci",
+          "desc": "H,O,&L",
+          "area": "6 3 6",
+          "land_val": "4 10 0",
+          "building_val": "8 0 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "A a",
+          "occupier": "James Hartford",
+          "lessor": "Viscount De Vesci",
+          "desc": "L",
+          "area": "7 2 36",
+          "land_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Anne Perkinson",
+          "lessor": "James Hartford",
+          "desc": "G",
+          "area": "0 0 39",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Anne Perkinson",
+          "lessor": "Viscount De Vesci",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Sarah Hogan and Mary Delany",
+          "lessor": "Viscount De Vesci",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Catherine Clarke",
+          "lessor": "Viscount De Vesci",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "B a",
+          "occupier": "Catherine Crowley",
+          "lessor": "Viscount De Vesci",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 5 0",
+          "building_val": "0 15 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Edward Hartford",
+          "lessor": "James Hartford",
+          "desc": "H,O,&gar.",
+          "area": "0 3 12",
+          "land_val": "0 10 0",
+          "building_val": "0 10 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "John Sutliffe",
+          "lessor": "Viscount De Vesci",
+          "desc": "L",
+          "area": "7 0 3",
+          "land_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Edward L. Swan, Esq.",
+          "lessor": "Viscount De Vesci",
+          "desc": "L",
+          "area": "32 3 18",
+          "land_val": "27 15 0",
+          "total_val": "27 15 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Marcus Tuthill",
+          "lessor": "Bland W. Croker",
+          "desc": "H,O,&L",
+          "area": "63 2 6",
+          "land_val": "46 5 0",
+          "building_val": "19 15 0",
+          "total_val": "66 0 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Thomas Hogan",
+          "lessor": "Viscount De Vesci",
+          "desc": "H,O,&L",
+          "area": "20 1 13",
+          "land_val": "11 0 0",
+          "building_val": "1 10 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Thomas Hogan",
+          "lessor": "Viscount De Vesci",
+          "desc": "L",
+          "area": "3 2 21",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "Lawrence Heney",
+          "lessor": "Viscount De Vesci",
+          "desc": "H&L",
+          "area": "4 0 37",
+          "land_val": "2 5 0",
+          "building_val": "0 15 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "Joseph Johnson",
+          "lessor": "Viscount De Vesci",
+          "desc": "H,O,&L",
+          "area": "2 0 16",
+          "land_val": "1 10 0",
+          "building_val": "1 5 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Patrick Kirwin",
+          "lessor": "Viscount De Vesci",
+          "desc": "H,O,&L",
+          "area": "8 3 17",
+          "land_val": "4 0 0",
+          "building_val": "1 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Judith Hyland",
+          "lessor": "Viscount De Vesci",
+          "desc": "H,O,&L",
+          "area": "9 1 38",
+          "land_val": "4 10 0",
+          "building_val": "1 5 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Joseph Murphy",
+          "lessor": "Viscount De Vesci",
+          "desc": "H&L",
+          "area": "7 3 3",
+          "land_val": "3 15 0",
+          "building_val": "0 10 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "36 1",
+          "sublocation_1": "TOWN OF ABBEYLEIX",
+          "sublocation_2": "MAIN-STREET",
+          "occupier": "David Mercier",
+          "lessor": "Elizabeth Molloy",
+          "desc": "H,O,yd.&L",
+          "area": "0 3 0",
+          "land_val": "1 5 0",
+          "building_val": "25 0 0",
+          "total_val": "26 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Finton Dowling",
+          "lessor": "John Holbrook",
+          "desc": "H,O,yd.&gar.",
+          "area": "0 0 15",
+          "land_val": "0 4 0",
+          "building_val": "8 0 0",
+          "total_val": "8 4 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Wm. & Edward Talbot",
+          "lessor": "Edward White, Esq.",
+          "desc": "H,O,&yd.",
+          "building_val": "10 15 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Edward White, Esq.",
+          "lessor": "Kildare Dobbs",
+          "desc": "H,O,yd.&gar.",
+          "area": "0 0 38",
+          "land_val": "0 15 0",
+          "building_val": "16 5 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Cuddy",
+          "lessor": "Edward L. Swan, Esq.",
+          "desc": "H,O,yd.&gar.",
+          "area": "0 0 10",
+          "land_val": "0 3 0",
+          "building_val": "6 10 0",
+          "total_val": "6 13 0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF ROSCREA",
+      "entries": [
+        {
+          "mr": "19",
+          "townland": "LOUGHANAVATTA",
+          "occupier": "John Clavin",
+          "lessor": "Jas. Kennedy (Gannon)",
+          "desc": "H & L",
+          "area": "2 0 3",
+          "land_val": "1 15 0",
+          "building_val": "0 15 0",
+          "total_val": "2 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "20",
+          "occupier": "Jeremiah Maher",
+          "lessor": "J. Kennedy (Gannon)",
+          "desc": "L",
+          "area": "2 3 25",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Patrick Gorman",
+          "lessor": "J. Kennedy (Gannon)",
+          "desc": "L",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Daniel Gorman",
+          "lessor": "J. Kennedy (Gannon)",
+          "desc": "H & L",
+          "land_val": "0 8 0",
+          "building_val": "0 7 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "James Dwyer",
+          "lessor": "Jas. Kennedy (Gannon)",
+          "desc": "L",
+          "area": "1 2 33",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Daniel Curtis",
+          "lessor": "Jas. Kennedy (Gannon)",
+          "desc": "L",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Michael Callaghan",
+          "lessor": "J. Kennedy (Gannon)",
+          "desc": "L",
+          "area": "2 1 13",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "William Carroll",
+          "lessor": "J. Kennedy (Gannon)",
+          "desc": "L",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "23 a",
+          "occupier": "John Delany",
+          "lessor": "Jas. Kennedy (Gannon)",
+          "desc": "O & L",
+          "area": "9 2 15",
+          "land_val": "13 5 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "23 b",
+          "occupier": "Patrick Maher",
+          "lessor": "John Delany",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Francis Smallman, Esq.",
+          "lessor": "Earl of Portarlington",
+          "desc": "L",
+          "area": "29 2 29",
+          "land_val": "35 15 0",
+          "total_val": "35 15 0"
+        },
+        {
+          "mr": "24 a",
+          "occupier": "Anne Ord",
+          "lessor": "Francis Smallman, Esq.",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Michael Tracy",
+          "lessor": "Earl of Portarlington",
+          "desc": "L",
+          "area": "4 0 16",
+          "land_val": "5 15 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Mrs. Judith Madden",
+          "lessor": "Earl of Portarlington",
+          "desc": "L",
+          "area": "3 2 25",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Daniel Bowen",
+          "lessor": "Viser Bridge, Esq.",
+          "desc": "L",
+          "area": "3 0 3",
+          "land_val": "4 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "William Waldron",
+          "lessor": "Daniel Bowen",
+          "desc": "G",
+          "area": "0 1 22",
+          "land_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "William Neale",
+          "lessor": "Viser Bridge, Esq.",
+          "desc": "H & L",
+          "area": "1 0 32",
+          "land_val": "1 15 0",
+          "building_val": "0 15 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "214 1 15",
+          "land_val": "198 13 0",
+          "building_val": "13 19 0",
+          "total_val": "212 12 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "LOUGHPARK",
+          "os": "12",
+          "occupier": "Martin Healy",
+          "lessor": "Earl of Portarlington",
+          "desc": "H, O, & L",
+          "area": "23 0 27",
+          "land_val": "21 10 0",
+          "building_val": "2 10 0",
+          "total_val": "24 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Thos. Smallman, Esq.",
+          "lessor": "Earl of Portarlington",
+          "desc": "L",
+          "area": "25 3 2",
+          "land_val": "26 10 0",
+          "total_val": "26 10 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Thomas Hingerton",
+          "lessor": "Thos. Smallman, Esq.",
+          "desc": "H & O",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Winifred Short",
+          "lessor": "Thos. Smallman, Esq.",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "48 3 29",
+          "land_val": "48 0 0",
+          "building_val": "4 0 0",
+          "total_val": "52 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "MILLPARK",
+          "os": "12",
+          "occupier": "Hamilton Lyster",
+          "lessor": "Robert Acres",
+          "desc": "H, flour-mill, offs. & L",
+          "area": "6 1 10",
+          "land_val": "3 0 0",
+          "building_val": "53 0 0",
+          "total_val": "56 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Adam Acres, Esq.",
+          "lessor": "Dawson H. Vaughan, Esq.",
+          "desc": "H, O, & L",
+          "area": "74 0 6",
+          "land_val": "59 10 0",
+          "building_val": "18 0 0",
+          "total_val": "77 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Smith",
+          "lessor": "Dawson H. Vaughan, Esq.",
+          "desc": "L",
+          "area": "1 3 25",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Dawson H. Vaughan, Esq.",
+          "lessor": "In fee",
+          "desc": "Plantation",
+          "area": "1 2 4",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "83 3 5",
+          "land_val": "65 5 0",
+          "building_val": "71 0 0",
+          "total_val": "136 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "PARKMORE",
+          "os": "12 & 17",
+          "sublocation_1": "TOWN OF ROSCREA",
+          "sublocation_2": "(Part of)",
+          "occupier": "Anne Brooks",
+          "lessor": "George Evans",
+          "desc": "H & G",
+          "area": "0 0 20",
+          "land_val": "0 4 0",
+          "building_val": "0 16 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "John Bergin",
+          "lessor": "George Evans",
+          "desc": "H & G",
+          "area": "0 0 19",
+          "land_val": "0 3 0",
+          "building_val": "0 12 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Richard Sharp",
+          "lessor": "George Evans",
+          "desc": "H & G",
+          "area": "0 0 14",
+          "land_val": "0 3 0",
+          "building_val": "0 17 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Margaret Walsh",
+          "lessor": "George Evans",
+          "desc": "H & G",
+          "area": "0 0 15",
+          "land_val": "0 3 0",
+          "building_val": "0 17 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Mara",
+          "lessor": "George Evans",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Margaret Reeves",
+          "lessor": "George Evans",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Richard Carroll",
+          "lessor": "George Evans",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Mary Maher",
+          "lessor": "William Bergin",
+          "desc": "O",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "William Bergin",
+          "lessor": "George Evans",
+          "desc": "H & G",
+          "area": "0 1 0",
+          "land_val": "0 8 0",
+          "building_val": "0 7 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "James Sheppard",
+          "lessor": "George Evans",
+          "desc": "H & G",
+          "area": "0 2 4",
+          "land_val": "0 15 0",
+          "building_val": "1 0 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Henry Saunders",
+          "lessor": "George Evans",
+          "desc": "H & G",
+          "area": "0 2 32",
+          "land_val": "0 15 0",
+          "building_val": "1 0 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "John Keogh",
+          "lessor": "James Sheppard",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "John Burns",
+          "lessor": "George Evans",
+          "desc": "H & G",
+          "area": "0 1 38",
+          "land_val": "0 15 0",
+          "building_val": "0 15 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "-",
+          "desc": "Waste of houses & yards",
+          "area": "0 0 30"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Guilfoyle",
+          "lessor": "Earl of Portarlington",
+          "desc": "H & L",
+          "area": "1 2 26",
+          "land_val": "2 5 0",
+          "building_val": "1 0 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Edward Molloy",
+          "lessor": "George Evans",
+          "desc": "H & L",
+          "area": "3 3 13",
+          "land_val": "6 10 0",
+          "building_val": "1 0 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Andrew Brien",
+          "lessor": "George Evans",
+          "desc": "L",
+          "area": "1 3 39",
+          "land_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Martin Brien",
+          "lessor": "George Evans",
+          "desc": "L",
+          "area": "0 1 23",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "John Naughton",
+          "lessor": "Martin Brien",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Patrick Noone",
+          "lessor": "Martin Brien",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Edward Walsh",
+          "lessor": "Martin Brien",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        }
+      ]
+    }
+  ]
+}

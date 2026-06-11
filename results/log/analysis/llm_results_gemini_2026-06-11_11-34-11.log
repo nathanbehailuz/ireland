@@ -1,0 +1,22 @@
+2026-06-11 11:35:24,912 - INFO - Loaded 1904 pages (98790 rows); skipped 0 files
+2026-06-11 11:35:30,536 - INFO - GV join review rows: 0
+2026-06-11 11:35:55,148 - INFO - Townland groups: 2795 one-page, 690 multi-page
+2026-06-11 11:35:56,082 - INFO - Wrote results/gemini/combined_extractions.csv
+2026-06-11 11:35:56,388 - INFO - Wrote results/gemini/combined_extractions.parquet
+2026-06-11 11:36:01,582 - INFO - Wrote results/gemini/townland_valuation_checks.csv (3842 segments)
+2026-06-11 11:36:05,547 - INFO - Wrote results/gemini/no_total_row_debug.csv (684 no-total segments): {'genuinely_missing': 369, 'unflagged_total': 178, 'tiny_segment': 109, 'split_segment': 28}
+2026-06-11 11:36:05,554 - INFO - Wrote results/gemini/performance_summary.json
+2026-06-11 11:36:05,554 - INFO - Summary: {
+  "llm": "gemini",
+  "pages_processed": 1904,
+  "entry_rows": 98790,
+  "townland_segments": 3842,
+  "segments_with_total_row": 3158,
+  "segments_with_total_row_pct": 82.2,
+  "valuation_pass_count": 2744,
+  "valuation_pass_pct": 86.89,
+  "one_page_townlands_segments": 2796,
+  "one_page_townlands_valuation_pass_pct": 86.59,
+  "multi_page_townlands_segments": 1046,
+  "multi_page_townlands_valuation_pass_pct": 87.7
+}

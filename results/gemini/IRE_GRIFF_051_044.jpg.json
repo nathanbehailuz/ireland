@@ -1,0 +1,592 @@
+{
+  "parishes": [
+    {
+      "parish": "NOHAVALDALY (Part of)",
+      "entries": [
+        {
+          "mr": "- C",
+          "townland": "KNOCKYHENA",
+          "os": "",
+          "occupier": "Denis Hickey",
+          "lessor": "Daniel Cronin",
+          "desc": "L",
+          "area": "11 0 35",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 0 0",
+          "n_shared": 2,
+          "is_continued": 1
+        },
+        {
+          "mr": "- C",
+          "occupier": "Patrick Hickey",
+          "lessor": "Daniel Cronin",
+          "desc": "L",
+          "area": "11 0 35",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- D",
+          "occupier": "Denis Hickey",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "22 1 30",
+          "land_val": "4 10 0",
+          "building_val": "",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- D",
+          "occupier": "Patrick Hickey",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "22 1 30",
+          "land_val": "4 10 0",
+          "building_val": "",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- E",
+          "occupier": "Denis Hickey",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 0 26",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- E",
+          "occupier": "Patrick Hickey",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 0 26",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- P",
+          "occupier": "Denis Hickey",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "12 3 3",
+          "land_val": "2 6 0",
+          "building_val": "",
+          "total_val": "2 6 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- P",
+          "occupier": "Patrick Hickey",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "12 3 3",
+          "land_val": "2 6 0",
+          "building_val": "",
+          "total_val": "2 6 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- D",
+          "occupier": "Charles Lenihan",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 2 23",
+          "land_val": "0 6 0",
+          "building_val": "",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Daniel Hickey",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "102 1 16",
+          "land_val": "38 5 0",
+          "building_val": "1 5 0",
+          "total_val": "39 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Denis Hickey",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 0 35",
+          "land_val": "0 2 0",
+          "building_val": "1 4 0",
+          "total_val": "1 6 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Patrick Hickey",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 2 3",
+          "land_val": "0 6 0",
+          "building_val": "1 0 0",
+          "total_val": "1 6 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "John Hickey",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Michael Cronin",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "1 2 7",
+          "land_val": "0 15 0",
+          "building_val": "1 0 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Hickey",
+          "lessor": "Same",
+          "desc": "O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Charles Lenihan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "31 3 16",
+          "land_val": "11 15 0",
+          "building_val": "",
+          "total_val": "11 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "595 0 22",
+          "land_val": "160 6 0",
+          "building_val": "10 16 0",
+          "total_val": "171 2 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "LACKANASTOOKA",
+          "os": "21 & 29",
+          "occupier": "Eugene Casey",
+          "lessor": "Daniel C. Coltsman",
+          "desc": "H,O,&L",
+          "area": "15 1 33",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "B",
+          "occupier": "Eugene Casey",
+          "lessor": "Daniel C. Coltsman",
+          "desc": "H,O,&L",
+          "area": "14 0 27",
+          "land_val": "5 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "C",
+          "occupier": "Eugene Casey",
+          "lessor": "Daniel C. Coltsman",
+          "desc": "H,O,&L",
+          "area": "14 1 18",
+          "land_val": "6 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "D a",
+          "occupier": "Eugene Casey",
+          "lessor": "Daniel C. Coltsman",
+          "desc": "H,O,&L",
+          "area": "8 2 31",
+          "land_val": "5 0 0",
+          "building_val": "1 5 0",
+          "total_val": "18 15 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Michael Tuomy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "97 0 27",
+          "land_val": "39 10 0",
+          "building_val": "1 15 0",
+          "total_val": "41 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Jeremiah Keeffe",
+          "lessor": "Michael Tuomy",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Daniel Bradley",
+          "lessor": "Daniel C. Coltsman",
+          "desc": "H,O,&L",
+          "area": "174 3 23",
+          "land_val": "40 10 0",
+          "building_val": "1 15 0",
+          "total_val": "42 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Ellen Dennehy",
+          "lessor": "Daniel Bradley",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Daniel Gallivan",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "4 A",
+          "occupier": "Denis Ring",
+          "lessor": "Daniel C. Coltsman",
+          "desc": "H&L",
+          "area": "43 0 3",
+          "land_val": "22 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "B",
+          "occupier": "Denis Ring",
+          "lessor": "Daniel C. Coltsman",
+          "desc": "H&L",
+          "area": "9 1 35",
+          "land_val": "2 0 0",
+          "building_val": "1 10 0",
+          "total_val": "26 0 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Unoccupied",
+          "lessor": "Denis Ring",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "5 A",
+          "occupier": "Denis Ring",
+          "lessor": "Daniel C. Coltsman",
+          "desc": "L",
+          "area": "40 2 11",
+          "land_val": "14 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "B",
+          "occupier": "Denis Ring",
+          "lessor": "Daniel C. Coltsman",
+          "desc": "L",
+          "area": "13 2 34",
+          "land_val": "5 15 0",
+          "building_val": "",
+          "total_val": "19 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "431 2 2",
+          "land_val": "141 15 0",
+          "building_val": "8 0 0",
+          "total_val": "149 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "LAGHTSIGH",
+          "os": "29",
+          "occupier": "Honora Howard",
+          "lessor": "Frances Jane Hewson",
+          "desc": "H,O,&L",
+          "area": "167 0 4",
+          "land_val": "43 15 0",
+          "building_val": "1 15 0",
+          "total_val": "45 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Edmond Sweeny",
+          "lessor": "Honora Howard",
+          "desc": "H&G",
+          "area": "0 0 14",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Catherine Duggan",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 36",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "- e",
+          "occupier": "Timothy Sullivan",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 35",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "David Fitzgerald",
+          "lessor": "Frances Jane Hewson",
+          "desc": "H,O,&L",
+          "area": "123 1 4",
+          "land_val": "34 10 0",
+          "building_val": "1 10 0",
+          "total_val": "36 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Catherine Fitzgerald",
+          "lessor": "David Fitzgerald",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 14 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Michael M'Auliffe",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "John Murphy",
+          "lessor": "Frances Jane Hewson",
+          "desc": "H,O,&L",
+          "area": "33 3 24",
+          "land_val": "12 5 0",
+          "building_val": "1 0 0",
+          "total_val": "13 5 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "John Howard",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "118 0 19",
+          "land_val": "17 0 0",
+          "building_val": "0 10 0",
+          "total_val": "17 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Denis Horgan",
+          "lessor": "John Howard",
+          "desc": "H&G",
+          "area": "0 0 13",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "desc": "Total",
+          "area": "442 3 29",
+          "land_val": "107 18 0",
+          "building_val": "7 7 0",
+          "total_val": "115 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A a",
+          "townland": "LYREDAOWEN",
+          "os": "33",
+          "occupier": "William Fitzgerald",
+          "lessor": "Daniel C. Coltsman",
+          "desc": "H,O,&L",
+          "area": "51 2 33",
+          "land_val": "12 15 0",
+          "building_val": "1 10 0",
+          "total_val": ""
+        },
+        {
+          "mr": "B",
+          "occupier": "William Fitzgerald",
+          "lessor": "Daniel C. Coltsman",
+          "desc": "H,O,&L",
+          "area": "17 3 21",
+          "land_val": "6 5 0",
+          "building_val": "",
+          "total_val": "20 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Denis Leary",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "37 1 2",
+          "land_val": "6 10 0",
+          "building_val": "0 15 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "William Keeffe",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "109 3 6",
+          "land_val": "12 10 0",
+          "building_val": "1 5 0",
+          "total_val": "13 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Keeffe",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "12 10 0",
+          "building_val": "1 10 0",
+          "total_val": "14 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- c",
+          "occupier": "Cornelius Murphy",
+          "lessor": "Patrick Keeffe",
+          "desc": "H&G",
+          "area": "0 1 2",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Andrew Hickey",
+          "lessor": "Daniel C. Coltsman",
+          "desc": "H,O,&L",
+          "area": "76 2 24",
+          "land_val": "22 5 0",
+          "building_val": "1 15 0",
+          "total_val": "24 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "John Mahony",
+          "lessor": "Andrew Hickey",
+          "desc": "H&G",
+          "area": "0 0 16",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "5 A a",
+          "occupier": "Cornelius Hickey",
+          "lessor": "Daniel C. Coltsman",
+          "desc": "H,O,&L",
+          "area": "98 0 3",
+          "land_val": "25 5 0",
+          "building_val": "2 10 0",
+          "total_val": ""
+        },
+        {
+          "mr": "B",
+          "occupier": "Cornelius Hickey",
+          "lessor": "Daniel C. Coltsman",
+          "desc": "H,O,&L",
+          "area": "28 0 15",
+          "land_val": "7 10 0",
+          "building_val": "",
+          "total_val": "35 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Unoccupied",
+          "lessor": "Cornelius Hickey",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Andrew Hickey",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 13",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Jeremiah Lenihan",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        }
+      ]
+    }
+  ]
+}

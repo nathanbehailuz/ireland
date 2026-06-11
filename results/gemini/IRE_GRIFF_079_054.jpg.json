@@ -1,0 +1,461 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF SEAPATRICK",
+      "entries": [
+        {
+          "mr": "11",
+          "townland": "BALLYVALLY",
+          "sublocation_1": "TOWN OF BANBRIDGE",
+          "sublocation_2": "DROMORE-STREET (Tyrrell's-row.)",
+          "occupier": "John Mills",
+          "lessor": "George Tyrrell",
+          "desc": "H,O,&yard",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "12",
+          "occupier": "Anne Busby",
+          "lessor": "Same",
+          "desc": "H,O,&yard",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "John Shanks",
+          "lessor": "Same",
+          "desc": "H,O,&yard",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Simpson M'Clure",
+          "lessor": "Same",
+          "desc": "H,O,&yard",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "James Gillespie",
+          "lessor": "Same",
+          "desc": "H,O,&yard",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Margaret Moorhead",
+          "lessor": "Same",
+          "desc": "H,O,&yard",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "John Murphy",
+          "lessor": "Same",
+          "desc": "H,O,&yard",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Margaret Noble",
+          "lessor": "Same",
+          "desc": "H,O,&yard",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "19",
+          "sublocation_2": "DROMORE-STREET",
+          "occupier": "John Lynch",
+          "lessor": "Hugh M'Mullan",
+          "desc": "H",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Robert M'Birnie",
+          "lessor": "Same",
+          "desc": "H (in rear)",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Margaret Wright",
+          "lessor": "Same",
+          "desc": "H (in rear)",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Samuel Grant",
+          "lessor": "John Sandes",
+          "desc": "H",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "John Sandes",
+          "lessor": "George Tyrrell",
+          "desc": "H,O,&yard",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "John Mateer",
+          "lessor": "Jonathan Kerr",
+          "desc": "H,O,&yard",
+          "building_val": "12 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Mary Lackey",
+          "lessor": "George Tyrrell",
+          "desc": "H,O,&yard",
+          "building_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "John Shearin",
+          "lessor": "Same",
+          "desc": "H,O,&yard",
+          "building_val": "9 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Anne Cath. Robinson",
+          "lessor": "Same",
+          "desc": "H,O,&yard",
+          "building_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Elizabeth Hargrove",
+          "lessor": "Same",
+          "desc": "H,O,&yard",
+          "building_val": "11 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Sarah Ann Morrow",
+          "lessor": "Same",
+          "desc": "H,O,&yard",
+          "building_val": "14 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Sarah Ann Morrow",
+          "lessor": "Same",
+          "desc": "H,O,&yard",
+          "building_val": "20 0 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Agnes Andrews",
+          "lessor": "John Maitland",
+          "desc": "H&O",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "Joseph Stephenson",
+          "lessor": "Same",
+          "desc": "H&O",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "Jane Moore",
+          "lessor": "Same",
+          "desc": "H&O",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Henry Mulligan",
+          "lessor": "Same",
+          "desc": "H&O",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Robert Bell",
+          "lessor": "Same",
+          "desc": "H&O",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "David Stewart",
+          "lessor": "Same",
+          "desc": "H&O",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "Denis Anderson",
+          "lessor": "Same",
+          "desc": "H&O",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Robert Mateer",
+          "lessor": "Same",
+          "desc": "H&O",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "John Bell",
+          "lessor": "Same",
+          "desc": "H&O",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "John Ferguson",
+          "lessor": "Same",
+          "desc": "H&O",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "Thomas Hutchison",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "Thomas Geddes",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "John Maitland",
+          "lessor": "Marquis of Downshire",
+          "desc": "Ho., off., yd., & sm. gar.",
+          "building_val": "20 0 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "DROMORE-ROAD",
+          "occupier": "George Card",
+          "lessor": "Thomas Crozier",
+          "desc": "L",
+          "area": "0 0 21",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Hugh M'Mullen",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 30",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Unoccupied",
+          "lessor": "George Card",
+          "desc": "H&sm.G",
+          "building_val": "8 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "-",
+          "lessor": "Same",
+          "desc": "Ho.(unfinished)&sm.gar."
+        },
+        {
+          "mr": "5",
+          "occupier": "Hugh M'Mullen",
+          "lessor": "Marquis of Downshire",
+          "desc": "Coach-factory, work-shops, yd., & sm. gar.",
+          "building_val": "24 0 0",
+          "total_val": "24 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Hugh M'Mullen",
+          "lessor": "Same",
+          "desc": "Brickfield, L",
+          "area": "0 3 5",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "George Chapman",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 0 20",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "M'CAW'S-ROW (Off Dromore-road.)",
+          "occupier": "Alexander Hamilton",
+          "lessor": "Christopher M'Caw",
+          "desc": "H&sm.G",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Henn, jun.",
+          "lessor": "Same",
+          "desc": "H&sm.G",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Henn, sen.",
+          "lessor": "Same",
+          "desc": "H&sm.G",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Fulton",
+          "lessor": "Same",
+          "desc": "H&sm.G",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Thomas Nelson",
+          "lessor": "Same",
+          "desc": "H&sm.G",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Thomas Flaherty",
+          "lessor": "Same",
+          "desc": "H&sm.G",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "8",
+          "sublocation_2": "DROMORE-ROAD",
+          "occupier": "John Parks",
+          "lessor": "Bateman Brown",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Charles M'Carty",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "John Vedge",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Edward Edmundson",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "William Gaussen",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Sally Russell",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Sophia Clegg",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Bateman Brown",
+          "lessor": "Rev. John Montgomery",
+          "desc": "Ho.,offs.,yard,& garden",
+          "area": "0 2 0",
+          "land_val": "1 10 0",
+          "building_val": "9 10 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Bateman Brown",
+          "lessor": "Rev. John Montgomery",
+          "desc": "Brickyard",
+          "area": "0 1 0",
+          "total_val": "2 0 0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "parishes": [
+    {
+      "parish": "KILDROUGHT",
+      "entries": [
+        {
+          "mr": "2",
+          "townland": "CELBRIDGE",
+          "occupier": "Judith Burke",
+          "lessor": "Thomas Smyth",
+          "desc": "H",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "3",
+          "occupier": "Francis Malone",
+          "lessor": "Thomas Smyth",
+          "desc": "H & yard",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Richard Heir",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "H,O,yd,&L",
+          "area": "4 0 20",
+          "land_val": "7 0 0",
+          "building_val": "8 10 0",
+          "total_val": "15 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Gorman",
+          "lessor": "Richard Heir",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Guardians of the poor of Celbridge Union",
+          "lessor": "In fee",
+          "desc": "Work-house, O, & L",
+          "area": "5 0 20",
+          "land_val": "6 0 0",
+          "building_val": "160 0 0",
+          "total_val": "166 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "7",
+          "occupier": "Andrew Archer",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "O & L",
+          "area": "1 1 5",
+          "land_val": "2 0 0",
+          "building_val": "3 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Andrew Archer",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "Limestonequarry&kiln",
+          "area": "0 1 30",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Thomas Hickey",
+          "lessor": "Andrew Archer",
+          "desc": "H",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Patrick Mee",
+          "lessor": "Andrew Archer",
+          "desc": "H",
+          "building_val": "0 16 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Thomas Ryan",
+          "lessor": "Andrew Archer",
+          "desc": "H",
+          "building_val": "1 12 0",
+          "total_val": "1 12 0"
+        },
+        {
+          "mr": "11 A B",
+          "occupier": "Henry Malone",
+          "lessor": "Reps.Richard Clifford, Esq.",
+          "desc": "H & Gs",
+          "area": "0 1 28",
+          "land_val": "1 3 0",
+          "building_val": "1 2 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Vacant",
+          "lessor": "Henry Malone",
+          "desc": "H",
+          "building_val": "0 1 0",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "John Walker",
+          "lessor": "Reps.Richard Clifford, Esq.",
+          "desc": "H & small G",
+          "building_val": "1 6 0",
+          "total_val": "1 6 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Vacant",
+          "lessor": "Henry Malone",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Mary Deegan",
+          "lessor": "Henry Malone",
+          "desc": "H & small G",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Anne Byrne",
+          "lessor": "Patrick Mulready",
+          "desc": "H & small G",
+          "building_val": "1 8 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Honoria Henry",
+          "lessor": "Henry Malone",
+          "desc": "H & sm. G",
+          "building_val": "1 12 0",
+          "total_val": "1 12 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "John Dargan",
+          "lessor": "Henry Malone",
+          "desc": "H & sm. G",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Elizabeth Byrne",
+          "lessor": "Henry Malone",
+          "desc": "H & sm. G",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Thomas Colgan",
+          "lessor": "Henry Malone",
+          "desc": "H",
+          "building_val": "1 8 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "John Murphy",
+          "lessor": "James Casey",
+          "desc": "H",
+          "building_val": "1 2 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Richard Casey",
+          "lessor": "Henry Malone",
+          "desc": "H",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Vacant",
+          "lessor": "Richard Casey",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Vacant",
+          "lessor": "Edward Conolly",
+          "desc": "Ruins"
+        },
+        {
+          "mr": "25",
+          "occupier": "Vacant",
+          "lessor": "Edward Conolly",
+          "desc": "Building-ground",
+          "area": "0 0 2",
+          "land_val": "0 1 0",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Vacant",
+          "lessor": "Edward Conolly",
+          "desc": "H",
+          "building_val": "0 14 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Edward Conolly",
+          "lessor": "Michael Williams",
+          "desc": "H & sm. G",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Vacant",
+          "lessor": "Michael Quin",
+          "desc": "Building ground",
+          "area": "0 0 2",
+          "land_val": "0 1 0",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "James Henry",
+          "lessor": "Michael Quin",
+          "desc": "Ho., yard & sm. gar.",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "John Cullen",
+          "lessor": "Michael Quin",
+          "desc": "H",
+          "building_val": "0 18 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Christopher Boe",
+          "lessor": "John Smyth",
+          "desc": "H",
+          "building_val": "1 8 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "Vacant",
+          "lessor": "John Smyth",
+          "desc": "Ruins"
+        },
+        {
+          "mr": "33",
+          "occupier": "Vacant",
+          "lessor": "John Smyth",
+          "desc": "Building ground",
+          "area": "0 0 2",
+          "land_val": "0 1 0",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Michael Nugent",
+          "lessor": "John Smyth",
+          "desc": "H",
+          "building_val": "1 2 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Martin Tallan",
+          "lessor": "Henry Malone",
+          "desc": "H & yard",
+          "building_val": "0 18 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Thomas Cosgrave",
+          "lessor": "James Henry",
+          "desc": "H",
+          "building_val": "1 8 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "Vacant",
+          "lessor": "Henry Malone",
+          "desc": "Building-ground",
+          "area": "0 0 2",
+          "land_val": "0 1 0",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Peter Glinn",
+          "lessor": "Henry Malone",
+          "desc": "H",
+          "building_val": "0 18 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "Christopher Cullen",
+          "lessor": "Patrick Mulready",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "Mary Mee",
+          "lessor": "Patrick Mulready",
+          "desc": "H",
+          "building_val": "1 12 0",
+          "total_val": "1 12 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "Patrick Grady",
+          "lessor": "James Rourke",
+          "desc": "H",
+          "building_val": "1 2 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "Ellen Farrell",
+          "lessor": "Reps. Richard Clifford, Esq.",
+          "desc": "H",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "Brewery-yard",
+          "occupier": "Vacant",
+          "lessor": "Jno. T. Houghton, Esq.",
+          "desc": "Office",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Henry Holbrook",
+          "lessor": "Jno. T. Houghton, Esq.",
+          "desc": "Office",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Joseph Coleman",
+          "lessor": "Jno. T. Houghton, Esq.",
+          "desc": "H",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "William Brennan",
+          "lessor": "Jno. T. Houghton, Esq.",
+          "desc": "H",
+          "building_val": "1 8 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Robinson",
+          "lessor": "Jno. T. Houghton, Esq.",
+          "desc": "H",
+          "building_val": "1 8 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Edward Lyons",
+          "lessor": "Jno. T. Houghton, Esq.",
+          "desc": "H",
+          "building_val": "1 8 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Denis Mulligan",
+          "lessor": "Jno. T. Houghton, Esq.",
+          "desc": "H",
+          "building_val": "1 8 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Catherine Cullen",
+          "lessor": "Jno. T. Houghton, Esq.",
+          "desc": "H",
+          "building_val": "1 8 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Michael Brady",
+          "lessor": "Jno. T. Houghton, Esq.",
+          "desc": "H & orchard",
+          "area": "0 3 32",
+          "land_val": "5 10 0",
+          "building_val": "1 0 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Vacant",
+          "lessor": "Jno. T. Houghton, Esq.",
+          "desc": "H",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Lawrence Egan",
+          "lessor": "Jno. T. Houghton, Esq.",
+          "desc": "H",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Edward Shannon",
+          "lessor": "Jno. T. Houghton, Esq.",
+          "desc": "H",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Anne Higgins",
+          "lessor": "Jno. T. Houghton, Esq.",
+          "desc": "H",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "William Malone",
+          "lessor": "Jno. T. Houghton, Esq.",
+          "desc": "H",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "15 A B",
+          "occupier": "Patrick Hutchinson",
+          "lessor": "Jno. T. Houghton, Esq.",
+          "desc": "H & yard",
+          "building_val": "1 18 0",
+          "total_val": "1 18 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Judith Fotherill",
+          "lessor": "Jno. T. Houghton, Esq.",
+          "desc": "H",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Margaret Murphy",
+          "lessor": "Jno. T. Houghton, Esq.",
+          "desc": "H",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Patrick Farrell",
+          "lessor": "Jno. T. Houghton, Esq.",
+          "desc": "H",
+          "building_val": "1 18 0",
+          "total_val": "1 18 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "John White",
+          "lessor": "Jno. T. Houghton, Esq.",
+          "desc": "H",
+          "building_val": "1 18 0",
+          "total_val": "1 18 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Michael Connor",
+          "lessor": "Jno. T. Houghton, Esq.",
+          "desc": "H, O, & yard",
+          "building_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "James Rourke",
+          "lessor": "Jno. T. Houghton, Esq.",
+          "desc": "Office",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "Church-lane",
+          "occupier": "James Kenny",
+          "lessor": "Messrs. Shaw and Houghton",
+          "desc": "H",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        }
+      ]
+    }
+  ]
+}

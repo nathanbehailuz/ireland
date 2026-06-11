@@ -1,0 +1,365 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF LEIXLIP",
+      "entries": [
+        {
+          "mr": "13",
+          "townland": "LEIXLIP",
+          "occupier": "William Keogh",
+          "lessor": "Henry Beere",
+          "desc": "H",
+          "building_val": "1 12 0",
+          "total_val": "1 12 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "14",
+          "occupier": "Michael Shelly",
+          "lessor": "Henry Beere",
+          "desc": "H",
+          "building_val": "1 12 0",
+          "total_val": "1 12 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Thomas Swan",
+          "lessor": "Henry Beere",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "John Corbally",
+          "lessor": "Henry Beere",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "John Greene",
+          "lessor": "Henry Beere",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "James Keogh, and Patrick Dolan",
+          "lessor": "Henry Beere",
+          "desc": "H",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "19",
+          "occupier": "William Blair, Michael Daly, Michael Walsh, & Thomas Keegan",
+          "lessor": "Henry Beere",
+          "desc": "H",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "Priest's-Lane",
+          "occupier": "Patrick Golden",
+          "lessor": "Edward Timmins",
+          "desc": "H and yard",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Patrick Crooks",
+          "lessor": "Edward Timmins",
+          "desc": "H and yard",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Michael Foley",
+          "lessor": "Edward Timmins",
+          "desc": "H and yard",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Patrick Donnelly",
+          "lessor": "Edward Timmins",
+          "desc": "H and yard",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "Buckley's-Lane",
+          "occupier": "Michael Kerigan",
+          "lessor": "Digby J. Foulkes",
+          "desc": "H and L",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "William Timmins",
+          "lessor": "Richd.Newcomen, Esq.",
+          "desc": "Shed, yd. & old quarry (including No. 9.)",
+          "area": "0 1 29",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Sheridan, and lodgers",
+          "lessor": "Richd.Newcomen, Esq.",
+          "desc": "H and yard",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Edward Greene",
+          "lessor": "Richd.Newcomen, Esq.",
+          "desc": "H, yard, & sm. gar.",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Boyan, & lodgers",
+          "lessor": "Richd.Newcomen, Esq.",
+          "desc": "H, yard, & sm. gar.",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Michael Ennis",
+          "lessor": "Richd.Newcomen, Esq.",
+          "desc": "H, O, yd. & sm. gar.",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "William Kisby",
+          "lessor": "Richd.Newcomen, Esq.",
+          "desc": "H and yard",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Mary Tyndall",
+          "lessor": "Thomas Ennis",
+          "desc": "H",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "William Timmins",
+          "lessor": "Richd.Newcomen, Esq.",
+          "desc": "Old quarry (waste,)"
+        },
+        {
+          "mr": "10",
+          "occupier": "Thomas Ennis",
+          "lessor": "Richd.Newcomen, Esq.",
+          "desc": "H, O, corn-mill, and G",
+          "area": "0 0 12",
+          "land_val": "0 6 0",
+          "building_val": "9 4 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Thomas M'Gouran",
+          "lessor": "Thomas Ennis",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Mary Murray",
+          "lessor": "Thomas Ennis",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Daniel Curran",
+          "lessor": "Thomas Ennis",
+          "desc": "H",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_1": "Pound-Street",
+          "occupier": "Vacant",
+          "lessor": "Sir Richd. Steele, Bart.",
+          "desc": "H, O, yd., & gar.",
+          "area": "1 0 12",
+          "land_val": "3 10 0",
+          "building_val": "23 10 0",
+          "total_val": "27 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Michael Moore",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "H, O, yd., & gar.",
+          "area": "1 0 31",
+          "land_val": "2 10 0",
+          "building_val": "16 10 0",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Stephen Neill, sen.",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "H and G",
+          "area": "0 0 20",
+          "land_val": "0 7 0",
+          "building_val": "2 13 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Jas. Flood and lodgers",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "H, O, yd., & gar.",
+          "area": "0 0 37",
+          "land_val": "1 0 0",
+          "building_val": "9 15 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Gerald Dalton",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "H, O, yd., & gar.",
+          "area": "0 3 12",
+          "land_val": "2 0 0",
+          "building_val": "12 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Gerald Dalton",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "Old pound, Waste under H, yards, streets, and small G",
+          "area": "15 3 39"
+        },
+        {
+          "desc": "Total",
+          "area": "604 3 5",
+          "land_val": "738 13 0",
+          "building_val": "1206 7 0",
+          "total_val": "1968 6 0",
+          "is_total": 1
+        },
+        {
+          "occupier": "R. C. Chapel, and yard",
+          "desc": "R. C. Chapel, and yard",
+          "area": "1 0 3",
+          "land_val": "0 15 0",
+          "building_val": "28 0 0",
+          "total_val": "28 15 0",
+          "is_exemption": 1
+        },
+        {
+          "occupier": "National School-house and offices",
+          "desc": "National School-H and O",
+          "building_val": "9 10 0",
+          "total_val": "9 10 0",
+          "is_exemption": 1
+        },
+        {
+          "occupier": "Church and grave-yard",
+          "desc": "Church and grave-yard",
+          "area": "0 3 5",
+          "land_val": "1 5 0",
+          "building_val": "30 0 0",
+          "total_val": "31 5 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total of Exemptions",
+          "area": "1 3 8",
+          "land_val": "2 0 0",
+          "building_val": "67 10 0",
+          "total_val": "69 10 0",
+          "is_total": 1,
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of Exemptions",
+          "area": "602 3 37",
+          "land_val": "736 13 0",
+          "building_val": "1138 17 0",
+          "total_val": "1898 16 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "LEIXLIP DEMESNE",
+          "os": "11",
+          "occupier": "Rev. Fredk. Cavendish",
+          "lessor": "Thomas Conolly, Esq.",
+          "desc": "H, O, and L",
+          "area": "238 2 39",
+          "land_val": "250 0 0",
+          "building_val": "70 0 0",
+          "total_val": "320 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "238 2 39",
+          "land_val": "250 0 0",
+          "building_val": "70 0 0",
+          "total_val": "320 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "NEWTOWN",
+          "os": "6 & 11",
+          "occupier": "James Kelly",
+          "lessor": "Rev. James S. Hunter, & Misses Stephenson",
+          "desc": "L",
+          "area": "16 0 31",
+          "land_val": "17 0 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Cahill",
+          "lessor": "Richard T. Needham",
+          "desc": "L",
+          "area": "3 1 0",
+          "land_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "M. G. W. Railway & Royal Canal Co.",
+          "lessor": "In fee",
+          "desc": "Railway, 160 lineal perches, and canal and banks, 160 lineal perches",
+          "area": "6 1 4",
+          "total_val": "32 0 0",
+          "n_shared": 2
+        }
+      ]
+    }
+  ]
+}

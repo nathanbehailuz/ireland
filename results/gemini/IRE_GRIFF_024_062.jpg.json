@@ -1,0 +1,444 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF BALLYBARRACK",
+      "entries": [
+        {
+          "mr": "",
+          "townland": "KILLALLY",
+          "os": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "L",
+          "area": "1 0 25",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0",
+          "is_exemption": 1,
+          "is_continued": 1
+        },
+        {
+          "mr": "",
+          "desc": "Total, exclusive of Exemptions,",
+          "area": "115 0 37",
+          "land_val": "111 10 0",
+          "building_val": "6 5 0",
+          "total_val": "117 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "LITTLEMILL",
+          "os": "7",
+          "occupier": "John Henry,",
+          "lessor": "In fee,",
+          "desc": "Herd's H,O,&L",
+          "area": "53 1 2",
+          "land_val": "53 5 0",
+          "building_val": "1 15 0",
+          "total_val": "55 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Patrick O'Neill,",
+          "lessor": "John Henry,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Michael O'Rourke,",
+          "lessor": "Same,",
+          "desc": "H,corn-mill,&L",
+          "area": "1 3 35",
+          "land_val": "1 0 0",
+          "building_val": "13 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "James Lynch,",
+          "lessor": "Alexander Henry,",
+          "desc": "H,O,&L",
+          "area": "3 3 33",
+          "land_val": "4 0 0",
+          "building_val": "1 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "3 b",
+          "occupier": "Patrick English,",
+          "lessor": "James Lynch,",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Michael Brennan,",
+          "lessor": "George M'Cartney,",
+          "desc": "H&L",
+          "area": "2 2 29",
+          "land_val": "2 15 0",
+          "building_val": "0 10 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "4 b",
+          "occupier": "Bryan Wallace,",
+          "lessor": "Michael Brennan,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4 c",
+          "occupier": "John M'Cabe,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Sylvester M'Ardle,",
+          "lessor": "George M'Cartney,",
+          "desc": "H,O,&L",
+          "area": "3 3 12",
+          "land_val": "4 0 0",
+          "building_val": "0 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "5 b",
+          "occupier": "Bridget Brennan,",
+          "lessor": "Free,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Thomas M'Cartney,",
+          "lessor": "George M'Cartney,",
+          "desc": "L",
+          "area": "6 0 21",
+          "land_val": "6 10 0",
+          "building_val": "",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Thomas M'Cartney,",
+          "lessor": "Rose Byrne,",
+          "desc": "L",
+          "area": "4 1 25",
+          "land_val": "4 10 0",
+          "building_val": "",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Patrick Brennan,",
+          "lessor": "George M'Cartney,",
+          "desc": "L",
+          "area": "3 2 12",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Patrick Brennan,",
+          "lessor": "Peter M'Keogh,",
+          "desc": "H,O,&L",
+          "area": "7 2 26",
+          "land_val": "7 10 0",
+          "building_val": "1 0 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Patrick Brennan,",
+          "lessor": "Rose Byrne,",
+          "desc": "L",
+          "area": "4 3 16",
+          "land_val": "5 0 0",
+          "building_val": "",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Patrick M'Ardle,",
+          "lessor": "Peter M'Keogh,",
+          "desc": "L",
+          "area": "7 2 15",
+          "land_val": "7 10 0",
+          "building_val": "",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Patrick M'Ardle,",
+          "lessor": "Rose Byrne,",
+          "desc": "L",
+          "area": "3 2 22",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total,",
+          "area": "103 2 8",
+          "land_val": "103 0 0",
+          "building_val": "20 8 0",
+          "total_val": "123 8 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "NEWTOWNBABE",
+          "os": "7 & 12",
+          "occupier": "Peter M'Mahon,",
+          "lessor": "John De Montmorency Pratt,",
+          "desc": "H,O,&L",
+          "area": "187 2 29",
+          "land_val": "178 0 0",
+          "building_val": "7 0 0",
+          "total_val": "185 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Patrick M'Mahon,",
+          "lessor": "Peter M'Mahon,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "1 c",
+          "occupier": "Vacant,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "1 d",
+          "occupier": "Vacant,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "",
+          "desc": "Total,",
+          "area": "187 2 29",
+          "land_val": "178 0 0",
+          "building_val": "8 15 0",
+          "total_val": "186 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "RATH",
+          "os": "7",
+          "occupier": "Rev. John Marmion,",
+          "lessor": "Lord Clermont,",
+          "desc": "H,O,&L",
+          "area": "24 2 28",
+          "land_val": "27 0 0",
+          "building_val": "16 0 0",
+          "total_val": "43 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Peter M'Evoy,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "12 2 13",
+          "land_val": "14 0 0",
+          "building_val": "2 0 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Philip M'Ardle,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "6 1 11",
+          "land_val": "6 10 0",
+          "building_val": "1 0 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Catherine O'Hare,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "23 2 32",
+          "land_val": "26 0 0",
+          "building_val": "1 10 0",
+          "total_val": "27 10 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Guardians of Dundalk Union,",
+          "lessor": "In fee,",
+          "desc": "Work-house and yard,",
+          "area": "8 0 18",
+          "land_val": "",
+          "building_val": "100 0 0",
+          "total_val": "100 0 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total,",
+          "area": "75 1 22",
+          "land_val": "73 10 0",
+          "building_val": "120 10 0",
+          "total_val": "194 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "",
+          "desc": "Work-house and yard,",
+          "area": "8 0 18",
+          "land_val": "",
+          "building_val": "100 0 0",
+          "total_val": "100 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "desc": "Total, exclusive of Exemptions,",
+          "area": "67 1 4",
+          "land_val": "73 10 0",
+          "building_val": "20 10 0",
+          "total_val": "94 0 0",
+          "is_total": 1
+        }
+      ]
+    },
+    {
+      "parish": "PARISH OF BALLYMASCANLAN",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "KILCURRY",
+          "os": "4",
+          "occupier": "Catherine M'Ardle,",
+          "lessor": "Lord Clermont,",
+          "desc": "H,O,&L",
+          "area": "43 0 20",
+          "land_val": "40 0 0",
+          "building_val": "3 0 0",
+          "total_val": "43 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Patrick M'Donnell,",
+          "lessor": "Catherine M'Ardle,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "1 c",
+          "occupier": "James M'Keon,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "1 d",
+          "occupier": "Peter M'Gave,",
+          "lessor": "Same,",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 7 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "1 e",
+          "occupier": "Vacant,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "1 f",
+          "occupier": "",
+          "lessor": "Lord Clermont,",
+          "desc": "R.C.Chapel, off., & yard,",
+          "area": "",
+          "land_val": "",
+          "building_val": "11 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "1 g",
+          "occupier": "Nat. Board of Education,",
+          "lessor": "Same,",
+          "desc": "Nat. school-ho., off., & yd",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "James M'Ardle,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "78 1 13",
+          "land_val": "76 5 0",
+          "building_val": "1 15 0",
+          "total_val": "78 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Denis M'Ardle,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "46 0 9",
+          "land_val": "46 0 0",
+          "building_val": "1 0 0",
+          "total_val": "47 0 0"
+        }
+      ]
+    }
+  ]
+}

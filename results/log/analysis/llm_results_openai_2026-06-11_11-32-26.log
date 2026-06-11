@@ -1,0 +1,22 @@
+2026-06-11 11:33:36,020 - INFO - Loaded 1904 pages (90667 rows); skipped 0 files
+2026-06-11 11:33:41,016 - INFO - GV join review rows: 0
+2026-06-11 11:33:59,771 - INFO - Townland groups: 3201 one-page, 619 multi-page
+2026-06-11 11:34:00,582 - INFO - Wrote results/openai/combined_extractions.csv
+2026-06-11 11:34:00,894 - INFO - Wrote results/openai/combined_extractions.parquet
+2026-06-11 11:34:05,617 - INFO - Wrote results/openai/townland_valuation_checks.csv (4198 segments)
+2026-06-11 11:34:10,542 - INFO - Wrote results/openai/no_total_row_debug.csv (1034 no-total segments): {'genuinely_missing': 625, 'unflagged_total': 248, 'tiny_segment': 137, 'split_segment': 24}
+2026-06-11 11:34:10,550 - INFO - Wrote results/openai/performance_summary.json
+2026-06-11 11:34:10,551 - INFO - Summary: {
+  "llm": "openai",
+  "pages_processed": 1904,
+  "entry_rows": 90667,
+  "townland_segments": 4198,
+  "segments_with_total_row": 3164,
+  "segments_with_total_row_pct": 75.37,
+  "valuation_pass_count": 2612,
+  "valuation_pass_pct": 82.55,
+  "one_page_townlands_segments": 3206,
+  "one_page_townlands_valuation_pass_pct": 84.91,
+  "multi_page_townlands_segments": 992,
+  "multi_page_townlands_valuation_pass_pct": 73.93
+}

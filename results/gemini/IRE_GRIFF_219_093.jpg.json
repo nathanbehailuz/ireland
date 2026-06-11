@@ -1,0 +1,645 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF SKREEN",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "ROSS",
+          "os": "31, 37, & 38",
+          "occupier": "Thomas Maher",
+          "lessor": "William Palmer",
+          "desc": "Herd's H,O,&L",
+          "area": "108 0 13",
+          "land_val": "78 0 0",
+          "building_val": "2 0 0",
+          "total_val": "80 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "James Armstrong",
+          "lessor": "Same",
+          "desc": "H,forge,&L",
+          "area": "6 2 10",
+          "land_val": "3 18 0",
+          "building_val": "0 12 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "3 b",
+          "occupier": "William Palmer",
+          "lessor": "Duke of Bedford",
+          "desc": "G",
+          "area": "0 1 12",
+          "land_val": "0 4 0",
+          "building_val": "",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Bridget Reilly",
+          "lessor": "William Palmer",
+          "desc": "H,O,&L",
+          "area": "12 1 23",
+          "land_val": "9 0 0",
+          "building_val": "1 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "John Lunders",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Patrick Cullen",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "1 2 6",
+          "land_val": "1 5 0",
+          "building_val": "0 10 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Patrick M'Quirk",
+          "lessor": "Patrick Cullen",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Felix Cahill",
+          "lessor": "William Palmer",
+          "desc": "L",
+          "area": "2 0 0",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Laurence Brady",
+          "lessor": "Felix Cahill",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "6 A b",
+          "occupier": "Felix Cahill",
+          "lessor": "Duke of Bedford",
+          "desc": "H,O,&L",
+          "area": "30 2 30",
+          "land_val": "21 0 0",
+          "building_val": "5 0 0",
+          "total_val": "36 0 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Felix Cahill",
+          "lessor": "Duke of Bedford",
+          "desc": "L",
+          "area": "21 3 7",
+          "land_val": "10 0 0",
+          "building_val": "",
+          "total_val": "36 0 0"
+        },
+        {
+          "mr": "A b",
+          "occupier": "Christopher Markey",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 4 0",
+          "building_val": "0 6 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "B a",
+          "occupier": "Thomas Bird",
+          "lessor": "Felix Cahill",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Christopher Markey",
+          "lessor": "Duke of Bedford",
+          "desc": "L",
+          "area": "3 2 5",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Jane Tighe",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "5 1 4",
+          "land_val": "2 17 0",
+          "building_val": "0 8 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Patk. & Thos. Everett",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "9 2 25",
+          "land_val": "6 0 0",
+          "building_val": "0 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "10 A a",
+          "occupier": "Catherine Commons",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 1 7",
+          "land_val": "6 0 0",
+          "building_val": "0 10 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Catherine Commons",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 3 17",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "A b",
+          "occupier": "William Commons",
+          "lessor": "Catherine Commons",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "B a",
+          "occupier": "William Bennett",
+          "lessor": "Duke of Bedford",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 3 0",
+          "building_val": "0 7 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Matthew Hillard",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "100 1 27",
+          "land_val": "64 0 0",
+          "building_val": "",
+          "total_val": "64 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Thomas Nolan",
+          "lessor": "Matthew Hillard",
+          "desc": "H&G",
+          "area": "0 2 10",
+          "land_val": "0 10 0",
+          "building_val": "0 15 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Thomas Smith",
+          "lessor": "Duke of Bedford",
+          "desc": "H,O,&L",
+          "area": "3 3 37",
+          "land_val": "2 15 0",
+          "building_val": "0 10 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Bartholomew Smith",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 1 16",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Bartholomew Smith",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 1 27",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Thomas M'Grane",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 2 12",
+          "land_val": "3 15 0",
+          "building_val": "",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "15 a",
+          "occupier": "Judith M'Grane",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "6 1 26",
+          "land_val": "3 15 0",
+          "building_val": "0 5 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Thomas M'Grane",
+          "lessor": "Same",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Bridget Sheil",
+          "lessor": "Judith M'Grane",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "16 A",
+          "occupier": "James Brien",
+          "lessor": "Duke of Bedford",
+          "desc": "L",
+          "area": "3 3 0",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "James Brien",
+          "lessor": "Duke of Bedford",
+          "desc": "L",
+          "area": "9 1 28",
+          "land_val": "7 5 0",
+          "building_val": "",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "A a",
+          "occupier": "Thomas English",
+          "lessor": "James Brien",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "B a",
+          "occupier": "Anne Sheridan",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "James Brien",
+          "lessor": "Duke of Bedford",
+          "desc": "L",
+          "area": "3 2 10",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "James Brien",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 3 30",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "19 a",
+          "occupier": "Christopher Conway",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "4 0 13",
+          "land_val": "2 15 0",
+          "building_val": "0 10 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "20 a",
+          "occupier": "Matthew Walsh",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "4 0 35",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "21 a",
+          "occupier": "Owen Gibney",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "4 1 4",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "22 a",
+          "occupier": "Margaret Commons",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "1 0 20",
+          "land_val": "0 14 0",
+          "building_val": "0 6 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "James Sheils",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 4 0",
+          "building_val": "0 6 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "23 a",
+          "occupier": "James Montgomery",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 2 29",
+          "land_val": "6 15 0",
+          "building_val": "1 5 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Edward J. Wilkinson",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "96 1 18",
+          "land_val": "85 0 0",
+          "building_val": "",
+          "total_val": "85 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Vacant",
+          "lessor": "Edward J. Wilkinson",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "472 2 31",
+          "land_val": "333 1 0",
+          "building_val": "10 8 0",
+          "total_val": "352 9 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "SKREEN",
+          "os": "32",
+          "occupier": "Richard Langan",
+          "lessor": "Sir W. M. Somerville, Bt.",
+          "desc": "L",
+          "area": "122 3 25",
+          "land_val": "132 0 0",
+          "building_val": "",
+          "total_val": "132 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Patrick Murray",
+          "lessor": "Richard Langan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Thomas Blake",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Patrick Sherry",
+          "lessor": "Same",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- e",
+          "occupier": "Patrick Mullen",
+          "lessor": "Thomas Curtis",
+          "desc": "L",
+          "area": "0 1 20",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Patrick Mullen",
+          "lessor": "Sir W. M. Somerville, Bt.",
+          "desc": "L",
+          "area": "7 2 34",
+          "land_val": "7 0 0",
+          "building_val": "",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Thomas Carty",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "37 3 30",
+          "land_val": "33 5 0",
+          "building_val": "0 15 0",
+          "total_val": "34 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Mary Wilkinson",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "11 1 1",
+          "land_val": "13 0 0",
+          "building_val": "",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Patrick Connelly",
+          "lessor": "Mary Wilkinson",
+          "desc": "G",
+          "area": "0 0 20",
+          "land_val": "0 4 0",
+          "building_val": "",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Patrick Connelly and Elizabeth Cregan",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5",
+          "occupier": "James Swan (See also lot 11 a)",
+          "lessor": "Sir W. M. Somerville, Bt.",
+          "desc": "L",
+          "area": "34 0 0",
+          "land_val": "36 0 0",
+          "building_val": "",
+          "total_val": "36 0 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Thomas Lunders",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "9 2 13",
+          "land_val": "10 10 0",
+          "building_val": "1 10 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Thomas Cahill",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "2 1 25",
+          "land_val": "2 0 0",
+          "building_val": "0 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Jane Cahill",
+          "lessor": "Thomas Cahill",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Thomas Donnelly",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "John Critchley",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- e",
+          "occupier": "Mary Gallagher",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "John Tobin",
+          "lessor": "Rep. Rev. Wm. Halligan",
+          "desc": "L",
+          "area": "26 3 32",
+          "land_val": "28 0 0",
+          "building_val": "",
+          "total_val": "28 0 0"
+        }
+      ]
+    }
+  ]
+}

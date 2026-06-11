@@ -1,0 +1,411 @@
+{
+  "parishes": [
+    {
+      "parish": "URNEY",
+      "entries": [
+        {
+          "mr": "31",
+          "townland": "KEADEW",
+          "occupier": "Rev. Andrew Hogg",
+          "lessor": "William Hague, jun.",
+          "desc": "L (part plantation)",
+          "area": "10 3 35",
+          "land_val": "12 10 0",
+          "building_val": "",
+          "total_val": "12 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "32",
+          "occupier": "George Galloghy",
+          "lessor": "Lord Farnham",
+          "desc": "L (part plantation)",
+          "area": "4 0 29",
+          "land_val": "5 0 0",
+          "building_val": "",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "William Ball",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 3 5",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "34 1",
+          "sublocation_1": "TOWN OF CAVAN (part of)",
+          "sublocation_2": "CHURCH-PLACE",
+          "occupier": "Church and grave-yard",
+          "lessor": "No rent (see Exemptions)",
+          "desc": "H,O,G",
+          "area": "0 2 10",
+          "land_val": "1 10 0",
+          "building_val": "36 10 0",
+          "total_val": "38 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "-",
+          "occupier": "George Rowe, M.D.",
+          "lessor": "Lord Farnham",
+          "desc": "H,O,G",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "-",
+          "occupier": "Infirmary house, offs., and yard",
+          "lessor": "(See Exemptions.) Lord Farnham",
+          "desc": "Half annual rent of Infirmary, &c.",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "4 5 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "FARNHAM-STREET",
+          "occupier": "Michael Noble",
+          "lessor": "Rt.Rev.Doctor Browne",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "R.C.Chapel, gate-lodge, and land",
+          "lessor": "No rent (see Exemptions)",
+          "desc": "G",
+          "area": "0 3 10",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "2 5 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "3",
+          "occupier": "Rt. Rev. Doctor Browne",
+          "lessor": "Lord Farnham",
+          "desc": "H,O,academy house, yard, & garden",
+          "area": "0 2 20",
+          "land_val": "1 10 0",
+          "building_val": "68 10 0",
+          "total_val": "70 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Rt.Rev.Doctor Browne",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 0 27",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "William Anderson",
+          "lessor": "Same",
+          "desc": "Provincial branch Bank, offices, yard, & garden",
+          "area": "0 2 13",
+          "land_val": "1 10 0",
+          "building_val": "35 10 0",
+          "total_val": "37 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "William Anderson",
+          "lessor": "Same",
+          "desc": "Half annual rent of Court-house, &c.",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "25 16 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Court-house and land",
+          "lessor": "(See Exemptions.) Lord Farnham",
+          "desc": "L",
+          "area": "1 3 25",
+          "land_val": "4 0 0",
+          "building_val": "",
+          "total_val": "4 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "8",
+          "occupier": "Dr. Bernard Coyne",
+          "lessor": "Lord Farnham",
+          "desc": "H,O,G",
+          "area": "0 1 17",
+          "land_val": "0 15 0",
+          "building_val": "23 5 0",
+          "total_val": "24 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Dr. Bernard Coyne",
+          "lessor": "Marcella Harrison and William Black",
+          "desc": "H,O,G",
+          "area": "0 1 3",
+          "land_val": "0 10 0",
+          "building_val": "21 10 0",
+          "total_val": "22 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "William Black",
+          "lessor": "Lord Farnham",
+          "desc": "H,O,G",
+          "area": "0 1 3",
+          "land_val": "0 10 0",
+          "building_val": "36 10 0",
+          "total_val": "37 0 0"
+        },
+        {
+          "mr": "11",
+          "sublocation_2": "ERSKINE TERRACE",
+          "occupier": "Martin O'Ferrall",
+          "lessor": "Capt. Robert Erskine",
+          "desc": "H,O,G",
+          "area": "0 1 3",
+          "land_val": "0 10 0",
+          "building_val": "36 10 0",
+          "total_val": "37 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "James Wann",
+          "lessor": "Same",
+          "desc": "H,O,G",
+          "area": "0 1 16",
+          "land_val": "0 10 0",
+          "building_val": "33 10 0",
+          "total_val": "34 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "James Armstrong",
+          "lessor": "Same",
+          "desc": "H,O,G",
+          "area": "0 1 10",
+          "land_val": "0 10 0",
+          "building_val": "33 10 0",
+          "total_val": "34 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 1 26",
+          "land_val": "5 0 0",
+          "building_val": "",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "George Galloghy",
+          "lessor": "Lord Farnham",
+          "desc": "Half annual rent of County Gaol, &c.",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "16 8 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Presbyterian Meeting-house & gar.(attached)",
+          "lessor": "No rent (See Exemptions.)",
+          "desc": "Gate-lodge and pleasure ground",
+          "area": "2 1 20",
+          "land_val": "5 0 0",
+          "building_val": "3 0 0",
+          "total_val": "8 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "17",
+          "occupier": "County Gaol, offices, and land",
+          "lessor": "(See Exemptions.) Lord Farnham",
+          "desc": "H,O,G",
+          "area": "0 0 11",
+          "land_val": "0 10 0",
+          "building_val": "23 10 0",
+          "total_val": "24 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "18",
+          "occupier": "Lord Farnham",
+          "lessor": "In fee",
+          "desc": "H,O,G",
+          "area": "0 0 10",
+          "land_val": "0 10 0",
+          "building_val": "16 10 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Dr. Charles Halpin",
+          "lessor": "Frederick J. Halpin",
+          "desc": "H,O,G",
+          "area": "0 0 10",
+          "land_val": "0 10 0",
+          "building_val": "20 10 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Elizabeth Coyne",
+          "lessor": "Same",
+          "desc": "H,O,G",
+          "area": "0 0 14",
+          "land_val": "0 10 0",
+          "building_val": "28 10 0",
+          "total_val": "29 0 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Vacant",
+          "lessor": "Rev. Fredk. Fitzgerald",
+          "desc": "H,O,G",
+          "area": "0 0 16",
+          "land_val": "0 10 0",
+          "building_val": "29 10 0",
+          "total_val": "30 0 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Theophilus Thompson",
+          "lessor": "Same",
+          "desc": "H,O,G",
+          "area": "0 0 19",
+          "land_val": "0 10 0",
+          "building_val": "29 10 0",
+          "total_val": "30 0 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Jane Burrowes",
+          "lessor": "Same",
+          "desc": "H,O,G",
+          "area": "0 0 19",
+          "land_val": "0 10 0",
+          "building_val": "27 10 0",
+          "total_val": "28 0 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Samuel Swanzy",
+          "lessor": "Same",
+          "desc": "H,O,G",
+          "area": "0 3 0",
+          "land_val": "3 0 0",
+          "building_val": "20 0 0",
+          "total_val": "23 0 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Jane Elliott",
+          "lessor": "Same",
+          "desc": "H,O,G",
+          "area": "",
+          "land_val": "",
+          "building_val": "27 0 0",
+          "total_val": "27 0 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Vacant",
+          "lessor": "William Bell",
+          "desc": "Half annual rent of Wesleyan Chapel, &c.",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H,O,G",
+          "area": "",
+          "land_val": "",
+          "building_val": "16 0 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "WESLEYAN-STREET (pt.of)",
+          "occupier": "Wesleyan Chapel & yard",
+          "lessor": "(See Exemptions.) Lord Farnham",
+          "desc": "H,O,G",
+          "area": "",
+          "land_val": "",
+          "building_val": "10 0 0",
+          "total_val": "10 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "2",
+          "occupier": "Saml., R., & Thos. Brown",
+          "lessor": "Frederick J. Halpin",
+          "desc": "H,G",
+          "area": "",
+          "land_val": "",
+          "building_val": "8 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John M'Cabe",
+          "lessor": "Same",
+          "desc": "H,G",
+          "area": "",
+          "land_val": "",
+          "building_val": "12 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James M'Connell",
+          "lessor": "Same",
+          "desc": "Waste of houses, yards, streets, & sm. gardens",
+          "area": "7 1 13",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "5",
+          "occupier": "James William Wallace",
+          "lessor": "Same",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "desc": "Total of Rateable Property",
+          "area": "222 0 1",
+          "land_val": "307 10 0",
+          "building_val": "631 5 0",
+          "total_val": "957 1 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

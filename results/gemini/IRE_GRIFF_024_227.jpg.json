@@ -1,0 +1,574 @@
+{
+  "parishes": [
+    {
+      "parish": "CARLINGFORD",
+      "entries": [
+        {
+          "mr": "5 a",
+          "townland": "LISLEA",
+          "os": "",
+          "occupier": "Hugh Magenniss",
+          "lessor": "Marquis of Anglesey",
+          "desc": "H&L",
+          "area": "83 2 25",
+          "land_val": "0 13 0",
+          "building_val": "0 7 0",
+          "total_val": "1 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "b",
+          "occupier": "Daniel Kean",
+          "lessor": "Marquis of Anglesey",
+          "desc": "H,O,&L",
+          "area": "83 2 25",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Bernard Morgan",
+          "lessor": "Marquis of Anglesey",
+          "desc": "H&L",
+          "area": "83 2 25",
+          "land_val": "1 6 0",
+          "building_val": "0 9 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Henry Connolly",
+          "lessor": "Marquis of Anglesey",
+          "desc": "H&L",
+          "area": "83 2 25",
+          "land_val": "0 13 0",
+          "building_val": "0 9 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Laurence Kean",
+          "lessor": "Marquis of Anglesey",
+          "desc": "H,O,&L",
+          "area": "83 2 25",
+          "land_val": "0 13 0",
+          "building_val": "0 10 0",
+          "total_val": "1 3 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "James Kean",
+          "lessor": "Marquis of Anglesey",
+          "desc": "H,O,&L",
+          "area": "83 2 25",
+          "land_val": "1 6 0",
+          "building_val": "0 8 0",
+          "total_val": "1 14 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "Michael Small",
+          "lessor": "Marquis of Anglesey",
+          "desc": "H&L",
+          "area": "83 2 25",
+          "land_val": "1 6 0",
+          "building_val": "0 9 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "h",
+          "occupier": "Patrick Clarke",
+          "lessor": "Marquis of Anglesey",
+          "desc": "H,O,&L",
+          "area": "83 2 25",
+          "land_val": "2 3 0",
+          "building_val": "0 12 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "i",
+          "occupier": "Bernard Hanlon",
+          "lessor": "Marquis of Anglesey",
+          "desc": "O&L",
+          "area": "83 2 25",
+          "land_val": "3 17 0",
+          "building_val": "0 8 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "j",
+          "occupier": "Daniel Hanlon",
+          "lessor": "Marquis of Anglesey",
+          "desc": "H,O,&L",
+          "area": "83 2 25",
+          "land_val": "1 0 0",
+          "building_val": "0 12 0",
+          "total_val": "1 12 0"
+        },
+        {
+          "mr": "k",
+          "occupier": "John Clarke",
+          "lessor": "Marquis of Anglesey",
+          "desc": "H,O,&L",
+          "area": "83 2 25",
+          "land_val": "2 3 0",
+          "building_val": "0 12 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "l",
+          "occupier": "John Kean",
+          "lessor": "Marquis of Anglesey",
+          "desc": "H,O,&L",
+          "area": "83 2 25",
+          "land_val": "2 8 0",
+          "building_val": "0 12 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "m",
+          "occupier": "Felix Larkin",
+          "lessor": "Marquis of Anglesey",
+          "desc": "H,O,&L",
+          "area": "83 2 25",
+          "land_val": "1 12 0",
+          "building_val": "0 13 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "n",
+          "occupier": "Peter Larkin",
+          "lessor": "Marquis of Anglesey",
+          "desc": "H,O,&L",
+          "area": "83 2 25",
+          "land_val": "1 10 0",
+          "building_val": "0 10 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "James Hanlon",
+          "lessor": "Marquis of Anglesey",
+          "desc": "L",
+          "area": "83 2 25",
+          "land_val": "0 13 0",
+          "building_val": "",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Peter Gray",
+          "lessor": "Marquis of Anglesey",
+          "desc": "L",
+          "area": "83 2 25",
+          "land_val": "0 4 0",
+          "building_val": "",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Felix Larkin",
+          "lessor": "Same",
+          "desc": "O&L",
+          "area": "20 0 30",
+          "land_val": "4 2 0",
+          "building_val": "0 8 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Marquis of Anglesey",
+          "lessor": "In fee",
+          "desc": "L (mountain)",
+          "area": "281 0 35",
+          "land_val": "4 15 0",
+          "building_val": "",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Lord Clermont",
+          "lessor": "In fee",
+          "desc": "Mountain",
+          "area": "16 1 30",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "502 3 13",
+          "land_val": "90 14 0",
+          "building_val": "28 14 0",
+          "total_val": "119 8 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "LUGBRISKAN",
+          "os": "8",
+          "occupier": "Anthony Peppar",
+          "lessor": "Lewis Upton",
+          "desc": "H,O,&L",
+          "area": "8 1 7",
+          "land_val": "6 10 0",
+          "building_val": "0 15 0",
+          "total_val": "18 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "William M. Christmas",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "13 0 24",
+          "land_val": "11 5 0",
+          "building_val": "",
+          "total_val": "18 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2",
+          "occupier": "James Murphy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "10 3 16",
+          "land_val": "8 10 0",
+          "building_val": "",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Vacant",
+          "lessor": "James Murphy",
+          "desc": "H",
+          "area": "0 2 21",
+          "land_val": "6 0 0",
+          "building_val": "",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Stephen M'Guigan",
+          "lessor": "Lewis Upton",
+          "desc": "L",
+          "area": "3 1 0",
+          "land_val": "2 15 0",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Vacant",
+          "lessor": "Stephen M'Guigan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "42 0 28",
+          "land_val": "35 0 0",
+          "building_val": "1 15 0",
+          "total_val": "36 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "MADDOXGARDEN",
+          "os": "8",
+          "occupier": "Patrick M'Donnell",
+          "lessor": "Edward Tipping",
+          "desc": "H,O,&L",
+          "area": "1 3 6",
+          "land_val": "1 15 0",
+          "building_val": "0 15 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "1 3 6",
+          "land_val": "1 15 0",
+          "building_val": "0 15 0",
+          "total_val": "2 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A a",
+          "townland": "MADDOXLAND",
+          "os": "8",
+          "occupier": "Henry M'Grahan",
+          "lessor": "Edward Tipping",
+          "desc": "L",
+          "area": "0 3 35",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "3 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Henry M'Grahan",
+          "lessor": "Edward Tipping",
+          "desc": "L",
+          "area": "2 0 30",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "3 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 A",
+          "occupier": "Owen Connor",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "2 2 15",
+          "land_val": "2 7 0",
+          "building_val": "",
+          "total_val": "17 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "B a",
+          "occupier": "Owen Connor",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 0 38",
+          "land_val": "3 10 0",
+          "building_val": "1 10 0",
+          "total_val": "17 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "C",
+          "occupier": "Owen Connor",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 17",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "17 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "D",
+          "occupier": "Owen Connor",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 0 32",
+          "land_val": "6 13 0",
+          "building_val": "",
+          "total_val": "17 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "3 A a",
+          "occupier": "Patrick Magrath",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "6 1 15",
+          "land_val": "6 5 0",
+          "building_val": "1 0 0",
+          "total_val": "9 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B",
+          "occupier": "Patrick Magrath",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 3 3",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "9 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Michael Rice",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "2 3 16",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Peter Hanlon (See also lot 8.)",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 3 16",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Michael M'Astave",
+          "lessor": "Same",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Mary M'Astave",
+          "lessor": "Same",
+          "desc": "H&small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Michael M'Astave",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "14 3 27",
+          "land_val": "10 0 0",
+          "building_val": "",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "James Fullam",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Sarah Malone (See also 16 g.)",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 3 33",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "7 A b",
+          "occupier": "James M'Dermott",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 0 32",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "8 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "a",
+          "occupier": "James M'Dermott",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "2 1 10",
+          "land_val": "2 5 0",
+          "building_val": "1 0 0",
+          "total_val": "8 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "c",
+          "occupier": "James M'Dermott",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 1 5",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "8 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Peter Hanlon",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "2 0 30",
+          "land_val": "0 8 0",
+          "building_val": "0 10 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Thompson",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "2 0 30",
+          "land_val": "1 12 0",
+          "building_val": "0 10 0",
+          "total_val": "2 2 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Michael M'Dermott",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "4 3 35",
+          "land_val": "5 0 0",
+          "building_val": "0 15 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick M'Dermott",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 7 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Michael Crawley",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "17 0 22",
+          "land_val": "18 0 0",
+          "building_val": "0 10 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Vacant",
+          "lessor": "Michael Crawley",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Patrick Gallagher",
+          "lessor": "Edward Tipping",
+          "desc": "H,O,&L",
+          "area": "7 2 31",
+          "land_val": "8 0 0",
+          "building_val": "0 15 0",
+          "total_val": "8 15 0"
+        }
+      ]
+    }
+  ]
+}

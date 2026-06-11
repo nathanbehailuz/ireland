@@ -1,0 +1,487 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF REYNAGH",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "CUBA",
+          "os": "21",
+          "occupier": "Henry Trench,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "11 3 17",
+          "land_val": "12 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James McGrath,",
+          "lessor": "Henry Trench,",
+          "desc": "L",
+          "area": "12 1 25",
+          "land_val": "12 5 0",
+          "total_val": "12 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Edward Dolan,",
+          "lessor": "Henry Trench,",
+          "desc": "L",
+          "area": "9 2 36",
+          "land_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Austin Cornwall,",
+          "lessor": "Henry Trench,",
+          "desc": "L",
+          "area": "2 2 2",
+          "land_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Charles Duffie,",
+          "lessor": "Henry Trench,",
+          "desc": "L",
+          "area": "7 2 30",
+          "land_val": "8 5 0",
+          "total_val": "8 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Thomas Hogan,",
+          "lessor": "Henry Trench,",
+          "desc": "L",
+          "area": "8 3 39",
+          "land_val": "9 10 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Rev. James Bell,",
+          "lessor": "Henry Trench,",
+          "desc": "L",
+          "area": "5 1 0",
+          "land_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Rev. James Bell,",
+          "lessor": "Henry Trench,",
+          "desc": "H,O,gate-lodge,&L",
+          "area": "5 1 29",
+          "land_val": "6 0 0",
+          "building_val": "36 0 0",
+          "total_val": "42 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Vacant,",
+          "lessor": "Thomas Deehan,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Keiran Molloy,",
+          "lessor": "Henry Trench,",
+          "desc": "L",
+          "area": "9 3 36",
+          "land_val": "11 10 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "James Grady,",
+          "lessor": "Henry Trench,",
+          "desc": "L",
+          "area": "9 1 15",
+          "land_val": "11 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "James Callaghan,",
+          "lessor": "Henry Trench,",
+          "desc": "L",
+          "area": "13 1 30",
+          "land_val": "13 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "John Boyle.",
+          "lessor": "Henry Trench,",
+          "desc": "L",
+          "area": "7 2 0",
+          "land_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "104 0 28",
+          "land_val": "108 15 0",
+          "building_val": "36 5 0",
+          "total_val": "145 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CUMMEEN.",
+          "os": "21",
+          "occupier": "Anna Burdett, .",
+          "lessor": "J. T. Kane and Frances Dowling, .",
+          "desc": "L",
+          "area": "53 0 6",
+          "land_val": "37 0 0",
+          "total_val": "37 0 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "53 0 6",
+          "land_val": "37 0 0",
+          "total_val": "37 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CURRAGHAVARNA AND PORTAVROLLA.",
+          "os": "21",
+          "occupier": "William Hannon",
+          "lessor": "Henry Trench, .",
+          "desc": "L",
+          "area": "17 2 20",
+          "land_val": "20 0 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Mahon, .",
+          "lessor": "Henry Trench, .",
+          "desc": "L",
+          "area": "2 2 28",
+          "land_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Vacant, .",
+          "lessor": "John Mahony, .",
+          "desc": "H (dilapidated),",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Michael Larkin,",
+          "lessor": "Henry Trench, .",
+          "desc": "H,O,&L",
+          "area": "14 1 13",
+          "land_val": "13 5 0",
+          "building_val": "0 15 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Hartin, .",
+          "lessor": "Henry Trench, .",
+          "desc": "L",
+          "area": "18 1 23",
+          "land_val": "20 0 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Hartin, .",
+          "lessor": "Captain Hussey and Reps.John Brid, M.D.,",
+          "desc": "L",
+          "area": "13 3 35",
+          "land_val": "14 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Thomas Deehan,",
+          "lessor": "Henry Trench, .",
+          "desc": "L",
+          "area": "5 3 13",
+          "land_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Thomas Deehan,",
+          "lessor": "Sarah Richardson,",
+          "desc": "L",
+          "area": "7 0 5",
+          "land_val": "9 10 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Reps. John Bird, M.D.,",
+          "lessor": "Thomas Seymour,",
+          "desc": "L",
+          "area": "5 2 32",
+          "land_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Reps. John Bird, M.D.,",
+          "lessor": "Henry Trench, .",
+          "desc": "L",
+          "area": "11 3 10",
+          "land_val": "16 10 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Mary Dooly, .",
+          "lessor": "Reps. John Bird, M.D.,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Horan and Hugh Killeen,",
+          "lessor": "Reps. John Bird, M.D.,",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "c",
+          "occupier": "Vacant, .",
+          "lessor": "Reps. John Bird, M.D.,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Reps. John Bird, M.D.,",
+          "lessor": "Captain Hussey,",
+          "desc": "L",
+          "area": "5 0 13",
+          "land_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "John Tallon, .",
+          "lessor": "Henry Trench, .",
+          "desc": "L",
+          "area": "3 0 17",
+          "land_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Keiran Molloy, .",
+          "lessor": "Henry Trench, .",
+          "desc": "L",
+          "area": "3 0 37",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Keiran Molloy, .",
+          "lessor": "Captain Hussey,",
+          "desc": "L",
+          "area": "1 2 4",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Keiran Hennessy,",
+          "lessor": "Henry Trench, .",
+          "desc": "Caretaker's H&L",
+          "area": "10 2 24",
+          "land_val": "13 0 0",
+          "building_val": "0 15 0",
+          "total_val": "13 15 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Francis Molloy, .",
+          "lessor": "Henry Trench, .",
+          "desc": "L",
+          "area": "6 0 14",
+          "land_val": "7 15 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "James Drought,",
+          "lessor": "Henry Trench, .",
+          "desc": "L",
+          "area": "16 1 37",
+          "land_val": "22 0 0",
+          "total_val": "22 0 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "John Briscoe, .",
+          "lessor": "Captain Hussey.",
+          "desc": "L",
+          "area": "4 0 22",
+          "land_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Thomas Miller, .",
+          "lessor": "Captain Hussey.",
+          "desc": "L",
+          "area": "5 1 14",
+          "land_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Thomas Miller, .",
+          "lessor": "Henry Trench, .",
+          "desc": "L",
+          "area": "1 1 32",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "20 A",
+          "occupier": "John Boyle, .",
+          "lessor": "Thomas Seymour,",
+          "desc": "L",
+          "area": "2 1 5",
+          "land_val": "2 15 0",
+          "total_val": "11 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B",
+          "occupier": "John Boyle, .",
+          "lessor": "William Ryan, .",
+          "desc": "L",
+          "area": "3 2 5",
+          "land_val": "5 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "21",
+          "occupier": "John Boyle,",
+          "lessor": "William Ryan, .",
+          "desc": "L",
+          "area": "3 2 5",
+          "land_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Thomas McKeon,",
+          "lessor": "Henry Trench, .",
+          "desc": "L",
+          "area": "12 2 19",
+          "land_val": "13 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Richard Sharpe,",
+          "lessor": "Henry Trench, .",
+          "desc": "L",
+          "area": "9 2 24",
+          "land_val": "14 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Mary Killeen, .",
+          "lessor": "Immediate Lessor,",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Thomas F. Fleetwood,",
+          "lessor": "Rev. James Bell,",
+          "desc": "L",
+          "area": "5 1 12",
+          "land_val": "8 5 0",
+          "total_val": "8 5 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Richard Monk, .",
+          "lessor": "Henry Trench, .",
+          "desc": "L",
+          "area": "2 2 16",
+          "land_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "James Mahon, .",
+          "lessor": "Henry Trench, .",
+          "desc": "L",
+          "area": "2 1 25",
+          "land_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "27 1",
+          "sublocation_1": "TOWN OF BANAGHER.",
+          "sublocation_2": "MAIN-STREET.",
+          "occupier": "Martin Toohy, .",
+          "lessor": "Thomas Reid, .",
+          "desc": "H & O (dilapidated),",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Vacant, .",
+          "lessor": "Thomas Reid, .",
+          "desc": "Building-ground,"
+        },
+        {
+          "mr": "3",
+          "occupier": "Bridget Grogan,",
+          "lessor": "Thomas Reid, .",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Margaret Kenny,",
+          "lessor": "Thomas Reid, .",
+          "desc": "H (dilapidated),"
+        },
+        {
+          "mr": "5",
+          "occupier": "Vacant, .",
+          "lessor": "Thomas Reid, .",
+          "desc": "Building-ground,"
+        },
+        {
+          "mr": "6",
+          "occupier": "Robert Johnston,",
+          "lessor": "Thomas Reid, .",
+          "desc": "H (dilapd.) & sm. gar.",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        }
+      ]
+    }
+  ]
+}

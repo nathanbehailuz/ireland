@@ -1,0 +1,653 @@
+{
+  "parishes": [
+    {
+      "parish": "KILDORRERY",
+      "entries": [
+        {
+          "mr": "3",
+          "townland": "SCART",
+          "occupier": "John Cleary",
+          "lessor": "Earl of Kingston",
+          "desc": "L",
+          "area": "10 1 13",
+          "land_val": "8 5 0",
+          "building_val": "",
+          "total_val": "8 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "4",
+          "occupier": "Bridget Clifford",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 1 13",
+          "land_val": "5 15 0",
+          "building_val": "",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Bridget Clifford",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 1 23",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "6 A a B C",
+          "occupier": "David Lonergan",
+          "lessor": "Same",
+          "desc": "O&L",
+          "area": "50 2 25",
+          "land_val": "41 10 0",
+          "building_val": "0 10 0",
+          "total_val": "42 0 0"
+        },
+        {
+          "mr": "B a",
+          "occupier": "Patrick Cotter, sen.",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 4 0",
+          "building_val": "0 8 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "— Carroll",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "9 3 11",
+          "land_val": "9 5 0",
+          "building_val": "",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Catherine Carroll",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 0 28",
+          "land_val": "5 5 0",
+          "building_val": "",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Thaddeus Connor",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 29",
+          "land_val": "0 4 0",
+          "building_val": "0 10 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Coghlan",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 1 3",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "John Casey",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 1 22",
+          "land_val": "0 6 0",
+          "building_val": "0 6 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Honoria Hogan",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 27",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "William Desmond",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 21",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Maurice Hennessy",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Anthony Dwyer",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "16 0 22",
+          "land_val": "13 5 0",
+          "building_val": "0 15 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Daniel Lonergan",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "11 2 10",
+          "land_val": "10 5 0",
+          "building_val": "0 10 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "James Cotter",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "6 0 20",
+          "land_val": "5 5 0",
+          "building_val": "1 0 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "John Lonergan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 3 12",
+          "land_val": "10 15 0",
+          "building_val": "1 5 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "13 A B C",
+          "occupier": "John Lonergan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 2 38",
+          "land_val": "5 10 0",
+          "building_val": "",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Jeremiah Sweeny",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 0 5",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Laurence O'Brien",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 1 14",
+          "land_val": "0 6 0",
+          "building_val": "0 6 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "15 A B",
+          "occupier": "Patrick Cotter, jun.",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 12",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Michael Brien",
+          "lessor": "Patrick Cotter, jun.",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Patrick Mahony",
+          "lessor": "Earl of Kingston",
+          "desc": "L",
+          "area": "9 1 39",
+          "land_val": "7 10 0",
+          "building_val": "",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "17 a",
+          "occupier": "William Fitzpatrick",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "9 0 39",
+          "land_val": "6 0 0",
+          "building_val": "0 5 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "18 a",
+          "occupier": "John Fitzpatrick",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "9 3 10",
+          "land_val": "6 15 0",
+          "building_val": "1 0 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "19 A B a C",
+          "occupier": "Patrick Cotter, jun.",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "16 1 27",
+          "land_val": "12 10 0",
+          "building_val": "0 10 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "A a",
+          "occupier": "Garrett Cotter, sen.",
+          "lessor": "Patrick Cotter",
+          "desc": "H&G",
+          "area": "0 0 11",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "20 A B a C",
+          "occupier": "Garrett Cotter, jun.",
+          "lessor": "Earl of Kingston",
+          "desc": "H,O,&L",
+          "area": "11 2 31",
+          "land_val": "9 0 0",
+          "building_val": "0 15 0",
+          "total_val": "9 15 0"
+        },
+        {
+          "mr": "21 a",
+          "occupier": "Ellen Mayers",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "6 3 36",
+          "land_val": "5 10 0",
+          "building_val": "0 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "22 a",
+          "occupier": "Ellen Walsh",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "3 0 17",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "23 a",
+          "occupier": "Patrick Moyers",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "21 3 14",
+          "land_val": "15 10 0",
+          "building_val": "1 5 0",
+          "total_val": "16 15 0"
+        },
+        {
+          "mr": "24 a",
+          "occupier": "Michael Boardman",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "19 1 31",
+          "land_val": "15 15 0",
+          "building_val": "1 0 0",
+          "total_val": "16 15 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "James Darcy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 30",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "John Coghlan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 12",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "27 a",
+          "occupier": "James Fox",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "13 0 17",
+          "land_val": "11 10 0",
+          "building_val": "0 15 0",
+          "total_val": "12 5 0"
+        },
+        {
+          "mr": "28 a",
+          "occupier": "Margaret Keeffe",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "30 3 21",
+          "land_val": "21 5 0",
+          "building_val": "0 15 0",
+          "total_val": "22 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Reilly",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 1 22",
+          "land_val": "0 6 0",
+          "building_val": "0 6 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Catherine Heffernan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 3 11",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Patrick Casey",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 0 33",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Mary Sillis",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Creed",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 16",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "National School-house and play-ground",
+          "lessor": "Same",
+          "desc": "National School-house and play-ground",
+          "area": "0 1 35",
+          "land_val": "0 5 0",
+          "building_val": "3 10 0",
+          "total_val": "3 15 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "31 a",
+          "occupier": "Patrick Casey",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "21 0 30",
+          "land_val": "15 15 0",
+          "building_val": "0 15 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Elizabeth Regan",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "Earl of Kingston",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "5 0 6",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "David Dee",
+          "lessor": "Earl of Kingston",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Mayers",
+          "lessor": "Same",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "William Mayers",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "0 14 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "33 a",
+          "occupier": "Jeremiah Toughy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "3 1 11",
+          "land_val": "1 10 0",
+          "building_val": "0 10 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "34 a",
+          "occupier": "William Murphy",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "11 0 7",
+          "land_val": "7 10 0",
+          "building_val": "0 5 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Casey",
+          "lessor": "William Murphy",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "35 a",
+          "occupier": "Eleanor Daly",
+          "lessor": "Earl of Kingston",
+          "desc": "H,O,&L",
+          "area": "55 2 37",
+          "land_val": "46 15 0",
+          "building_val": "1 15 0",
+          "total_val": "48 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Timothy Hanlon",
+          "lessor": "Ellen Daly",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Ellen Clancy",
+          "lessor": "Earl of Kingston",
+          "desc": "L",
+          "area": "34 3 9",
+          "land_val": "29 0 0",
+          "building_val": "",
+          "total_val": "29 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "James Nagle",
+          "lessor": "Ellen Clancy",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Barry",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "37 a",
+          "occupier": "John Foohy",
+          "lessor": "Earl of Kingston",
+          "desc": "H,O,&L",
+          "area": "26 1 33",
+          "land_val": "19 5 0",
+          "building_val": "0 15 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "38 A B a",
+          "occupier": "Michael Hogan",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "25 1 23",
+          "land_val": "17 5 0",
+          "building_val": "0 15 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "39 1",
+          "sublocation_1": "VILLAGE OF KILDORRERY (Part of)",
+          "occupier": "William Fennell",
+          "lessor": "Earl of Kingston",
+          "desc": "H, yard, & G",
+          "area": "0 3 15",
+          "land_val": "1 10 0",
+          "building_val": "1 0 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Margaret Creed",
+          "lessor": "Same",
+          "desc": "H& yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Fox",
+          "lessor": "Same",
+          "desc": "H,O,& yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Patrick Roche",
+          "lessor": "Same",
+          "desc": "H,O,& yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "-",
+          "lessor": "Same",
+          "desc": "Building site",
+          "area": "0 0 4",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "James Darcy",
+          "lessor": "Same",
+          "desc": "H, yard, & G",
+          "area": "0 0 11",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        }
+      ]
+    }
+  ]
+}

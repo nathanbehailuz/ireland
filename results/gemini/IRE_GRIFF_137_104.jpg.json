@@ -1,0 +1,465 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF KILTEEL",
+      "entries": [
+        {
+          "mr": "11",
+          "townland": "CROMWELLSTOWNHILL",
+          "os": "",
+          "occupier": "John Christian",
+          "lessor": "Mrs. Haughton",
+          "desc": "H&L",
+          "area": "10 1 8",
+          "land_val": "1 15 0",
+          "building_val": "0 10 0",
+          "total_val": "2 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "12",
+          "occupier": "Patrick Christian",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "3 1 28",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Michael Christian",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "12 3 11",
+          "land_val": "2 5 0",
+          "building_val": "0 10 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Simon Hill and Wm. Sinnott",
+          "lessor": "Robert F. Morgan",
+          "desc": "H,O,&L",
+          "area": "25 3 27",
+          "land_val": "6 0 0",
+          "building_val": "0 10 0",
+          "total_val": "6 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "15",
+          "occupier": "Timothy King",
+          "lessor": "Mrs. Haughton",
+          "desc": "H&L",
+          "area": "13 1 12",
+          "land_val": "2 5 0",
+          "building_val": "0 10 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Michael King",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "5 3 4",
+          "land_val": "1 5 0",
+          "building_val": "0 10 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "320 3 3",
+          "land_val": "61 13 0",
+          "building_val": "6 15 0",
+          "total_val": "68 8 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CUPIDSTOWN",
+          "os": "20",
+          "occupier": "William H. Gogan",
+          "lessor": "Rev. Mr. Fox",
+          "desc": "L",
+          "area": "45 2 22",
+          "land_val": "22 10 0",
+          "total_val": "22 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James King",
+          "lessor": "William H. Cogan",
+          "desc": "H,O,&L",
+          "area": "42 2 26",
+          "land_val": "25 10 0",
+          "building_val": "1 0 0",
+          "total_val": "26 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Myles M'Grath",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "131 1 38",
+          "land_val": "91 0 0",
+          "building_val": "9 0 0",
+          "total_val": "100 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "William Dowling",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "20 3 9",
+          "land_val": "16 0 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "240 2 15",
+          "land_val": "155 0 0",
+          "building_val": "10 0 0",
+          "total_val": "165 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CUPIDSTOWN-HILL",
+          "os": "20",
+          "occupier": "William Sinnott",
+          "lessor": "William H. Cogan",
+          "desc": "L",
+          "area": "22 1 5",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Myles M'Grath",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "40 0 26",
+          "land_val": "5 15 0",
+          "building_val": "0 10 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "3 A",
+          "occupier": "William H. Cogan",
+          "lessor": "Rev. Mr. Fox",
+          "desc": "L",
+          "area": "10 1 15",
+          "land_val": "1 5 0",
+          "total_val": "7 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "3 B",
+          "occupier": "William H. Cogan",
+          "lessor": "Rev. Mr. Fox",
+          "desc": "L",
+          "area": "11 3 14",
+          "land_val": "2 5 0",
+          "total_val": "7 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "3 C",
+          "occupier": "William H. Cogan",
+          "lessor": "Rev. Mr. Fox",
+          "desc": "L",
+          "area": "20 0 33",
+          "land_val": "4 0 0",
+          "total_val": "7 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "4",
+          "occupier": "Lawrence Keegan",
+          "lessor": "William H. Cogan",
+          "desc": "H&L",
+          "area": "1 2 3",
+          "land_val": "0 2 0",
+          "building_val": "0 5 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Thomas Quinn",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "70 3 38",
+          "land_val": "9 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Myles M'Grath",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "115 1 25",
+          "land_val": "34 0 0",
+          "total_val": "34 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "301 2 39",
+          "land_val": "57 17 0",
+          "building_val": "0 15 0",
+          "total_val": "58 12 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "KILTEEL, LOWER",
+          "os": "20",
+          "occupier": "Edward Fennell",
+          "lessor": "Francis Kennedy",
+          "desc": "H,O,&L",
+          "area": "54 1 20",
+          "land_val": "40 0 0",
+          "building_val": "2 0 0",
+          "total_val": "42 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Goslin",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 1 5",
+          "land_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Grainger",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "17 1 38",
+          "land_val": "10 15 0",
+          "building_val": "1 0 0",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "4 A",
+          "occupier": "John Ebbs",
+          "lessor": "Same",
+          "desc": "Herd's H&L",
+          "area": "32 2 9",
+          "land_val": "26 0 0",
+          "building_val": "0 10 0",
+          "total_val": "55 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4 B",
+          "occupier": "John Ebbs",
+          "lessor": "Same",
+          "desc": "Herd's H&L",
+          "area": "35 2 26",
+          "land_val": "28 10 0",
+          "building_val": "0 10 0",
+          "total_val": "55 10 0",
+          "n_shared": 2
+        },
+        {
+          "occupier": "Constabulary Force",
+          "lessor": "John Ebbs",
+          "desc": "Police barrack & yard",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "5 A",
+          "occupier": "Richard Raymond",
+          "lessor": "Francis Kennedy",
+          "desc": "L",
+          "area": "12 3 2",
+          "land_val": "10 5 0",
+          "total_val": "46 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 B",
+          "occupier": "Richard Raymond",
+          "lessor": "Francis Kennedy",
+          "desc": "H,O,&L",
+          "area": "44 3 37",
+          "land_val": "33 15 0",
+          "building_val": "2 0 0",
+          "total_val": "46 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "Joseph Duff",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "13 2 35",
+          "land_val": "12 15 0",
+          "building_val": "0 15 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Eliza Byrne",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "2 1 26",
+          "land_val": "0 12 0",
+          "building_val": "0 15 0",
+          "total_val": "1 7 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Francis Kennedy",
+          "lessor": "In fee",
+          "desc": "L (plantation)",
+          "area": "13 1 6",
+          "land_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Eliza Rooney",
+          "lessor": "Francis Kennedy",
+          "desc": "L",
+          "area": "2 2 2",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Matthew Goslin",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 2 10",
+          "land_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "11 A",
+          "occupier": "Patrick Grainger",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "2 3 4",
+          "land_val": "1 15 0",
+          "building_val": "1 0 0",
+          "total_val": "11 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "11 B",
+          "occupier": "Patrick Grainger",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 3 10",
+          "land_val": "2 10 0",
+          "total_val": "11 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "11 C",
+          "occupier": "Patrick Grainger",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "10 3 33",
+          "land_val": "6 10 0",
+          "total_val": "11 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "12",
+          "sublocation_1": "VILLAGE OF KILTEEL",
+          "occupier": "Matthew Goslin",
+          "lessor": "Francis Kennedy",
+          "desc": "H&O",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "James Goslin",
+          "lessor": "Same",
+          "desc": "H&O",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "National School",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "12",
+          "desc": "Ruins"
+        },
+        {
+          "mr": "12",
+          "occupier": "Eliza Rooney",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "John Leddy",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Bartholomew M'Grady",
+          "lessor": "Same",
+          "desc": "H,O,&forge",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Richard Purcell",
+          "lessor": "Mary Purcell",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Mary Purcell",
+          "lessor": "Francis Kennedy",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Thomas Gallagher",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "desc": "Waste under houses and roads",
+          "area": "1 2 29"
+        },
+        {
+          "desc": "Total",
+          "area": "259 3 12",
+          "land_val": "186 17 0",
+          "building_val": "21 10 0",
+          "total_val": "208 7 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

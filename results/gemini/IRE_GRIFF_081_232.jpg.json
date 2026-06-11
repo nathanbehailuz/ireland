@@ -1,0 +1,546 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF DUNSFORT",
+      "entries": [
+        {
+          "mr": "12 A",
+          "townland": "SHEEPLAND MORE",
+          "is_continued": 1,
+          "occupier": "James M'Alister",
+          "lessor": "Richard M'Guinness",
+          "desc": "H,O,&L",
+          "area": "20 3 5",
+          "land_val": "19 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- B",
+          "occupier": "James M'Alister",
+          "lessor": "Richard M'Guinness",
+          "desc": "L",
+          "area": "11 2 35",
+          "land_val": "14 0 0",
+          "building_val": "4 10 0",
+          "total_val": ""
+        },
+        {
+          "mr": "- C",
+          "occupier": "James M'Alister",
+          "lessor": "Richard M'Guinness",
+          "desc": "L",
+          "area": "3 0 0",
+          "land_val": "3 15 0",
+          "building_val": "",
+          "total_val": "41 5 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Unoccupied",
+          "lessor": "James M'Alister",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Jane Smith",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Patrick M'Keating",
+          "lessor": "Richard M'Guinness",
+          "desc": "H,O,&L",
+          "area": "31 2 5",
+          "land_val": "34 0 0",
+          "building_val": "1 5 0",
+          "total_val": "35 5 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Margaret Clinton",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "50 0 25",
+          "land_val": "58 10 0",
+          "building_val": "4 10 0",
+          "total_val": "63 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Nicholas Carney",
+          "lessor": "Margaret Clinton",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 5 0",
+          "building_val": "0 15 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "William Feenan",
+          "lessor": "Same",
+          "desc": "H&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Patrick Halpin",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Margaret Corran",
+          "lessor": "Richard M'Guinness",
+          "desc": "Mill-pond",
+          "area": "6 2 8",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Patrick M'Alister",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "52 1 15",
+          "land_val": "10 0 0",
+          "building_val": "1 5 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "John M'Alister",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "",
+          "land_val": "10 0 0",
+          "building_val": "0 10 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "William Corran",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "10 0 0",
+          "building_val": "1 5 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Nicholas M'Alea",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "10 0 0",
+          "building_val": "",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Edward Doherty",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "15 2 5",
+          "land_val": "11 5 0",
+          "building_val": "1 15 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Robert Fitzsimons",
+          "lessor": "Edward Doherty",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Ellen Doherty",
+          "lessor": "Same",
+          "desc": "H&sm.G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "618 3 29",
+          "land_val": "586 10 0",
+          "building_val": "56 5 0",
+          "total_val": "642 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "TOLLUMGRANGE, LOWER",
+          "os": "38 & 45",
+          "occupier": "John Denvir",
+          "lessor": "Rev. Fras. Henry Hall",
+          "desc": "L",
+          "area": "6 1 37",
+          "land_val": "7 15 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- B",
+          "occupier": "John Denvir",
+          "lessor": "Rev. Fras. Henry Hall",
+          "desc": "L",
+          "area": "1 1 15",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Francis M'Convey",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "43 1 0",
+          "land_val": "55 0 0",
+          "building_val": "4 10 0",
+          "total_val": "59 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "William Killeen",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "42 3 0",
+          "land_val": "53 10 0",
+          "building_val": "6 10 0",
+          "total_val": "60 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Michael M'Convey",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "20 0 0",
+          "land_val": "25 0 0",
+          "building_val": "3 0 0",
+          "total_val": "28 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Michael Burns",
+          "lessor": "Michael M'Convey",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 19 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- b",
+          "occupier": "Patrick O'Hara",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "5",
+          "occupier": "John Connor",
+          "lessor": "Rev. Fras. Henry Hall",
+          "desc": "H,O,&L",
+          "area": "44 1 20",
+          "land_val": "53 5 0",
+          "building_val": "4 5 0",
+          "total_val": "57 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Bernard Rogan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "12 3 20",
+          "land_val": "14 5 0",
+          "building_val": "1 15 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "171 0 21",
+          "land_val": "210 5 0",
+          "building_val": "21 9 0",
+          "total_val": "231 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "TOLLUMGRANGE, UPPER",
+          "os": "38 & 45",
+          "occupier": "Valentine M'Convey",
+          "lessor": "Rev. Fras. Henry Hall",
+          "desc": "H,O,&L",
+          "area": "32 3 0",
+          "land_val": "41 0 0",
+          "building_val": "4 10 0",
+          "total_val": "45 10 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Edward Mulholland",
+          "lessor": "Valentine M'Convey",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Mary Doran",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "James Phelin",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "Patrick Killeen",
+          "lessor": "Rev. Fras. Henry Hall",
+          "desc": "H,O,&L",
+          "area": "11 0 5",
+          "land_val": "11 0 0",
+          "building_val": "4 0 0",
+          "total_val": ""
+        },
+        {
+          "mr": "- B",
+          "occupier": "Patrick Killeen",
+          "lessor": "Rev. Fras. Henry Hall",
+          "desc": "L",
+          "area": "16 1 30",
+          "land_val": "20 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- C",
+          "occupier": "Patrick Killeen",
+          "lessor": "Rev. Fras. Henry Hall",
+          "desc": "L",
+          "area": "6 1 25",
+          "land_val": "5 5 0",
+          "building_val": "",
+          "total_val": "40 5 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Hannah M'Glennon",
+          "lessor": "Patrick Killeen",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Catherine M'Carton",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Francis M'Convey",
+          "lessor": "Rev. Fras. Henry Hall",
+          "desc": "L",
+          "area": "13 1 10",
+          "land_val": "16 10 0",
+          "building_val": "",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "4 A",
+          "occupier": "William Killeen",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 0 37",
+          "land_val": "7 15 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- B",
+          "occupier": "William Killeen",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "9 3 15",
+          "land_val": "11 0 0",
+          "building_val": "",
+          "total_val": "18 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Napier",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "19 3 25",
+          "land_val": "19 0 0",
+          "building_val": "2 5 0",
+          "total_val": "21 5 0"
+        },
+        {
+          "mr": "6 A",
+          "occupier": "Henry M'Quaid",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "3 3 5",
+          "land_val": "3 10 0",
+          "building_val": "1 15 0",
+          "total_val": ""
+        },
+        {
+          "mr": "- B",
+          "occupier": "Henry M'Quaid",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "14 1 0",
+          "land_val": "14 10 0",
+          "building_val": "",
+          "total_val": "19 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Denis M'Quaid",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "9 3 0",
+          "land_val": "8 10 0",
+          "building_val": "1 15 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "James Crangle",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "21 2 34",
+          "land_val": "21 0 0",
+          "building_val": "2 0 0",
+          "total_val": "23 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Edward M'Carnan",
+          "lessor": "James Crangle",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "165 1 26",
+          "land_val": "179 0 0",
+          "building_val": "20 10 0",
+          "total_val": "199 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "SHEEPLAND BEG.",
+          "os": "45",
+          "occupier": "Margaret Corran",
+          "lessor": "William N. Wallace",
+          "desc": "L",
+          "area": "2 1 30",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- B",
+          "occupier": "Margaret Corran",
+          "lessor": "William N. Wallace",
+          "desc": "H,O,corn-mill,kiln,&L",
+          "area": "4 2 20",
+          "land_val": "4 0 0",
+          "building_val": "9 0 0",
+          "total_val": ""
+        },
+        {
+          "mr": "- C",
+          "occupier": "Margaret Corran",
+          "lessor": "William N. Wallace",
+          "desc": "Corn-mill&L",
+          "area": "0 3 10",
+          "land_val": "0 15 0",
+          "building_val": "8 0 0",
+          "total_val": "22 10 0"
+        }
+      ]
+    }
+  ]
+}

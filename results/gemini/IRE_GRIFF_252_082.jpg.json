@@ -1,0 +1,483 @@
+{
+  "parishes": [
+    {
+      "parish": "SKREEN",
+      "entries": [
+        {
+          "mr": "6 a",
+          "townland": "CARROWNURLAR",
+          "os": "",
+          "occupier": "Owen Healy",
+          "lessor": "Esther Hillas",
+          "desc": "H,O,&L",
+          "area": "10 1 30",
+          "land_val": "8 5 0",
+          "building_val": "0 10 0",
+          "total_val": "8 15 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "7",
+          "occupier": "Thomas O'Brien",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "10 2 4",
+          "land_val": "7 10 0",
+          "building_val": "0 10 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "John Lang",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "13 3 0",
+          "land_val": "9 10 0",
+          "building_val": "0 15 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "112 3 3",
+          "land_val": "80 5 0",
+          "building_val": "4 5 0",
+          "total_val": "93 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CARROWNAKNOCKAN",
+          "os": "12 & 13",
+          "occupier": "Thaddeus May",
+          "lessor": "James G. Wood",
+          "desc": "L",
+          "area": "69 0 14",
+          "land_val": "42 0 0",
+          "total_val": "42 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Sarah Flatley",
+          "lessor": "Thaddeus May",
+          "desc": "L&H",
+          "area": "0 1 35",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Thomas Flannelly",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3",
+          "occupier": "Thomas Flannelly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 2 5",
+          "land_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Bridget Henly",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "0 3 34",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "4 b",
+          "occupier": "John Giblin",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "4 c",
+          "occupier": "John Kilwee",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "4 d",
+          "occupier": "James Feeheely",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "John Lang",
+          "lessor": "James G. Wood",
+          "desc": "L&H",
+          "area": "6 1 10",
+          "land_val": "3 10 0",
+          "building_val": "0 5 0",
+          "total_val": "3 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 b",
+          "occupier": "Michael Fury",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "2 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "Michael Fury",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 1 33",
+          "land_val": "1 15 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Owen Beglane",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "13 1 20",
+          "land_val": "6 5 0",
+          "building_val": "0 15 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Owen Beglane, jun.",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "8 0 10",
+          "land_val": "3 10 0",
+          "building_val": "0 5 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "John Caheney",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 3 20",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "102 0 21",
+          "land_val": "59 10 0",
+          "building_val": "3 5 0",
+          "total_val": "62 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "LARAGH",
+          "os": "12 & 13",
+          "occupier": "Michael Smith",
+          "lessor": "Esther Hillas",
+          "desc": "L",
+          "area": "15 3 39",
+          "land_val": "10 10 0",
+          "total_val": "14 10 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "2",
+          "occupier": "Michael Smith",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 2 31",
+          "land_val": "4 0 0",
+          "total_val": "14 10 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "3",
+          "occupier": "Ellen Kilcullen",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "8 2 30",
+          "land_val": "6 5 0",
+          "building_val": "0 15 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Fury",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "8 3 0",
+          "land_val": "6 5 0",
+          "building_val": "0 15 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Conlon",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "9 2 30",
+          "land_val": "6 15 0",
+          "building_val": "0 5 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Thaddeus Conlon",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "13 1 0",
+          "land_val": "8 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "6 b",
+          "occupier": "Winifred Kilgallen",
+          "lessor": "Thaddeus Conlon",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Mary Foy",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Michael Dunne",
+          "lessor": "Esther Hillas",
+          "desc": "L&H",
+          "area": "3 0 19",
+          "land_val": "2 5 0",
+          "building_val": "0 5 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "James Neilan",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "4 3 10",
+          "land_val": "3 5 0",
+          "building_val": "0 5 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Thomas Conlon",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "9 3 10",
+          "land_val": "5 10 0",
+          "building_val": "0 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "James Fury",
+          "lessor": "Same",
+          "desc": "L,H,&O",
+          "area": "10 0 30",
+          "land_val": "6 0 0",
+          "building_val": "0 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Matthew Scanlan",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "9 0 18",
+          "land_val": "5 0 0",
+          "building_val": "0 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Patrick Kennedy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "27 1 30",
+          "land_val": "14 10 0",
+          "total_val": "14 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "John Melvin",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 1 10",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "132 3 17",
+          "land_val": "82 15 0",
+          "building_val": "4 0 0",
+          "total_val": "86 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DOONFLIN, LOWER",
+          "os": "18 & 12",
+          "occupier": "Patrick Finnegan",
+          "lessor": "Captain John. W. King",
+          "desc": "L&H",
+          "area": "127 1 32",
+          "land_val": "39 10 0",
+          "building_val": "1 0 0",
+          "total_val": "40 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1",
+          "occupier": "Henry Brett",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "127 1 32",
+          "land_val": "39 10 0",
+          "building_val": "1 0 0",
+          "total_val": "40 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2",
+          "occupier": "Andrew Finnegan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 10",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Tiernan",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "8 0 29",
+          "land_val": "5 5 0",
+          "building_val": "0 5 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "137 0 31",
+          "land_val": "85 0 0",
+          "building_val": "1 5 0",
+          "total_val": "86 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "TORERPATRICK",
+          "os": "18",
+          "occupier": "Peter O'Connor",
+          "lessor": "In fee",
+          "desc": "L,H,&O",
+          "area": "9 3 20",
+          "land_val": "8 0 0",
+          "building_val": "15 0 0",
+          "total_val": "23 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Hugh Rooney",
+          "lessor": "Peter O'Connor",
+          "desc": "L&herd's H",
+          "area": "75 2 16",
+          "land_val": "50 15 0",
+          "building_val": "0 5 0",
+          "total_val": "51 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Samuel Parrett",
+          "lessor": "Same",
+          "desc": "L&herd's H",
+          "area": "55 3 25",
+          "land_val": "32 15 0",
+          "building_val": "0 5 0",
+          "total_val": "33 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Loftus O'Donnell",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "27 1 28",
+          "land_val": "17 0 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Gilgan",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "11 1 28",
+          "land_val": "6 15 0",
+          "building_val": "0 5 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Michael Barrett",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "2 0 10",
+          "land_val": "1 10 0",
+          "building_val": "0 5 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Mary M'Garry",
+          "lessor": "Same",
+          "desc": "L&H",
+          "area": "0 3 10",
+          "land_val": "0 13 0",
+          "building_val": "0 5 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Honoria Cooney",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 2 0",
+          "land_val": "0 7 0",
+          "building_val": "0 5 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "desc": "Total",
+          "area": "183 2 17",
+          "land_val": "117 15 0",
+          "building_val": "16 10 0",
+          "total_val": "134 5 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

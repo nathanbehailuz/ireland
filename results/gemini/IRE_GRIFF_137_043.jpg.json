@@ -1,0 +1,486 @@
+{
+  "parishes": [
+    {
+      "parish": "TIPPERKEVIN",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "COMMONS",
+          "os": "24",
+          "occupier": "Patrick Moore,",
+          "lessor": "Free,",
+          "desc": "H,O,&L,",
+          "area": "12 2 8",
+          "land_val": "0 8 0",
+          "building_val": "0 10 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "William Byrne,",
+          "lessor": "Free,",
+          "desc": "H,O,&L,",
+          "area": "",
+          "land_val": "0 8 0",
+          "building_val": "1 0 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Andrew Reilly,",
+          "lessor": "Free,",
+          "desc": "H,O,&L,",
+          "area": "",
+          "land_val": "0 8 0",
+          "building_val": "1 0 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Hugh Connor,",
+          "lessor": "Free,",
+          "desc": "H,O,&L,",
+          "area": "",
+          "land_val": "0 8 0",
+          "building_val": "0 10 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "John Nowlan,",
+          "lessor": "Free,",
+          "desc": "H,O,&L,",
+          "area": "",
+          "land_val": "0 8 0",
+          "building_val": "0 15 0",
+          "total_val": "1 3 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Patrick Doran,",
+          "lessor": "Free,",
+          "desc": "H,O,&L,",
+          "area": "",
+          "land_val": "0 8 0",
+          "building_val": "0 10 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "Philip Brien,",
+          "lessor": "Free,",
+          "desc": "H,O,&L,",
+          "area": "",
+          "land_val": "0 8 0",
+          "building_val": "1 0 0",
+          "total_val": "1 8 0"
+        },
+        {
+          "mr": "h",
+          "occupier": "Michael Killeen,",
+          "lessor": "Free,",
+          "desc": "H,O,&L,",
+          "area": "",
+          "land_val": "0 8 0",
+          "building_val": "0 15 0",
+          "total_val": "1 3 0"
+        },
+        {
+          "mr": "i",
+          "occupier": "Christopher Murphy,",
+          "lessor": "Free,",
+          "desc": "H,O,&L,",
+          "area": "",
+          "land_val": "0 8 0",
+          "building_val": "0 10 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "j",
+          "occupier": "Elizabeth Murphy,",
+          "lessor": "Free,",
+          "desc": "H,O,&L,",
+          "area": "",
+          "land_val": "0 8 0",
+          "building_val": "0 15 0",
+          "total_val": "1 3 0"
+        },
+        {
+          "mr": "k",
+          "occupier": "Richard Grewley,",
+          "lessor": "Free,",
+          "desc": "H&G,",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "0 5 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "l",
+          "occupier": "Patrick Hayde,",
+          "lessor": "Free,",
+          "desc": "H,",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "m",
+          "occupier": "John Lynch,",
+          "lessor": "Free,",
+          "desc": "H&G,",
+          "area": "0 0 12",
+          "land_val": "0 2 0",
+          "building_val": "0 5 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "n",
+          "occupier": "William Reilly,",
+          "lessor": "Free,",
+          "desc": "G,",
+          "area": "0 1 20",
+          "land_val": "0 8 0",
+          "building_val": "",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "o",
+          "occupier": "Vacant,",
+          "lessor": "William Reilly,",
+          "desc": "H&O,",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "p",
+          "occupier": "Timothy Byrne,",
+          "lessor": "Free,",
+          "desc": "H&G,",
+          "area": "0 1 0",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "q",
+          "occupier": "Francis Downes,",
+          "lessor": "Free,",
+          "desc": "G,",
+          "area": "0 1 15",
+          "land_val": "0 8 0",
+          "building_val": "",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "r",
+          "occupier": "Vacant,",
+          "lessor": "Francis Downes.",
+          "desc": "H&O,",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "s",
+          "occupier": "Mary Lynch,",
+          "lessor": "Free,",
+          "desc": "H&G,",
+          "area": "0 0 30",
+          "land_val": "0 4 0",
+          "building_val": "0 5 0",
+          "total_val": "0 9 0"
+        },
+        {
+          "mr": "t",
+          "occupier": "Vacant,",
+          "lessor": "Philip Brien,",
+          "desc": "H,",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "u",
+          "occupier": "Vacant,",
+          "lessor": "Free,",
+          "desc": "H,",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "v",
+          "occupier": "Myles Carroll,",
+          "lessor": "Free,",
+          "desc": "H,O,&G,",
+          "area": "0 0 28",
+          "land_val": "0 4 0",
+          "building_val": "0 16 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "w",
+          "occupier": "Michael Reilly,",
+          "lessor": "Free,",
+          "desc": "G,",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "x",
+          "occupier": "National School,",
+          "lessor": "Free,",
+          "desc": "H,",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "y",
+          "occupier": "James Doyle,",
+          "lessor": "Free,",
+          "desc": "H,O,&G,",
+          "area": "0 0 20",
+          "land_val": "0 3 0",
+          "building_val": "0 10 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "z",
+          "occupier": "Grave-yard,",
+          "lessor": "Free,",
+          "desc": "Grave yard.",
+          "area": "0 2 10",
+          "land_val": "0 8 0",
+          "building_val": "",
+          "total_val": "0 8 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "14 3 3",
+          "land_val": "6 5 0",
+          "building_val": "13 1 0",
+          "total_val": "19 6 0",
+          "is_total": 1
+        },
+        {
+          "occupier": "Grave-yard,",
+          "desc": "Grave-yard,",
+          "area": "0 2 10",
+          "land_val": "0 8 0",
+          "building_val": "",
+          "total_val": "0 8 0",
+          "is_exemption": 1
+        },
+        {
+          "occupier": "National school-house,",
+          "desc": "National school-house,",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total of Exemptions,",
+          "area": "0 2 10",
+          "land_val": "0 8 0",
+          "building_val": "0 15 0",
+          "total_val": "1 3 0",
+          "is_total": 1,
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of Exemptions,",
+          "area": "14 0 33",
+          "land_val": "5 17 0",
+          "building_val": "12 6 0",
+          "total_val": "18 3 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DOWDENSTOWN, GREAT",
+          "os": "24",
+          "occupier": "Patrick Nowlan,",
+          "lessor": "George Ball,",
+          "desc": "H&L,",
+          "area": "2 0 2",
+          "land_val": "1 8 0",
+          "building_val": "0 5 0",
+          "total_val": "1 13 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Patrick Hayde,",
+          "lessor": "Same,",
+          "desc": "H,O,&L,",
+          "area": "6 2 27",
+          "land_val": "4 5 0",
+          "building_val": "0 10 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Martin Hayden,",
+          "lessor": "Same,",
+          "desc": "Forge&L,",
+          "area": "5 0 6",
+          "land_val": "3 0 0",
+          "building_val": "0 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Foster,",
+          "lessor": "Same,",
+          "desc": "H&L,",
+          "area": "1 1 33",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Doran,",
+          "lessor": "Same,",
+          "desc": "H,O,&L,",
+          "area": "21 2 10",
+          "land_val": "14 0 0",
+          "building_val": "1 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Michael Moore,",
+          "lessor": "Same,",
+          "desc": "H,O,&L,",
+          "area": "6 3 8",
+          "land_val": "4 0 0",
+          "building_val": "0 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "7 A",
+          "occupier": "James Keogh,",
+          "lessor": "Same,",
+          "desc": "L,",
+          "area": "54 1 20",
+          "land_val": "38 10 0",
+          "building_val": "",
+          "total_val": "129 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B",
+          "occupier": "James Keogh,",
+          "lessor": "Same,",
+          "desc": "O&L,",
+          "area": "113 2 8",
+          "land_val": "88 0 0",
+          "building_val": "3 0 0",
+          "total_val": "129 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "8",
+          "occupier": "Mary M'Cann,",
+          "lessor": "James Keogh,",
+          "desc": "H,",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Jeremiah Keogh,",
+          "lessor": "George Ball,",
+          "desc": "L,",
+          "area": "120 0 22",
+          "land_val": "92 10 0",
+          "building_val": "",
+          "total_val": "92 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Anne Connor,",
+          "lessor": "Same,",
+          "desc": "H,O,&L,",
+          "area": "2 3 26",
+          "land_val": "2 5 0",
+          "building_val": "0 10 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Henry Kane,",
+          "lessor": "Same,",
+          "desc": "H,",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Michael Kelly,",
+          "lessor": "Same,",
+          "desc": "H,",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "334 2 2",
+          "land_val": "248 18 0",
+          "building_val": "7 13 0",
+          "total_val": "256 11 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DOWDENSTOWN, LITTLE",
+          "os": "24",
+          "occupier": "James Keogh,",
+          "lessor": "Eliza Lawler,",
+          "desc": "H,O,&L,",
+          "area": "54 1 10",
+          "land_val": "42 0 0",
+          "building_val": "4 10 0",
+          "total_val": "46 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Jeremiah Keogh,",
+          "lessor": "Same,",
+          "desc": "H,O,&L,",
+          "area": "55 0 2",
+          "land_val": "38 0 0",
+          "building_val": "5 10 0",
+          "total_val": "43 10 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "109 1 21",
+          "land_val": "80 0 0",
+          "building_val": "10 0 0",
+          "total_val": "90 0 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

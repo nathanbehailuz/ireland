@@ -5,3 +5,6 @@ ideas.md
 config/secrets.*
 __pycache__/
 Nanonets/analysis/
+report-outline.md
+batch_staging/
+.cursor/

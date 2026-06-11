@@ -1,0 +1,509 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF KILLABBAN",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "AGHATERRY",
+          "os": "31",
+          "occupier": "William Brennan",
+          "lessor": "Sir Chas. H. Coote, Bt.",
+          "desc": "L",
+          "area": "13 1 12",
+          "land_val": "8 0 0",
+          "building_val": "",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Vacant",
+          "lessor": "William Brennan",
+          "desc": "H,O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Murtagh Murray",
+          "lessor": "Sir Chas. H. Coote, Bt.",
+          "desc": "O,L",
+          "area": "9 0 17",
+          "land_val": "5 10 0",
+          "building_val": "0 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Murtagh Murray",
+          "lessor": "Sir Chas. H. Coote, Bt.",
+          "desc": "H,O,&L",
+          "area": "68 2 8",
+          "land_val": "18 10 0",
+          "building_val": "3 10 0",
+          "total_val": "22 0 0"
+        },
+        {
+          "mr": "3 b",
+          "occupier": "John Murray",
+          "lessor": "Sir Chas. H. Coote, Bt.",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "18 10 0",
+          "building_val": "2 0 0",
+          "total_val": "20 10 0"
+        },
+        {
+          "mr": "3 c",
+          "occupier": "William Fanning",
+          "lessor": "John Murray",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "90 3 37",
+          "land_val": "50 10 0",
+          "building_val": "7 15 0",
+          "total_val": "58 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "AGHCROSS",
+          "os": "31 & 32",
+          "occupier": "Bernard Murphy",
+          "lessor": "Michael Dunne, Esq.",
+          "desc": "Herds ho., offi., & land",
+          "area": "10 3 37",
+          "land_val": "7 15 0",
+          "building_val": "1 0 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Mary Lawler",
+          "lessor": "Michael Dunne, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Brennan",
+          "lessor": "Michael Dunne, Esq.",
+          "desc": "L",
+          "area": "17 1 39",
+          "land_val": "12 0 0",
+          "building_val": "",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Michael Coogan",
+          "lessor": "Michael Dunne, Esq.",
+          "desc": "H,O,L",
+          "area": "110 2 35",
+          "land_val": "92 10 0",
+          "building_val": "3 10 0",
+          "total_val": "96 0 0"
+        },
+        {
+          "mr": "3 b",
+          "occupier": "John Bourke",
+          "lessor": "Michael Coogan",
+          "desc": "House & small garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Martin Thompson",
+          "lessor": "Michael Dunne, Esq.",
+          "desc": "L",
+          "area": "9 1 32",
+          "land_val": "6 10 0",
+          "building_val": "",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Ellen Norton",
+          "lessor": "Michael Dunne, Esq.",
+          "desc": "H,L",
+          "area": "1 2 5",
+          "land_val": "0 15 0",
+          "building_val": "0 10 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "5 b",
+          "occupier": "Patrick Walsh",
+          "lessor": "Michael Dunne, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "5 c",
+          "occupier": "Judith Dargan",
+          "lessor": "Michael Dunne, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "150 0 28",
+          "land_val": "119 10 0",
+          "building_val": "6 8 0",
+          "total_val": "125 18 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "ARDOUGH, OR HUNTSPARK",
+          "os": "36 & 37",
+          "occupier": "James Hosey, sen.",
+          "lessor": "Edward Hunt, Esq.",
+          "desc": "L",
+          "area": "22 1 14",
+          "land_val": "7 0 0",
+          "building_val": "",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Patrick Hosey, sen.",
+          "lessor": "Edward Hunt, Esq.",
+          "desc": "H,O,&L",
+          "area": "293 1 24",
+          "land_val": "68 0 0",
+          "building_val": "4 0 0",
+          "total_val": "72 0 0"
+        },
+        {
+          "mr": "2 b",
+          "occupier": "James Hosey, sen.",
+          "lessor": "Edward Hunt, Esq.",
+          "desc": "H,L",
+          "area": "",
+          "land_val": "60 0 0",
+          "building_val": "0 15 0",
+          "total_val": "60 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Tunstead",
+          "lessor": "James Hosey, sen.",
+          "desc": "H,L",
+          "area": "13 1 36",
+          "land_val": "3 15 0",
+          "building_val": "0 10 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Samuel Atkinson",
+          "lessor": "James Hosey, sen.",
+          "desc": "O,L",
+          "area": "53 0 23",
+          "land_val": "17 10 0",
+          "building_val": "0 10 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "George Roe",
+          "lessor": "Edward Hunt, Esq.",
+          "desc": "H,O,L",
+          "area": "58 1 15",
+          "land_val": "15 10 0",
+          "building_val": "1 5 0",
+          "total_val": "16 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "George Roe",
+          "lessor": "John Hatton",
+          "desc": "L",
+          "area": "8 0 21",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Patrick Hosey, jun.",
+          "lessor": "Richard Tracy",
+          "desc": "L",
+          "area": "14 2 39",
+          "land_val": "4 5 0",
+          "building_val": "",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "James Hosey, jun.",
+          "lessor": "James Hosey, sen.",
+          "desc": "H,O,L",
+          "area": "11 0 4",
+          "land_val": "3 0 0",
+          "building_val": "1 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "9 A B",
+          "occupier": "James Hosey, jun.",
+          "lessor": "John Hatton",
+          "desc": "L",
+          "area": "19 0 37",
+          "land_val": "6 15 0",
+          "building_val": "",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "10 A B C d",
+          "occupier": "Henry Whelan",
+          "lessor": "Richard Tracy",
+          "desc": "H,O,L",
+          "area": "29 0 12",
+          "land_val": "11 10 0",
+          "building_val": "1 10 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "William Gordon",
+          "lessor": "Richard Tracy",
+          "desc": "H,O,L",
+          "area": "43 3 36",
+          "land_val": "17 0 0",
+          "building_val": "1 5 0",
+          "total_val": "18 5 0"
+        },
+        {
+          "mr": "11 b",
+          "occupier": "Thomas Donohoe",
+          "lessor": "John Tracy",
+          "desc": "H,G",
+          "area": "0 0 35",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "11 c",
+          "occupier": "Peter Watters",
+          "lessor": "Bridget Buggy",
+          "desc": "H,G",
+          "area": "0 0 20",
+          "land_val": "0 3 0",
+          "building_val": "0 7 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "11 d",
+          "occupier": "Patrick Nolan",
+          "lessor": "Richard Tracy",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "John Tracy",
+          "lessor": "Richard Tracy",
+          "desc": "L",
+          "area": "13 2 22",
+          "land_val": "4 10 0",
+          "building_val": "",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "John Hatton",
+          "lessor": "Edward Hunt, Esq.",
+          "desc": "L",
+          "area": "8 0 21",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Henry Graham",
+          "lessor": "John Edge, Esq.",
+          "desc": "L",
+          "area": "21 0 32",
+          "land_val": "9 0 0",
+          "building_val": "",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Henry Graham",
+          "lessor": "Richard Tracy",
+          "desc": "H,O,L",
+          "area": "2 2 21",
+          "land_val": "1 5 0",
+          "building_val": "1 10 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Margaret Agar",
+          "lessor": "John Hatton",
+          "desc": "H,L",
+          "area": "28 3 17",
+          "land_val": "12 0 0",
+          "building_val": "0 15 0",
+          "total_val": "12 15 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Thomas Gillis",
+          "lessor": "Church Educ. Society",
+          "desc": "L",
+          "area": "2 2 33",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "School",
+          "lessor": "Church Educ. Society",
+          "desc": "H,L",
+          "area": "0 1 20",
+          "land_val": "0 5 0",
+          "building_val": "2 10 0",
+          "total_val": "2 15 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "18",
+          "occupier": "James Wynne",
+          "lessor": "Richard Tracy",
+          "desc": "H,L",
+          "area": "2 1 29",
+          "land_val": "1 5 0",
+          "building_val": "0 10 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "647 0 31",
+          "land_val": "249 5 0",
+          "building_val": "17 15 0",
+          "total_val": "267 0 0",
+          "is_total": 1
+        },
+        {
+          "desc": "Exemptions: Church Education Society's school-house & land",
+          "area": "0 1 20",
+          "land_val": "0 5 0",
+          "building_val": "2 10 0",
+          "total_val": "2 15 0",
+          "is_total": 1,
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of exemptions",
+          "area": "646 3 11",
+          "land_val": "249 0 0",
+          "building_val": "15 5 0",
+          "total_val": "264 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "ASHFIELD",
+          "os": "32",
+          "occupier": "Mary M'Donald",
+          "lessor": "Peter Gale, Esq.",
+          "desc": "H,O,L",
+          "area": "6 1 33",
+          "land_val": "4 5 0",
+          "building_val": "0 10 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "2 A a B",
+          "occupier": "Patrick M'Donald",
+          "lessor": "Peter Gale, Esq.",
+          "desc": "H,L",
+          "area": "18 1 1",
+          "land_val": "12 0 0",
+          "building_val": "0 10 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Judith Doogue",
+          "lessor": "Peter Gale, Esq.",
+          "desc": "H,O,L",
+          "area": "3 3 20",
+          "land_val": "2 10 0",
+          "building_val": "1 0 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James M'Donald",
+          "lessor": "Peter Gale, Esq.",
+          "desc": "H,O,L",
+          "area": "13 3 10",
+          "land_val": "9 0 0",
+          "building_val": "1 5 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Murtagh Fleming",
+          "lessor": "Peter Gale, Esq.",
+          "desc": "H,O,L",
+          "area": "42 3 30",
+          "land_val": "29 10 0",
+          "building_val": "3 5 0",
+          "total_val": "32 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Margaret Cody",
+          "lessor": "Peter Gale, Esq.",
+          "desc": "H,O,L",
+          "area": "24 2 11",
+          "land_val": "16 0 0",
+          "building_val": "0 15 0",
+          "total_val": "16 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "James Keating",
+          "lessor": "Peter Gale, Esq.",
+          "desc": "H,O,L",
+          "area": "18 0 0",
+          "land_val": "11 0 0",
+          "building_val": "0 10 0",
+          "total_val": "11 10 0"
+        }
+      ]
+    }
+  ]
+}

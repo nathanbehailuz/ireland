@@ -1,0 +1,480 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF MONAGHAN",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "TIRKEENAN",
+          "os": "9",
+          "occupier": "Mary Corrigan, .",
+          "lessor": "Lord Rossmore, .",
+          "desc": "O&L",
+          "area": "4 1 15",
+          "land_val": "8 0 0",
+          "building_val": "0 5 0",
+          "total_val": "8 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Collins, .",
+          "lessor": "Same, .",
+          "desc": "H&L",
+          "area": "4 1 15",
+          "land_val": "8 0 0",
+          "building_val": "0 15 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Alexander Rule, .",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "5 1 25",
+          "land_val": "11 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James Mitchell, .",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "6 1 25",
+          "land_val": "12 5 0",
+          "total_val": "12 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Comisky, .",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "5 0 15",
+          "land_val": "10 10 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "6 A",
+          "occupier": "John Seath, .",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "5 1 30",
+          "land_val": "12 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "John Seath, .",
+          "lessor": "Monaghan Gas Co., .",
+          "desc": "L",
+          "area": "2 2 25",
+          "land_val": "7 5 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Bernard Duffy, .",
+          "lessor": "Lord Rossmore, .",
+          "desc": "L",
+          "area": "4 1 10",
+          "land_val": "8 5 0",
+          "total_val": "8 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "William Murray, .",
+          "lessor": "Same, .",
+          "desc": "H,O,&L",
+          "area": "18 1 25",
+          "land_val": "44 10 0",
+          "building_val": "40 0 0",
+          "total_val": "84 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "John M'Dowell, .",
+          "lessor": "Same, .",
+          "desc": "H,O,&L",
+          "area": "11 3 25",
+          "land_val": "28 0 0",
+          "building_val": "32 0 0",
+          "total_val": "60 0 0"
+        },
+        {
+          "mr": "10 A",
+          "occupier": "John Woods, .",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "4 0 35",
+          "land_val": "7 10 0",
+          "total_val": "9 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "John Woods, .",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "1 0 25",
+          "land_val": "2 0 0",
+          "total_val": "9 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "11",
+          "occupier": "Elizabeth Bond, .",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "6 2 35",
+          "land_val": "15 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "James Sherry, .",
+          "lessor": "Elizabeth Bond, .",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "John Robinson, .",
+          "lessor": "Lord Rossmore, .",
+          "desc": "Caretaker's H,&L",
+          "area": "2 1 20",
+          "land_val": "4 0 0",
+          "building_val": "1 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "William Quail, .",
+          "lessor": "Same, .",
+          "desc": "H,O,&L",
+          "area": "3 0 20",
+          "land_val": "5 10 0",
+          "building_val": "1 10 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Robert Donaldson, .",
+          "lessor": "William Quail, .",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Monahan, .",
+          "lessor": "Lord Rossmore, .",
+          "desc": "H,O,&L",
+          "area": "2 2 0",
+          "land_val": "4 0 0",
+          "building_val": "1 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Andrew M'Carron, .",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "2 2 5",
+          "land_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "16 A",
+          "occupier": "John Robinson, .",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "1 1 10",
+          "land_val": "4 0 0",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "John Robinson, .",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "0 1 0",
+          "land_val": "0 10 0",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "17 A",
+          "occupier": "Robert Graham, .",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "1 1 5",
+          "land_val": "3 10 0",
+          "total_val": "4 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "Robert Graham, .",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "0 2 10",
+          "land_val": "1 5 0",
+          "total_val": "4 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "18",
+          "occupier": "Francis Adams, .",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "1 0 25",
+          "land_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Bernard M'Nally, .",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "0 3 15",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "James Spiller, .",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "3 0 5",
+          "land_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "James Ross, .",
+          "lessor": "Francis Adams, .",
+          "desc": "L",
+          "area": "1 1 20",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "James Gormley, .",
+          "lessor": "In fee, .",
+          "desc": "L",
+          "area": "0 1 25",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Humphrey Breakey, .",
+          "lessor": "James Ross, .",
+          "desc": "H,O,&L",
+          "area": "0 2 20",
+          "land_val": "1 10 0",
+          "building_val": "1 15 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Monaghan Gas Com- pany (John Seath, Manager),",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "4 2 30",
+          "land_val": "9 10 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Monaghan Gas Com- pany (John Seath, Manager),",
+          "lessor": "In fee, .",
+          "desc": "Manager's-H,O,&L",
+          "area": "1 0 5",
+          "land_val": "3 0 0",
+          "building_val": "20 0 0",
+          "total_val": "23 0 0"
+        },
+        {
+          "mr": "26 A a, B",
+          "occupier": "Dundalk Steam Packet Co., (Wm. M'Master, Secretary),",
+          "lessor": "Ulster Canal Co., .",
+          "desc": "Right and easement over land occupied by gas-mains and service-pipes, .",
+          "total_val": "80 0 0"
+        },
+        {
+          "mr": "26 A a, B",
+          "occupier": "Dundalk Steam Packet Co., (Wm. M'Master, Secretary),",
+          "lessor": "Ulster Canal Co., .",
+          "desc": "Canal & banks (258 lineal perches), .",
+          "area": "8 3 33",
+          "total_val": "12 15 0"
+        },
+        {
+          "mr": "B a",
+          "occupier": "Catherine M'Endow, .",
+          "lessor": "In fee, .",
+          "desc": "Lock-keeper's-H,O,&G",
+          "area": "0 1 12",
+          "land_val": "0 15 0",
+          "building_val": "2 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Catherine M'Endow, .",
+          "lessor": "In fee, .",
+          "desc": "O&yard",
+          "building_val": "1 5 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Grave-yard, .",
+          "lessor": "(See Exemptions.)",
+          "desc": "H&O",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "a",
+          "occupier": "Lord Rossmore, .",
+          "lessor": "In fee, .",
+          "desc": "Plantation, .",
+          "area": "0 0 25",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Lord Rossmore, .",
+          "lessor": "In fee, .",
+          "desc": "Water, .",
+          "area": "1 0 25"
+        },
+        {
+          "mr": "1 to 12",
+          "sublocation_1": "TOWN OF MONAGHAN",
+          "sublocation_2": "DAWSON-STREET",
+          "occupier": "(Valued in Townland of Mullaghmonaghan.)"
+        },
+        {
+          "mr": "29 A, B 13",
+          "occupier": "Dundalk Steam Packet Co. (Wm. M'Master, Secretary).",
+          "lessor": "Ulster Canal Co., .",
+          "desc": "H,stores,O,&L",
+          "area": "1 0 38",
+          "land_val": "4 0 0",
+          "building_val": "35 0 0",
+          "total_val": "39 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Unoccupied, .",
+          "lessor": "Rt. Rev. Chas. M'Nally and others, .",
+          "desc": "G",
+          "area": "0 0 16",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "14 to 17",
+          "occupier": "(Valued in Townland of Mullaghmonaghan.)"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "MEETING-HOUSE-SQUARE",
+          "occupier": "(Valued in Meeting-house-square, Townland of Roosky.)"
+        },
+        {
+          "mr": "2",
+          "occupier": "Francis M'Eneny, .",
+          "lessor": "Michael Duffy, .",
+          "desc": "H",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Michael Duffy, .",
+          "lessor": "Lord Rossmore, .",
+          "desc": "H,O,yd.,&G",
+          "area": "0 0 22",
+          "land_val": "0 10 0",
+          "building_val": "5 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Samuel M'Clelland, .",
+          "lessor": "Same, .",
+          "desc": "H,O,yd.,&G",
+          "area": "0 1 5",
+          "land_val": "1 0 0",
+          "building_val": "8 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Owen Murphy, .",
+          "lessor": "Same, .",
+          "desc": "H,O,yd.,&G",
+          "area": "0 0 22",
+          "land_val": "0 10 0",
+          "building_val": "10 0 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Wm. Quigley & others,",
+          "lessor": "Samuel M'Clelland, .",
+          "desc": "H(unfinished)&yard",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Terence O'Neill, .",
+          "lessor": "Same, .",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Michael M'Glone, .",
+          "lessor": "Same, .",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "John Halfpenny, .",
+          "lessor": "Peter M'Culloch, .",
+          "desc": "H,O,&yard",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Elizabeth Murray, .",
+          "lessor": "Margaret M'Quade, .",
+          "desc": "H,O,&yard",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Sarah Drum, .",
+          "lessor": "Same, .",
+          "desc": "H&yard",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF CHURCHTOWN.",
+      "entries": [
+        {
+          "mr": "3 17",
+          "townland": "CHURCHTOWN.",
+          "os": "",
+          "sublocation_1": "VILLAGE OF CHURCHTOWN.",
+          "sublocation_2": "GEORGE'S-STREET.",
+          "occupier": "Constabulary force,",
+          "lessor": "Sir Edw. Tierney, Bart.",
+          "desc": "Police barrack, office, and yard,",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0",
+          "n_shared": 1,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        }
+      ]
+    },
+    {
+      "parish": "PARISH OF KILBOLANE.",
+      "entries": [
+        {
+          "mr": "5 d",
+          "townland": "MAINE, SOUTH.",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "Constabulary force,",
+          "lessor": "Edmond Irwin,",
+          "desc": "Police barrack,",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0",
+          "n_shared": 1,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        }
+      ]
+    },
+    {
+      "parish": "PARISH OF LISCARROLL.",
+      "entries": [
+        {
+          "mr": "1 17",
+          "townland": "COOLBANE.",
+          "os": "",
+          "sublocation_1": "VILLAGE OF LISCARROLL.",
+          "sublocation_2": "MAIN-STREET.",
+          "occupier": "Constabulary force,",
+          "lessor": "Charles M'Carthy,",
+          "desc": "Police barrack, offices, yard, and garden, Petty Sessions Court-ho.",
+          "area": "0 0 18",
+          "land_val": "0 5 0",
+          "building_val": "8 0 0",
+          "total_val": "8 5 0",
+          "n_shared": 1,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "2 b",
+          "townland": "",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "Grand Jury of Co. Cork,",
+          "lessor": "Pierce Purcell, Esq.",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0",
+          "n_shared": 1,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        }
+      ]
+    },
+    {
+      "parish": "PARISH OF RATHGOGGAN.",
+      "entries": [
+        {
+          "mr": "43 8",
+          "townland": "RATHGOGGAN, MIDDLE.",
+          "os": "",
+          "sublocation_1": "TOWN OF CHARLEVILLE.",
+          "sublocation_2": "MAIN-STREET.",
+          "occupier": "Guardians of Kilmallock Union,",
+          "lessor": "David O'Kelly,",
+          "desc": "Workhouse, and offices,",
+          "area": "",
+          "land_val": "",
+          "building_val": "36 0 0",
+          "total_val": "36 0 0",
+          "n_shared": 1,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "17",
+          "townland": "",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "BROAD-STREET.",
+          "occupier": "",
+          "lessor": "Earl of Cork,",
+          "desc": "Potato-market& offices,",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 15 0",
+          "total_val": "3 15 0",
+          "n_shared": 1,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "51",
+          "townland": "",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "",
+          "lessor": "Earl of Cork,",
+          "desc": "Shambles and yard,",
+          "area": "",
+          "land_val": "",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0",
+          "n_shared": 1,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "52",
+          "townland": "",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "",
+          "lessor": "Earl of Cork,",
+          "desc": "Milk-stall,",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 4 0",
+          "total_val": "0 4 0",
+          "n_shared": 1,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "4",
+          "townland": "",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "CLANCHY'S-STREET.",
+          "occupier": "Constabulary Force,",
+          "lessor": "Mrs. Mary French,",
+          "desc": "Police-barrack, offices, and yard,",
+          "area": "",
+          "land_val": "",
+          "building_val": "12 10 0",
+          "total_val": "12 10 0",
+          "n_shared": 1,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "6",
+          "townland": "",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "Board of Guardians, of Kilmallock Union",
+          "lessor": "Mrs. Mary French,",
+          "desc": "Workhouse offices, yard and garden,",
+          "area": "0 1 30",
+          "land_val": "1 15 0",
+          "building_val": "61 0 0",
+          "total_val": "62 15 0",
+          "n_shared": 1,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        },
+        {
+          "mr": "1",
+          "townland": "",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "CLANCHY'S-TERRACE.",
+          "occupier": "William Cronin, Esq.",
+          "lessor": "Earl of Cork,",
+          "desc": "Endowed School-house and play-ground,",
+          "area": "0 1 1",
+          "land_val": "0 15 0",
+          "building_val": "2 15 0",
+          "total_val": "3 10 0",
+          "n_shared": 1,
+          "is_total": 0,
+          "is_exemption": 0,
+          "is_continued": 0
+        }
+      ]
+    }
+  ]
+}

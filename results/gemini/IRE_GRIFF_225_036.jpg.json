@@ -1,0 +1,369 @@
+{
+  "parishes": [
+    {
+      "parish": "GALTRIM",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "MONENSTOWN",
+          "os": "43 & 37",
+          "occupier": "Hon. and Rev. William S. Blackwood and Rev. John Jebb,",
+          "lessor": "In fee,",
+          "desc": "Herd's H & L",
+          "area": "111 1 34",
+          "land_val": "64 10 0",
+          "building_val": "0 10 0",
+          "total_val": "65 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Thomas Byrne,",
+          "lessor": "Hon. and Rev. William S. Blackwood and Rev. John Jebb,",
+          "desc": "L",
+          "area": "2 0 26",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Christopher Colgan,",
+          "lessor": "Rev. Henry Sirce,",
+          "desc": "H,O,&L",
+          "area": "7 1 28",
+          "land_val": "3 5 0",
+          "building_val": "0 15 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Rev. Henry Sirce,",
+          "lessor": "Hon. and Rev. William S. Blackwood and Rev. John Jebb,",
+          "desc": "L",
+          "area": "27 1 35",
+          "land_val": "17 0 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "John Traynor,",
+          "lessor": "Rev. Henry Sirce,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "John Brien,",
+          "lessor": "Hon. and Rev. William S. Blackwood and Rev. John Jebb,",
+          "desc": "H,O,&L",
+          "area": "31 1 8",
+          "land_val": "19 0 0",
+          "building_val": "1 0 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Patrick Durham,",
+          "lessor": "John Brien,",
+          "desc": "H & G",
+          "area": "0 0 25",
+          "land_val": "0 3 0",
+          "building_val": "0 7 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Mary Reilly,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "179 3 36",
+          "land_val": "104 18 0",
+          "building_val": "3 2 0",
+          "total_val": "108 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "WALTERSTOWN",
+          "os": "37",
+          "occupier": "William Gearty,",
+          "lessor": "Edward E. Chambers,",
+          "desc": "L",
+          "area": "188 3 35",
+          "land_val": "170 0 0",
+          "total_val": "170 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Vacant,",
+          "lessor": "William Gearty,",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Thomas Kennedy,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Nicholas Kennedy,",
+          "lessor": "Edward E. Chambers,",
+          "desc": "H,O,&L",
+          "area": "95 3 30",
+          "land_val": "86 10 0",
+          "building_val": "1 10 0",
+          "total_val": "88 0 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "284 3 25",
+          "land_val": "256 10 0",
+          "building_val": "2 18 0",
+          "total_val": "259 8 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "WINDTOWN",
+          "os": "37 & 43",
+          "occupier": "Myles Byrne,",
+          "lessor": "Hon. and Rev. William S. Blackwood and Rev. John Jebb,",
+          "desc": "H,O,&L",
+          "area": "41 1 29",
+          "land_val": "21 0 0",
+          "building_val": "1 0 0",
+          "total_val": "22 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Thomas Byrne,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "47 3 37",
+          "land_val": "30 10 0",
+          "building_val": "1 10 0",
+          "total_val": "32 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Hon. and Rev. William S. Blackwood and Rev. John Jebb,",
+          "lessor": "In fee,",
+          "desc": "O & L",
+          "area": "122 2 4",
+          "land_val": "86 10 0",
+          "building_val": "0 10 0",
+          "total_val": "87 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Vacant,",
+          "lessor": "Hon. and Rev. William S. Blackwood and Rev. John Jebb,",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "211 3 30",
+          "land_val": "138 0 0",
+          "building_val": "3 15 0",
+          "total_val": "141 15 0",
+          "is_total": 1
+        }
+      ]
+    },
+    {
+      "parish": "SCURLOCKSTOWN",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "ARDBRACKAN, or WRIGHTOWN",
+          "os": "37",
+          "occupier": "Hugh Gearty,",
+          "lessor": "Edward E. Chambers,",
+          "desc": "H,O,&L",
+          "area": "258 1 26",
+          "land_val": "100 0 0",
+          "building_val": "5 0 0",
+          "total_val": "105 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Anne Donohoe,",
+          "lessor": "Hugh Gearty,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Patrick Connor,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Matthew Glennon,",
+          "lessor": "Same,",
+          "desc": "H & G",
+          "area": "0 1 15",
+          "land_val": "0 5 0",
+          "building_val": "0 15 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- e",
+          "occupier": "Vacant,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- f",
+          "occupier": "Vacant,",
+          "lessor": "Same,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "258 3 1",
+          "land_val": "100 5 0",
+          "building_val": "7 5 0",
+          "total_val": "107 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "CREROGE",
+          "os": "37",
+          "occupier": "William Ryan,",
+          "lessor": "Edward M'Evoy,",
+          "desc": "H,O,&L",
+          "area": "180 2 17",
+          "land_val": "137 0 0",
+          "building_val": "5 0 0",
+          "total_val": "142 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "William Ryan,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "9 0 6",
+          "land_val": "6 5 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Matthew Whelan,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "8 2 3",
+          "land_val": "6 15 0",
+          "building_val": "0 15 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "John Reilly,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "59 1 22",
+          "land_val": "40 0 0",
+          "building_val": "1 0 0",
+          "total_val": "41 0 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "John Martin,",
+          "lessor": "Same,",
+          "desc": "Herd's H & L",
+          "area": "40 3 14",
+          "land_val": "31 0 0",
+          "building_val": "1 0 0",
+          "total_val": "32 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "James Ennis,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "10 0 19",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "7 A",
+          "occupier": "James Ennis,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "8 2 36",
+          "land_val": "6 0 0",
+          "total_val": "16 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B a",
+          "occupier": "James Ennis,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "16 1 35",
+          "land_val": "9 5 0",
+          "building_val": "0 15 0",
+          "total_val": "16 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "8 A a",
+          "occupier": "Christopher Carroll,",
+          "lessor": "James Ennis,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Hugh Gearty,",
+          "lessor": "Edward M'Evoy,",
+          "desc": "L",
+          "area": "34 3 1",
+          "land_val": "23 0 0",
+          "total_val": "23 0 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "William Gorman,",
+          "lessor": "Hugh Gearty,",
+          "desc": "H & G",
+          "area": "0 1 20",
+          "land_val": "0 7 0",
+          "building_val": "0 8 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "377 3 13",
+          "land_val": "263 12 0",
+          "building_val": "9 3 0",
+          "total_val": "272 15 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

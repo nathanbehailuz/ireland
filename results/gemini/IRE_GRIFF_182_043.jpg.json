@@ -1,0 +1,526 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF SHRULE",
+      "entries": [
+        {
+          "mr": "8",
+          "townland": "BARNACOR",
+          "os": "",
+          "occupier": "Patrick Carney,",
+          "lessor": "Jane Murray,",
+          "desc": "L",
+          "area": "0 3 0",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "b",
+          "occupier": "Ellen Carney,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "John Ryan,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "10 2 26",
+          "land_val": "5 15 0",
+          "building_val": "",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Patrick Carney,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Edward Rush,",
+          "lessor": "Same,",
+          "desc": "G",
+          "area": "0 0 32",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Bernard Fahey,",
+          "lessor": "Same,",
+          "desc": "H,L",
+          "area": "2 2 13",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Carney,",
+          "lessor": "Same,",
+          "desc": "H,L",
+          "area": "",
+          "land_val": "1 10 0",
+          "building_val": "0 5 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Edward Rush,",
+          "lessor": "Same,",
+          "desc": "H,O,L",
+          "area": "77 0 4",
+          "land_val": "49 10 0",
+          "building_val": "1 5 0",
+          "total_val": "50 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Mary Eevers,",
+          "lessor": "Edward Rush,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Ellen Flinn,",
+          "lessor": "Same,",
+          "desc": "H,O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "11",
+          "desc": "Water,",
+          "area": "15 2 25"
+        },
+        {
+          "desc": "Total,",
+          "area": "294 3 16",
+          "land_val": "192 3 0",
+          "building_val": "8 10 0",
+          "total_val": "200 13 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "CARTRONBOY",
+          "os": "22 & 26",
+          "occupier": "Michael Malone,",
+          "lessor": "Hon. L. H. K. Harman,",
+          "desc": "H,O,L",
+          "area": "29 3 25",
+          "land_val": "17 10 0",
+          "building_val": "1 0 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Brennan,",
+          "lessor": "Michael Malone,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "James Ahmuty,",
+          "lessor": "Hon.L.H.K.Harman",
+          "desc": "H,O,L",
+          "area": "15 1 34",
+          "land_val": "11 10 0",
+          "building_val": "1 5 0",
+          "total_val": "23 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B",
+          "occupier": "James Ahmuty,",
+          "lessor": "Hon.L.H.K.Harman",
+          "desc": "L",
+          "area": "17 0 18",
+          "land_val": "10 15 0",
+          "building_val": "",
+          "total_val": "23 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3",
+          "occupier": "William Newman,",
+          "lessor": "Same,",
+          "desc": "H,O,L",
+          "area": "15 0 3",
+          "land_val": "12 0 0",
+          "building_val": "2 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "George Mulligan,",
+          "lessor": "Same,",
+          "desc": "H,O,L",
+          "area": "2 0 10",
+          "land_val": "1 15 0",
+          "building_val": "1 5 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Higgins,",
+          "lessor": "Same,",
+          "desc": "H,O,L",
+          "area": "10 3 23",
+          "land_val": "6 0 0",
+          "building_val": "0 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "6 A",
+          "occupier": "Thomas Preston,",
+          "lessor": "Same,",
+          "desc": "H,O,L",
+          "area": "4 2 20",
+          "land_val": "2 5 0",
+          "building_val": "2 10 0",
+          "total_val": "11 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B",
+          "occupier": "Thomas Preston,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "14 3 29",
+          "land_val": "7 0 0",
+          "building_val": "",
+          "total_val": "11 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "7",
+          "occupier": "Royal Canal Company,",
+          "lessor": "In fee,",
+          "desc": "Canal banks,",
+          "area": "5 0 9",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Royal Canal Company,",
+          "lessor": "In fee,",
+          "desc": "Canal and towing-path (161 lineal perches),",
+          "area": "4 0 4",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "30 5 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Nicholas Butler,",
+          "lessor": "Royal Canal Company,",
+          "desc": "Store,",
+          "area": "",
+          "land_val": "",
+          "building_val": "12 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Patrick Cunningham,",
+          "lessor": "Hon. L. H. K. Harman,",
+          "desc": "L",
+          "area": "17 2 4",
+          "land_val": "13 10 0",
+          "building_val": "",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Catherine Kelly,",
+          "lessor": "Patrick Cunningham,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Bernard Kihil,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "John Geraghty,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "136 2 28",
+          "land_val": "83 15 0",
+          "building_val": "22 0 0",
+          "total_val": "136 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "CASTLECORE",
+          "os": "26 & 27",
+          "occupier": "Thomas Hussey,",
+          "lessor": "In fee,",
+          "desc": "O,L",
+          "area": "268 1 12",
+          "land_val": "198 10 0",
+          "building_val": "3 0 0",
+          "total_val": "201 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Vacant,",
+          "lessor": "Thomas Hussey,",
+          "desc": "H,O",
+          "area": "",
+          "land_val": "",
+          "building_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Brian Corican,",
+          "lessor": "Same,",
+          "desc": "H,O,forge",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "268 1 12",
+          "land_val": "198 10 0",
+          "building_val": "13 15 0",
+          "total_val": "212 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "CLOONKEEN",
+          "os": "23 & 27",
+          "occupier": "Anne Cullen,",
+          "lessor": "Hon.L.H.K.Harman",
+          "desc": "H,L",
+          "area": "3 0 34",
+          "land_val": "0 10 0",
+          "building_val": "0 10 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Bridget Casey,",
+          "lessor": "Hon.L.H.K.Harman",
+          "desc": "H,L",
+          "area": "",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Patrick Quinn,",
+          "lessor": "Same,",
+          "desc": "H,L",
+          "area": "41 0 9",
+          "land_val": "15 10 0",
+          "building_val": "1 0 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Kenny,",
+          "lessor": "Same,",
+          "desc": "H,L",
+          "area": "22 0 11",
+          "land_val": "9 10 0",
+          "building_val": "0 15 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Patrick Kenny,",
+          "lessor": "Same,",
+          "desc": "H,O,L",
+          "area": "27 1 0",
+          "land_val": "14 0 0",
+          "building_val": "1 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Robert Ganly,",
+          "lessor": "Same,",
+          "desc": "H,O,L",
+          "area": "18 2 29",
+          "land_val": "11 0 0",
+          "building_val": "1 10 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "John M'Kinley,",
+          "lessor": "Same,",
+          "desc": "H,O,L",
+          "area": "17 0 24",
+          "land_val": "10 5 0",
+          "building_val": "1 0 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Hon. L. H. K. Harman,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "170 0 3",
+          "land_val": "124 0 0",
+          "building_val": "",
+          "total_val": "124 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Bartholomew Coghlan,",
+          "lessor": "Hon. L. H. K. Harman,",
+          "desc": "H,G",
+          "area": "0 3 32",
+          "land_val": "0 10 0",
+          "building_val": "0 15 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Morton,",
+          "lessor": "Same,",
+          "desc": "H,G",
+          "area": "0 1 32",
+          "land_val": "0 10 0",
+          "building_val": "0 15 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Michael Donnellan,",
+          "lessor": "Same,",
+          "desc": "H,G",
+          "area": "0 1 33",
+          "land_val": "0 10 0",
+          "building_val": "0 15 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "8",
+          "desc": "Water,",
+          "area": "4 3 32"
+        },
+        {
+          "desc": "Total,",
+          "area": "306 0 39",
+          "land_val": "186 15 0",
+          "building_val": "8 5 0",
+          "total_val": "195 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DAROGE",
+          "os": "26",
+          "occupier": "William Wilson,",
+          "lessor": "Messrs. Stewart and Kincaid,",
+          "desc": "L",
+          "area": "42 2 16",
+          "land_val": "13 5 0",
+          "building_val": "",
+          "total_val": "13 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Catherine Dempsey,",
+          "lessor": "Same,",
+          "desc": "H,L",
+          "area": "2 2 15",
+          "land_val": "1 6 0",
+          "building_val": "0 9 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Matthew Carr,",
+          "lessor": "Same,",
+          "desc": "H,L",
+          "area": "12 1 12",
+          "land_val": "5 15 0",
+          "building_val": "0 15 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James Magee,",
+          "lessor": "Same,",
+          "desc": "H,O,L",
+          "area": "5 1 39",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Malone,",
+          "lessor": "Same,",
+          "desc": "H,L",
+          "area": "20 1 7",
+          "land_val": "9 5 0",
+          "building_val": "0 15 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Loughlin Horse,",
+          "lessor": "Same,",
+          "desc": "H,O,L",
+          "area": "24 0 5",
+          "land_val": "10 15 0",
+          "building_val": "1 5 0",
+          "total_val": "12 0 0"
+        }
+      ]
+    }
+  ]
+}

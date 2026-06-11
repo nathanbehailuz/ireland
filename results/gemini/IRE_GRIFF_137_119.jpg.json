@@ -1,0 +1,543 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF CLANE",
+      "entries": [
+        {
+          "mr": "8",
+          "townland": "BETAGHSTOWN",
+          "os": "",
+          "occupier": "John Brady",
+          "lessor": "Daniel Mitchell",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "c",
+          "occupier": "Edward Lynam",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Patrick Donohoe",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 4 0",
+          "building_val": "0 5 0",
+          "total_val": "0 9 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Thomas Bonynge",
+          "lessor": "Trustees of Hewson's Institution",
+          "desc": "H,O,&L",
+          "area": "34 1 37",
+          "land_val": "25 0 0",
+          "building_val": "15 0 0",
+          "total_val": "40 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Patrick Ennis",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "6 1 1",
+          "land_val": "4 0 0",
+          "building_val": "0 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "11 A",
+          "occupier": "Christopher Mitchell",
+          "lessor": "Daniel Mitchell",
+          "desc": "L",
+          "area": "5 0 17",
+          "land_val": "3 5 0",
+          "building_val": "",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "John Flood",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 0 38",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "4 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "a",
+          "occupier": "James Graham",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "1 2 21",
+          "land_val": "1 0 0",
+          "building_val": "0 5 0",
+          "total_val": "4 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "James Lynam",
+          "lessor": "James Graham",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "0 5 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Walter Roche",
+          "lessor": "Daniel Mitchell",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Richard Wilson",
+          "lessor": "Trustees of Hewson's Institution",
+          "desc": "H&L",
+          "area": "2 2 17",
+          "land_val": "0 15 0",
+          "building_val": "0 5 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "John Mason",
+          "lessor": "Richard Wilson",
+          "desc": "H,O,&L",
+          "area": "136 1 23",
+          "land_val": "79 0 0",
+          "building_val": "2 15 0",
+          "total_val": "81 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Trustees of Hewson's Institution",
+          "lessor": "In fee",
+          "desc": "H",
+          "area": "0 3 0",
+          "land_val": "0 12 0",
+          "building_val": "0 5 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Trustees of Hewson's Institution",
+          "lessor": "In fee",
+          "desc": "L (bog)",
+          "area": "176 2 0",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "621 3 29",
+          "land_val": "283 15 0",
+          "building_val": "30 10 0",
+          "total_val": "314 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BUTTERSTREAM COMMONS",
+          "os": "14",
+          "occupier": "John Coffey",
+          "lessor": "Free",
+          "desc": "H&G",
+          "area": "0 3 12",
+          "land_val": "0 12 0",
+          "building_val": "0 10 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "John Campbell",
+          "lessor": "Free",
+          "desc": "H&small garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "James Moghan",
+          "lessor": "Free",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "c & d",
+          "occupier": "Matthew Byrne",
+          "lessor": "Free",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "0 3 32",
+          "land_val": "0 16 0",
+          "building_val": "2 0 0",
+          "total_val": "2 16 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CAPDOO",
+          "os": "14",
+          "occupier": "Michael Dunne",
+          "lessor": "William Taaffe",
+          "desc": "L",
+          "area": "13 1 0",
+          "land_val": "16 0 0",
+          "building_val": "",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Deegan",
+          "lessor": "Charles Tuthill",
+          "desc": "L",
+          "area": "2 2 19",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Rourke",
+          "lessor": "Margaret Sweetman",
+          "desc": "H,O,&L",
+          "area": "96 0 21",
+          "land_val": "76 10 0",
+          "building_val": "2 15 0",
+          "total_val": "79 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Sullivan",
+          "lessor": "Charles Tuthill",
+          "desc": "L",
+          "area": "6 3 0",
+          "land_val": "6 15 0",
+          "building_val": "",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "River Liffey",
+          "area": "4 0 24",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "122 3 24",
+          "land_val": "101 0 0",
+          "building_val": "2 15 0",
+          "total_val": "103 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CAPDOO COMMONS",
+          "os": "14",
+          "occupier": "Thomas Rourke",
+          "lessor": "Free",
+          "desc": "L",
+          "area": "1 0 13",
+          "land_val": "0 13 0",
+          "building_val": "",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Thomas Rourke",
+          "lessor": "Earl of Ross",
+          "desc": "L",
+          "area": "23 2 21",
+          "land_val": "15 15 0",
+          "building_val": "",
+          "total_val": "15 15 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "James Reddy",
+          "lessor": "Free",
+          "desc": "H&G",
+          "area": "0 1 0",
+          "land_val": "0 3 0",
+          "building_val": "0 5 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Garrett Woods",
+          "lessor": "Free",
+          "desc": "H&G",
+          "area": "0 1 0",
+          "land_val": "0 3 0",
+          "building_val": "0 5 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Christiana Woods",
+          "lessor": "Free",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Matthew Kelly",
+          "lessor": "Free",
+          "desc": "H&G",
+          "area": "0 1 0",
+          "land_val": "0 3 0",
+          "building_val": "0 5 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Michael Craddock",
+          "lessor": "Free",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "0 5 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Thomas Geoghegan",
+          "lessor": "Free",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "0 15 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "Patrick Behan",
+          "lessor": "Thomas Geoghegan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "h",
+          "occupier": "Thomas Farrell",
+          "lessor": "Free",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "i",
+          "occupier": "Richard Coffey",
+          "lessor": "Free",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "k",
+          "occupier": "Patrick Carter",
+          "lessor": "Free",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "l",
+          "occupier": "Patrick Harte",
+          "lessor": "Free",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "m",
+          "occupier": "Thomas Quinton",
+          "lessor": "Lawrence Nugent",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "n",
+          "occupier": "Jane White",
+          "lessor": "Thomas Quinton",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Hickey",
+          "lessor": "Free",
+          "desc": "H&G",
+          "area": "1 0 33",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Mary Judge",
+          "lessor": "Free",
+          "desc": "H&G",
+          "area": "0 1 0",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Lynch",
+          "lessor": "Free",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 5 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Denis Craddock",
+          "lessor": "Free",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Patrick Arthur",
+          "lessor": "Free",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 5 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Mary Geraghty",
+          "lessor": "Free",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Michael Farrell",
+          "lessor": "Free",
+          "desc": "H&G",
+          "area": "0 1 3",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "Thomas Behan",
+          "lessor": "William Fletcher",
+          "desc": "H&L",
+          "area": "1 2 0",
+          "land_val": "0 18 0",
+          "building_val": "0 5 0",
+          "total_val": "1 3 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Roger Kittrick",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "0 3 8",
+          "land_val": "0 10 0",
+          "building_val": "0 10 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Joseph Behan",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "0 2 33",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Malone",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "0 2 33",
+          "land_val": "0 10 0",
+          "building_val": "0 10 0",
+          "total_val": "1 0 6"
+        }
+      ]
+    }
+  ]
+}

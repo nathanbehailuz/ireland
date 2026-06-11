@@ -1,0 +1,448 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF KILBRONEY",
+      "entries": [
+        {
+          "mr": "14",
+          "townland": "ROSSTREVOR",
+          "sublocation_1": "TOWN OF ROSSTREVOR",
+          "sublocation_2": "CHURCH-STREET",
+          "occupier": "Bridget Mark & others",
+          "lessor": "Francis Mooney",
+          "desc": "H and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "15",
+          "occupier": "Francis Mooney",
+          "lessor": "David Ross",
+          "desc": "H, off., yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "William Brown",
+          "lessor": "William Moffatt",
+          "desc": "H, yard, & sm. garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "John Wiley",
+          "lessor": "Same",
+          "desc": "H, office, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "John M'Quade",
+          "lessor": "Same",
+          "desc": "H (in rear)",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Catherine Grant",
+          "lessor": "Same",
+          "desc": "H (in rear)",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Mary M'Givern and another",
+          "lessor": "Same",
+          "desc": "H (in rear)",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Richard Stephenson",
+          "lessor": "John Goodwin",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "John Goodwin",
+          "lessor": "David Ross",
+          "desc": "H, offices, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "12 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Daniel Sheehy",
+          "lessor": "James Lightbody",
+          "desc": "Forge and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Daniel Sheehy",
+          "lessor": "James Lightbody",
+          "desc": "H (in rear)",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Anne Cunningham",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "James Lightbody",
+          "lessor": "David Ross",
+          "desc": "H, offs., & sm. garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Unoccupied",
+          "lessor": "Patrick M'Elroy",
+          "desc": "H, office, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "11 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "James Parks",
+          "lessor": "Same",
+          "desc": "H, office, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "11 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Patrick Murphy",
+          "lessor": "John Traynor",
+          "desc": "H, office, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Rosstrevor Total Abstinence Society (Bernard Dunne, Sec.)",
+          "lessor": "David Ross",
+          "desc": "Temperance Hall",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Edward Fern",
+          "lessor": "Rosstrevor Total Abstinence Society",
+          "desc": "H (under Temperance Hall)",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Thomas Caulfield",
+          "lessor": "Same",
+          "desc": "H (under Temperance Hall)",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Church Education Society's School-house, Teacher's apartments, and yard",
+          "lessor": "David Ross",
+          "desc": "Half annual rent of Church Education Society's School-house, Teacher's apartments, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "3 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "32",
+          "occupier": "William Hargrave",
+          "lessor": "John M'Cullagh",
+          "desc": "H, off., yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "Catherine Moffatt",
+          "lessor": "Same",
+          "desc": "H, yard, & sm. garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "John Henry Clarke",
+          "lessor": "David Ross",
+          "desc": "H and land",
+          "area": "1 2 20",
+          "land_val": "4 10 0",
+          "building_val": "19 0 0",
+          "total_val": "23 10 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Church and yard",
+          "lessor": "(See Exemptions.)",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "",
+          "is_exemption": 1
+        },
+        {
+          "mr": "36",
+          "occupier": "James White",
+          "lessor": "Ann O'Farrell",
+          "desc": "H, off., yard, & garden",
+          "area": "0 0 16",
+          "land_val": "0 10 0",
+          "building_val": "7 0 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "John Trainor",
+          "lessor": "Same",
+          "desc": "H, off., yard, & garden",
+          "area": "0 0 17",
+          "land_val": "0 10 0",
+          "building_val": "8 0 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "William Dunne and another",
+          "lessor": "Same",
+          "desc": "H, yard, & garden",
+          "area": "0 0 17",
+          "land_val": "0 10 0",
+          "building_val": "5 0 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "Richard Cull",
+          "lessor": "Same",
+          "desc": "H, yard, & garden",
+          "area": "0 0 13",
+          "land_val": "0 10 0",
+          "building_val": "3 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "Catherine Leckie",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "Robert Aikin",
+          "lessor": "William Sanxter",
+          "desc": "H, off., yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "John Hill",
+          "lessor": "David Ross",
+          "desc": "Office and weigh-bridge",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "William Sanxter",
+          "lessor": "Miss Reilly",
+          "desc": "Office (in rear)",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "44",
+          "occupier": "William Sanxter",
+          "lessor": "David Ross",
+          "desc": "Hotel, offices, yard, and garden",
+          "area": "0 0 38",
+          "land_val": "1 0 0",
+          "building_val": "49 0 0",
+          "total_val": "50 0 0"
+        },
+        {
+          "mr": "45",
+          "occupier": "Mary J. Innes (The Anchorage.)",
+          "lessor": "Same",
+          "desc": "H, offs., yard, & garden",
+          "area": "0 1 13",
+          "land_val": "2 0 0",
+          "building_val": "44 0 0",
+          "total_val": "46 0 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "OLD POST OFFICE-STREET",
+          "occupier": "Patrick Brady",
+          "lessor": "Hugh Moffatt",
+          "desc": "Shop and room",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Hugh Moffatt",
+          "lessor": "Robert M'Minn",
+          "desc": "H, offs., yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "20 0 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Sarah White",
+          "lessor": "John Cull",
+          "desc": "H, office, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Elizabeth Brain",
+          "lessor": "Robert M'Minn",
+          "desc": "H, office, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Police barrack, office, and yard",
+          "lessor": "(See Exemptions.)",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "",
+          "is_exemption": 1
+        },
+        {
+          "mr": "-",
+          "occupier": "Robert M'Minn",
+          "lessor": "",
+          "desc": "Half annual rent of Police barrack, office, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "8 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "6",
+          "occupier": "John Cull (The Craig House.)",
+          "lessor": "Patrick Smyth",
+          "desc": "H, offs., yard, & garden",
+          "area": "0 0 35",
+          "land_val": "1 0 0",
+          "building_val": "16 0 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Smith Ramadge",
+          "lessor": "Elizabeth Hamilton",
+          "desc": "H, offices, and land",
+          "area": "2 0 0",
+          "land_val": "6 0 0",
+          "building_val": "46 0 0",
+          "total_val": "52 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "William Calvert",
+          "lessor": "David Ross",
+          "desc": "H and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        }
+      ]
+    }
+  ]
+}

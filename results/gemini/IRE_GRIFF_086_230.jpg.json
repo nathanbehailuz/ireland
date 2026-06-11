@@ -1,0 +1,479 @@
+{
+  "parishes": [
+    {
+      "parish": "NEWTOWN ARDS",
+      "entries": [
+        {
+          "mr": "41",
+          "townland": "CORPORATION, NORTH",
+          "sublocation_1": "TOWN OF NEWTOWN ARDS",
+          "sublocation_2": "ANN-STREET",
+          "occupier": "John Mahon",
+          "lessor": "James Montgomery",
+          "desc": "H,O, & yard",
+          "building_val": "3 5 0",
+          "total_val": "3 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "42",
+          "occupier": "David Aiken",
+          "lessor": "Thomas Alexander",
+          "desc": "H & yard",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "John Dickson",
+          "lessor": "Ellen Robb & William Crickard",
+          "desc": "H,O, & yard",
+          "building_val": "8 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "NORTH-STREET",
+          "occupier": "William Harper",
+          "lessor": "Isaac Finlay",
+          "desc": "H",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Arthur M'Cutcheon",
+          "lessor": "Catherine Bell",
+          "desc": "H",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Isaac Bell",
+          "lessor": "Catherine Bell",
+          "desc": "H & yard",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "William M'Auley",
+          "lessor": "Mary Bryson",
+          "desc": "H,O, & yard",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Bridget M'Hugh",
+          "lessor": "Mary Bryson",
+          "desc": "H,O, & yard",
+          "building_val": "4 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "- a",
+          "lessor": "J. M. M'Clean",
+          "desc": "Yard (valued with No. 3)"
+        },
+        {
+          "mr": "6",
+          "occupier": "Richard Brady",
+          "lessor": "Thomas Alexander",
+          "desc": "H,O, forge, & yard",
+          "building_val": "9 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Peter Maguire",
+          "lessor": "Margaret Frederick",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Hugh Nelson",
+          "lessor": "Margaret Frederick",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Samuel Garrett",
+          "lessor": "Marquis of Londonderry",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "10, 11",
+          "occupier": "William Foster",
+          "lessor": "Rose Cleland",
+          "desc": "H, yard, & sm. G",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Hugh Kerr",
+          "lessor": "Rose Cleland",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Jane M'Lament",
+          "lessor": "Samuel Walker",
+          "desc": "H, yard, & sm. G",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Agnes Jamison",
+          "lessor": "Marquis of Londonderry",
+          "desc": "H & yard",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "15 a b",
+          "occupier": "Samuel Walker",
+          "lessor": "John Stuart",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "James M'Neill",
+          "lessor": "John Stuart",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Matthew Alexander",
+          "lessor": "John Stuart",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "William Campbell",
+          "lessor": "John Moorhead",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Margaret Bailey and Madge Monahan",
+          "lessor": "John Moorhead",
+          "desc": "H & yard",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "20",
+          "occupier": "James M'Cutcheon",
+          "lessor": "John Moorhead",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "William M'Cibbin",
+          "lessor": "Marquis of Londonderry",
+          "desc": "H & yard (in rear)",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Robert M'Gampsey",
+          "lessor": "William Jackson",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "James M'Whinney and Mary Allen",
+          "lessor": "Nathaniel Wallace",
+          "desc": "H, yard, & sm. G",
+          "building_val": "4 5 0",
+          "total_val": "4 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "24",
+          "occupier": "Robert Freeman",
+          "lessor": "Aaron Connley",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Robert Quinn",
+          "lessor": "Marquis of Londonderry",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "John Wilson",
+          "lessor": "Marquis of Londonderry",
+          "desc": "H, yard, & sm. G",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "John O'Neill",
+          "lessor": "James Robinson",
+          "desc": "H, yard, & sm. G",
+          "building_val": "4 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Robert M'Connell",
+          "lessor": "James Robinson",
+          "desc": "H, yard, & sm. G",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Thomas M'Cullough",
+          "lessor": "Marquis of Londonderry",
+          "desc": "H, yard, & sm. G",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Bernard M'Loughlin",
+          "lessor": "James Robinson",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Hugh Nesbitt",
+          "lessor": "James Robinson",
+          "desc": "H, yard, & sm. G",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "John Potter",
+          "lessor": "Marquis of Londonderry",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "William Neill",
+          "lessor": "Kenneth M'Whinney",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Unoccupied",
+          "lessor": "Marquis of Londonderry",
+          "desc": "H,O, and yard",
+          "building_val": "10 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "William Frederick",
+          "lessor": "Marquis of Londonderry",
+          "desc": "H, yard, & sm. G",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Isaac Fleming",
+          "lessor": "Andrew M'Creedy",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "Thomas Keers",
+          "lessor": "Andrew M'Creedy",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Esther Bell",
+          "lessor": "Andrew M'Creedy",
+          "desc": "H (part of)",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "John Sutherland",
+          "lessor": "Andrew M'Creedy",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "John Warnock",
+          "lessor": "William Jamison",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "Robert Harvey",
+          "lessor": "Urias Smyley",
+          "desc": "H, yard, & sm. G",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "James Haffron",
+          "lessor": "Urias Smyley",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "John M'Vane",
+          "lessor": "Gawn Cooper",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "44",
+          "occupier": "Saml. Shaw & others",
+          "lessor": "James Knox",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "45",
+          "occupier": "William Sloane",
+          "lessor": "James Knox",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "John Finlay",
+          "lessor": "John M'Kittrick",
+          "desc": "H, yard, & sm. G",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "47",
+          "occupier": "Jane Heuston",
+          "lessor": "John M'Kittrick",
+          "desc": "H, yard, & sm: G",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "48",
+          "occupier": "Francis M'Connell",
+          "lessor": "John M'Kittrick",
+          "desc": "H, yard, & sm. G",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "49",
+          "occupier": "Patrick Doyle",
+          "lessor": "John M'Kittrick",
+          "desc": "H, yard, & sm: G",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "50",
+          "occupier": "Alexander Cochrane",
+          "lessor": "Thomas Strain",
+          "desc": "H, yard, & sm: G",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "51",
+          "occupier": "James M'Cormick and George White",
+          "lessor": "Thomas Strain",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "52",
+          "occupier": "Charles Johnston",
+          "lessor": "Thomas Strain",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "53",
+          "occupier": "Susan M'Cibbin",
+          "lessor": "Thomas Strain",
+          "desc": "H,O, yd., & sm. G",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "54",
+          "occupier": "Margaret Lundy",
+          "lessor": "Thomas Strain",
+          "desc": "H,O, and yard",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "55",
+          "occupier": "John Hill",
+          "lessor": "Thomas Strain",
+          "desc": "H,O, and yard",
+          "building_val": "2 5 0",
+          "total_val": "2 5 0"
+        }
+      ]
+    }
+  ]
+}

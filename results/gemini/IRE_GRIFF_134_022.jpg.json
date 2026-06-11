@@ -1,0 +1,315 @@
+{
+  "parishes": [
+    {
+      "entries": [
+        {
+          "mr": "8",
+          "townland": "DUNMURRAGHILL",
+          "occupier": "James Doherty,",
+          "lessor": "William Brereton,",
+          "desc": "H,O,&L",
+          "area": "2 2 18",
+          "land_val": "2 0 0",
+          "building_val": "1 10 0",
+          "total_val": "3 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "9",
+          "occupier": "Alexander Grant,",
+          "lessor": "Sir Gerald G. Aylmer, Bart.",
+          "desc": "H,O,&L",
+          "area": "127 3 34",
+          "land_val": "117 8 0",
+          "building_val": "7 17 0",
+          "total_val": "125 5 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "501 3 30",
+          "land_val": "377 10 0",
+          "building_val": "62 3 0",
+          "total_val": "444 13 0",
+          "is_total": 1
+        },
+        {
+          "desc": "Exemptions : Constabulary barrack, and yard,",
+          "area": "0 0 8",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of exemptions,",
+          "area": "501 3 22",
+          "land_val": "377 10 0",
+          "building_val": "55 3 0",
+          "total_val": "437 13 0",
+          "is_total": 1
+        }
+      ]
+    },
+    {
+      "parish": "PARISH OF KILCOCK",
+      "entries": [
+        {
+          "mr": "1 A B C D",
+          "townland": "BOYCETOWN",
+          "occupier": "Daniel Healy,",
+          "lessor": "Rep. James Cleghorn, Esq.",
+          "desc": "Herd's H,O,&L",
+          "area": "123 3 28",
+          "land_val": "133 2 0",
+          "building_val": "2 18 0",
+          "total_val": "136 0 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "— b",
+          "occupier": "William Kelly,",
+          "lessor": "Free,",
+          "desc": "H&G",
+          "area": "0 1 6",
+          "land_val": "0 6 0",
+          "building_val": "0 12 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "Charles Brien,",
+          "lessor": "William Kelly,",
+          "desc": "H&O",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2 A B",
+          "occupier": "Daniel Healy,",
+          "lessor": "M. G. W. Railway, & R. Canal Co..",
+          "desc": "Canal banks,",
+          "area": "5 0 8",
+          "land_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Richard Dunne,",
+          "lessor": "Daniel Healy,",
+          "desc": "H,O,&L",
+          "area": "3 2 3",
+          "land_val": "3 15 0",
+          "building_val": "3 0 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "James Smith,",
+          "lessor": "Mrs. Elizabeth F. Williams,",
+          "desc": "H&L",
+          "area": "2 1 37",
+          "land_val": "2 16 0",
+          "building_val": "0 9 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Patrick Griffin,",
+          "lessor": "John Power,",
+          "desc": "H&G",
+          "area": "0 0 22",
+          "land_val": "0 4 0",
+          "building_val": "0 6 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "Patrick Griffin,",
+          "lessor": "M. G. W. Railway, & R. Canal Co..",
+          "desc": "G",
+          "area": "0 0 26",
+          "land_val": "0 4 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "George Tyrrell, and Anne Connolly,",
+          "lessor": "M. G. W. Railway, & R. Canal Co..",
+          "desc": "Canal banks,",
+          "area": "3 0 25",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6",
+          "occupier": "M. G. W. Railway, & R. Canal Co..",
+          "lessor": "In fee,",
+          "desc": "Railway & waste land, 420 lineal perches, and canal and banks, 415 lineal perches,",
+          "area": "24 2 16",
+          "total_val": "83 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Thomas Sheridan,",
+          "lessor": "Mrs. Elizabeth F. Williams,",
+          "desc": "L",
+          "area": "6 3 12",
+          "land_val": "9 10 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Mary Cullen,",
+          "lessor": "John Power,",
+          "desc": "L",
+          "area": "12 3 34",
+          "land_val": "17 5 0",
+          "total_val": "17 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Thomas Flanagan,",
+          "lessor": "Mrs. Elizabeth F. Williams,",
+          "desc": "H&L",
+          "area": "7 0 2",
+          "land_val": "9 2 0",
+          "building_val": "0 8 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Joseph Walker,",
+          "lessor": "Rep. James Cleghorn, Esq.",
+          "desc": "Herd's H&L",
+          "area": "56 1 38",
+          "land_val": "62 2 0",
+          "building_val": "1 8 0",
+          "total_val": "63 10 0"
+        },
+        {
+          "mr": "11 A a B",
+          "occupier": "Rev. William Tracy,",
+          "lessor": "William Graydon, Esq.",
+          "desc": "H,O,&L",
+          "area": "13 0 18",
+          "land_val": "15 0 0",
+          "building_val": "10 0 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Thomas Robinson,",
+          "lessor": "Rep. James Cleghorn, Esq.",
+          "desc": "H,O,&L",
+          "area": "240 0 32",
+          "land_val": "235 10 0",
+          "building_val": "7 10 0",
+          "total_val": "243 0 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "Richard Martin,",
+          "lessor": "William Graydon, Esq.",
+          "desc": "Herd's H&L",
+          "area": "92 0 19",
+          "land_val": "88 14 0",
+          "building_val": "0 16 0",
+          "total_val": "89 10 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Mary Meara,",
+          "lessor": "Richard Martin,",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 3 0",
+          "building_val": "0 7 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "592 0 26",
+          "land_val": "581 18 0",
+          "building_val": "28 4 0",
+          "total_val": "693 12 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A a B",
+          "townland": "BRANGANSTOWN",
+          "occupier": "Bridget Kenny,",
+          "lessor": "Rev. James Smith,",
+          "desc": "H,O,&L",
+          "area": "35 0 38",
+          "land_val": "35 0 0",
+          "building_val": "1 5 0",
+          "total_val": "36 5 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "— B a",
+          "occupier": "John Gooly,",
+          "lessor": "Bridget Kenny,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "M. G. W. Railway, & R. Canal Co..",
+          "lessor": "In fee,",
+          "desc": "Railway & waste land, 227 lineal perches, and canal and banks, 223 lineal perches,",
+          "area": "12 3 14",
+          "total_val": "45 0 0"
+        },
+        {
+          "mr": "— a b c d",
+          "occupier": "John Boylan,",
+          "lessor": "M. G. W. Railway, & R. Canal Co..",
+          "desc": "G",
+          "area": "0 2 30",
+          "land_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Thomas Bailey,",
+          "lessor": "Rev. James Smith,",
+          "desc": "L",
+          "area": "1 2 3",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Eliza Cosgrave,",
+          "lessor": "Rev. James Smith,",
+          "desc": "H&L",
+          "area": "29 1 26",
+          "land_val": "29 8 0",
+          "building_val": "0 17 0",
+          "total_val": "30 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Michael Dunne,",
+          "lessor": "Rev. James Smith,",
+          "desc": "H,O,&L",
+          "area": "17 3 21",
+          "land_val": "16 17 0",
+          "building_val": "1 8 0",
+          "total_val": "18 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Michael Rochfort,",
+          "lessor": "Rev. James Smith,",
+          "desc": "L",
+          "area": "44 0 11",
+          "land_val": "54 15 0",
+          "total_val": "54 15 0"
+        }
+      ]
+    }
+  ]
+}

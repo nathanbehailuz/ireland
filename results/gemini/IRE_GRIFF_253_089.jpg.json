@@ -1,0 +1,407 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF DRUMCLIFF",
+      "entries": [
+        {
+          "mr": "19",
+          "townland": "BALLINCAR",
+          "os": "",
+          "occupier": "Robert Hunter,",
+          "lessor": "John Wynne,",
+          "desc": "L",
+          "area": "13 0 10",
+          "land_val": "3 7 0",
+          "building_val": "",
+          "total_val": "3 7 0",
+          "n_shared": 2,
+          "is_continued": 1
+        },
+        {
+          "mr": "19",
+          "occupier": "William Little,",
+          "lessor": "John Wynne,",
+          "desc": "L",
+          "area": "13 0 10",
+          "land_val": "3 7 0",
+          "building_val": "",
+          "total_val": "3 7 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "-",
+          "occupier": "John Wynne,",
+          "lessor": "In fee,",
+          "desc": "Bathing-house",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "William Little,",
+          "lessor": "John Wynne,",
+          "desc": "Bathing-house",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "20 a",
+          "occupier": "William Little,",
+          "lessor": "Same,",
+          "desc": "Bathing-house",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "21 a",
+          "occupier": "William Little,",
+          "lessor": "John Wynne,",
+          "desc": "L,H,&O",
+          "area": "14 2 10",
+          "land_val": "15 15 0",
+          "building_val": "0 15 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "William Little,",
+          "lessor": "John Wynne,",
+          "desc": "L,H,&O",
+          "area": "12 1 17",
+          "land_val": "14 15 0",
+          "building_val": "6 0 0",
+          "total_val": "20 15 0"
+        },
+        {
+          "mr": "22 b",
+          "occupier": "Lodgers,",
+          "lessor": "William Little,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Robert Hunter, jun.,",
+          "lessor": "John Wynne,",
+          "desc": "L",
+          "area": "9 3 0",
+          "land_val": "11 0 0",
+          "building_val": "",
+          "total_val": "12 5 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "-",
+          "occupier": "Robert Hunter, jun.,",
+          "lessor": "John Wynne,",
+          "desc": "L",
+          "area": "1 0 5",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "12 5 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "-",
+          "desc": "Portion of Rateable Property without the Parliamentary Boundary,",
+          "area": "383 3 17",
+          "land_val": "427 4 0",
+          "building_val": "143 0 0",
+          "total_val": "570 4 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Church Education Society school-house,",
+          "desc": "Church Education Society school-house,",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "-",
+          "desc": "Portion, including Exemptions, without the Parliamentary Boundary,",
+          "area": "383 3 17",
+          "land_val": "427 4 0",
+          "building_val": "145 0 0",
+          "total_val": "572 4 0",
+          "is_total": 1
+        }
+      ]
+    },
+    {
+      "parish": "PARISH OF CALRY",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "CARNCASH",
+          "os": "14, 15, & 8",
+          "occupier": "Andrew M'Cullagh,",
+          "lessor": "John Wynne,",
+          "desc": "L,H,&O",
+          "area": "24 1 20",
+          "land_val": "21 0 0",
+          "building_val": "0 10 0",
+          "total_val": "21 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "George Warren Shaw,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "49 1 6",
+          "land_val": "41 15 0",
+          "building_val": "0 5 0",
+          "total_val": "42 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Michael Brennan,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "26 0 30",
+          "land_val": "20 15 0",
+          "building_val": "1 15 0",
+          "total_val": "22 10 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Matthew Rowlet,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "48 3 20",
+          "land_val": "44 10 0",
+          "building_val": "5 10 0",
+          "total_val": "50 0 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "James Kerr,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "16 3 26",
+          "land_val": "12 10 0",
+          "building_val": "1 5 0",
+          "total_val": "13 15 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "James Gillan,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "16 0 20",
+          "land_val": "5 15 0",
+          "building_val": "0 10 0",
+          "total_val": "6 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 b",
+          "occupier": "Catherine Gillan,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "16 0 20",
+          "land_val": "5 15 0",
+          "building_val": "0 5 0",
+          "total_val": "6 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Francis Commons,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "16 3 15",
+          "land_val": "10 15 0",
+          "building_val": "0 15 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "-",
+          "desc": "Total,",
+          "area": "198 2 17",
+          "land_val": "162 15 0",
+          "building_val": "10 15 0",
+          "total_val": "173 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "SHANNON OUGHTER",
+          "os": "14 & 15",
+          "occupier": "Roger Parke,",
+          "lessor": "In fee,",
+          "desc": "L,H,&O",
+          "area": "173 1 28",
+          "land_val": "157 5 0",
+          "building_val": "0 15 0",
+          "total_val": "158 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Unoccupied,",
+          "lessor": "Roger Parke,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Roger Parke,",
+          "lessor": "In fee,",
+          "desc": "Care-taker's house,",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Owen Downes,",
+          "lessor": "Roger Parke,",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Thomas M'Donnell,",
+          "lessor": "James Martin,",
+          "desc": "L, bleach-mill, &O",
+          "area": "8 2 24",
+          "land_val": "9 0 0",
+          "building_val": "24 0 0",
+          "total_val": "33 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Thomas M'Donnell,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "2 2 0",
+          "land_val": "3 5 0",
+          "building_val": "5 15 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "-",
+          "desc": "Total,",
+          "area": "184 2 12",
+          "land_val": "169 10 0",
+          "building_val": "33 0 0",
+          "total_val": "202 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "SHANNON EIGHTER",
+          "os": "14",
+          "occupier": "Francis M. Olpherts,",
+          "lessor": "John Wynne,",
+          "desc": "L,H,&O",
+          "area": "33 0 20",
+          "land_val": "40 0 0",
+          "building_val": "35 0 0",
+          "total_val": "75 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Robert Young,",
+          "lessor": "Francis M. Olpherts,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 14 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Walter Young,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 11 0",
+          "total_val": "0 11 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Duncan,",
+          "lessor": "John Wynne,",
+          "desc": "L",
+          "area": "17 2 17",
+          "land_val": "23 0 0",
+          "building_val": "",
+          "total_val": "53 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3",
+          "occupier": "John Downes,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "20 2 5",
+          "land_val": "30 0 0",
+          "building_val": "",
+          "total_val": "53 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- a",
+          "occupier": "Andrew Munds,",
+          "lessor": "John Duncan,",
+          "desc": "G,H,&O",
+          "area": "0 0 15",
+          "land_val": "0 3 0",
+          "building_val": "0 12 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Myles M'Garry,",
+          "lessor": "Same,",
+          "desc": "H,O,& small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 14 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "John Downes,",
+          "lessor": "Same,",
+          "desc": "H & small G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 9 0",
+          "total_val": "0 9 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Thomas M'Donnell,",
+          "lessor": "James Martin,",
+          "desc": "L",
+          "area": "3 3 35",
+          "land_val": "3 15 0",
+          "building_val": "",
+          "total_val": "3 15 0"
+        }
+      ]
+    }
+  ]
+}

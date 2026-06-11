@@ -1,0 +1,528 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF TULLAGHANBROGUE",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "GROVE",
+          "os": "23",
+          "occupier": "Patrick Corr",
+          "lessor": "Johanna Hogan",
+          "desc": "L",
+          "area": "35 1 6",
+          "land_val": "19 0 0",
+          "building_val": "",
+          "total_val": "19 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "2 & 1 a",
+          "occupier": "Francis Tierney",
+          "lessor": "Patrick Corr",
+          "desc": "H & L",
+          "area": "1 0 15",
+          "land_val": "0 11 0",
+          "building_val": "0 4 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Nicholas Dalton",
+          "lessor": "Johanna Hogan",
+          "desc": "H,O,&L",
+          "area": "6 0 23",
+          "land_val": "4 10 0",
+          "building_val": "1 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "4 A B & 1 A B b",
+          "occupier": "Richard Laherty",
+          "lessor": "Johanna Hogan",
+          "desc": "H,O,&L",
+          "area": "12 1 10",
+          "land_val": "11 10 0",
+          "building_val": "2 0 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "— B a",
+          "occupier": "Pierce Wall",
+          "lessor": "Richard Laherty",
+          "desc": "H & G",
+          "area": "0 0 14",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Patrick Houlahan",
+          "lessor": "William Houlahan",
+          "desc": "H & G",
+          "area": "0 1 14",
+          "land_val": "0 11 0",
+          "building_val": "0 19 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "William Houlahan",
+          "lessor": "Johanna Hogan",
+          "desc": "H,O,&L",
+          "area": "107 0 5",
+          "land_val": "109 15 0",
+          "building_val": "4 0 0",
+          "total_val": "113 15 0"
+        },
+        {
+          "mr": "— b & c",
+          "occupier": "William Houlahan",
+          "lessor": "Rev. Fred. R. Sandys",
+          "desc": "L",
+          "area": "1 0 27",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "— d",
+          "occupier": "Grave-yard",
+          "lessor": "Glebe land",
+          "desc": "Grave-yard",
+          "area": "0 2 2",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "6",
+          "occupier": "James Brennan",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "L",
+          "area": "3 0 37",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Michael Fogarty",
+          "lessor": "James Brennan",
+          "desc": "H & G",
+          "area": "0 1 5",
+          "land_val": "0 4 0",
+          "building_val": "0 11 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Thomas Rynn",
+          "lessor": "Michael Fogarty",
+          "desc": "H,O,& gar.",
+          "area": "0 1 2",
+          "land_val": "0 4 0",
+          "building_val": "0 11 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Thomas Delahunty",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "H & L",
+          "area": "11 1 25",
+          "land_val": "8 15 0",
+          "building_val": "1 10 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Vacant",
+          "lessor": "John Nolan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "William Delahunty",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "H & L",
+          "area": "15 2 3",
+          "land_val": "9 10 0",
+          "building_val": "0 18 0",
+          "total_val": "10 8 0"
+        },
+        {
+          "mr": "9 A B C",
+          "occupier": "John Nolan",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "L",
+          "area": "26 0 38",
+          "land_val": "15 0 0",
+          "building_val": "",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Thomas Kelly",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "L",
+          "area": "60 1 13",
+          "land_val": "13 5 0",
+          "building_val": "",
+          "total_val": "13 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "",
+          "occupier": "Catherine Breen",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "13 5 0",
+          "building_val": "",
+          "total_val": "13 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "",
+          "occupier": "James Prendergast",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "8 15 0",
+          "building_val": "",
+          "total_val": "8 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "11",
+          "occupier": "John Dalton",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "H,O,&L",
+          "area": "20 1 19",
+          "land_val": "18 0 0",
+          "building_val": "2 10 0",
+          "total_val": "20 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "John Dalton",
+          "lessor": "Rev. Fred. R. Sandys",
+          "desc": "L",
+          "area": "1 3 28",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Edward Houlahan",
+          "lessor": "Rev. Fred. R. Sandys",
+          "desc": "H,O,&L",
+          "area": "1 3 38",
+          "land_val": "1 15 0",
+          "building_val": "0 10 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "14 A B G",
+          "occupier": "Alice Wall",
+          "lessor": "Johanna Hogan",
+          "desc": "H,O,&L",
+          "area": "5 0 1",
+          "land_val": "5 0 0",
+          "building_val": "1 5 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "William Holohan",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "L",
+          "area": "13 2 0",
+          "land_val": "13 15 0",
+          "building_val": "",
+          "total_val": "13 15 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Daniel Kelly",
+          "lessor": "William Holohan",
+          "desc": "H,O,& gar.",
+          "area": "0 0 11",
+          "land_val": "0 2 0",
+          "building_val": "0 18 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "324 0 16",
+          "land_val": "258 19 0",
+          "building_val": "18 12 0",
+          "total_val": "277 11 0",
+          "is_total": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Exemptions: Grave-yard",
+          "area": "0 2 2",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total, exclusive of Exemptions",
+          "area": "323 2 14",
+          "land_val": "258 9 0",
+          "building_val": "18 12 0",
+          "total_val": "277 1 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A a B",
+          "townland": "KNOCKAVALLY",
+          "os": "22",
+          "occupier": "Martin Hartley",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "H,O,&L",
+          "area": "3 2 29",
+          "land_val": "2 7 0",
+          "building_val": "0 13 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Thomas Walsh",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "H,O,&L",
+          "area": "3 0 9",
+          "land_val": "2 0 0",
+          "building_val": "0 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Martin Walsh",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "L",
+          "area": "4 2 33",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "John M'Grath",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "H,O,&L",
+          "area": "13 2 28",
+          "land_val": "8 0 0",
+          "building_val": "1 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Patrick Kelly",
+          "lessor": "John M'Grath",
+          "desc": "H & small garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Edmund Finn",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "H,O,&L",
+          "area": "23 0 31",
+          "land_val": "16 5 0",
+          "building_val": "1 15 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Ellen Cashen",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "6 A B a",
+          "occupier": "Philip Carroll",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "H,O,&L",
+          "area": "17 0 24",
+          "land_val": "11 15 0",
+          "building_val": "1 15 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "7 A B a",
+          "occupier": "Patrick Darcy",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "H,O,&L",
+          "area": "17 1 23",
+          "land_val": "12 0 0",
+          "building_val": "1 15 0",
+          "total_val": "13 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "82 3 17",
+          "land_val": "55 17 0",
+          "building_val": "8 11 0",
+          "total_val": "64 8 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "KYLEANDANGAN",
+          "os": "23",
+          "occupier": "Patrick Butler, (Jas.)",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "L",
+          "area": "31 0 12",
+          "land_val": "14 15 0",
+          "building_val": "",
+          "total_val": "14 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Richard Dalton",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "L",
+          "area": "23 2 18",
+          "land_val": "5 10 0",
+          "building_val": "",
+          "total_val": "5 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "",
+          "occupier": "James Dalton",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "5 10 0",
+          "building_val": "",
+          "total_val": "5 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "",
+          "occupier": "Patrick Butler, sen.",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "L",
+          "area": "",
+          "land_val": "6 10 0",
+          "building_val": "",
+          "total_val": "6 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "3",
+          "occupier": "Mary Finn",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "L",
+          "area": "13 0 22",
+          "land_val": "6 10 0",
+          "building_val": "",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "William Minogue",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "H & L",
+          "area": "2 1 38",
+          "land_val": "1 1 0",
+          "building_val": "0 4 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Patrick Butler (John)",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "H & G",
+          "area": "0 1 36",
+          "land_val": "0 5 0",
+          "building_val": "0 7 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Vacant",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "L",
+          "area": "10 2 34",
+          "land_val": "5 0 0",
+          "building_val": "",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Ellen Quigley",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "G",
+          "area": "0 1 32",
+          "land_val": "0 6 0",
+          "building_val": "",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Matthew Mahony",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "H & G",
+          "area": "0 0 34",
+          "land_val": "0 3 0",
+          "building_val": "0 12 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Matthew Mahony",
+          "lessor": "Michael Cahill, Esq.",
+          "desc": "L",
+          "area": "13 3 10",
+          "land_val": "7 0 0",
+          "building_val": "",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "95 3 36",
+          "land_val": "46 0 0",
+          "building_val": "1 3 0",
+          "total_val": "47 3 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

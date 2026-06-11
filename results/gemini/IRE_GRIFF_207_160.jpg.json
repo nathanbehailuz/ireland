@@ -1,0 +1,603 @@
+{
+  "parishes": [
+    {
+      "parish": "KILMOREMOY",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "BALLYHOLAN",
+          "os": "29",
+          "occupier": "Evans B. Grose,",
+          "lessor": "Col. Edw. Wingfield,",
+          "desc": "L, herd's H, & O",
+          "area": "91 1 15",
+          "land_val": "47 5 0",
+          "building_val": "0 15 0",
+          "total_val": "48 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "—",
+          "occupier": "Unoccupied,",
+          "lessor": "Same,",
+          "desc": "One cottage",
+          "area": "",
+          "land_val": "—",
+          "building_val": "0 10 0",
+          "total_val": "48 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "—",
+          "occupier": "James Ferguson,",
+          "lessor": "Same,",
+          "desc": "Corn-mill",
+          "area": "",
+          "land_val": "—",
+          "building_val": "25 0 0",
+          "total_val": "48 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "2",
+          "occupier": "James Ferguson, (See lot 2 a.)",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "26 1 37",
+          "land_val": "11 0 0",
+          "building_val": "—",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Edward Howley,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "3 3 38",
+          "land_val": "1 15 0",
+          "building_val": "—",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James Walker,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "76 3 13",
+          "land_val": "45 0 0",
+          "building_val": "2 10 0",
+          "total_val": "47 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Andrew Ruddy,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "26 0 37",
+          "land_val": "7 15 0",
+          "building_val": "0 15 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Patrick O'Hara,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "12 3 26",
+          "land_val": "2 15 0",
+          "building_val": "0 5 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Mary Clarke,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "14 2 13",
+          "land_val": "6 5 0",
+          "building_val": "0 10 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Patrick Judge,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "8 0 5",
+          "land_val": "4 10 0",
+          "building_val": "0 5 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "William Jordan,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "8 0 39",
+          "land_val": "5 0 0",
+          "building_val": "—",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Bartholomew Ferguson, (See lot 12 a.)",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "16 1 4",
+          "land_val": "10 10 0",
+          "building_val": "—",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Patrick Jordan,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "6 0 0",
+          "land_val": "3 10 0",
+          "building_val": "0 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "James Jordan,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "James Jordan,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "7 2 8",
+          "land_val": "4 10 0",
+          "building_val": "—",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "James Jordan,",
+          "lessor": "Same,",
+          "desc": "Waste",
+          "area": "2 3 0",
+          "land_val": "—",
+          "building_val": "—",
+          "total_val": "—"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Bartholomew Ferguson,",
+          "lessor": "Same,",
+          "desc": "H&O",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "0 16 0",
+          "total_val": "0 8 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— b",
+          "occupier": "James Ferguson,",
+          "lessor": "Same,",
+          "desc": "H&O",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "—",
+          "total_val": "0 8 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— b",
+          "occupier": "Bridget Ferguson,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Col. Edward Wingfield,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "25 2 9",
+          "land_val": "0 7 0",
+          "building_val": "—",
+          "total_val": "0 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "14",
+          "occupier": "Col. Edward Wingfield,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "13 0 0",
+          "land_val": "0 3 0",
+          "building_val": "—",
+          "total_val": "0 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "desc": "Total,",
+          "area": "339 3 4",
+          "land_val": "150 5 0",
+          "building_val": "32 11 0",
+          "total_val": "182 16 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "BEHY BEG",
+          "os": "29",
+          "occupier": "William Hennigan,",
+          "lessor": "John Smith,",
+          "desc": "L,H,&O",
+          "area": "158 2 28",
+          "land_val": "6 15 0",
+          "building_val": "0 15 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "John Flanagan,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "",
+          "land_val": "3 0 0",
+          "building_val": "0 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "Robert Shaw,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "",
+          "land_val": "3 10 0",
+          "building_val": "0 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "— d",
+          "occupier": "Patrick Robinson,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "— e",
+          "occupier": "John Callaghan,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "",
+          "land_val": "3 10 0",
+          "building_val": "0 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "— f",
+          "occupier": "Charles O'Dowd,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "",
+          "land_val": "3 10 0",
+          "building_val": "0 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "— g",
+          "occupier": "Michael Robinson,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "— h",
+          "occupier": "Mary Robinson,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "— i",
+          "occupier": "Abigail Durkin,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "— j",
+          "occupier": "William Durkin,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "",
+          "land_val": "2 5 0",
+          "building_val": "0 8 0",
+          "total_val": "2 13 0"
+        },
+        {
+          "mr": "— k",
+          "occupier": "Patrick Gorman,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "",
+          "land_val": "2 5 0",
+          "building_val": "0 7 0",
+          "total_val": "2 12 0"
+        },
+        {
+          "mr": "— l",
+          "occupier": "Bridget Mangan,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "",
+          "land_val": "2 5 0",
+          "building_val": "0 10 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Smith,",
+          "lessor": "Col. Edward Wingfield,",
+          "desc": "L",
+          "area": "19 1 0",
+          "land_val": "7 0 0",
+          "building_val": "—",
+          "total_val": "8 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "3",
+          "occupier": "John Smith,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "60 2 20",
+          "land_val": "1 0 0",
+          "building_val": "—",
+          "total_val": "8 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "4",
+          "occupier": "Owen Loftus,",
+          "lessor": "John Smith,",
+          "desc": "L,H,&O",
+          "area": "10 1 10",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "5",
+          "occupier": "Thomas Meers and John Naughtin,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "4 1 10",
+          "land_val": "0 15 0",
+          "building_val": "—",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "James O'Boy,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "9 3 30",
+          "land_val": "2 5 0",
+          "building_val": "—",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Honoria Loftus,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "10 0 20",
+          "land_val": "2 10 0",
+          "building_val": "—",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Denis Rafter,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "7 3 30",
+          "land_val": "1 15 0",
+          "building_val": "—",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Patrick Barrett,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "11 2 20",
+          "land_val": "3 0 0",
+          "building_val": "—",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Anthony Rafter,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "197 1 20",
+          "land_val": "3 10 0",
+          "building_val": "0 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Charles Rafter,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "Patrick Rafter, sen.,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "",
+          "land_val": "3 5 0",
+          "building_val": "0 10 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "— d",
+          "occupier": "Martin Durkin,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "",
+          "land_val": "3 10 0",
+          "building_val": "0 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "— e",
+          "occupier": "Patrick Durkin,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "",
+          "land_val": "2 15 0",
+          "building_val": "0 8 0",
+          "total_val": "3 3 0"
+        },
+        {
+          "mr": "— f",
+          "occupier": "Thomas Rafter,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "— g",
+          "occupier": "Barbara Durkin,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "",
+          "land_val": "3 5 0",
+          "building_val": "0 10 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "— h",
+          "occupier": "Patrick Rafter, jun.,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "",
+          "land_val": "2 15 0",
+          "building_val": "0 10 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "— i",
+          "occupier": "John Durkin,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "",
+          "land_val": "3 0 0",
+          "building_val": "—",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "— i",
+          "occupier": "Dominick Rafter,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total,",
+          "area": "490 0 37",
+          "land_val": "89 0 0",
+          "building_val": "11 3 0",
+          "total_val": "100 3 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "BEHY MORE",
+          "os": "29",
+          "occupier": "John Walsh,",
+          "lessor": "George Smith,",
+          "desc": "L,H,&O",
+          "area": "",
+          "land_val": "4 5 0",
+          "building_val": "0 10 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "John Howley,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "",
+          "land_val": "4 5 0",
+          "building_val": "0 10 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "Bridget Loftus,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "",
+          "land_val": "2 3 0",
+          "building_val": "0 10 0",
+          "total_val": "2 13 0"
+        },
+        {
+          "mr": "— d",
+          "occupier": "John Loftus,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "",
+          "land_val": "2 2 0",
+          "building_val": "0 10 0",
+          "total_val": "2 12 0"
+        },
+        {
+          "mr": "— e",
+          "occupier": "Patrick Loftus,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "",
+          "land_val": "4 5 0",
+          "building_val": "0 10 0",
+          "total_val": "4 15 0"
+        }
+      ]
+    }
+  ]
+}

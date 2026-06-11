@@ -1,0 +1,14 @@
+{
+  "llm": "openai",
+  "pages_processed": 1904,
+  "entry_rows": 90667,
+  "townland_segments": 4133,
+  "segments_with_total_row": 3157,
+  "segments_with_total_row_pct": 76.39,
+  "valuation_pass_count": 2621,
+  "valuation_pass_pct": 83.02,
+  "one_page_townlands_segments": 3184,
+  "one_page_townlands_valuation_pass_pct": 85.18,
+  "multi_page_townlands_segments": 949,
+  "multi_page_townlands_valuation_pass_pct": 75.18
+}

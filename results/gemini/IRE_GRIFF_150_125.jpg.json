@@ -1,0 +1,581 @@
+{
+  "parishes": [
+    {
+      "parish": "GALLEN",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "COOLNAHINCH",
+          "os": "11",
+          "occupier": "James Donelan",
+          "lessor": "Sir Andrew Armstrong",
+          "desc": "H,O,&L",
+          "area": "31 3 16",
+          "land_val": "15 0 0",
+          "building_val": "0 15 0",
+          "total_val": "15 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Kelly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "13 1 35",
+          "land_val": "5 5 0",
+          "building_val": "",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Edward Malone",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 0 15",
+          "land_val": "3 5 0",
+          "building_val": "",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Kilmartin",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "19 2 10",
+          "land_val": "12 0 0",
+          "building_val": "0 15 0",
+          "total_val": "12 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Daniel Cloonan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "33 1 30",
+          "land_val": "20 15 0",
+          "building_val": "",
+          "total_val": "20 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Timothy Bagnall",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "27 1 1",
+          "land_val": "17 10 0",
+          "building_val": "",
+          "total_val": "17 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "132 2 27",
+          "land_val": "73 15 0",
+          "building_val": "1 10 0",
+          "total_val": "75 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "COOLREAGH OR CLOGHAN HILL",
+          "os": "22",
+          "occupier": "Catherine L'Estrange",
+          "lessor": "Abraham Bagwell",
+          "desc": "L",
+          "area": "5 0 14",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- B",
+          "occupier": "Catherine L'Estrange",
+          "lessor": "Abraham Bagwell",
+          "desc": "L",
+          "area": "2 0 20",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- C",
+          "occupier": "Catherine L'Estrange",
+          "lessor": "Abraham Bagwell",
+          "desc": "Herd's ho., offs., & land",
+          "area": "2 1 1",
+          "land_val": "1 10 0",
+          "building_val": "1 0 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "John Guinan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "17 3 17",
+          "land_val": "10 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- B",
+          "occupier": "John Guinan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "37 2 15",
+          "land_val": "26 5 0",
+          "building_val": "1 10 0",
+          "total_val": "37 15 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Vacant",
+          "lessor": "John Guinan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "3 A",
+          "occupier": "Thomas Burnett",
+          "lessor": "Abraham Bagwell",
+          "desc": "H,O,&L",
+          "area": "4 2 13",
+          "land_val": "3 0 0",
+          "building_val": "1 0 0",
+          "total_val": ""
+        },
+        {
+          "mr": "- B",
+          "occupier": "Thomas Burnett",
+          "lessor": "Abraham Bagwell",
+          "desc": "L",
+          "area": "5 2 30",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Patrick Smith",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "17 3 35",
+          "land_val": "12 5 0",
+          "building_val": "1 5 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "5 A",
+          "occupier": "Patrick Smith",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 0 10",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- B",
+          "occupier": "Patrick Smith",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 3 9",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "6 A",
+          "occupier": "Patrick Beahan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "14 0 17",
+          "land_val": "9 15 0",
+          "building_val": "1 0 0",
+          "total_val": ""
+        },
+        {
+          "mr": "- B",
+          "occupier": "Patrick Beahan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 3 30",
+          "land_val": "3 5 0",
+          "building_val": "",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Patrick Horan",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "1 2 17",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Bridget Coghlan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 1 26",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "John Horan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "19 3 23",
+          "land_val": "13 0 0",
+          "building_val": "1 10 0",
+          "total_val": "14 10 0"
+        },
+        {
+          "mr": "10 A",
+          "occupier": "John Horan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 0 38",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- B",
+          "occupier": "John Horan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 1 1",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "11 A",
+          "occupier": "Thomas Camin",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 3 14",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- B",
+          "occupier": "Thomas Camin",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "2 1 4",
+          "land_val": "1 10 0",
+          "building_val": "0 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Michael Flynn",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "21 1 22",
+          "land_val": "15 0 0",
+          "building_val": "1 10 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Peter Kelly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 2 20",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Peter Marshall",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 1 5",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "15 A a",
+          "occupier": "Bernard Deehan",
+          "lessor": "Same",
+          "desc": "Ho., herd's ho., offs., & ld.",
+          "area": "117 0 8",
+          "land_val": "76 10 0",
+          "building_val": "8 0 0",
+          "total_val": ""
+        },
+        {
+          "mr": "- B",
+          "occupier": "Bernard Deehan",
+          "lessor": "Same",
+          "desc": "Herd's houses and land",
+          "area": "91 3 34",
+          "land_val": "22 5 0",
+          "building_val": "0 15 0",
+          "total_val": ""
+        },
+        {
+          "mr": "- -",
+          "occupier": "Bernard Deehan",
+          "lessor": "Same",
+          "desc": "L (bog)",
+          "area": "165 0 0",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "108 0 0"
+        },
+        {
+          "mr": "- A b",
+          "occupier": "Peter Kelly",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 1 22",
+          "land_val": "0 5 0",
+          "building_val": "1 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "- - c",
+          "occupier": "James Connor",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 2 13",
+          "land_val": "0 10 0",
+          "building_val": "0 10 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- - d",
+          "occupier": "Peter Marshall",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Bernard Deehan",
+          "lessor": "Joseph T. Potts",
+          "desc": "L (bog)",
+          "area": "140 0 33",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Patrick M'Cormick",
+          "lessor": "Abraham Bagwell",
+          "desc": "L",
+          "area": "1 0 38",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Michael Guinan",
+          "lessor": "Bernard Deehan",
+          "desc": "H,O,&L",
+          "area": "0 2 25",
+          "land_val": "3 15 0",
+          "building_val": "0 10 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Abraham Bagwell",
+          "lessor": "In fee",
+          "desc": "L (bog)",
+          "area": "115 2 38",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Joseph T. Potts",
+          "lessor": "In fee",
+          "desc": "L (bog)",
+          "area": "131 0 0",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "955 3 22",
+          "land_val": "225 0 0",
+          "building_val": "22 10 0",
+          "total_val": "247 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CORAKNOCK GLEBE",
+          "os": "22",
+          "occupier": "Stephen Gunning",
+          "lessor": "Rev. Joseph M. Daly",
+          "desc": "L",
+          "area": "32 0 19",
+          "land_val": "19 5 0",
+          "building_val": "",
+          "total_val": "19 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "32 0 19",
+          "land_val": "19 5 0",
+          "building_val": "",
+          "total_val": "19 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "CORNAMONA",
+          "os": "22",
+          "occupier": "Thomas Tanner",
+          "lessor": "Peter H. Thompson",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "7 10 0",
+          "building_val": "1 5 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Michael Butler",
+          "lessor": "Peter H. Thompson",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "2 0 0",
+          "building_val": "0 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "John Butler",
+          "lessor": "Peter H. Thompson",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "4 15 0",
+          "building_val": "0 15 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Peter Coughlan",
+          "lessor": "Peter H. Thompson",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "9 10 0",
+          "building_val": "0 15 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "- e",
+          "occupier": "John Muldoon",
+          "lessor": "Peter H. Thompson",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "6 15 0",
+          "building_val": "1 5 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "- f",
+          "occupier": "Lack Larkin",
+          "lessor": "Peter H. Thompson",
+          "desc": "H,O,&L",
+          "area": "105 2 3",
+          "land_val": "12 10 0",
+          "building_val": "1 5 0",
+          "total_val": "13 15 0"
+        },
+        {
+          "mr": "- g",
+          "occupier": "Patrick Larkin, sen.",
+          "lessor": "Peter H. Thompson",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "6 15 0",
+          "building_val": "1 5 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "- h",
+          "occupier": "William Gilmour",
+          "lessor": "Peter H. Thompson",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "4 15 0",
+          "building_val": "0 15 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "- i",
+          "occupier": "Patrick Kelly",
+          "lessor": "Peter H. Thompson",
+          "desc": "H&L",
+          "area": "",
+          "land_val": "1 0 0",
+          "building_val": "0 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "- j",
+          "occupier": "Patrick Larkin, jun.",
+          "lessor": "Peter H. Thompson",
+          "desc": "H&L",
+          "area": "",
+          "land_val": "1 0 0",
+          "building_val": "0 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Peter H. Thompson",
+          "lessor": "In fee",
+          "desc": "L (bog)",
+          "area": "109 1 21",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "214 3 24",
+          "land_val": "57 0 0",
+          "building_val": "8 15 0",
+          "total_val": "65 15 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF AHAMLISH",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "CLOYRAGH",
+          "os": "5",
+          "occupier": "James Gilmartin",
+          "lessor": "Viscount Palmerston",
+          "desc": "L",
+          "area": "22 3 30",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "William Devins",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 0 4",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James M'Lean",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "9 0 16",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Martin Moffit",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "9 3 18",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Michael M'Sharry",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "9 1 36",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "John M'Sharry",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "9 0 16",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Thomas Moran",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "15 2 31",
+          "land_val": "1 5 0",
+          "building_val": "0 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Viscount Palmerston",
+          "lessor": "In fee",
+          "desc": "L (plantation)",
+          "area": "29 2 0",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Charles Gilmartin",
+          "lessor": "Viscount Palmerston",
+          "desc": "L (mountain)",
+          "area": "200 2 21",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0",
+          "n_shared": 8
+        },
+        {
+          "mr": "",
+          "occupier": "Michael M'Sharry",
+          "lessor": "",
+          "desc": "L (mountain)",
+          "area": "",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0",
+          "n_shared": 8
+        },
+        {
+          "mr": "",
+          "occupier": "John Gilmartin",
+          "lessor": "",
+          "desc": "L (mountain)",
+          "area": "",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0",
+          "n_shared": 8
+        },
+        {
+          "mr": "",
+          "occupier": "Michael Gilmartin",
+          "lessor": "",
+          "desc": "L (mountain)",
+          "area": "",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0",
+          "n_shared": 8
+        },
+        {
+          "mr": "",
+          "occupier": "Patrick Leyden",
+          "lessor": "",
+          "desc": "L (mountain)",
+          "area": "",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0",
+          "n_shared": 8
+        },
+        {
+          "mr": "",
+          "occupier": "Luke Moffit",
+          "lessor": "",
+          "desc": "L (mountain)",
+          "area": "",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0",
+          "n_shared": 8
+        },
+        {
+          "mr": "",
+          "occupier": "Thady Moffit",
+          "lessor": "",
+          "desc": "L (mountain)",
+          "area": "",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0",
+          "n_shared": 8
+        },
+        {
+          "mr": "",
+          "occupier": "Charles Gilroy",
+          "lessor": "",
+          "desc": "L (mountain)",
+          "area": "",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0",
+          "n_shared": 8
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "314 1 12",
+          "land_val": "23 15 0",
+          "building_val": "0 5 0",
+          "total_val": "24 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "GORTADERRY",
+          "os": "5",
+          "occupier": "John Christal",
+          "lessor": "Viscount Palmerston",
+          "desc": "H,O,&L",
+          "area": "78 0 32",
+          "land_val": "25 0 0",
+          "building_val": "2 0 0",
+          "total_val": "27 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Thomas Gillen",
+          "lessor": "Same",
+          "desc": "H,&L",
+          "area": "26 0 20",
+          "land_val": "3 15 0",
+          "building_val": "0 10 0",
+          "total_val": "4 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Mary Gillen",
+          "lessor": "Same",
+          "desc": "H,&L",
+          "area": "",
+          "land_val": "3 15 0",
+          "building_val": "0 10 0",
+          "total_val": "4 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Edward Gillespy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "5 3 20",
+          "land_val": "2 15 0",
+          "building_val": "1 0 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Bridget Tucker",
+          "lessor": "Same",
+          "desc": "H,&L",
+          "area": "23 1 12",
+          "land_val": "10 0 0",
+          "building_val": "1 5 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "4 b",
+          "occupier": "Bridget Tucker",
+          "lessor": "Same",
+          "desc": "Pound",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "James Christal",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "13 3 38",
+          "land_val": "8 0 0",
+          "building_val": "0 15 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Viscount Palmerston",
+          "lessor": "In fee",
+          "desc": "L (bog)",
+          "area": "22 0 0",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Thomas Kearns",
+          "lessor": "Viscount Palmerston",
+          "desc": "L",
+          "area": "0 2 10",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "170 0 21",
+          "land_val": "54 5 0",
+          "building_val": "6 0 0",
+          "total_val": "60 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "GROGAGH",
+          "os": "5",
+          "occupier": "Margaret M'Gowan",
+          "lessor": "Viscount Palmerston",
+          "desc": "L",
+          "area": "2 1 10",
+          "land_val": "1 5 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Margaret M'Gowan",
+          "lessor": "Viscount Palmerston",
+          "desc": "H,&L",
+          "area": "2 1 16",
+          "land_val": "1 5 0",
+          "building_val": "0 5 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James M'Gowan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 3 20",
+          "land_val": "1 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "James M'Gowan",
+          "lessor": "Same",
+          "desc": "H,&L",
+          "area": "2 3 6",
+          "land_val": "1 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Currid",
+          "lessor": "Same",
+          "desc": "H,&L",
+          "area": "3 2 30",
+          "land_val": "2 5 0",
+          "building_val": "0 10 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Patrick Currid",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 3 20",
+          "land_val": "1 10 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "James Feeny, sen.",
+          "lessor": "Same",
+          "desc": "H,&L",
+          "area": "11 2 27",
+          "land_val": "5 10 0",
+          "building_val": "0 15 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Patrick Feeny, jun.",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "10 1 18",
+          "land_val": "5 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Patrick Gilmartin",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "23 2 31",
+          "land_val": "11 10 0",
+          "building_val": "1 0 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "John Feeny",
+          "lessor": "Same",
+          "desc": "H,&L",
+          "area": "18 3 36",
+          "land_val": "10 5 0",
+          "building_val": "1 0 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Michael M'Sharry",
+          "lessor": "Same",
+          "desc": "H,&L",
+          "area": "28 3 13",
+          "land_val": "14 0 0",
+          "building_val": "1 5 0",
+          "total_val": "15 5 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Bridget Leyden",
+          "lessor": "Same",
+          "desc": "H,&L",
+          "area": "12 3 12",
+          "land_val": "5 10 0",
+          "building_val": "0 15 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "Patrick M'Gowan",
+          "lessor": "Same",
+          "desc": "H,&L",
+          "area": "14 0 16",
+          "land_val": "7 0 0",
+          "building_val": "1 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Patrick Feeny, sen.",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 0 30",
+          "land_val": "1 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Patrick Feeny, sen.",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 2 37",
+          "land_val": "3 0 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Matthew Leonard",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 1 20",
+          "land_val": "0 2 0",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Michael Cunningham",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 1 10",
+          "land_val": "0 3 0",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Michl. Cunningham",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 2 20",
+          "land_val": "0 7 0",
+          "total_val": "0 7 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "18",
+          "occupier": "Charles Gilmartin",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 7 0",
+          "total_val": "0 7 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "19",
+          "occupier": "Mary Currid",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 1 10",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Anne Currid",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 1 20",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "John Feeny",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 2 20",
+          "land_val": "2 10 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "22 a",
+          "occupier": "John Feeny",
+          "lessor": "Same",
+          "desc": "H,&L",
+          "area": "5 0 36",
+          "land_val": "1 10 0",
+          "building_val": "0 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "22 b",
+          "occupier": "Sarah M'Gowan",
+          "lessor": "John Feeny",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "23 a",
+          "occupier": "James Feeny, jun.",
+          "lessor": "Viscount Palmerston",
+          "desc": "H,&L",
+          "area": "2 3 20",
+          "land_val": "2 5 0",
+          "building_val": "0 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "James Feeny, jun.",
+          "lessor": "Viscount Palmerston",
+          "desc": "L",
+          "area": "6 0 4",
+          "land_val": "1 5 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "25 a",
+          "occupier": "Mary Feeny",
+          "lessor": "Same",
+          "desc": "H,&L",
+          "area": "11 2 4",
+          "land_val": "5 15 0",
+          "building_val": "0 15 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "John Leyden",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 3 15",
+          "land_val": "0 15 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "John Leyden",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "9 3 29",
+          "land_val": "3 10 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "192 1 10",
+          "land_val": "91 12 0",
+          "building_val": "9 5 0",
+          "total_val": "100 17 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

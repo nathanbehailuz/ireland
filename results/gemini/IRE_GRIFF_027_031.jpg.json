@@ -1,0 +1,482 @@
+{
+  "parishes": [
+    {
+      "parish": "KINAWLEY",
+      "entries": [
+        {
+          "mr": "16 a",
+          "townland": "HAWKSWOOD",
+          "occupier": "James Trotter",
+          "lessor": "Rev. Wm. R. Gresson",
+          "desc": "H&L",
+          "area": "4 0 2",
+          "land_val": "1 5 0",
+          "building_val": "0 5 0",
+          "total_val": "1 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "b",
+          "occupier": "Catherine Johnston",
+          "lessor": "James Trotter",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 2 0",
+          "building_val": "0 3 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "William Moffitt",
+          "lessor": "Rev. Wm. R. Gresson",
+          "desc": "H&L",
+          "area": "16 3 0",
+          "land_val": "6 15 0",
+          "building_val": "0 10 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Rev. Wm. R. Gresson",
+          "lessor": "In fee",
+          "desc": "L (old fair-green)",
+          "area": "0 3 27",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "19",
+          "desc": "Water",
+          "area": "3 2 17"
+        },
+        {
+          "mr": "20 1",
+          "sublocation_1": "TOWN OF SWANLINBAR",
+          "sublocation_2": "MAIN-STREET",
+          "occupier": "Rev. John J. Egan",
+          "lessor": "William Johnston",
+          "desc": "H,O,yd,&G",
+          "area": "0 1 5",
+          "land_val": "0 10 0",
+          "building_val": "15 10 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Captain John Johnston",
+          "lessor": "Rev. Wm. R. Gresson",
+          "desc": "H,O,&G",
+          "area": "0 1 30",
+          "land_val": "0 15 0",
+          "building_val": "20 5 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Hugh Kennedy",
+          "lessor": "Captain John Johnston",
+          "desc": "H,O,&G",
+          "area": "0 0 15",
+          "land_val": "0 3 0",
+          "building_val": "1 2 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Bernard M'Criley",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Reilly",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 12",
+          "land_val": "0 3 0",
+          "building_val": "1 2 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Richard Dobbin",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 0 12",
+          "land_val": "0 3 0",
+          "building_val": "1 7 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Dispensary and yard",
+          "lessor": "(See Exemptions.) William Johnston",
+          "desc": "Half annual rent of Dispensary",
+          "total_val": "3 15 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "8",
+          "lessor": "Captain John Johnston",
+          "desc": "Ruins"
+        },
+        {
+          "mr": "9",
+          "lessor": "Same",
+          "desc": "Ruins"
+        },
+        {
+          "mr": "10",
+          "occupier": "Winslow Finlay, M.D.",
+          "lessor": "Patrick Heron",
+          "desc": "H,O,&G",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "8 15 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "8 5 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "James Roe",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "8 5 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Police barrack, offices, yard, and garden",
+          "lessor": "(See Exemptions.) Robert Story",
+          "desc": "Half annual rent of Police barrack",
+          "total_val": "12 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "14",
+          "occupier": "Robert Hayes",
+          "lessor": "Nath. Montgomery",
+          "desc": "H,O,&G",
+          "area": "0 0 37",
+          "land_val": "0 10 0",
+          "building_val": "10 10 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Anne M'Caffrey",
+          "lessor": "Captain John Johnston",
+          "desc": "H,O,&G",
+          "area": "0 0 38",
+          "land_val": "0 10 0",
+          "building_val": "6 10 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Thomas Nugent",
+          "lessor": "Same",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 30",
+          "land_val": "0 10 0",
+          "building_val": "13 10 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Henry Tubman",
+          "lessor": "Anne Reilly",
+          "desc": "H,O,&yd",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Margaret M'Gauran",
+          "lessor": "Same",
+          "desc": "H&O (pt. of 17)",
+          "building_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Charles M'Hugh",
+          "lessor": "Alexander Ellis",
+          "desc": "H,O,yd&G",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "9 5 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Philip Fee",
+          "lessor": "Same",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 35",
+          "land_val": "0 10 0",
+          "building_val": "3 15 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "James Fee",
+          "lessor": "Philip Fee",
+          "desc": "H&O",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Captain John Johnston",
+          "lessor": "Rev. Wm. R. Gresson",
+          "desc": "Corn-mill and kiln",
+          "building_val": "18 0 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Alexander Ellis",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 0 37",
+          "land_val": "0 10 0",
+          "building_val": "3 10 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Peter M'Gauran",
+          "lessor": "James Veitch",
+          "desc": "H&small G",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Thomas Gilleese",
+          "lessor": "Same",
+          "desc": "H&small G",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Margaret Owen",
+          "lessor": "Alexander Finlay, M.D.",
+          "desc": "H (in rere)",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Owen M'Gaghran",
+          "lessor": "Peter Cox",
+          "desc": "H (in rere)",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "James M'Kiernan",
+          "lessor": "James Veitch",
+          "desc": "H&small G",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "A. O'Connor",
+          "lessor": "Same",
+          "desc": "H&small G",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Peter Cox",
+          "lessor": "Same",
+          "desc": "H&small G",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Cornelius M'Grath",
+          "lessor": "Same",
+          "desc": "H&small G",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "R. C. Chapel and yard",
+          "lessor": "(See Exemptions.) Elizabeth Hamilton",
+          "desc": "Half annual rent of R. C. Chapel",
+          "total_val": "2 5 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "33",
+          "occupier": "Alice M'Gaghran",
+          "lessor": "Rev. Wm. R. Gresson",
+          "desc": "H&O",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "Mary Dolan",
+          "lessor": "Same",
+          "desc": "H&O",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "James Kavanagh",
+          "lessor": "Same",
+          "desc": "H,O,&yd",
+          "building_val": "9 10 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "36 A",
+          "occupier": "Alexander Finlay, M.D.",
+          "lessor": "Same",
+          "desc": "H,O,&yd",
+          "building_val": "4 5 0",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B",
+          "occupier": "Alexander Finlay, M.D.",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 12",
+          "land_val": "0 5 0",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "37",
+          "occupier": "Felix M'Manus",
+          "lessor": "Charles M'Gauran",
+          "desc": "H (used as office)",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Charles M'Gauran",
+          "lessor": "Robert Story",
+          "desc": "Store and crane",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "Henry Barrett",
+          "lessor": "Rev. Wm. R. Gresson",
+          "desc": "Market-house & crane",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "Charles M'Gauran",
+          "lessor": "Robert Story",
+          "desc": "H,O,yd,&sm. G",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "William Boardman",
+          "lessor": "Same",
+          "desc": "H,O,&small G",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "Mary Ludlow",
+          "lessor": "Anne Reilly",
+          "desc": "H&store",
+          "building_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "Anne Reilly",
+          "lessor": "John M'Guire and William Crawford",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 21",
+          "land_val": "0 5 0",
+          "building_val": "6 15 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "44",
+          "occupier": "Henry Story",
+          "lessor": "Rev. Wm. R. Gresson",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 17",
+          "land_val": "0 5 0",
+          "building_val": "12 15 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "45",
+          "occupier": "Henry Breen",
+          "lessor": "Andrew Hill",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 24",
+          "land_val": "0 10 0",
+          "building_val": "7 0 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "Edward Drennan",
+          "lessor": "Same",
+          "desc": "H,yd,&G",
+          "area": "0 0 28",
+          "land_val": "0 10 0",
+          "building_val": "5 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "47",
+          "occupier": "Petit Sessions House and Bridewell",
+          "lessor": "(See Exemptions.) Andrew Hill",
+          "desc": "Half annual rent of Petit sessions-house",
+          "total_val": "5 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "48",
+          "occupier": "Martha Trimble",
+          "lessor": "Same",
+          "desc": "H,O,&yd",
+          "building_val": "11 0 0",
+          "total_val": "11 0 0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "parishes": [
+    {
+      "parish": "LARAGHBRYAN",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "BALLYCURRAGHAN",
+          "os": "5",
+          "occupier": "Simon Meabe",
+          "lessor": "Duke of Leinster",
+          "desc": "L",
+          "area": "3 1 16",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "M. G. W. Railway & Royal Canal Co.",
+          "lessor": "In fee",
+          "desc": "Railway 37 lineal perches, and canal and banks, 37 lineal perches",
+          "area": "1 1 22",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "7 8 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3",
+          "occupier": "Robert Coogan",
+          "lessor": "Duke of Leinster",
+          "desc": "H,O,&L",
+          "area": "72 2 33",
+          "land_val": "56 10 0",
+          "building_val": "7 0 0",
+          "total_val": "63 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "77 1 31",
+          "land_val": "59 10 0",
+          "building_val": "7 0 0",
+          "total_val": "73 18 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BALLYGORAN",
+          "os": "11",
+          "occupier": "Henry Goucher",
+          "lessor": "Duke of Leinster",
+          "desc": "H,O,&L",
+          "area": "163 3 25",
+          "land_val": "145 0 0",
+          "building_val": "11 0 0",
+          "total_val": "156 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "William Sheridan",
+          "lessor": "Duke of Leinster",
+          "desc": "L",
+          "area": "21 3 3",
+          "land_val": "23 0 0",
+          "building_val": "",
+          "total_val": "23 0 0"
+        },
+        {
+          "mr": "3 A B a",
+          "occupier": "William Browne",
+          "lessor": "George R. Kehoe",
+          "desc": "H,O,&L",
+          "area": "115 3 13",
+          "land_val": "84 10 0",
+          "building_val": "18 0 0",
+          "total_val": "102 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "William Browne",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "48 2 23",
+          "land_val": "39 0 0",
+          "building_val": "",
+          "total_val": "39 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Richard Baines",
+          "lessor": "William Browne",
+          "desc": "H,O,&L",
+          "area": "3 2 33",
+          "land_val": "3 5 0",
+          "building_val": "1 15 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "353 3 17",
+          "land_val": "294 15 0",
+          "building_val": "30 15 0",
+          "total_val": "325 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "BARROGSTOWN",
+          "os": "11",
+          "occupier": "William Sheridan",
+          "lessor": "Duke of Leinster",
+          "desc": "H,O,&L",
+          "area": "155 2 1",
+          "land_val": "121 10 0",
+          "building_val": "14 10 0",
+          "total_val": "136 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Henry Goucher",
+          "lessor": "Duke of Leinster",
+          "desc": "L",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "155 2 21",
+          "land_val": "121 12 0",
+          "building_val": "14 10 0",
+          "total_val": "136 2 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BLAKESTOWN",
+          "os": "6",
+          "occupier": "Duke of Leinster",
+          "lessor": "In fee",
+          "desc": "L, (plantation)",
+          "area": "20 0 11",
+          "land_val": "14 10 0",
+          "building_val": "",
+          "total_val": "14 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Patrick Connor",
+          "lessor": "Duke of Leinster",
+          "desc": "H,O,&L",
+          "area": "59 0 35",
+          "land_val": "54 10 0",
+          "building_val": "5 5 0",
+          "total_val": "59 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Thomas Walsh",
+          "lessor": "Duke of Leinster",
+          "desc": "H,O,&L",
+          "area": "73 2 5",
+          "land_val": "81 0 0",
+          "building_val": "8 0 0",
+          "total_val": "89 0 0"
+        },
+        {
+          "mr": "4 & 5 A b",
+          "occupier": "Thomas Walsh",
+          "lessor": "Duke of Leinster",
+          "desc": "H,O,&L",
+          "area": "37 0 1",
+          "land_val": "35 10 0",
+          "building_val": "4 10 0",
+          "total_val": "40 0 0"
+        },
+        {
+          "mr": "5 A a B",
+          "occupier": "James Mangan",
+          "lessor": "Duke of Leinster",
+          "desc": "H,O,&L",
+          "area": "3 2 5",
+          "land_val": "2 5 0",
+          "building_val": "2 15 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "William Stafford",
+          "lessor": "Duke of Leinster",
+          "desc": "L",
+          "area": "4 0 37",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "M. G. W. Railway & Royal Canal Co.",
+          "lessor": "In fee",
+          "desc": "Railway 159 lineal perches, and canal and banks, 179 lineal perches",
+          "area": "8 2 1",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "33 16 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "206 0 15",
+          "land_val": "189 5 0",
+          "building_val": "20 10 0",
+          "total_val": "243 11 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CARTON DEMESNE",
+          "os": "6",
+          "occupier": "Duke of Leinster",
+          "lessor": "In fee",
+          "desc": "H,O,&L",
+          "area": "963 3 4",
+          "land_val": "830 0 0",
+          "building_val": "225 0 0",
+          "total_val": "1055 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "963 3 4",
+          "land_val": "830 0 0",
+          "building_val": "225 0 0",
+          "total_val": "1055 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CATHERINES-TOWN",
+          "os": "6",
+          "occupier": "Lawrence Brangan",
+          "lessor": "Duke of Leinster",
+          "desc": "Herd's H,&L",
+          "area": "110 1 18",
+          "land_val": "101 10 0",
+          "building_val": "2 5 0",
+          "total_val": "103 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Rafferty",
+          "lessor": "Duke of Leinster",
+          "desc": "H,O,&L",
+          "area": "3 3 25",
+          "land_val": "3 5 0",
+          "building_val": "1 5 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "114 1 3",
+          "land_val": "104 15 0",
+          "building_val": "3 10 0",
+          "total_val": "108 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "COLLEGELAND",
+          "os": "5",
+          "occupier": "Trustees of the Royal College of St. Patrick,",
+          "lessor": "Duke of Leinster",
+          "desc": "L",
+          "area": "56 0 23",
+          "land_val": "81 0 0",
+          "building_val": "",
+          "total_val": "81 0 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Trustees of the Royal College of St. Patrick,",
+          "lessor": "Duke of Leinster",
+          "desc": "Senior College O,&L, (used as recreation ground)",
+          "area": "39 2 29",
+          "land_val": "50 0 0",
+          "building_val": "527 0 0",
+          "total_val": "577 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Trustees of the Royal College of St. Patrick,",
+          "lessor": "Mrs. Jemima Stoyte",
+          "desc": "Junior or Lay College, O,&L (used as recreation ground)",
+          "area": "16 3 23",
+          "land_val": "22 10 0",
+          "building_val": "152 0 0",
+          "total_val": "174 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "M G. W. Railway and Royal Canal Co.",
+          "lessor": "In fee",
+          "desc": "Railway 155 lineal perches, and canal and banks, 155 lineal perches",
+          "area": "7 3 19",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "31 0 0",
+          "n_shared": 2
+        }
+      ]
+    }
+  ]
+}

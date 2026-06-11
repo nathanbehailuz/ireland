@@ -1,0 +1,508 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF MOYGLARE",
+      "entries": [
+        {
+          "mr": "1 a b",
+          "townland": "KILLEANY",
+          "occupier": "John Byrne,",
+          "lessor": "Duke of Leinster,",
+          "desc": "H,O,&L",
+          "area": "354 0 18",
+          "land_val": "338 4 0",
+          "building_val": "18 11 0",
+          "total_val": "356 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Byrne,",
+          "lessor": "Rev. Richard Maunsell,",
+          "desc": "L",
+          "area": "3 0 30",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "357 1 8",
+          "land_val": "342 4 0",
+          "building_val": "18 11 0",
+          "total_val": "360 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "MOYGLARE",
+          "occupier": "Michael Byrne,",
+          "lessor": "George Woods, Esq.",
+          "desc": "H,O,&L",
+          "area": "125 1 37",
+          "land_val": "98 10 0",
+          "building_val": "4 10 0",
+          "total_val": "103 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Michael Byrne,",
+          "lessor": "Rev. Richard Maunsell,",
+          "desc": "H,O,&L",
+          "area": "0 3 2",
+          "land_val": "0 16 0",
+          "building_val": "3 14 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Charles Cannon, Esq.",
+          "lessor": "George Woods, Esq.",
+          "desc": "H,O,&L",
+          "area": "276 2 9",
+          "land_val": "280 0 0",
+          "building_val": "47 0 0",
+          "total_val": "327 0 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Charles Cannon, Esq.",
+          "lessor": "George Woods, Esq.",
+          "desc": "H,O,&L",
+          "area": "210 3 20",
+          "land_val": "214 0 0",
+          "building_val": "0 15 0",
+          "total_val": "214 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "William Dempsey,",
+          "lessor": "Charles Cannon, Esq.",
+          "desc": "H&forge",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Constabulary,",
+          "lessor": "Charles Cannon, Esq.",
+          "desc": "Barrack,O,&G",
+          "area": "0 0 33",
+          "land_val": "0 4 0",
+          "building_val": "3 11 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Rev. Richard Maunsell,",
+          "lessor": "Charles Cannon, Esq.",
+          "desc": "Gatehouse,&L",
+          "area": "5 2 0",
+          "land_val": "4 19 0",
+          "building_val": "1 11 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Rev. Richard Maunsell,",
+          "lessor": "Charles Cannon, Esq.",
+          "desc": "L",
+          "area": "4 3 32",
+          "land_val": "4 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Rev. Richard Maunsell,",
+          "lessor": "Free,",
+          "desc": "H,O,&L",
+          "area": "3 2 24",
+          "land_val": "4 3 0",
+          "building_val": "17 17 0",
+          "total_val": "22 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Rev. Richard Maunsell,",
+          "lessor": "George Woods, Esq.",
+          "desc": "L",
+          "area": "8 3 16",
+          "land_val": "11 5 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Andrew Byrne,",
+          "lessor": "George Woods, Esq.",
+          "desc": "H,O,&L",
+          "area": "277 0 24",
+          "land_val": "270 0 0",
+          "building_val": "37 10 0",
+          "total_val": "307 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Church,",
+          "lessor": "Rev. Richard Maunsell,",
+          "desc": "Church&graveyard",
+          "area": "0 3 20",
+          "land_val": "0 10 0",
+          "building_val": "6 10 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "914 3 17",
+          "land_val": "888 12 0",
+          "building_val": "123 18 0",
+          "total_val": "1012 10 0",
+          "is_total": 1
+        },
+        {
+          "desc": "Exemptions:",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Constabulary barrack,O,&G",
+          "area": "0 0 33",
+          "land_val": "0 4 0",
+          "building_val": "3 11 0",
+          "total_val": "3 15 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Church&graveyard",
+          "area": "0 3 20",
+          "land_val": "0 10 0",
+          "building_val": "6 10 0",
+          "total_val": "7 0 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total of exemptions,",
+          "area": "1 0 13",
+          "land_val": "0 14 0",
+          "building_val": "10 1 0",
+          "total_val": "10 15 0",
+          "is_total": 1,
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of exemptions,",
+          "area": "913 3 4",
+          "land_val": "887 18 0",
+          "building_val": "113 17 0",
+          "total_val": "1001 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "MOYGADDY",
+          "occupier": "John Byrne,",
+          "lessor": "Duke of Leinster,",
+          "desc": "L",
+          "area": "18 1 30",
+          "land_val": "16 15 0",
+          "total_val": "16 15 0"
+        },
+        {
+          "mr": "2 A a B",
+          "occupier": "Duke of Leinster,",
+          "lessor": "In fee,",
+          "desc": "H,O,&L",
+          "area": "143 2 17",
+          "land_val": "129 10 0",
+          "building_val": "3 0 0",
+          "total_val": "132 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Frederick Hoisted,",
+          "lessor": "Duke of Leinster,",
+          "desc": "H,O,&L",
+          "area": "173 3 15",
+          "land_val": "150 0 0",
+          "building_val": "20 0 0",
+          "total_val": "170 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Richard Tooner,",
+          "lessor": "Duke of Leinster,",
+          "desc": "L",
+          "area": "1 3 38",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Andrew Todd,",
+          "lessor": "Duke of Leinster,",
+          "desc": "H,O,&L",
+          "area": "238 1 25",
+          "land_val": "235 10 0",
+          "building_val": "47 0 0",
+          "total_val": "282 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Andrew Todd,",
+          "lessor": "Duke of Leinster,",
+          "desc": "L",
+          "area": "5 0 30",
+          "land_val": "4 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "581 1 35",
+          "land_val": "538 0 0",
+          "building_val": "70 0 0",
+          "total_val": "608 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "NEWTOWNMOYAGHY",
+          "occupier": "Eugene Quirk,",
+          "lessor": "Francis H. Toone, Esq.",
+          "desc": "L",
+          "area": "65 3 32",
+          "land_val": "63 5 0",
+          "total_val": "63 5 0"
+        },
+        {
+          "mr": "2 A B",
+          "occupier": "Eugene Quirk,",
+          "lessor": "James Ryan,",
+          "desc": "L",
+          "area": "66 1 14",
+          "land_val": "65 0 0",
+          "total_val": "65 0 0"
+        },
+        {
+          "mr": "B a",
+          "occupier": "Luke Rooney,",
+          "lessor": "Eugene Quirk,",
+          "desc": "H&O",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Thomas Gore,",
+          "lessor": "James Ryan,",
+          "desc": "H,O,&L",
+          "area": "26 3 13",
+          "land_val": "20 2 0",
+          "building_val": "1 8 0",
+          "total_val": "21 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Ryan,",
+          "lessor": "James Ryan,",
+          "desc": "L",
+          "area": "3 0 10",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John Brady,",
+          "lessor": "James Ryan,",
+          "desc": "H,O,&L",
+          "area": "5 2 5",
+          "land_val": "4 4 0",
+          "building_val": "0 16 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "6 A a B",
+          "occupier": "James Ryan,",
+          "lessor": "Matthew Cotes, Esq.",
+          "desc": "H&L",
+          "area": "5 2 28",
+          "land_val": "5 1 0",
+          "building_val": "2 4 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Cummins,",
+          "lessor": "Thomas Gore,",
+          "desc": "H&G",
+          "area": "0 1 34",
+          "land_val": "0 7 0",
+          "building_val": "0 8 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "B a",
+          "occupier": "Mary Farrell,",
+          "lessor": "James Ryan,",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "7 A B a",
+          "occupier": "Matthew Cotes, Esq.",
+          "lessor": "Francis H. Toone, Esq.",
+          "desc": "H&L",
+          "area": "74 3 36",
+          "land_val": "78 1 0",
+          "building_val": "0 19 0",
+          "total_val": "79 0 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Andrew Grogan,",
+          "lessor": "James Ryan,",
+          "desc": "H,O,&L",
+          "area": "4 0 9",
+          "land_val": "3 7 0",
+          "building_val": "0 18 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Michael Goodwin,",
+          "lessor": "Andrew Grogan,",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Richard Grogan,",
+          "lessor": "James Ryan,",
+          "desc": "H,O,&L",
+          "area": "1 3 19",
+          "land_val": "1 10 0",
+          "building_val": "0 10 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Nicholas Sloy,",
+          "lessor": "James Ryan,",
+          "desc": "H&G",
+          "area": "0 3 14",
+          "land_val": "0 13 0",
+          "building_val": "0 17 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Michael Monaghan,",
+          "lessor": "James Ryan,",
+          "desc": "H,O,&G",
+          "area": "0 0 30",
+          "land_val": "0 3 0",
+          "building_val": "0 10 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Michael Monaghan,",
+          "lessor": "Matthew Cotes, Esq.",
+          "desc": "L",
+          "area": "17 3 23",
+          "land_val": "13 15 0",
+          "total_val": "13 15 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Patrick Early,",
+          "lessor": "James Ryan,",
+          "desc": "H&L",
+          "area": "1 3 26",
+          "land_val": "2 2 0",
+          "building_val": "0 13 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "James Malone,",
+          "lessor": "Patrick Early,",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Edward Hopkins,",
+          "lessor": "John Grogan,",
+          "desc": "H,O,&G",
+          "area": "0 0 23",
+          "land_val": "0 4 0",
+          "building_val": "0 16 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "William Carty,",
+          "lessor": "Matthew Cotes, Esq.",
+          "desc": "H,O,&L",
+          "area": "36 1 33",
+          "land_val": "32 0 0",
+          "building_val": "2 0 0",
+          "total_val": "34 0 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "312 0 28",
+          "land_val": "292 4 0",
+          "building_val": "13 16 0",
+          "total_val": "306 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "OLDGRAIGUE",
+          "occupier": "Thomas O'Connell,",
+          "lessor": "John L. Adlercron, Esq.",
+          "desc": "H,O,&L",
+          "area": "158 1 5",
+          "land_val": "144 0 0",
+          "building_val": "4 5 0",
+          "total_val": "148 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Keane,",
+          "lessor": "Thomas O'Connell,",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "158 1 5",
+          "land_val": "144 0 0",
+          "building_val": "4 13 0",
+          "total_val": "148 13 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "OWENSTOWN",
+          "occupier": "Frederick Hoisted,",
+          "lessor": "Duke of Leinster,",
+          "desc": "L",
+          "area": "82 2 37",
+          "land_val": "65 5 0",
+          "total_val": "65 5 0"
+        },
+        {
+          "mr": "2 & 3 b",
+          "occupier": "Duke of Leinster,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "11 3 20",
+          "land_val": "8 5 0",
+          "total_val": "8 5 0"
+        }
+      ]
+    }
+  ]
+}

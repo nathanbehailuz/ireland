@@ -1,0 +1,559 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF CLONFERT",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "KNOCKFADDA",
+          "os": "15",
+          "occupier": "Maurice Sullivan",
+          "lessor": "Eugene Finn",
+          "desc": "H,O,&L",
+          "area": "36 1 19",
+          "land_val": "16 5 0",
+          "building_val": "1 0 0",
+          "total_val": "17 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Unoccupied",
+          "lessor": "Maurice Sullivan",
+          "desc": "H",
+          "building_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Florence M'Auliffe",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 28",
+          "land_val": "0 2 0",
+          "building_val": "0 4 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "James Graddy",
+          "lessor": "Eugene Finn",
+          "desc": "H,O,&L",
+          "area": "2 2 14",
+          "land_val": "0 14 0"
+        },
+        {
+          "mr": "— B a}",
+          "occupier": "James Graddy",
+          "lessor": "Eugene Finn",
+          "desc": "H,O,&L",
+          "area": "32 3 38",
+          "land_val": "14 16 0",
+          "building_val": "1 0 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "72 0 19",
+          "land_val": "31 17 0",
+          "building_val": "2 16 0",
+          "total_val": "34 13 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "KNOCKILLY",
+          "os": "15",
+          "occupier": "Cornelius Connors",
+          "lessor": "Michael Callaghan",
+          "desc": "H,O,&L",
+          "area": "58 2 28",
+          "land_val": "18 0 0",
+          "building_val": "1 0 0",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Margaret Collins",
+          "lessor": "Cornelius Connors",
+          "desc": "H,O,&G",
+          "area": "0 0 15",
+          "land_val": "0 2 0",
+          "building_val": "0 2 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "John Callaghan",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 4 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Michael Shine",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 2 0",
+          "building_val": "0 2 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Ellen Begley",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 15",
+          "land_val": "0 2 0",
+          "building_val": "0 4 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Cornelius Neil",
+          "lessor": "John Sullivan, (James)",
+          "desc": "H&L",
+          "area": "51 3 3",
+          "land_val": "23 5 0",
+          "building_val": "0 5 0",
+          "total_val": "23 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Ellen Neil",
+          "lessor": "Cornelius Neil",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "John Sullivan, (Jas.)",
+          "lessor": "Rev. Sml. Harman and Rev. Thos. Harman",
+          "desc": "H,O,&L",
+          "area": "168 2 16",
+          "land_val": "75 15 0",
+          "building_val": "2 15 0",
+          "total_val": "78 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Sullivan, (John)",
+          "lessor": "John Sullivan, (James)",
+          "desc": "H,O,&G",
+          "area": "0 0 24",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 30",
+          "land_val": "0 2 0",
+          "building_val": "0 2 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Timothy Cronin",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 27",
+          "land_val": "0 2 0",
+          "building_val": "0 4 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Timothy Brennan",
+          "lessor": "Same",
+          "desc": "Smithy, (see also 5,)",
+          "building_val": "0 2 0",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Elirabeth Donovan",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 4 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "Charles M'Carthy",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "h",
+          "occupier": "John Kelly",
+          "lessor": "Same",
+          "desc": "H&O",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "4 a & b",
+          "occupier": "Jeremiah Connors",
+          "lessor": "Michael Callaghan",
+          "desc": "H,O,&L",
+          "area": "175 3 3",
+          "land_val": "48 10 0",
+          "building_val": "1 15 0",
+          "total_val": "50 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Jeremiah M'Auliffe",
+          "lessor": "Jeremiah Connors",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 5 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Elizabeth Barrett",
+          "lessor": "James Connors",
+          "desc": "H",
+          "building_val": "0 4 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Patrick Reardon",
+          "lessor": "Jeremiah Connors",
+          "desc": "H&G",
+          "area": "0 0 25",
+          "land_val": "0 2 0",
+          "building_val": "0 4 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Cornelius M'Carthy",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 1 10",
+          "land_val": "0 4 0",
+          "building_val": "0 4 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "Timothy Mullane",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 16",
+          "land_val": "0 1 0",
+          "building_val": "0 4 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Geoffrey Sullivan, jun.",
+          "lessor": "William Temple French",
+          "desc": "H,O,&L",
+          "area": "94 0 13",
+          "land_val": "35 10 0",
+          "building_val": "2 0 0",
+          "total_val": "37 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Timothy Brennan",
+          "lessor": "Geoffrey Sullivan, jun.",
+          "desc": "H,O,&G",
+          "area": "0 2 18",
+          "land_val": "0 6 0",
+          "building_val": "0 4 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "John Guiney",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 13",
+          "land_val": "0 1 0",
+          "building_val": "0 4 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Bridget Jones",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 38",
+          "land_val": "0 4 0",
+          "building_val": "0 4 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Geoffrey Sullivan, sen.",
+          "lessor": "Same",
+          "desc": "H&O",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 36",
+          "land_val": "0 2 0",
+          "building_val": "0 4 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "6 { a",
+          "occupier": "Edmond Brosnahan",
+          "lessor": "Wm. Temple French",
+          "desc": "H,O,&L",
+          "area": "130 0 17",
+          "land_val": "27 15 0",
+          "building_val": "2 0 0",
+          "total_val": "29 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "John Brosnahan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "land_val": "27 15 0",
+          "building_val": "1 15 0",
+          "total_val": "29 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "c",
+          "occupier": "Thomas Glover",
+          "lessor": "Edmond Brosnahan",
+          "desc": "H&G",
+          "area": "0 0 14",
+          "land_val": "0 2 0",
+          "building_val": "0 2 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Unoccupied",
+          "lessor": "John Brosnahan",
+          "desc": "H&G",
+          "area": "0 0 14",
+          "land_val": "0 2 0",
+          "building_val": "0 2 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "desc": "Total",
+          "area": "681 3 10",
+          "land_val": "258 8 0",
+          "building_val": "17 14 0",
+          "total_val": "276 2 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "KNOCKSKAVANE",
+          "os": "5 & 6",
+          "occupier": "John Ryan",
+          "lessor": "Carbery Baldwin Egan",
+          "desc": "H,O,&L",
+          "area": "84 3 24",
+          "land_val": "40 15 0",
+          "building_val": "1 5 0",
+          "total_val": "42 0 0"
+        },
+        {
+          "mr": "2 A a}",
+          "occupier": "John Ryan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "72 2 22",
+          "land_val": "30 5 0",
+          "building_val": "3 5 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "John Ryan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "92 1 4",
+          "land_val": "16 10 0",
+          "total_val": "50 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "John Connors",
+          "lessor": "John Ryan",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 2 0",
+          "building_val": "0 2 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "John Molony",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 23",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Nicholas Kinnealy",
+          "lessor": "Carbery Baldwin Egan",
+          "desc": "H,O,&L",
+          "area": "33 0 30",
+          "land_val": "18 0 0",
+          "building_val": "2 0 0",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Patrick Ambrose",
+          "lessor": "Nicholas Kinnealy",
+          "desc": "H&G",
+          "area": "0 0 32",
+          "land_val": "0 2 0",
+          "building_val": "0 6 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "4 a & b",
+          "occupier": "Patrick Callaghan",
+          "lessor": "Carbery Baldwin Egan",
+          "desc": "H,O,&L",
+          "area": "141 1 36",
+          "land_val": "43 10 0",
+          "building_val": "2 10 0",
+          "total_val": "46 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Anne M'Mahon",
+          "lessor": "Patrick Callaghan",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Jeremiah Connell",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 1 0",
+          "land_val": "0 4 0",
+          "building_val": "0 12 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Jeremiah Connell",
+          "lessor": "Carbery Baldwin Egan",
+          "desc": "L",
+          "area": "2 0 9",
+          "land_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "occupier": "Edmond Connor",
+          "lessor": "Carbery Baldwin Egan",
+          "desc": "L",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "6 A",
+          "occupier": "Charles Connor",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 3 27",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "occupier": "Michael Connor",
+          "lessor": "Same",
+          "desc": "L",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "occupier": "Edmond Connor",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "land_val": "17 15 0",
+          "building_val": "1 10 0",
+          "total_val": "19 5 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "Charles Connor",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "180 2 38",
+          "land_val": "17 15 0",
+          "building_val": "1 5 0",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "C",
+          "occupier": "Michael Connor",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "land_val": "17 15 0",
+          "building_val": "1 10 0",
+          "total_val": "19 5 0"
+        },
+        {
+          "mr": "— A",
+          "occupier": "Timothy Murphy",
+          "lessor": "Edmond Connor",
+          "desc": "H&G",
+          "area": "0 3 1",
+          "land_val": "0 8 0",
+          "building_val": "0 8 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "James Curran",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 14",
+          "land_val": "0 2 0",
+          "building_val": "0 2 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Jeremiah Murphy",
+          "lessor": "Charles Connor",
+          "desc": "H&G",
+          "area": "0 1 3",
+          "land_val": "0 4 0",
+          "building_val": "0 2 0",
+          "total_val": "0 6 0"
+        }
+      ]
+    }
+  ]
+}

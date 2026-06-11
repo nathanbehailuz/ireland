@@ -1,0 +1,613 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF SHYANE",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "ROSSESTOWN",
+          "occupier": "William Dawton,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "L",
+          "area": "96 3 15",
+          "land_val": "63 13 0",
+          "building_val": "",
+          "total_val": "63 13 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "John Kilmartin,",
+          "lessor": "William Dawton,",
+          "desc": "H,O,&G",
+          "area": "0 1 17",
+          "land_val": "0 3 0",
+          "building_val": "0 10 0",
+          "total_val": "0 13 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Ryan,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "L",
+          "area": "88 2 5",
+          "land_val": "19 12 0",
+          "building_val": "",
+          "total_val": "19 12 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "-",
+          "occupier": "John Dawton,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "L",
+          "area": "88 2 5",
+          "land_val": "19 13 0",
+          "building_val": "",
+          "total_val": "19 13 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 A B",
+          "occupier": "John Ryan,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "L",
+          "area": "15 2 23",
+          "land_val": "13 8 0",
+          "building_val": "",
+          "total_val": "13 8 0"
+        },
+        {
+          "mr": "4 A B",
+          "occupier": "John Dawton,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "L",
+          "area": "15 2 4",
+          "land_val": "13 15 0",
+          "building_val": "",
+          "total_val": "13 15 0"
+        },
+        {
+          "mr": "5 A B C D",
+          "occupier": "Mary Quinn,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "L",
+          "area": "58 1 11",
+          "land_val": "27 18 0",
+          "building_val": "",
+          "total_val": "27 18 0"
+        },
+        {
+          "mr": "6 A B C D E",
+          "occupier": "Richard Quinn,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "L",
+          "area": "69 0 8",
+          "land_val": "38 18 0",
+          "building_val": "",
+          "total_val": "38 18 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Elizabeth Franklin,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 4 0",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "7 A B",
+          "occupier": "John Mulholland, Esq.",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "66 2 37",
+          "land_val": "34 5 0",
+          "building_val": "",
+          "total_val": "34 5 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Catherine Murray,",
+          "lessor": "John Dawton,",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 19 0",
+          "total_val": "0 19 0"
+        },
+        {
+          "mr": "— B a",
+          "occupier": "Thomas Dwyer,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "8 A B a",
+          "occupier": "Patrick Murray,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "H,O,&L",
+          "area": "79 2 30",
+          "land_val": "66 12 0",
+          "building_val": "3 2 0",
+          "total_val": "69 14 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Vacant,",
+          "lessor": "Patrick Murray,",
+          "desc": "H,O,&G",
+          "area": "0 2 18",
+          "land_val": "0 11 0",
+          "building_val": "2 0 0",
+          "total_val": "2 11 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "Mary Lanton,",
+          "lessor": "Patrick Murray,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 3 0",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "— A a",
+          "occupier": "John Naughton,",
+          "lessor": "Patrick Murray,",
+          "desc": "H,O,&G",
+          "area": "0 0 21",
+          "land_val": "0 2 0",
+          "building_val": "0 10 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "John Dawton,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "L",
+          "area": "7 1 27",
+          "land_val": "3 2 0",
+          "building_val": "",
+          "total_val": "3 2 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "-",
+          "occupier": "Michael Dawton,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "L",
+          "area": "7 1 27",
+          "land_val": "3 2 0",
+          "building_val": "",
+          "total_val": "3 2 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "— a",
+          "occupier": "Catherine Brittain,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 17 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Michael Dawton,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "L",
+          "area": "9 1 24",
+          "land_val": "3 19 0",
+          "building_val": "",
+          "total_val": "3 19 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "-",
+          "occupier": "Mary Quinn,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "L",
+          "area": "9 1 24",
+          "land_val": "3 19 0",
+          "building_val": "",
+          "total_val": "3 19 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "11",
+          "occupier": "Michael Dawton,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "L",
+          "area": "13 2 37",
+          "land_val": "10 9 0",
+          "building_val": "",
+          "total_val": "10 9 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "John Walsh,",
+          "lessor": "Michael Dawton,",
+          "desc": "H,O,&G",
+          "area": "0 2 15",
+          "land_val": "0 10 0",
+          "building_val": "0 6 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Patrick Nowlan,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "H,O,&L",
+          "area": "1 3 24",
+          "land_val": "1 12 0",
+          "building_val": "0 13 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Patrick Quinn,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "G",
+          "area": "0 2 6",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "William Quinn,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "H,O,&L",
+          "area": "7 0 33",
+          "land_val": "5 16 0",
+          "building_val": "0 18 0",
+          "total_val": "6 14 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Vacant,",
+          "lessor": "William Quinn,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Patrick Ryan,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "L",
+          "area": "5 0 15",
+          "land_val": "4 13 0",
+          "building_val": "",
+          "total_val": "4 13 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Mary Skehan,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "L",
+          "area": "2 2 26",
+          "land_val": "2 14 0",
+          "building_val": "",
+          "total_val": "2 14 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "William Quick,",
+          "lessor": "Patrick Murray,",
+          "desc": "H&L",
+          "area": "1 1 6",
+          "land_val": "1 5 0",
+          "building_val": "0 7 0",
+          "total_val": "1 12 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Thomas Ryan,",
+          "lessor": "Patrick Murray,",
+          "desc": "H,O,&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 6 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "17 a",
+          "occupier": "John Dawton,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "H,O,&L",
+          "area": "46 2 20",
+          "land_val": "6 16 0",
+          "building_val": "3 2 0",
+          "total_val": "9 18 0",
+          "n_shared": 6
+        },
+        {
+          "mr": "— b",
+          "occupier": "William Dawton, jun.",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "H,O,&L",
+          "area": "46 2 20",
+          "land_val": "6 16 0",
+          "building_val": "4 18 0",
+          "total_val": "11 14 0",
+          "n_shared": 6
+        },
+        {
+          "mr": "— c",
+          "occupier": "Michael Dawton,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "H,O,&L",
+          "area": "46 2 20",
+          "land_val": "6 16 0",
+          "building_val": "4 6 0",
+          "total_val": "11 2 0",
+          "n_shared": 6
+        },
+        {
+          "mr": "— d",
+          "occupier": "John Ryan,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "H,O,&L",
+          "area": "46 2 20",
+          "land_val": "6 16 0",
+          "building_val": "2 19 0",
+          "total_val": "9 15 0",
+          "n_shared": 6
+        },
+        {
+          "mr": "— e",
+          "occupier": "Mary Quinn,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "H,O,&L",
+          "area": "46 2 20",
+          "land_val": "6 15 0",
+          "building_val": "3 8 0",
+          "total_val": "10 3 0",
+          "n_shared": 6
+        },
+        {
+          "mr": "— f",
+          "occupier": "Richard Quinn,",
+          "lessor": "John Mulholland, Esq.",
+          "desc": "H,O,&L",
+          "area": "46 2 20",
+          "land_val": "6 15 0",
+          "building_val": "2 17 0",
+          "total_val": "9 12 0",
+          "n_shared": 6
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total,",
+          "area": "587 3 32",
+          "land_val": "380 16 0",
+          "building_val": "32 19 0",
+          "total_val": "413 15 0",
+          "is_total": 1
+        }
+      ]
+    },
+    {
+      "parish": "PARISH OF TEMPLEMORE",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "ADAMSTOWN",
+          "occupier": "Richard Mason, Esq.",
+          "lessor": "Sir John C. Carden, Bt.",
+          "desc": "L",
+          "area": "88 1 11",
+          "land_val": "123 19 0",
+          "building_val": "",
+          "total_val": "123 19 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Jeremiah Wall,",
+          "lessor": "Sir John C. Carden, Bt.",
+          "desc": "Gate-house,",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 9 0",
+          "total_val": "1 9 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Sir John C. Carden, Bt.",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "145 0 8",
+          "land_val": "122 0 0",
+          "building_val": "",
+          "total_val": "122 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Connor Maher,",
+          "lessor": "Richard Mason, Esq.",
+          "desc": "H&L",
+          "area": "1 1 3",
+          "land_val": "1 6 0",
+          "building_val": "0 10 0",
+          "total_val": "1 16 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Lanigan, Esq.",
+          "lessor": "Sir John C. Carden, Bt.",
+          "desc": "L",
+          "area": "55 0 32",
+          "land_val": "62 5 0",
+          "building_val": "",
+          "total_val": "62 5 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Vacant,",
+          "lessor": "John Lanigan, Esq.",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 16 0",
+          "total_val": "1 16 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total,",
+          "area": "289 3 14",
+          "land_val": "309 10 0",
+          "building_val": "3 15 0",
+          "total_val": "313 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A B",
+          "townland": "BALLYCAHILL",
+          "occupier": "Charles Harding, Esq.",
+          "lessor": "Court of Chancery,",
+          "desc": "L",
+          "area": "84 0 37",
+          "land_val": "57 10 0",
+          "building_val": "",
+          "total_val": "57 10 0"
+        },
+        {
+          "mr": "— B a",
+          "occupier": "Patrick Fannon,",
+          "lessor": "Charles Harding, Esq.",
+          "desc": "H&G",
+          "area": "0 0 27",
+          "land_val": "0 4 0",
+          "building_val": "0 8 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Michael Kennedy,",
+          "lessor": "Charles Harding, Esq.",
+          "desc": "H,O,&L",
+          "area": "31 3 36",
+          "land_val": "21 7 0",
+          "building_val": "1 12 0",
+          "total_val": "22 19 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Mary Bannon,",
+          "lessor": "Charles Harding, Esq.",
+          "desc": "H&L",
+          "area": "9 3 14",
+          "land_val": "7 0 0",
+          "building_val": "0 11 0",
+          "total_val": "7 11 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Patrick Fogarty,",
+          "lessor": "Charles Harding, Esq.",
+          "desc": "H,O,&L",
+          "area": "9 2 26",
+          "land_val": "8 12 0",
+          "building_val": "0 16 0",
+          "total_val": "9 8 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "John Kennedy (Short),",
+          "lessor": "Court of Chancery,",
+          "desc": "H,O,&L",
+          "area": "32 0 29",
+          "land_val": "14 17 0",
+          "building_val": "2 3 0",
+          "total_val": "17 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— b",
+          "occupier": "John Kennedy (Long),",
+          "lessor": "Court of Chancery,",
+          "desc": "H,O,&L",
+          "area": "32 0 29",
+          "land_val": "13 12 0",
+          "building_val": "2 12 0",
+          "total_val": "16 4 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— c",
+          "occupier": "Denis Dwyer,",
+          "lessor": "John Kennedy (Long),",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 3 0",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "— d",
+          "occupier": "Margaret Commons,",
+          "lessor": "John Kennedy (Long),",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "John Morkin,",
+          "lessor": "Court of Chancery,",
+          "desc": "H,O,corn-mill,&L",
+          "area": "13 1 12",
+          "land_val": "10 3 0",
+          "building_val": "8 2 0",
+          "total_val": "18 5 0"
+        },
+        {
+          "mr": "7 A C B",
+          "occupier": "Patrick Maher,",
+          "lessor": "Court of Chancery,",
+          "desc": "H,O,&L",
+          "area": "43 1 4",
+          "land_val": "36 4 0",
+          "building_val": "2 19 0",
+          "total_val": "39 3 0"
+        },
+        {
+          "mr": "8 A a B",
+          "occupier": "Michael Purcell,",
+          "lessor": "Court of Chancery,",
+          "desc": "H,O,&L",
+          "area": "22 1 15",
+          "land_val": "15 8 0",
+          "building_val": "3 7 0",
+          "total_val": "18 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "John Duane,",
+          "lessor": "John Kennedy (Long),",
+          "desc": "L",
+          "area": "1 3 32",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 0 0"
+        }
+      ]
+    }
+  ]
+}

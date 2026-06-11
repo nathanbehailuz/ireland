@@ -1,0 +1,687 @@
+{
+  "parishes": [
+    {
+      "parish": "DONERAILE",
+      "entries": [
+        {
+          "mr": "36",
+          "townland": "DONERAILE",
+          "sublocation_1": "TOWN OF DONERAILE",
+          "sublocation_2": "MAIN-STREET",
+          "occupier": "John Cotter",
+          "lessor": "Viscount Doneraile",
+          "desc": "Offices and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "37",
+          "occupier": "Unoccupied",
+          "lessor": "Viscount Doneraile",
+          "desc": "Ball-court",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Bartholomew Carty",
+          "lessor": "Viscount Doneraile",
+          "desc": "House, office, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "12 5 0",
+          "total_val": "12 5 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "Maurice Clear",
+          "lessor": "Miss Gubbins",
+          "desc": "House, office, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "9 5 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "Sarah Wall",
+          "lessor": "Viscount Doneraile",
+          "desc": "House, office, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "John Forsythe",
+          "lessor": "Viscount Doneraile",
+          "desc": "House, office, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "12 5 0",
+          "total_val": "12 5 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "Henry Longfield",
+          "lessor": "Viscount Doneraile",
+          "desc": "House, offices, yd., & gar.",
+          "area": "0 1 20",
+          "land_val": "0 15 0",
+          "building_val": "18 0 0",
+          "total_val": "18 15 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "Robert C. Bolton",
+          "lessor": "Viscount Doneraile",
+          "desc": "House, offices, yd., & gar.",
+          "area": "0 1 14",
+          "land_val": "0 15 0",
+          "building_val": "22 0 0",
+          "total_val": "22 15 0"
+        },
+        {
+          "mr": "44",
+          "occupier": "William Ashton",
+          "lessor": "Viscount Doneraile",
+          "desc": "House, offices, yd., & gar.",
+          "area": "0 1 1",
+          "land_val": "0 15 0",
+          "building_val": "28 0 0",
+          "total_val": "28 15 0"
+        },
+        {
+          "mr": "45",
+          "occupier": "James N. Croan, Esq.",
+          "lessor": "Mrs. Mary M'Carthy",
+          "desc": "House, offices, yd., & gar.",
+          "area": "1 0 0",
+          "land_val": "3 10 0",
+          "building_val": "41 10 0",
+          "total_val": "45 0 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "Arthur Creagh",
+          "lessor": "Arthur Allen",
+          "desc": "House, offices, yd., & gar.",
+          "area": "0 1 16",
+          "land_val": "1 0 0",
+          "building_val": "54 0 0",
+          "total_val": "55 0 0"
+        },
+        {
+          "mr": "47",
+          "occupier": "Arthur Creagh",
+          "lessor": "Viscount Doneraile",
+          "desc": "Offices and garden",
+          "area": "0 1 39",
+          "land_val": "1 10 0",
+          "building_val": "3 0 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "48",
+          "occupier": "Timothy Foley",
+          "lessor": "Arthur Creagh",
+          "desc": "House, offices, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "23 15 0",
+          "total_val": "23 15 0"
+        },
+        {
+          "mr": "49",
+          "occupier": "David Henderson",
+          "lessor": "Viscount Doneraile",
+          "desc": "House, offices, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "22 5 0",
+          "total_val": "22 5 0"
+        },
+        {
+          "mr": "50",
+          "occupier": "William Foley",
+          "lessor": "Viscount Doneraile",
+          "desc": "House, offices, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "14 15 0",
+          "total_val": "14 15 0"
+        },
+        {
+          "mr": "51",
+          "occupier": "William Foley",
+          "lessor": "Viscount Doneraile",
+          "desc": "Garden",
+          "area": "0 2 20",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "52",
+          "occupier": "John Roche",
+          "lessor": "Reps. James Daly",
+          "desc": "House, office, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "11 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "53",
+          "occupier": "Reps. Redmond Barry",
+          "lessor": "Viscount Doneraile",
+          "desc": "House and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "8 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "54",
+          "occupier": "George Ellard",
+          "lessor": "Mrs. Martha Swinburne",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "55",
+          "occupier": "Bartholomew M'Carthy",
+          "lessor": "Mrs. Martha Swinburne",
+          "desc": "House, office, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "9 5 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "56 a",
+          "occupier": "James Heycroft",
+          "lessor": "Viscount Doneraile",
+          "desc": "House, offices, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "18 15 0",
+          "total_val": "18 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "James Heycroft",
+          "lessor": "Mrs. Martha Swinburne",
+          "desc": "Offices, yard, and gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "57",
+          "occupier": "Rev. James Meagher",
+          "lessor": "Reps. B. Creagh",
+          "desc": "House, office, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "9 5 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "58",
+          "occupier": "Catherine Duane",
+          "lessor": "Reps. B. Creagh",
+          "desc": "House, office, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "9 5 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "59",
+          "occupier": "Lewis Walsh",
+          "lessor": "Reps. B. Creagh",
+          "desc": "House, offices, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "7 15 0",
+          "total_val": "7 15 0"
+        },
+        {
+          "mr": "60",
+          "occupier": "John Callaghan",
+          "lessor": "John Purcell, Esq.",
+          "desc": "House and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "61",
+          "occupier": "Philip Spraugne",
+          "lessor": "John Purcell, Esq.",
+          "desc": "House and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "62",
+          "occupier": "Patrick Quinlan",
+          "lessor": "John Purcell, Esq.",
+          "desc": "House and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "63",
+          "occupier": "Unoccupied",
+          "lessor": "Viscount Doneraile",
+          "desc": "House, office, yd., & gar.",
+          "area": "0 0 18",
+          "land_val": "0 2 0",
+          "building_val": "5 8 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "64",
+          "occupier": "John Keating",
+          "lessor": "Lawrence Cahill",
+          "desc": "House, office, yd., & gar.",
+          "area": "0 0 13",
+          "land_val": "0 2 0",
+          "building_val": "6 8 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "65",
+          "occupier": "John Buchanan",
+          "lessor": "William Atkins",
+          "desc": "House, offices, yd., & gar.",
+          "area": "0 0 14",
+          "land_val": "0 2 0",
+          "building_val": "5 3 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "66",
+          "occupier": "Margaret Roche",
+          "lessor": "Viscount Doneraile",
+          "desc": "House, office, yd., & gar.",
+          "area": "0 0 11",
+          "land_val": "0 2 0",
+          "building_val": "6 8 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "67",
+          "occupier": "William M'Carthy",
+          "lessor": "Viscount Doneraile",
+          "desc": "House, office, yd., & gar.",
+          "area": "0 0 28",
+          "land_val": "0 2 0",
+          "building_val": "5 8 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "68",
+          "occupier": "Unoccupied",
+          "lessor": "Richard Leeson",
+          "desc": "House, yard, & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "69",
+          "occupier": "Unoccupied",
+          "lessor": "Thomas Mann",
+          "desc": "Ho., office, yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "70",
+          "occupier": "John Collins",
+          "lessor": "Viscount Doneraile",
+          "desc": "Ho., offices, yd. & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "11 15 0",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "71",
+          "occupier": "John Spillane",
+          "lessor": "Michael Coleman",
+          "desc": "Ho., office, yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "9 5 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "72",
+          "occupier": "Matthew Murphy",
+          "lessor": "Viscount Doneraile",
+          "desc": "Ho., office, yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "8 15 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "73",
+          "occupier": "Denis Murphy",
+          "lessor": "John Purcell, Esq.",
+          "desc": "Ho., offices, yd. & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "7 5 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "74",
+          "occupier": "Patrick Brien",
+          "lessor": "Denis Sheehan",
+          "desc": "House, offices, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "75",
+          "occupier": "Unoccupied",
+          "lessor": "John Lane",
+          "desc": "House, offices, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "76",
+          "occupier": "Michael Carthy",
+          "lessor": "William M'Carthy",
+          "desc": "House, yard, & garden",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "3 0 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "77",
+          "occupier": "Bridget Clifton",
+          "lessor": "William Noonan",
+          "desc": "House, yard, & garden",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "3 0 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "78",
+          "occupier": "John Noonan",
+          "lessor": "Viscount Doneraile",
+          "desc": "House, office, yd., & gar.",
+          "area": "0 1 0",
+          "land_val": "0 15 0",
+          "building_val": "6 15 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "79",
+          "occupier": "Michael Quilty",
+          "lessor": "Viscount Doneraile",
+          "desc": "House, yard, & garden",
+          "area": "0 0 16",
+          "land_val": "0 5 0",
+          "building_val": "3 15 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "80",
+          "occupier": "John Hassitt",
+          "lessor": "Michael Quilty",
+          "desc": "House, yard, & garden",
+          "area": "0 0 16",
+          "land_val": "0 5 0",
+          "building_val": "2 10 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "81",
+          "occupier": "John Crabtree & another",
+          "lessor": "William M'Carthy",
+          "desc": "House, yard, & garden",
+          "area": "0 0 16",
+          "land_val": "0 5 0",
+          "building_val": "2 5 0",
+          "total_val": "2 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "82",
+          "occupier": "Matt. Murphy (lodgers)",
+          "lessor": "Matthew Murphy",
+          "desc": "House, yard, & garden",
+          "area": "0 0 20",
+          "land_val": "0 5 0",
+          "building_val": "3 0 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "83",
+          "occupier": "Edward Dobbyn",
+          "lessor": "Viscount Doneraile",
+          "desc": "House, yard, & garden",
+          "area": "0 0 13",
+          "land_val": "0 5 0",
+          "building_val": "3 5 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "84",
+          "occupier": "Timothy Hanlon",
+          "lessor": "Viscount Doneraile",
+          "desc": "House, yard, & garden",
+          "area": "0 0 15",
+          "land_val": "0 5 0",
+          "building_val": "5 0 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "85",
+          "occupier": "Rev. Patrick Duggan",
+          "lessor": "Viscount Doneraile",
+          "desc": "R. C. Chapel and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "66 10 0",
+          "total_val": "66 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "86",
+          "occupier": "Daniel Nugent",
+          "lessor": "Matthew Egan",
+          "desc": "House, office, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "87",
+          "occupier": "Daniel Conway",
+          "lessor": "Viscount Doneraile",
+          "desc": "House, office, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "88",
+          "occupier": "Benjamin Penn",
+          "lessor": "Viscount Doneraile",
+          "desc": "House, offices, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "89",
+          "occupier": "James Egan",
+          "lessor": "Viscount Doneraile",
+          "desc": "House, offices, yd., & gar.",
+          "area": "0 0 16",
+          "land_val": "0 5 0",
+          "building_val": "4 15 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "90",
+          "occupier": "William Balfry",
+          "lessor": "Viscount Doneraile",
+          "desc": "House, yard, & garden",
+          "area": "0 0 14",
+          "land_val": "0 5 0",
+          "building_val": "2 5 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "91",
+          "occupier": "Patrick Shea",
+          "lessor": "Viscount Doneraile",
+          "desc": "House, office, yd., & gar.",
+          "area": "0 0 13",
+          "land_val": "0 5 0",
+          "building_val": "3 0 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "1",
+          "sublocation_2": "MILL VIEW.",
+          "occupier": "James N. Croan, Esq.",
+          "lessor": "Viscount Doneraile",
+          "desc": "Garden",
+          "area": "0 0 35",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Timothy Foley",
+          "lessor": "Viscount Doneraile",
+          "desc": "Offices and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Robert Riordan, Esq.",
+          "lessor": "George Stawell",
+          "desc": "Dispensary",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "4",
+          "occupier": "Geo. Stawell (lodgers)",
+          "lessor": "George Stawell",
+          "desc": "House, offices, and yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Unoccupied",
+          "lessor": "George Stawell",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "George Stawell",
+          "lessor": "Viscount Doneraile",
+          "desc": "Land",
+          "area": "3 3 9",
+          "land_val": "3 15 0",
+          "building_val": "",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "James Heycroft",
+          "lessor": "Viscount Doneraile",
+          "desc": "Land",
+          "area": "3 0 6",
+          "land_val": "5 10 0",
+          "building_val": "",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Arthur Creagh",
+          "lessor": "Viscount Doneraile",
+          "desc": "Land",
+          "area": "0 3 33",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Unoccupied",
+          "lessor": "George Stawell",
+          "desc": "Building-ground",
+          "area": "0 0 4",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "James M'Carthy",
+          "lessor": "George Stawell",
+          "desc": "House",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        }
+      ]
+    }
+  ]
+}

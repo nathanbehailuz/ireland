@@ -1,0 +1,524 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF KILMOREMOY",
+      "entries": [
+        {
+          "mr": "15 a",
+          "townland": "CLOONSLAUN",
+          "os": "",
+          "occupier": "Anthony Dogherty,",
+          "lessor": "Robert Verschoyle,",
+          "desc": "L,H,&O",
+          "area": "6 3 20",
+          "land_val": "4 0 0",
+          "building_val": "1 0 0",
+          "total_val": "5 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "16 a",
+          "occupier": "Richard Murray,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "7 2 10",
+          "land_val": "2 5 0",
+          "building_val": "1 0 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "16 b",
+          "occupier": "Bridget Murray,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "",
+          "land_val": "2 5 0",
+          "building_val": "1 0 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "17 a",
+          "occupier": "Simon Judge,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "10 3 10",
+          "land_val": "5 0 0",
+          "building_val": "0 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "18 a",
+          "occupier": "Martin Murray, jun., .",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "10 3 0",
+          "land_val": "5 0 0",
+          "building_val": "0 15 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Martin Murray, jun., .",
+          "lessor": "Same,",
+          "desc": "Pound,",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "—",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "19 { a",
+          "occupier": "James Dogherty,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "13 3 1",
+          "land_val": "5 0 0",
+          "building_val": "0 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "19 { b",
+          "occupier": "Richard Murray,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "",
+          "land_val": "2 10 0",
+          "building_val": "—",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "20 { a",
+          "occupier": "Owen Murray, .",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "14 1 39",
+          "land_val": "3 15 0",
+          "building_val": "1 0 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "20 { b",
+          "occupier": "John O'Brien, jun., .",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "",
+          "land_val": "3 10 0",
+          "building_val": "0 5 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "21 a",
+          "occupier": "Honoria Melody,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "6 0 4",
+          "land_val": "2 0 0",
+          "building_val": "0 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "22 a",
+          "occupier": "Michael Murray,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "10 2 25",
+          "land_val": "3 0 0",
+          "building_val": "0 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "James M'Hale, .",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "18 0 13",
+          "land_val": "8 5 0",
+          "building_val": "0 15 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "24 { a",
+          "occupier": "Thomas Walsh, .",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "19 1 10",
+          "land_val": "4 5 0",
+          "building_val": "0 10 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "24 { b",
+          "occupier": "Anthony Walsh,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "",
+          "land_val": "4 5 0",
+          "building_val": "0 10 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "25 a",
+          "occupier": "John Philbin, .",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "19 3 13",
+          "land_val": "9 5 0",
+          "building_val": "1 5 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "26 a",
+          "occupier": "Patrick Murray,",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "23 0 12",
+          "land_val": "10 15 0",
+          "building_val": "1 5 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "27 a",
+          "occupier": "Anne M'Gowan,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "20 2 25",
+          "land_val": "9 0 0",
+          "building_val": "1 0 0",
+          "total_val": ""
+        },
+        {
+          "mr": "",
+          "occupier": "Anne M'Gowan,",
+          "lessor": "Same,",
+          "desc": "One cottage,",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "0 5 0",
+          "total_val": "10 5 0"
+        },
+        {
+          "mr": "28 a",
+          "occupier": "Patrick Paddin, . (See lot 39.)",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "27 2 30",
+          "land_val": "8 5 0",
+          "building_val": "1 5 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "29 a",
+          "occupier": "John Walsh,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "14 2 12",
+          "land_val": "3 15 0",
+          "building_val": "1 0 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "30 a",
+          "occupier": "Bridget Philbin,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "17 3 3",
+          "land_val": "4 10 0",
+          "building_val": "1 0 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "31 a",
+          "occupier": "John O'Brien, sen., . (See lot 39.)",
+          "lessor": "Same,",
+          "desc": "L,H,&O",
+          "area": "20 2 11",
+          "land_val": "5 10 0",
+          "building_val": "1 0 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "32 a",
+          "occupier": "Thomas Paddin,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "18 0 36",
+          "land_val": "5 0 0",
+          "building_val": "0 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "33 a",
+          "occupier": "Michael O'Brien,",
+          "lessor": "Same,",
+          "desc": "L,herd's ho.,&O",
+          "area": "16 2 11",
+          "land_val": "4 5 0",
+          "building_val": "0 15 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "34 a",
+          "occupier": "James Halloran,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "21 0 22",
+          "land_val": "4 5 0",
+          "building_val": "0 15 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "35 a",
+          "occupier": "John Munnelly,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "22 3 12",
+          "land_val": "4 15 0",
+          "building_val": "0 15 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "36 { a",
+          "occupier": "Ellen Walsh, .",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "27 2 15",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "36 { b",
+          "occupier": "John Walsh,",
+          "lessor": "Same,",
+          "desc": "L&H",
+          "area": "",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "37 {",
+          "occupier": "Francis Reddington, .",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "9 3 20",
+          "land_val": "3 10 0",
+          "building_val": "—",
+          "total_val": "2 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "38 {",
+          "occupier": "Thomas Philbin, .",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "4 2 33",
+          "land_val": "0 10 0",
+          "building_val": "—",
+          "total_val": "2 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "39 {",
+          "occupier": "John O'Brien, sen., .",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "12 3 30",
+          "land_val": "2 5 0",
+          "building_val": "—",
+          "total_val": "2 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "occupier": "Patrick Paddin,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "",
+          "land_val": "2 5 0",
+          "building_val": "—",
+          "total_val": "2 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "40",
+          "occupier": "Robert Verschoyle, .",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "65 1 36",
+          "land_val": "0 10 0",
+          "building_val": "—",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Robert Verschoyle, .",
+          "lessor": "In fee,",
+          "desc": "Water of River Moy, .",
+          "area": "8 2 36",
+          "land_val": "—",
+          "building_val": "—",
+          "total_val": "—"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total,",
+          "area": "620 2 16",
+          "land_val": "214 11 0",
+          "building_val": "26 15 0",
+          "total_val": "241 16 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "GLEBE",
+          "os": "20",
+          "occupier": "Rev. Joseph Verschoyle,",
+          "lessor": "Free,",
+          "desc": "L,H,&O",
+          "area": "36 3 22",
+          "land_val": "50 0 0",
+          "building_val": "30 0 0",
+          "total_val": "80 0 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "(See Exemptions).",
+          "lessor": "",
+          "desc": "L,school-ho.,&offs.,",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "—",
+          "total_val": "—"
+        },
+        {
+          "mr": "",
+          "occupier": "(See Exemptions).",
+          "lessor": "",
+          "desc": "Water,",
+          "area": "2 2 30",
+          "land_val": "—",
+          "building_val": "—",
+          "total_val": "—"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total of rateable property, . .",
+          "area": "39 2 12",
+          "land_val": "50 0 0",
+          "building_val": "30 0 0",
+          "total_val": "80 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "",
+          "occupier": "Church Education Society's land, school-house, and offices, .",
+          "lessor": "",
+          "desc": "",
+          "area": "0 3 0",
+          "land_val": "1 0 0",
+          "building_val": "6 0 0",
+          "total_val": "7 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total, including Exemptions, .",
+          "area": "40 1 12",
+          "land_val": "51 0 0",
+          "building_val": "36 0 0",
+          "total_val": "87 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "KNOCKNALYRE, OR DOWNHILL",
+          "os": "20",
+          "occupier": "Rt. Rev. Thomas Feney,",
+          "lessor": "John M'Hugh, .",
+          "desc": "L,H,&O",
+          "area": "2 2 35",
+          "land_val": "3 0 0",
+          "building_val": "20 0 0",
+          "total_val": "23 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Anne Gallagher,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "3 0 20",
+          "land_val": "3 0 0",
+          "building_val": "—",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Unoccupied,",
+          "lessor": "Same,",
+          "desc": "Store,",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "16 0 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Patrick Judge, .",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "—",
+          "land_val": "—",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3 c",
+          "occupier": "Anthony Mulrooney,",
+          "lessor": "Same,",
+          "desc": "G&H",
+          "area": "0 1 20",
+          "land_val": "0 10 0",
+          "building_val": "0 10 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John M'Hugh, .",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "2 2 0",
+          "land_val": "0 10 0",
+          "building_val": "—",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Anthony Flynn,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "5 1 16",
+          "land_val": "6 0 0",
+          "building_val": "—",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James M'Andrew,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "4 3 33",
+          "land_val": "4 10 0",
+          "building_val": "—",
+          "total_val": "4 10 0"
+        }
+      ]
+    }
+  ]
+}

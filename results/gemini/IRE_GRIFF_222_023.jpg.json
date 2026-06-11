@@ -1,0 +1,659 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF ENNISKEEN",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "NEWCASTLE",
+          "os": "2 & 5",
+          "occupier": "Eliza Smith",
+          "lessor": "Sir William Verner, Bt.",
+          "desc": "H,O,&L",
+          "area": "176 1 15",
+          "land_val": "125 10 0",
+          "building_val": "18 10 0",
+          "total_val": "144 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Eliza Smith",
+          "lessor": "Same",
+          "desc": "Herd's house",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Patrick Corolan",
+          "lessor": "Eliza Smith",
+          "desc": "H&G",
+          "area": "0 0 12",
+          "land_val": "0 1 0",
+          "building_val": "0 10 0",
+          "total_val": "0 11 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Bernard Wakely",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 9",
+          "land_val": "0 1 0",
+          "building_val": "0 6 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "176 1 36",
+          "land_val": "125 12 0",
+          "building_val": "19 12 0",
+          "total_val": "145 4 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "RALOAGHAN",
+          "os": "2",
+          "occupier": "Thomas Keelan",
+          "lessor": "Theophilus Clements",
+          "desc": "H,O,&L",
+          "area": "35 3 29",
+          "land_val": "22 10 0",
+          "building_val": "0 15 0",
+          "total_val": "23 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Vacant",
+          "lessor": "Thomas Keelan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Thomas Keelan",
+          "lessor": "Theophilus Clements",
+          "desc": "L",
+          "area": "5 2 13",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Matthew Greene",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "27 3 37",
+          "land_val": "17 2 0",
+          "building_val": "",
+          "total_val": "17 2 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Vacant",
+          "lessor": "Matthew Greene",
+          "desc": "O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "James & Wm. Sheils",
+          "lessor": "Theophilus Clements",
+          "desc": "H,O,&L",
+          "area": "114 1 37",
+          "land_val": "65 0 0",
+          "building_val": "0 15 0",
+          "total_val": "65 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Monaghan",
+          "lessor": "James & Wm. Sheils",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Eliza Monaghan",
+          "lessor": "Theophilus Clements",
+          "desc": "H,O,&L",
+          "area": "6 0 29",
+          "land_val": "3 5 0",
+          "building_val": "0 5 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Patrick Madden",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "25 2 8",
+          "land_val": "14 10 0",
+          "building_val": "0 15 0",
+          "total_val": "15 5 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Mary Monaghan (Bryan)",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "7 2 37",
+          "land_val": "3 17 0",
+          "building_val": "0 3 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Mary Monaghan (Thos.)",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "9 0 22",
+          "land_val": "5 2 0",
+          "building_val": "0 8 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "9 A a",
+          "occupier": "John Monaghan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 3 6",
+          "land_val": "4 10 0",
+          "building_val": "0 10 0",
+          "total_val": "17 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "B",
+          "occupier": "John Monaghan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "18 3 25",
+          "land_val": "10 5 0",
+          "building_val": "",
+          "total_val": "17 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "C",
+          "occupier": "John Monaghan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 3 27",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "17 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "B a",
+          "occupier": "Vacant",
+          "lessor": "John Monaghan",
+          "desc": "O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "10 A",
+          "occupier": "James Monaghan",
+          "lessor": "Theophilus Clements",
+          "desc": "L",
+          "area": "3 1 27",
+          "land_val": "1 18 0",
+          "building_val": "",
+          "total_val": "4 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B a",
+          "occupier": "James Monaghan",
+          "lessor": "Theophilus Clements",
+          "desc": "H,O,&L",
+          "area": "3 3 32",
+          "land_val": "2 10 0",
+          "building_val": "0 7 0",
+          "total_val": "4 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "11 a",
+          "occupier": "George Monaghan",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "18 3 22",
+          "land_val": "10 15 0",
+          "building_val": "0 10 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Philip Farrelly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "9 2 31",
+          "land_val": "5 10 0",
+          "building_val": "0 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "Anne Keelan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "3 0 27",
+          "land_val": "1 15 0",
+          "building_val": "0 5 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "Bridget Clarke",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "14 2 25",
+          "land_val": "8 0 0",
+          "building_val": "0 15 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "15 a",
+          "occupier": "Patrick Farrelly",
+          "lessor": "Same",
+          "desc": "Caretaker's ho.off.&land",
+          "area": "13 2 16",
+          "land_val": "7 0 0",
+          "building_val": "0 10 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "William Moore",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "19 3 22",
+          "land_val": "11 10 0",
+          "building_val": "",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Eliza Carolan",
+          "lessor": "William Moore",
+          "desc": "H&G",
+          "area": "0 0 11",
+          "land_val": "0 1 0",
+          "building_val": "0 6 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "17 a",
+          "occupier": "William Moore",
+          "lessor": "Theophilus Clements",
+          "desc": "H,O,&L",
+          "area": "39 0 1",
+          "land_val": "23 5 0",
+          "building_val": "2 0 0",
+          "total_val": "25 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Vacant",
+          "lessor": "William Moore",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "18 a",
+          "occupier": "William Moore",
+          "lessor": "Theophilus Clements",
+          "desc": "Herd's ho., off., & land",
+          "area": "45 1 1",
+          "land_val": "26 19 0",
+          "building_val": "0 6 0",
+          "total_val": "27 5 0"
+        },
+        {
+          "mr": "19 a",
+          "occupier": "John Farrelly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "35 2 11",
+          "land_val": "20 0 0",
+          "building_val": "1 0 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Catherine Downey",
+          "lessor": "John Farrelly",
+          "desc": "H&G",
+          "area": "0 1 8",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Vacant",
+          "lessor": "Same",
+          "desc": "O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Gordon Jackson",
+          "lessor": "Theophilus Clements",
+          "desc": "L",
+          "area": "51 1 0",
+          "land_val": "29 15 0",
+          "building_val": "",
+          "total_val": "29 15 0"
+        },
+        {
+          "mr": "21 a",
+          "occupier": "Patrick Butterly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "69 0 13",
+          "land_val": "42 5 0",
+          "building_val": "1 0 0",
+          "total_val": "43 5 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Theophilus Clements",
+          "lessor": "In fee",
+          "desc": "Land (including bog)",
+          "area": "16 2 35",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "23 a",
+          "occupier": "John Connell",
+          "lessor": "James & Wm. Sheils",
+          "desc": "H&L",
+          "area": "7 2 17",
+          "land_val": "3 19 0",
+          "building_val": "0 6 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "24 a",
+          "occupier": "Thomas M'Guire",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "7 1 16",
+          "land_val": "3 15 0",
+          "building_val": "0 9 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Mary Harvey",
+          "lessor": "Thomas M'Guire",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Peter Crosby",
+          "lessor": "James & Wm. Sheils",
+          "desc": "L",
+          "area": "7 2 17",
+          "land_val": "3 19 0",
+          "building_val": "",
+          "total_val": "3 19 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Mary Greene",
+          "lessor": "Peter Crosby",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "632 1 2",
+          "land_val": "354 8 0",
+          "building_val": "14 16 0",
+          "total_val": "369 4 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "ROLAGH",
+          "os": "2",
+          "occupier": "James Reilly",
+          "lessor": "Visct. Gormanston",
+          "desc": "L",
+          "area": "6 2 20",
+          "land_val": "3 5 0",
+          "building_val": "",
+          "total_val": "17 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "B",
+          "occupier": "James Reilly",
+          "lessor": "Visct. Gormanston",
+          "desc": "L",
+          "area": "14 2 31",
+          "land_val": "7 10 0",
+          "building_val": "",
+          "total_val": "17 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "C a",
+          "occupier": "James Reilly",
+          "lessor": "Visct. Gormanston",
+          "desc": "H,O,&L",
+          "area": "10 2 8",
+          "land_val": "5 15 0",
+          "building_val": "0 15 0",
+          "total_val": "17 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "b",
+          "occupier": "Mary Shankey",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 1 30",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 A",
+          "occupier": "Mary Shankey",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "18 2 11",
+          "land_val": "9 0 0",
+          "building_val": "",
+          "total_val": "26 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "B",
+          "occupier": "Mary Shankey",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "35 2 16",
+          "land_val": "17 15 0",
+          "building_val": "",
+          "total_val": "26 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "a",
+          "occupier": "Vacant",
+          "lessor": "Mary Shankey",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Roderick Madden",
+          "lessor": "Viscount Gormanston",
+          "desc": "L",
+          "area": "17 3 24",
+          "land_val": "10 0 0",
+          "building_val": "",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Peter Reilly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "32 2 19",
+          "land_val": "17 5 0",
+          "building_val": "1 5 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Eliza Tully",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "1 3 37",
+          "land_val": "1 1 0",
+          "building_val": "0 4 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Patrick Clarke",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "2 0 38",
+          "land_val": "1 0 0",
+          "building_val": "0 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Patrick Connell",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 1 7",
+          "land_val": "3 17 0",
+          "building_val": "0 8 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "James Pepper",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 2 33",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Michael Powderly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "5 0 2",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Eliza Geraty",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "9 0 10",
+          "land_val": "3 13 0",
+          "building_val": "0 12 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Viscount Gormanston",
+          "lessor": "In fee",
+          "desc": "Land (bog)",
+          "area": "4 3 37",
+          "land_val": "0 2 0",
+          "building_val": "",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "174 1 3",
+          "land_val": "85 3 0",
+          "building_val": "4 14 0",
+          "total_val": "89 17 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

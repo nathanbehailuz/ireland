@@ -1,0 +1,498 @@
+{
+  "parishes": [
+    {
+      "parish": "DRUMCLIFF",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "KILLSELLAGH",
+          "os": "9",
+          "occupier": "David Frizell",
+          "lessor": "John Wynne",
+          "desc": "H,O,&L",
+          "area": "207 1 32",
+          "land_val": "15 5 0",
+          "building_val": "1 5 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "John Cullen",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "122 3 8",
+          "land_val": "34 10 0",
+          "building_val": "1 10 0",
+          "total_val": "36 0 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "John Coleman",
+          "lessor": "Same",
+          "desc": "H,&L",
+          "area": "15 0 4",
+          "land_val": "6 15 0",
+          "building_val": "0 15 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "David Cullen",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 2 10",
+          "land_val": "7 10 0",
+          "building_val": "1 5 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "5 -",
+          "occupier": "David Cullen",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 1 28",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Robert Long",
+          "lessor": "Same",
+          "desc": "H,&L",
+          "area": "23 0 10",
+          "land_val": "11 15 0",
+          "building_val": "1 5 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "6 b",
+          "occupier": "Unoccupied",
+          "lessor": "Robert Long",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Eleanor Hall",
+          "lessor": "John Wynne",
+          "desc": "H,&L",
+          "area": "0 1 25",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Alisha O'Connor",
+          "lessor": "Same",
+          "desc": "H,&L",
+          "area": "1 0 20",
+          "land_val": "0 15 0",
+          "building_val": "0 15 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "9 -",
+          "occupier": "Thomas Frizell",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "12 3 4",
+          "land_val": "7 5 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Thomas Frizell",
+          "lessor": "Same",
+          "desc": "H,&L",
+          "area": "20 0 7",
+          "land_val": "7 15 0",
+          "building_val": "1 0 0",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "James Williams",
+          "lessor": "Same",
+          "desc": "H,&L",
+          "area": "0 3 10",
+          "land_val": "0 10 0",
+          "building_val": "0 10 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "11 b",
+          "occupier": "Elizabeth Williams",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Joseph Browne",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "26 1 30",
+          "land_val": "12 10 0",
+          "building_val": "1 10 G",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "13 -",
+          "occupier": "Robert Shaw",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "20 1 11",
+          "land_val": "6 5 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "Michael Ryan",
+          "lessor": "Robert Shaw",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "13 b",
+          "occupier": "Owen Scanlan",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "14 a",
+          "occupier": "Robert Shaw",
+          "lessor": "John Wynne",
+          "desc": "H,O,&L",
+          "area": "88 2 0",
+          "land_val": "30 10 0",
+          "building_val": "4 10 0",
+          "total_val": "35 0 0"
+        },
+        {
+          "mr": "15 a",
+          "occupier": "Margaret Buckard",
+          "lessor": "Same",
+          "desc": "H,&L",
+          "area": "0 1 30",
+          "land_val": "0 6 0",
+          "building_val": "0 4 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "16 a",
+          "occupier": "Duncan Denison",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "32 0 38",
+          "land_val": "9 10 0",
+          "building_val": "5 0 0",
+          "total_val": "25 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "17 -",
+          "occupier": "Duncan Denison",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "11 2 20",
+          "land_val": "11 0 0",
+          "total_val": "25 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "18 -",
+          "occupier": "Duncan Denison",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "14 0 28",
+          "land_val": "12 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "576 0 35",
+          "land_val": "179 6 0",
+          "building_val": "22 4 0",
+          "total_val": "201 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "DOONALLY",
+          "os": "9, 8, 14, & 15",
+          "occupier": "Roger Parke",
+          "lessor": "In fee",
+          "desc": "H,O,&L",
+          "area": "181 2 20",
+          "land_val": "165 0 0",
+          "building_val": "40 0 0",
+          "total_val": "205 0 0"
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Unoccupied",
+          "lessor": "Roger Parke",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "1 c",
+          "occupier": "Michael Gaffney",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "1 d",
+          "occupier": "William Mitchell",
+          "lessor": "Same",
+          "desc": "H,&O",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "181 2 20",
+          "land_val": "165 0 0",
+          "building_val": "44 0 0",
+          "total_val": "209 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 -",
+          "townland": "LISNALURG",
+          "os": "14",
+          "occupier": "Francis M. Olpherts",
+          "lessor": "John Wynne",
+          "desc": "L",
+          "area": "54 2 15",
+          "land_val": "50 0 0",
+          "total_val": "90 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 -",
+          "occupier": "Charles Parks",
+          "lessor": "Francis M. Olpherts",
+          "desc": "G,&H",
+          "area": "31 1 20",
+          "land_val": "40 0 0",
+          "total_val": "90 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Michael Thompson",
+          "lessor": "Same",
+          "desc": "G,&H",
+          "area": "0 0 18",
+          "land_val": "0 3 0",
+          "building_val": "1 12 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "3 b",
+          "occupier": "Matthew Craig",
+          "lessor": "Same",
+          "desc": "G,&H",
+          "area": "0 0 18",
+          "land_val": "0 3 0",
+          "building_val": "1 12 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "3 c",
+          "occupier": "John Gowan",
+          "lessor": "John Wynne",
+          "desc": "H,O,&L",
+          "area": "0 1 4",
+          "land_val": "0 5 0",
+          "building_val": "1 5 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Bridget M'Nulty",
+          "lessor": "Patrick Brennan",
+          "desc": "H,O,&L",
+          "area": "39 1 23",
+          "land_val": "36 0 0",
+          "building_val": "6 0 0",
+          "total_val": "42 0 0"
+        },
+        {
+          "mr": "5 -",
+          "occupier": "Patrick Brennan",
+          "lessor": "John Wynne and Davis Ballentine",
+          "desc": "L",
+          "area": "1 3 0",
+          "land_val": "2 0 0",
+          "building_val": "1 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Arthur Leech",
+          "lessor": "Francis M. Olpherts",
+          "desc": "H,O,&L",
+          "area": "12 3 9",
+          "land_val": "11 10 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "7 -",
+          "occupier": "Robert Hunter",
+          "lessor": "John Wynne",
+          "desc": "L",
+          "area": "0 3 15",
+          "land_val": "1 0 0",
+          "building_val": "4 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Thaddeus Monaghan",
+          "lessor": "John Hunter",
+          "desc": "H",
+          "area": "20 0 0",
+          "land_val": "25 0 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "8 b",
+          "occupier": "Patrick Gilligan",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Robert Whiteside",
+          "lessor": "John Wynne",
+          "desc": "H,O,&L",
+          "area": "6 1 24",
+          "land_val": "7 10 0",
+          "building_val": "8 0 0",
+          "total_val": "15 10 0"
+        },
+        {
+          "mr": "9 b",
+          "occupier": "George Jas. Robinson",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "12 3 10",
+          "land_val": "16 0 0",
+          "building_val": "14 0 0",
+          "total_val": "30 0 0"
+        },
+        {
+          "mr": "9 c",
+          "occupier": "George Cobb",
+          "lessor": "George Jas. Robinson",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "180 1 36",
+          "land_val": "189 11 0",
+          "building_val": "39 4 0",
+          "total_val": "228 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "BALLINVOEHER (part of)",
+          "os": "14 & 8",
+          "occupier": "James Clarke",
+          "lessor": "John Wynne",
+          "desc": "H,O,&L",
+          "area": "40 0 14",
+          "land_val": "23 10 0",
+          "building_val": "2 0 0",
+          "total_val": "25 10 0"
+        },
+        {
+          "mr": "2 -",
+          "occupier": "John M'Gowan",
+          "lessor": "James Clarke",
+          "desc": "L",
+          "area": "1 0 0",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Robert Hunter, jun.",
+          "lessor": "John Wynne",
+          "desc": "L,herd's H,&O",
+          "area": "47 3 28",
+          "land_val": "47 0 0",
+          "building_val": "1 10 0",
+          "total_val": "52 8 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4 -",
+          "occupier": "(See also lot 12 within the borough).",
+          "desc": "L",
+          "area": "2 3 30",
+          "land_val": "3 18 0",
+          "total_val": "52 8 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 a",
+          "occupier": "John Seberry",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "3 3 10",
+          "land_val": "4 5 0",
+          "building_val": "2 15 0",
+          "total_val": "19 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 -",
+          "occupier": "Roger Hart",
+          "lessor": "John Seberry",
+          "desc": "H",
+          "area": "16 3 39",
+          "land_val": "12 10 0",
+          "total_val": "19 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Robert Hunter, sen.",
+          "lessor": "John Wynne",
+          "desc": "H,O,&L",
+          "area": "15 0 15",
+          "land_val": "13 10 0",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Robert Hunter, sen.",
+          "lessor": "John Wynne",
+          "desc": "H,O,&L",
+          "area": "15 0 15",
+          "land_val": "13 10 0",
+          "building_val": "2 0 0",
+          "total_val": "15 10 0"
+        }
+      ]
+    }
+  ]
+}

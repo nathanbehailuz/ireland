@@ -1,0 +1,429 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF TEMPLEPORT",
+      "entries": [
+        {
+          "mr": "j",
+          "townland": "DERRYNAVANTA, LOWER",
+          "os": "",
+          "occupier": "Peter M'Govern",
+          "lessor": "",
+          "desc": "H,O,&L (part mountain)",
+          "area": "",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "k",
+          "occupier": "Anne M'Govern",
+          "lessor": "",
+          "desc": "H,O,&L (part mountain)",
+          "area": "",
+          "land_val": "5 5 0",
+          "building_val": "0 5 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "l",
+          "occupier": "Patrick D'Lacy",
+          "lessor": "",
+          "desc": "H,O,&L (part mountain)",
+          "area": "",
+          "land_val": "4 0 0",
+          "building_val": "0 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "m",
+          "occupier": "Stephen D'Lacy",
+          "lessor": "",
+          "desc": "H,O,&L (part mountain)",
+          "area": "",
+          "land_val": "4 0 0",
+          "building_val": "0 5 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "789 0 9",
+          "land_val": "64 0 0",
+          "building_val": "5 10 0",
+          "total_val": "69 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "DERRYNAVANTA, UPPER",
+          "os": "5, 6 & 8",
+          "occupier": "Bernard M'Grath",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L (part mountain)",
+          "area": "",
+          "land_val": "14 10 0",
+          "building_val": "0 10 0",
+          "total_val": "15 0 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "b",
+          "occupier": "Charles M'Grath",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L (part mountain)",
+          "area": "",
+          "land_val": "14 10 0",
+          "building_val": "0 10 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Thomas M'Govern",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L (part mountain)",
+          "area": "",
+          "land_val": "9 15 0",
+          "building_val": "0 15 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "William M'Govern, Bernard M'Govern",
+          "lessor": "Earl Annesley",
+          "desc": "L (part mountain)",
+          "area": "",
+          "land_val": "2 10 0",
+          "building_val": "",
+          "total_val": "2 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "e",
+          "occupier": "Bryan M'Govern",
+          "lessor": "Earl Annesley",
+          "desc": "H&L (part mountain)",
+          "area": "",
+          "land_val": "12 0 0",
+          "building_val": "1 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Frank M'Govern",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L (part mountain)",
+          "area": "",
+          "land_val": "4 15 0",
+          "building_val": "0 5 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "Thomas M'Govern",
+          "lessor": "Bernard M'Govern",
+          "desc": "H,O,&L (part mountain)",
+          "area": "",
+          "land_val": "3 0 0",
+          "building_val": "0 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Thomas M'Govern",
+          "lessor": "Bernard M'Govern",
+          "desc": "L (part mountain)",
+          "area": "",
+          "land_val": "1 10 0",
+          "building_val": "0 5 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "1059 3 18",
+          "land_val": "62 10 0",
+          "building_val": "3 10 0",
+          "total_val": "66 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "DERRYNATUAN",
+          "os": "3",
+          "occupier": "Patrick Dolan",
+          "lessor": "Earl Annesley",
+          "desc": "H,O, corn-mill, &L",
+          "area": "",
+          "land_val": "19 15 0",
+          "building_val": "2 10 0",
+          "total_val": "22 5 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "b",
+          "occupier": "Philip Maguire",
+          "lessor": "Earl Annesley",
+          "desc": "H&L",
+          "area": "",
+          "land_val": "2 15 0",
+          "building_val": "0 10 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Bridget Dolan",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "7 10 0",
+          "building_val": "0 15 0",
+          "total_val": "8 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "185 1 1",
+          "land_val": "30 0 0",
+          "building_val": "3 15 0",
+          "total_val": "33 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "DRUMHURRIN",
+          "os": "3, 4, & 5",
+          "occupier": "Terence Dolan (Hotel)",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "6 0 0",
+          "building_val": "0 10 0",
+          "total_val": "6 10 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "b",
+          "occupier": "Thomas Mullrain",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "5 17 0",
+          "building_val": "0 8 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Thomas Dolan",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "6 5 0",
+          "building_val": "0 15 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "John Dolan (Farrelly)",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "11 15 0",
+          "building_val": "0 15 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "e",
+          "occupier": "Garret Cullen",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "f",
+          "occupier": "Patrick Cullen",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "3 0 0",
+          "building_val": "0 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "g",
+          "occupier": "John Sheridan",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "3 15 0",
+          "building_val": "0 10 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "h",
+          "occupier": "Francis M'Govern",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "3 10 0",
+          "building_val": "0 5 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "i",
+          "occupier": "Philip Maguire",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "5 15 0",
+          "building_val": "0 10 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "j",
+          "occupier": "Simon Cullen",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "3 0 0",
+          "building_val": "0 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "k",
+          "occupier": "Michael Cullen",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "3 0 0",
+          "building_val": "0 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "l",
+          "occupier": "John Cassidy",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "6 10 0",
+          "building_val": "0 10 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "m",
+          "occupier": "James Cullen, jun.",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "3 5 0",
+          "building_val": "0 10 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "n",
+          "occupier": "James Cullen, sen.",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "3 5 0",
+          "building_val": "0 10 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Margaret Dolan",
+          "lessor": "Earl Annesley",
+          "desc": "L",
+          "area": "",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "o",
+          "occupier": "John Dolan",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "10 0 0",
+          "building_val": "0 10 0",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "p",
+          "occupier": "Francis Maguire",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "3 7 0",
+          "building_val": "0 8 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "q",
+          "occupier": "Felix Maguire",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "3 7 0",
+          "building_val": "0 8 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "r",
+          "occupier": "James Sheridan",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "3 15 0",
+          "building_val": "0 10 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total",
+          "area": "373 0 31",
+          "land_val": "91 1 0",
+          "building_val": "8 4 0",
+          "total_val": "99 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "GARVALT, LOWER",
+          "os": "6",
+          "occupier": "James M'Goorty",
+          "lessor": "",
+          "desc": "L",
+          "area": "",
+          "land_val": "7 10 0",
+          "building_val": "",
+          "total_val": "7 10 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "",
+          "occupier": "James M'Govern",
+          "lessor": "",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "7 10 0",
+          "building_val": "1 10 0",
+          "total_val": "9 0 0"
+        }
+      ]
+    }
+  ]
+}

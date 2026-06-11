@@ -1,0 +1,552 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF KILDALKEY",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "PUBBLESTOWN",
+          "os": "36 & 35",
+          "occupier": "Denis Daly",
+          "lessor": "John Tyrrell",
+          "desc": "L",
+          "area": "67 0 23",
+          "land_val": "60 0 0",
+          "total_val": "60 0 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Thomas Molloy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "78 3 17",
+          "land_val": "52 0 0",
+          "building_val": "0 5 0",
+          "total_val": "52 5 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Matthew Dunne",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "74 3 16",
+          "land_val": "50 0 0",
+          "building_val": "2 0 0",
+          "total_val": "52 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "220 3 16",
+          "land_val": "162 0 0",
+          "building_val": "2 5 0",
+          "total_val": "164 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "RATHCORMICK",
+          "os": "35 & 29",
+          "occupier": "Thomas Rowe",
+          "lessor": "Earl of Darnley",
+          "desc": "H,O,&L",
+          "area": "14 2 7",
+          "land_val": "3 0 0",
+          "building_val": "0 15 0",
+          "total_val": "3 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Michael Murray",
+          "lessor": "Same",
+          "desc": "H&L",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Edward Reynolds",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "6 0 20",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Mary Kenny",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 2 10",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Thomas Rowe, jun.",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "6 1 0",
+          "land_val": "3 10 0",
+          "building_val": "0 5 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Bridget Kearney",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "1 2 20",
+          "land_val": "1 0 0",
+          "building_val": "0 7 0",
+          "total_val": "1 7 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Thomas Garry",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "4 3 28",
+          "land_val": "3 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Thomas M'Gauley",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "5 0 20",
+          "land_val": "3 8 0",
+          "building_val": "0 7 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Anne Murray",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 2 12",
+          "land_val": "7 5 0",
+          "building_val": "0 15 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "John Burke",
+          "lessor": "Thomas Potterton",
+          "desc": "H,O,&L",
+          "area": "3 3 37",
+          "land_val": "2 15 0",
+          "building_val": "0 10 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Thomas Potterton",
+          "lessor": "Earl of Darnley",
+          "desc": "H,O,&L",
+          "area": "532 2 31",
+          "land_val": "448 0 0",
+          "building_val": "15 0 0",
+          "total_val": "463 0 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "Thomas Potterton",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "2 2 2",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "12 A a",
+          "occupier": "John Dunne",
+          "lessor": "Thomas Potterton",
+          "desc": "H,O,&L",
+          "area": "1 3 30",
+          "land_val": "2 3 0",
+          "building_val": "1 0 0",
+          "total_val": "3 3 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "John Dunne",
+          "lessor": "Thomas Potterton",
+          "desc": "L",
+          "area": "0 2 0",
+          "land_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "13 A",
+          "occupier": "Earl of Darnley",
+          "lessor": "In fee",
+          "desc": "Plantation",
+          "area": "19 0 30",
+          "land_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "Earl of Darnley",
+          "lessor": "In fee",
+          "desc": "Plantation",
+          "area": "6 2 25",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "622 0 32",
+          "land_val": "492 13 0",
+          "building_val": "20 9 0",
+          "total_val": "513 2 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "RATHKENNA",
+          "os": "35",
+          "occupier": "Patrick Murray",
+          "lessor": "Luke Rickard",
+          "desc": "H&L",
+          "area": "5 1 0",
+          "land_val": "1 7 0",
+          "building_val": "0 5 0",
+          "total_val": "1 12 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Thomas Murray",
+          "lessor": "Same",
+          "desc": "H&L",
+          "land_val": "1 7 0",
+          "building_val": "0 5 0",
+          "total_val": "1 12 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "1 c",
+          "occupier": "Michael Murray",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "land_val": "2 0 0",
+          "building_val": "0 8 0",
+          "total_val": "2 8 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "1 d",
+          "occupier": "Patrick Reynolds",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 4
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Bridget Crook",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "1 3 30",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Luke Rickard",
+          "lessor": "Earl of Darnley",
+          "desc": "H,O,&L",
+          "area": "278 2 8",
+          "land_val": "201 0 0",
+          "building_val": "9 0 0",
+          "total_val": "210 0 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "James Gaffney",
+          "lessor": "Luke Rickard",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "0 16 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Earl of Darnley",
+          "lessor": "In fee",
+          "desc": "Plantation",
+          "area": "48 3 23",
+          "land_val": "14 10 0",
+          "total_val": "14 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Thomas Reynolds",
+          "lessor": "Earl of Darnley",
+          "desc": "L",
+          "area": "4 0 39",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "William Clarke",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "0 1 10",
+          "land_val": "0 3 0",
+          "building_val": "0 7 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "William Kiernan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "5 0 0",
+          "land_val": "4 5 0",
+          "building_val": "0 10 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "desc": "Total",
+          "area": "344 1 10",
+          "land_val": "228 4 0",
+          "building_val": "12 6 0",
+          "total_val": "240 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "SHANCO",
+          "os": "35",
+          "occupier": "Earl of Darnley",
+          "lessor": "In fee",
+          "desc": "Plantation",
+          "area": "13 0 0",
+          "land_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "John Darby",
+          "lessor": "Earl of Darnley",
+          "desc": "L",
+          "area": "17 1 24",
+          "land_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "— B a",
+          "occupier": "John Darby",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "47 3 14",
+          "land_val": "29 0 0",
+          "building_val": "3 5 0",
+          "total_val": "32 5 0"
+        },
+        {
+          "mr": "3 A",
+          "occupier": "Patrick Ging",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "22 1 35",
+          "land_val": "9 6 0",
+          "total_val": "9 6 0"
+        },
+        {
+          "mr": "— B a",
+          "occupier": "Patrick Ging",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "7 0 0",
+          "land_val": "4 4 0",
+          "building_val": "1 5 0",
+          "total_val": "5 9 0"
+        },
+        {
+          "mr": "4 A a",
+          "occupier": "Thomas Monaghan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "5 2 8",
+          "land_val": "3 2 0",
+          "building_val": "0 10 0",
+          "total_val": "3 12 0"
+        },
+        {
+          "mr": "— B",
+          "occupier": "Thomas Monaghan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 2 10",
+          "land_val": "0 18 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "5 A",
+          "occupier": "Mary Doran",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 3 12",
+          "land_val": "0 17 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "— B a",
+          "occupier": "Mary Doran",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 0 9",
+          "land_val": "6 5 0",
+          "building_val": "1 0 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "— C",
+          "occupier": "Mary Doran",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 0 0",
+          "land_val": "3 13 0",
+          "total_val": "3 13 0"
+        },
+        {
+          "mr": "— D",
+          "occupier": "Mary Doran",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "13 1 6",
+          "land_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "6 A B C a",
+          "occupier": "John Bligh",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "17 0 20",
+          "land_val": "3 15 0",
+          "building_val": "0 15 0",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 A B C b",
+          "occupier": "Mary Bligh",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "17 0 20",
+          "land_val": "3 15 0",
+          "building_val": "0 10 0",
+          "total_val": "4 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "7 A",
+          "occupier": "Laurence Daly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 0 10",
+          "land_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "— B a",
+          "occupier": "Laurence Daly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 3 10",
+          "land_val": "5 5 0",
+          "building_val": "1 0 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "Matthew Daly",
+          "lessor": "John Darby",
+          "desc": "H,O,&L",
+          "area": "1 0 10",
+          "land_val": "0 9 0",
+          "building_val": "0 7 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Patrick Ging",
+          "lessor": "Earl of Darnley",
+          "desc": "L",
+          "area": "9 2 26",
+          "land_val": "1 14 0",
+          "total_val": "1 14 0",
+          "n_shared": 7
+        },
+        {
+          "mr": "9",
+          "occupier": "John Darby",
+          "lessor": "Same",
+          "desc": "L",
+          "land_val": "0 17 0",
+          "total_val": "0 17 0",
+          "n_shared": 7
+        },
+        {
+          "mr": "9",
+          "occupier": "Thomas Monaghan",
+          "lessor": "Same",
+          "desc": "L",
+          "land_val": "0 8 0",
+          "total_val": "0 8 0",
+          "n_shared": 7
+        },
+        {
+          "mr": "9",
+          "occupier": "John Bligh",
+          "lessor": "Same",
+          "desc": "L",
+          "land_val": "0 17 0",
+          "total_val": "0 17 0",
+          "n_shared": 7
+        },
+        {
+          "mr": "9",
+          "occupier": "Mary Bligh",
+          "lessor": "Same",
+          "desc": "L",
+          "land_val": "0 17 0",
+          "total_val": "0 17 0",
+          "n_shared": 7
+        },
+        {
+          "mr": "9",
+          "occupier": "Mary Doran",
+          "lessor": "Same",
+          "desc": "L",
+          "land_val": "1 14 0",
+          "total_val": "1 14 0",
+          "n_shared": 7
+        },
+        {
+          "mr": "9",
+          "occupier": "Lawrence Daly",
+          "lessor": "Same",
+          "desc": "L",
+          "land_val": "0 17 0",
+          "total_val": "0 17 0",
+          "n_shared": 7
+        }
+      ]
+    }
+  ]
+}

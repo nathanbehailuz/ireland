@@ -1,0 +1,597 @@
+{
+  "parishes": [
+    {
+      "parish": "UNKNOWN",
+      "entries": [
+        {
+          "mr": "2 a",
+          "townland": "CAHERLESK",
+          "occupier": "Thomas Mulally, jun.",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "52 3 11",
+          "land_val": "22 0 0",
+          "building_val": "2 10 0",
+          "total_val": "24 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "2 b",
+          "occupier": "Thomas Mulally, sen.",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "land_val": "22 0 0",
+          "building_val": "2 10 0",
+          "total_val": "24 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Robert Keeffe",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "50 0 3",
+          "land_val": "40 10 0",
+          "building_val": "3 10 0",
+          "total_val": "44 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Robert Knox, Esq.",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "L",
+          "area": "107 2 14",
+          "land_val": "109 5 0",
+          "total_val": "109 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Robert Knox, Esq.",
+          "lessor": "Sir John Blunden, Bart.",
+          "desc": "H,O,&L",
+          "area": "119 2 29",
+          "land_val": "123 3 0",
+          "building_val": "36 7 0",
+          "total_val": "159 10 0"
+        },
+        {
+          "mr": "6 A B a",
+          "occupier": "Patrick Dunphy",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "11 1 10",
+          "land_val": "10 9 0",
+          "building_val": "3 16 0",
+          "total_val": "14 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Patrick Dunphy",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "L",
+          "area": "11 1 36",
+          "land_val": "9 10 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "John Fleming",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "L",
+          "area": "3 3 0",
+          "land_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Vacant",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H&G",
+          "area": "0 1 22",
+          "land_val": "0 4 0",
+          "building_val": "0 16 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "John Fleming",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "13 1 13",
+          "land_val": "6 18 0",
+          "building_val": "1 7 0",
+          "total_val": "8 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "9 b",
+          "occupier": "Thomas Fleming",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "land_val": "6 18 0",
+          "building_val": "1 7 0",
+          "total_val": "8 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "10",
+          "occupier": "Thomas Fleming",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "L",
+          "area": "0 3 12",
+          "land_val": "0 14 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Edmond Comerford",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "93 0 11",
+          "land_val": "87 0 0",
+          "building_val": "7 5 0",
+          "total_val": "94 5 0"
+        },
+        {
+          "mr": "11 b",
+          "occupier": "Philip Brien",
+          "lessor": "Edmond Comerford",
+          "desc": "H&G",
+          "area": "0 1 9",
+          "land_val": "0 7 0",
+          "building_val": "0 7 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "12 A B a",
+          "occupier": "John Hayden",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "111 3 30",
+          "land_val": "90 0 0",
+          "building_val": "9 10 0",
+          "total_val": "99 10 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "Edward Flanagan",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "4 0 0",
+          "land_val": "4 4 0",
+          "building_val": "0 16 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "13 b",
+          "occupier": "William Butler",
+          "lessor": "Edward Flanagan",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "- c & d",
+          "occupier": "Mary Connolly",
+          "lessor": "Edward Flanagan",
+          "desc": "H&G",
+          "area": "0 0 35",
+          "land_val": "0 4 0",
+          "building_val": "0 18 0",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "James Baker",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "11 3 1",
+          "land_val": "11 0 0",
+          "building_val": "3 5 0",
+          "total_val": "14 5 0"
+        },
+        {
+          "mr": "15 a",
+          "occupier": "P. Dunphy, (carpenter)",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "2 2 13",
+          "land_val": "2 14 0",
+          "building_val": "3 16 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "15 b",
+          "occupier": "Thomas Murphy",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "0 2 39",
+          "land_val": "0 14 0",
+          "building_val": "1 16 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Church",
+          "lessor": "Ecclesiastical Comrs.",
+          "desc": "Church and yard",
+          "area": "0 3 23",
+          "land_val": "0 17 0",
+          "building_val": "7 8 0",
+          "total_val": "8 5 0"
+        },
+        {
+          "mr": "16 a",
+          "occupier": "James Cronyn",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "6 0 27",
+          "land_val": "4 18 0",
+          "building_val": "3 2 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "16 b",
+          "occupier": "Constabulary",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "Barrack and office",
+          "building_val": "5 15 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "John Ashbury",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "12 1 0",
+          "land_val": "9 18 0",
+          "building_val": "3 12 0",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "18 A a B",
+          "occupier": "Cornelius Launan",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "6 0 10",
+          "land_val": "4 15 0",
+          "building_val": "1 10 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Michael Millen",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "L",
+          "area": "1 2 34",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Richard Millen",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H&L",
+          "area": "8 2 28",
+          "land_val": "7 0 0",
+          "building_val": "2 15 0",
+          "total_val": "9 15 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Richard Devereux",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "12 3 30",
+          "land_val": "10 10 0",
+          "building_val": "2 0 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Richard Funchion",
+          "lessor": "Lorenzo Waters, Esq.",
+          "desc": "H,O,&L",
+          "area": "5 1 28",
+          "land_val": "4 4 0",
+          "building_val": "0 16 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "23 a",
+          "occupier": "Daniel Neill",
+          "lessor": "Lorenzo Waters, Esq.",
+          "desc": "H,O,&L",
+          "area": "80 3 5",
+          "land_val": "66 0 0",
+          "building_val": "10 0 0",
+          "total_val": "76 0 0"
+        },
+        {
+          "mr": "23 b",
+          "occupier": "John Cormick",
+          "lessor": "Daniel Neill",
+          "desc": "H",
+          "building_val": "0 14 0",
+          "total_val": "0 14 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Abm. W. Baker, Esq.",
+          "lessor": "Daniel Neill",
+          "desc": "L (limestone quarry)",
+          "area": "0 3 10",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "24 a",
+          "occupier": "Pierce Keeffe",
+          "lessor": "Rev. Christopher Darby",
+          "desc": "H,O,&L",
+          "area": "19 0 17",
+          "land_val": "16 14 0",
+          "building_val": "2 6 0",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "24 b",
+          "occupier": "Thomas Brien",
+          "lessor": "Pierce Keeffe",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "25 A B a",
+          "occupier": "Thomas Corcoran",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "21 1 16",
+          "land_val": "17 13 0",
+          "building_val": "0 17 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "26 a",
+          "occupier": "Vacant",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "1 1 36",
+          "land_val": "1 4 0",
+          "building_val": "0 16 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "26 b",
+          "occupier": "Catherine Carroll",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H",
+          "building_val": "0 6 0",
+          "total_val": "0 6 0"
+        },
+        {
+          "mr": "27 a",
+          "occupier": "Anastasia Fitzpatrick",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H&L",
+          "area": "1 1 15",
+          "land_val": "0 15 0",
+          "building_val": "0 15 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "27 b",
+          "occupier": "Mary Buggy",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H&G",
+          "area": "0 0 16",
+          "land_val": "0 2 0",
+          "building_val": "0 8 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "John Fahy",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "3 3 26",
+          "land_val": "2 2 0",
+          "building_val": "1 3 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "John Carty",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "L",
+          "area": "1 2 10",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "30 A B & 27 c",
+          "occupier": "John Grinsell",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H&L",
+          "area": "3 0 23",
+          "land_val": "2 7 0",
+          "building_val": "0 18 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Michael Mulally",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "27 0 10",
+          "land_val": "19 17 0",
+          "building_val": "1 3 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "James Millen",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "32 3 36",
+          "land_val": "18 11 0",
+          "building_val": "2 9 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "33 a",
+          "occupier": "Michael Hennessy, sen.",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "5 0 12",
+          "land_val": "3 10 0",
+          "building_val": "1 0 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "33 b",
+          "occupier": "Vacant",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H&O",
+          "building_val": "2 2 0",
+          "total_val": "2 2 0"
+        },
+        {
+          "mr": "34",
+          "occupier": "John Millea",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "L",
+          "area": "0 3 9",
+          "land_val": "0 11 0",
+          "total_val": "0 11 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Margaret Hayden",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "73 2 8",
+          "land_val": "56 0 0",
+          "building_val": "6 15 0",
+          "total_val": "62 15 0"
+        },
+        {
+          "mr": "36 A a B",
+          "occupier": "Eleanor Kenny",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "45 2 29",
+          "land_val": "36 7 0",
+          "building_val": "3 3 0",
+          "total_val": "39 10 0"
+        },
+        {
+          "mr": "37 a",
+          "occupier": "Michael Jacob",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H,O,&L",
+          "area": "7 3 35",
+          "land_val": "6 7 0",
+          "building_val": "0 13 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "37 b",
+          "occupier": "Vacant",
+          "lessor": "Michael Jacob",
+          "desc": "H",
+          "building_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Michael Hennessy, (gardener)",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H&L",
+          "area": "1 3 39",
+          "land_val": "1 12 0",
+          "building_val": "1 3 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "Patrick Brien",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H&L",
+          "area": "8 2 25",
+          "land_val": "4 7 0",
+          "building_val": "0 8 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "John Proctor",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "L",
+          "area": "15 1 15",
+          "land_val": "13 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Thomas Johnston",
+          "lessor": "John Proctor",
+          "desc": "H&G",
+          "area": "0 0 37",
+          "land_val": "0 4 0",
+          "building_val": "0 16 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "Michael Walsh",
+          "lessor": "Abm. W. Baker, Esq.",
+          "desc": "H&L",
+          "area": "24 1 9",
+          "land_val": "12 18 0",
+          "building_val": "1 12 0",
+          "total_val": "14 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "1,162 3 28",
+          "land_val": "983 2 0",
+          "building_val": "157 10 0",
+          "total_val": "1,140 12 0",
+          "is_total": 1
+        },
+        {
+          "desc": "Church and yard",
+          "area": "0 3 23",
+          "land_val": "0 17 0",
+          "building_val": "7 8 0",
+          "total_val": "8 5 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Constabulary barrack and office",
+          "building_val": "5 15 0",
+          "total_val": "5 15 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total of exemptions",
+          "area": "0 3 23",
+          "land_val": "0 17 0",
+          "building_val": "13 3 0",
+          "total_val": "14 0 0",
+          "is_total": 1,
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, exclusive of exemptions",
+          "area": "1,162 0 5",
+          "land_val": "982 5 0",
+          "building_val": "144 7 0",
+          "total_val": "1,126 12 0",
+          "is_total": 1
+        }
+      ]
+    }
+  ]
+}

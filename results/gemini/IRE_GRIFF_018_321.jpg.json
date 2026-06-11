@@ -1,0 +1,432 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF EGLISH",
+      "entries": [
+        {
+          "mr": "7",
+          "townland": "BALLYSCANDAL",
+          "is_continued": 1,
+          "occupier": "Samuel Hanna",
+          "lessor": "Trustees of the Wood-ward Estate",
+          "desc": "L",
+          "area": "8 3 22",
+          "land_val": "9 10 0",
+          "building_val": "",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Owen Donnelly",
+          "lessor": "Same",
+          "desc": "Herd's house and land",
+          "area": "6 3 10",
+          "land_val": "7 10 0",
+          "building_val": "0 10 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "George Gillen",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "28 1 20",
+          "land_val": "31 0 0",
+          "building_val": "4 0 0",
+          "total_val": "35 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Rose Williamson",
+          "lessor": "George Gillen",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "133 2 27",
+          "land_val": "140 10 0",
+          "building_val": "20 10 0",
+          "total_val": "161 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CREEVEROE",
+          "os": "12",
+          "occupier": "Pooler Leeman",
+          "lessor": "Earl of Charlemont",
+          "desc": "H,O,&L",
+          "area": "17 0 20",
+          "land_val": "23 0 0",
+          "building_val": "3 15 0",
+          "total_val": "26 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "George Leeman",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 2 0",
+          "land_val": "11 0 0",
+          "building_val": "4 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "3 A a",
+          "occupier": "Joseph M. M'Whirter",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "31 0 15",
+          "land_val": "37 10 0",
+          "building_val": "3 15 0",
+          "total_val": "64 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "Joseph M. M'Whirter",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "21 0 7",
+          "land_val": "23 0 0",
+          "building_val": "",
+          "total_val": "64 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- A b",
+          "occupier": "Francis Mallon",
+          "lessor": "George Leeman",
+          "desc": "H&O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- B a",
+          "occupier": "Alice Montgomery",
+          "lessor": "Joseph M. M'Whirter",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- - b",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Edward Rock",
+          "lessor": "Earl of Charlemont",
+          "desc": "H,O,&L",
+          "area": "33 0 30",
+          "land_val": "38 10 0",
+          "building_val": "4 15 0",
+          "total_val": "43 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Old Parochial School-house and land",
+          "lessor": "(See Exemptions.)",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "5 c",
+          "occupier": "Thomas Glass",
+          "lessor": "Edward Rock",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "-",
+          "desc": "Swamp",
+          "area": "2 3 35",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "desc": "Total of Rateable Property",
+          "area": "113 3 27",
+          "land_val": "133 0 0",
+          "building_val": "19 5 0",
+          "total_val": "152 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "4 b",
+          "desc": "EXEMPTIONS: Old Parochial School-house and land",
+          "area": "0 0 35",
+          "land_val": "0 5 0",
+          "building_val": "2 10 0",
+          "total_val": "2 15 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total, including Exemptions",
+          "area": "114 0 22",
+          "land_val": "133 5 0",
+          "building_val": "21 15 0",
+          "total_val": "155 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DRUMBEE",
+          "os": "12",
+          "occupier": "Elizabeth Allen",
+          "lessor": "Anne Porter",
+          "desc": "H,O,&L",
+          "area": "87 3 20",
+          "land_val": "85 10 0",
+          "building_val": "8 0 0",
+          "total_val": "93 10 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "William Prentice",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 2 5",
+          "land_val": "11 10 0",
+          "building_val": "1 15 0",
+          "total_val": "13 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Anne Commins",
+          "lessor": "William Prentice",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Peter Cullen",
+          "lessor": "Anne Porter",
+          "desc": "H,O,&L",
+          "area": "7 0 10",
+          "land_val": "7 10 0",
+          "building_val": "0 10 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Mary Donnelly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "12 0 5",
+          "land_val": "12 10 0",
+          "building_val": "1 5 0",
+          "total_val": "13 15 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Patrick Branagan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "19 2 15",
+          "land_val": "22 0 0",
+          "building_val": "1 10 0",
+          "total_val": "23 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Anne M'Glone",
+          "lessor": "Patrick Branagan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "James Lappan",
+          "lessor": "Anne Porter",
+          "desc": "H,O,&L",
+          "area": "14 0 15",
+          "land_val": "16 0 0",
+          "building_val": "1 5 0",
+          "total_val": "17 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Patrick Donnelly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 2 36",
+          "land_val": "12 0 0",
+          "building_val": "1 5 0",
+          "total_val": "13 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "161 3 26",
+          "land_val": "167 0 0",
+          "building_val": "10 10 0",
+          "total_val": "183 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "LISADIAN",
+          "os": "12",
+          "occupier": "Samuel Hanna",
+          "lessor": "Trustees of the Wood-ward Estate",
+          "desc": "L",
+          "area": "10 0 15",
+          "land_val": "11 10 0",
+          "building_val": "",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "George Gillan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 0",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Mills",
+          "lessor": "John Stanley",
+          "desc": "H,O,&L",
+          "area": "10 2 35",
+          "land_val": "10 10 0",
+          "building_val": "2 10 0",
+          "total_val": "22 0 0"
+        },
+        {
+          "mr": "4 A",
+          "occupier": "William Stewart",
+          "lessor": "John Mills",
+          "desc": "H,O,&L",
+          "area": "2 0 10",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "4 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "William Stewart",
+          "lessor": "John Mills",
+          "desc": "L",
+          "area": "0 3 17",
+          "land_val": "0 15 0",
+          "building_val": "1 5 0",
+          "total_val": "4 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5",
+          "occupier": "Thomas Carson",
+          "lessor": "John Stanley",
+          "desc": "L",
+          "area": "4 0 27",
+          "land_val": "4 5 0",
+          "building_val": "",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "National School-house and land",
+          "lessor": "(See Exemptions.)",
+          "desc": "Half annual rent of National School-house and land",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "1 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "-",
+          "occupier": "John Stanley",
+          "lessor": "",
+          "desc": "L",
+          "area": "7 2 0",
+          "land_val": "8 0 0",
+          "building_val": "",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "John Thompson",
+          "lessor": "John Stanley",
+          "desc": "Two lime-kilns",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Adam Carson",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 20",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Catherine Ferguson",
+          "lessor": "John Thompson",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Thomas Houston",
+          "lessor": "Trustees of the Wood-ward Estate",
+          "desc": "H,O,&L",
+          "area": "16 0 5",
+          "land_val": "10 0 0",
+          "building_val": "2 0 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "James Cavanagh",
+          "lessor": "William Donaldson",
+          "desc": "H,O,&L",
+          "area": "16 1 25",
+          "land_val": "19 10 0",
+          "building_val": "1 10 0",
+          "total_val": "21 0 0"
+        }
+      ]
+    }
+  ]
+}

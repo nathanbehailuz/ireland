@@ -1,0 +1,502 @@
+{
+  "parishes": [
+    {
+      "parish": "KINNITTY",
+      "entries": [
+        {
+          "mr": "4 a",
+          "townland": "BALLYMACMURRAGH",
+          "os": "",
+          "occupier": "Bridget Moloney",
+          "lessor": "Pierce Brown",
+          "desc": "H&G",
+          "area": "0 0 36",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "5",
+          "occupier": "Michael Carry",
+          "lessor": "Reps. Simon Pepper",
+          "desc": "H,O,&L",
+          "area": "246 2 8",
+          "land_val": "120 0 0",
+          "building_val": "5 0 0",
+          "total_val": "125 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Patrick Hennessy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "20 0 25",
+          "land_val": "6 10 0",
+          "building_val": "0 15 0",
+          "total_val": "8 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "7",
+          "occupier": "Michael Gleeson",
+          "lessor": "Same",
+          "desc": "B",
+          "area": "24 1 7",
+          "land_val": "1 10 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "8",
+          "occupier": "John Carry",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "21 0 9",
+          "land_val": "11 0 0",
+          "building_val": "0 15 0",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "John Dooley",
+          "lessor": "John Carry",
+          "desc": "L",
+          "area": "67 1 17",
+          "land_val": "43 0 0",
+          "building_val": "",
+          "total_val": "43 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Denis Walsh",
+          "lessor": "Reps. Simon Pepper",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Denis Walsh",
+          "lessor": "Reps. Simon Pepper",
+          "desc": "H,O,&L",
+          "area": "23 1 29",
+          "land_val": "11 5 0",
+          "building_val": "0 15 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "533 0 35",
+          "land_val": "265 5 0",
+          "building_val": "13 0 0",
+          "total_val": "278 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "",
+          "desc": "Exemptions: Police barrack & gar.",
+          "area": "0 2 0",
+          "land_val": "0 10 0",
+          "building_val": "2 0 0",
+          "total_val": "2 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "desc": "Total, exclusive of Exemptions",
+          "area": "532 2 35",
+          "land_val": "264 15 0",
+          "building_val": "11 0 0",
+          "total_val": "275 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BALLYNALACK",
+          "os": "39",
+          "occupier": "Henry M'Bride",
+          "lessor": "William Harding",
+          "desc": "L",
+          "area": "34 3 9",
+          "land_val": "21 0 0",
+          "building_val": "",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Denis Flanagan",
+          "lessor": "Henry M'Bride",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "John Coghlan",
+          "lessor": "William Harding",
+          "desc": "H&L",
+          "area": "11 1 6",
+          "land_val": "6 0 0",
+          "building_val": "0 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "William Harding",
+          "lessor": "Col. Hardress Lloyd",
+          "desc": "L",
+          "area": "18 1 36",
+          "land_val": "11 10 0",
+          "building_val": "",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Fenton Cashin",
+          "lessor": "William Harding",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Michael Carry",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "76 3 1",
+          "land_val": "52 0 0",
+          "building_val": "",
+          "total_val": "52 0 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Jane Rigney",
+          "lessor": "Michael Carry",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Mary Cashin",
+          "lessor": "William Harding",
+          "desc": "H,O,&L",
+          "area": "3 1 24",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "James Mullins",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 3 26",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "148 2 22",
+          "land_val": "94 15 0",
+          "building_val": "2 10 0",
+          "total_val": "97 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BALLYSHANE",
+          "os": "36",
+          "occupier": "John Manifold",
+          "lessor": "The Crown",
+          "desc": "L",
+          "area": "124 1 28",
+          "land_val": "51 0 0",
+          "building_val": "",
+          "total_val": "51 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Frances Crossdale",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "16 3 6",
+          "land_val": "15 0 0",
+          "building_val": "",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Frances Crossdale",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "29 2 11",
+          "land_val": "20 0 0",
+          "building_val": "",
+          "total_val": "20 0 0"
+        },
+        {
+          "mr": "4 A",
+          "occupier": "Frances Crossdale",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 26",
+          "land_val": "3 5 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "B",
+          "occupier": "Joseph Willison",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "46 2 1",
+          "land_val": "35 0 0",
+          "building_val": "5 0 0",
+          "total_val": "43 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5",
+          "occupier": "Daniel Carry",
+          "lessor": "In fee",
+          "desc": "H,O,&L",
+          "area": "11 0 20",
+          "land_val": "8 0 0",
+          "building_val": "1 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Daniel Carry",
+          "lessor": "The Crown",
+          "desc": "H,O,&L",
+          "area": "76 0 22",
+          "land_val": "47 10 0",
+          "building_val": "2 10 0",
+          "total_val": "50 0 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Daniel Carry",
+          "lessor": "In fee",
+          "desc": "L",
+          "area": "39 2 23",
+          "land_val": "14 0 0",
+          "building_val": "",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Daniel Carry",
+          "lessor": "In fee",
+          "desc": "H,O,&L",
+          "area": "85 0 34",
+          "land_val": "52 0 0",
+          "building_val": "2 10 0",
+          "total_val": "54 10 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "432 3 11",
+          "land_val": "245 15 0",
+          "building_val": "11 0 0",
+          "total_val": "256 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BARCAM",
+          "os": "39",
+          "occupier": "James Phelan",
+          "lessor": "Henry M'Bride",
+          "desc": "H&L",
+          "area": "1 3 20",
+          "land_val": "0 10 0",
+          "building_val": "0 5 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Henry M'Bride",
+          "lessor": "William Harding",
+          "desc": "L(bog)",
+          "area": "657 1 14",
+          "land_val": "10 10 0",
+          "building_val": "",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total",
+          "area": "659 0 34",
+          "land_val": "11 0 0",
+          "building_val": "0 5 0",
+          "total_val": "11 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CASTLETOWNAND GLINSK",
+          "os": "36 & 37",
+          "occupier": "Captain Thos. Bernard",
+          "lessor": "Samuel Winter",
+          "desc": "H,O,&L",
+          "area": "821 3 1",
+          "land_val": "483 15 0",
+          "building_val": "116 0 0",
+          "total_val": "600 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "a",
+          "occupier": "Mary Crawley",
+          "lessor": "Captain Thos. Bernard",
+          "desc": "B",
+          "area": "30 3 26",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "b",
+          "occupier": "Captain Thos. Bernard",
+          "lessor": "Samuel Winter",
+          "desc": "H,O,&G",
+          "area": "0 0 36",
+          "land_val": "0 10 0",
+          "building_val": "5 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "Captain Thos. Bernard",
+          "lessor": "Same",
+          "desc": "O(detached)",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "d",
+          "occupier": "William Jackson",
+          "lessor": "Captain Thos. Bernard",
+          "desc": "O(detached)",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Captain Thos. Bernard",
+          "lessor": "Samuel Winter",
+          "desc": "H&L",
+          "area": "2 0 30",
+          "land_val": "1 0 0",
+          "building_val": "0 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Michael Carrahy",
+          "lessor": "Captain Thos. Bernard",
+          "desc": "O",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "a",
+          "occupier": "Peter Ryan",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "5 2 10",
+          "land_val": "3 0 0",
+          "building_val": "0 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Peter Ryan",
+          "lessor": "Same",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4 A",
+          "occupier": "Peter Ryan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 3 28",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "B",
+          "occupier": "Thomas Maher",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "2 3 35",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "2 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5",
+          "occupier": "James Feehery, sen.",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "3 2 5",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "James Feehery, jun.",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "7 3 10",
+          "land_val": "3 10 0",
+          "building_val": "0 15 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "James Feehery, jun.",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "3 1 30",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "2 10 0"
+        }
+      ]
+    }
+  ]
+}

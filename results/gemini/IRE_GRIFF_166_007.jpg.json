@@ -1,0 +1,127 @@
+{
+  "parishes": [
+    {
+      "parish": "ADARE",
+      "entries": [
+        {
+          "mr": "1 b",
+          "townland": "CLORHANE",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "Constabulary Force,",
+          "lessor": "George Fosberry, jun. Esq.",
+          "desc": "Police-barrack & G",
+          "area": "0 1 8",
+          "land_val": "0 5 0",
+          "building_val": "4 5 0",
+          "total_val": "4 10 0",
+          "n_shared": "",
+          "is_total": 0,
+          "is_exemption": 1,
+          "is_continued": 0
+        },
+        {
+          "mr": "10 b",
+          "townland": "TUOGH",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "Constabulary Force,",
+          "lessor": "Samuel D. Power, Esq.",
+          "desc": "Police-barrack, O, & G",
+          "area": "0 0 26",
+          "land_val": "0 2 0",
+          "building_val": "6 13 0",
+          "total_val": "6 15 0",
+          "n_shared": "",
+          "is_total": 0,
+          "is_exemption": 1,
+          "is_continued": 0
+        }
+      ]
+    },
+    {
+      "parish": "ARDCANNY",
+      "entries": [
+        {
+          "mr": "8 A b",
+          "townland": "BALLYNACARRIGA",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "Constabulary Force,",
+          "lessor": "Richard Russell, Esq.",
+          "desc": "Police-barrack, O, & yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "7 5 0",
+          "total_val": "7 5 0",
+          "n_shared": "",
+          "is_total": 0,
+          "is_exemption": 1,
+          "is_continued": 0
+        }
+      ]
+    },
+    {
+      "parish": "CHAPELRUSSELL",
+      "entries": [
+        {
+          "mr": "35 44",
+          "townland": "PALLAS",
+          "os": "",
+          "sublocation_1": "TOWN OF PALLAS",
+          "sublocation_2": "",
+          "occupier": "Richd. Willis, Esq., M.D.",
+          "lessor": "Cornelius Mulowney,",
+          "desc": "Dispensary",
+          "area": "",
+          "land_val": "",
+          "building_val": "4 0 0",
+          "total_val": "4 0 0",
+          "n_shared": "",
+          "is_total": 0,
+          "is_exemption": 1,
+          "is_continued": 0
+        },
+        {
+          "mr": "45 97",
+          "townland": "",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "Grand Jury, County Limerick,",
+          "lessor": "Reps. Michl. Fitzgerald,",
+          "desc": "Sessions House",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0",
+          "n_shared": "",
+          "is_total": 0,
+          "is_exemption": 1,
+          "is_continued": 0
+        },
+        {
+          "mr": "47 106",
+          "townland": "",
+          "os": "",
+          "sublocation_1": "",
+          "sublocation_2": "",
+          "occupier": "Constabulary Force,",
+          "lessor": "Ptk. & Michael O'Shea.",
+          "desc": "Police-barrack & G",
+          "area": "0 0 17",
+          "land_val": "0 3 0",
+          "building_val": "12 17 0",
+          "total_val": "13 0 0",
+          "n_shared": "",
+          "is_total": 0,
+          "is_exemption": 1,
+          "is_continued": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF KEADY",
+      "entries": [
+        {
+          "mr": "36",
+          "townland": "CROSSMORE",
+          "is_continued": 1,
+          "sublocation_1": "TOWN OF KEADY",
+          "sublocation_2": "GIBSON'S-LANE",
+          "occupier": "John Lougheed,",
+          "lessor": "Reps. James Freeland,",
+          "desc": "H & sm. G",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "James Hayes,",
+          "lessor": "Reps. James Freeland,",
+          "desc": "H & sm. G",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Hayes,",
+          "lessor": "Reps. James Freeland,",
+          "desc": "H & sm. G",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Samuel J. Gibson,",
+          "lessor": "William Kirk,",
+          "desc": "G",
+          "area": "0 0 18",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "James Cusey,",
+          "lessor": "Samuel J. Gibson,",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Margaret Dodd,",
+          "lessor": "Samuel J. Gibson,",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "— a",
+          "occupier": "Mary M'Aleavy,",
+          "lessor": "Samuel J. Gibson,",
+          "desc": "H (in rear),",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Thomas Corrigan,",
+          "lessor": "Samuel J. Gibson,",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Michael Green,",
+          "lessor": "Samuel J. Gibson,",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "John Bell,",
+          "lessor": "Samuel J. Gibson,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Samuel J. Gibson,",
+          "lessor": "William Kirk,",
+          "desc": "G",
+          "area": "0 1 7",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "— 11 to 22",
+          "occupier": "(Valued in townland of Crossdened.)"
+        },
+        {
+          "mr": "— 1 to 6",
+          "sublocation_2": "BRIDGE-STREET",
+          "occupier": "(Valued in townland of Crossdened.)"
+        },
+        {
+          "mr": "7",
+          "occupier": "Francis Caraher,",
+          "lessor": "John Conry,",
+          "desc": "H & yard,",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "James Nugent,",
+          "lessor": "John Conry,",
+          "desc": "H & yard,",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "John Conry,",
+          "lessor": "William Kirk,",
+          "desc": "H & yard,",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Elizabeth Gray,",
+          "lessor": "John Conry,",
+          "desc": "H & yard, Waste under houses, yards, streets, and small gardens,",
+          "area": "10 2 12",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "occupier": "Total of Rateable Property,",
+          "area": "347 0 17",
+          "land_val": "350 0 0",
+          "building_val": "800 0 0",
+          "total_val": "1182 7 0",
+          "is_total": 1
+        },
+        {
+          "mr": "2S",
+          "occupier": "Fever hospital & land,",
+          "area": "1 1 20",
+          "land_val": "2 0 0",
+          "building_val": "14 0 0",
+          "total_val": "16 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "36",
+          "sublocation_1": "TOWN OF KEADY",
+          "sublocation_2": "MAIN-STREET",
+          "occupier": "Wesleyan Chapel and yard,",
+          "building_val": "4 10 0",
+          "total_val": "4 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "— 2",
+          "sublocation_2": "CHAPEL-STREET",
+          "occupier": "National School-house and yard,",
+          "building_val": "10 0 0",
+          "total_val": "10 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "— 3",
+          "occupier": "R. C. Chapel and grave-yard,",
+          "area": "0 3 32",
+          "land_val": "2 0 0",
+          "building_val": "80 0 0",
+          "total_val": "82 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "— 2",
+          "sublocation_2": "MARKET-STREET",
+          "occupier": "Petty Sessions-house,",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0",
+          "is_exemption": 1
+        },
+        {
+          "occupier": "Total of Exemptions,",
+          "area": "2 1 12",
+          "land_val": "4 0 0",
+          "building_val": "116 10 0",
+          "total_val": "120 10 0",
+          "is_total": 1
+        },
+        {
+          "occupier": "Total, including Exemptions,",
+          "area": "349 1 29",
+          "land_val": "354 0 0",
+          "building_val": "916 10 0",
+          "total_val": "1302 17 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "LAGAN",
+          "os": "19 & 20",
+          "occupier": "James Strahan,",
+          "lessor": "William Norton,",
+          "desc": "L",
+          "area": "5 0 30",
+          "land_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "William Strahan,",
+          "lessor": "William Norton,",
+          "desc": "L",
+          "area": "1 1 10",
+          "land_val": "0 19 0",
+          "total_val": "0 19 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Keoghan,",
+          "lessor": "William Norton,",
+          "desc": "H,O,&L",
+          "area": "17 0 10",
+          "land_val": "12 0 0",
+          "building_val": "2 10 0",
+          "total_val": "14 10 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "Patrick Clarke,",
+          "lessor": "James Keoghan,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4 A",
+          "occupier": "George Campbell,",
+          "lessor": "William Norton,",
+          "desc": "H, O, & L",
+          "area": "4 3 30",
+          "land_val": "2 15 0",
+          "total_val": "11 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "George Campbell,",
+          "lessor": "William Norton,",
+          "desc": "H, O, & L",
+          "area": "8 1 25",
+          "land_val": "6 5 0",
+          "building_val": "2 0 0",
+          "total_val": "11 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "—",
+          "occupier": "Patrick Lawson,",
+          "lessor": "James Keoghan,",
+          "desc": "H & G",
+          "area": "0 1 0",
+          "land_val": "0 5 0",
+          "building_val": "0 15 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "5 A",
+          "occupier": "William Lawson,",
+          "lessor": "William Norton,",
+          "desc": "H, O, & L",
+          "area": "13 1 10",
+          "land_val": "9 0 0",
+          "building_val": "1 10 0",
+          "total_val": "12 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "William Lawson,",
+          "lessor": "William Norton,",
+          "desc": "H, O, & L",
+          "area": "2 3 15",
+          "land_val": "2 0 0",
+          "total_val": "12 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "—",
+          "occupier": "Rose Clarke,",
+          "lessor": "Peter Clarke,",
+          "desc": "H & G",
+          "area": "0 1 0",
+          "land_val": "0 5 0",
+          "building_val": "0 10 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Peter Clarke,",
+          "lessor": "Peter Clarke,",
+          "desc": "H, O, & L",
+          "area": "10 0 20",
+          "land_val": "6 15 0",
+          "building_val": "0 15 0",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Reps. Henry Hughes,",
+          "lessor": "Peter Clarke,",
+          "desc": "Laborer's ho., offs., & ld.",
+          "area": "9 0 35",
+          "land_val": "6 0 0",
+          "building_val": "0 15 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Robert Eccles,",
+          "lessor": "Peter Clarke,",
+          "desc": "L",
+          "area": "3 2 10",
+          "land_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "9 A",
+          "occupier": "David Armstrong,",
+          "lessor": "Peter Clarke,",
+          "desc": "H, O, & L",
+          "area": "3 1 25",
+          "land_val": "2 2 0",
+          "building_val": "1 10 0",
+          "total_val": "3 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "David Armstrong,",
+          "lessor": "Peter Clarke,",
+          "desc": "H, O, & L",
+          "area": "0 1 0",
+          "land_val": "0 3 0",
+          "total_val": "3 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "10 A",
+          "occupier": "Samuel Armstrong,",
+          "lessor": "Peter Clarke,",
+          "desc": "H, O, & L",
+          "area": "6 3 0",
+          "land_val": "4 12 0",
+          "building_val": "1 0 0",
+          "total_val": "5 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— B",
+          "occupier": "Samuel Armstrong,",
+          "lessor": "Peter Clarke,",
+          "desc": "H, O, & L",
+          "area": "0 1 10",
+          "land_val": "0 3 0",
+          "total_val": "5 15 0",
+          "n_shared": 2
+        }
+      ]
+    }
+  ]
+}

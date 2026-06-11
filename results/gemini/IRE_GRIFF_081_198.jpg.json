@@ -1,0 +1,592 @@
+{
+  "parishes": [
+    {
+      "parish": "KILMEGAN",
+      "entries": [
+        {
+          "mr": "33",
+          "townland": "CLARKILL",
+          "occupier": "Robert Tier",
+          "lessor": "Earl Annesley",
+          "desc": "H&L",
+          "area": "5 2 30",
+          "land_val": "3 15 0",
+          "building_val": "0 15 0",
+          "total_val": "4 10 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "34",
+          "occupier": "Charles Bannin",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "6 2 30",
+          "land_val": "4 10 0",
+          "building_val": "1 5 0",
+          "total_val": "5 15 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Samuel Shaw",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "10 3 35",
+          "land_val": "7 0 0",
+          "building_val": "1 5 0",
+          "total_val": "8 5 0"
+        },
+        {
+          "mr": "36 a",
+          "occupier": "William Sheils",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "7 1 20",
+          "land_val": "2 0 0",
+          "building_val": "0 15 0",
+          "total_val": "2 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "36 b",
+          "occupier": "Catherine Sheils",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "7 1 20",
+          "land_val": "2 0 0",
+          "building_val": "0 15 0",
+          "total_val": "2 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "37",
+          "occupier": "Owen M'Carton",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 2 35",
+          "land_val": "8 0 0",
+          "building_val": "1 10 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "38 A",
+          "occupier": "William Hobbs",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "1 0 0",
+          "land_val": "0 15 0",
+          "building_val": "1 10 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "38 B",
+          "occupier": "William Hobbs",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "15 1 10",
+          "land_val": "9 0 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "John Tier",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "6 0 20",
+          "land_val": "4 0 0",
+          "building_val": "0 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "Elizabeth Tier",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "5 3 10",
+          "land_val": "4 0 0",
+          "building_val": "1 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "41 A a",
+          "occupier": "Alexander Nesbitt",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "21 3 30",
+          "land_val": "14 15 0",
+          "building_val": "1 10 0",
+          "total_val": "21 5 0"
+        },
+        {
+          "mr": "41 B",
+          "occupier": "Alexander Nesbitt",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 0 25",
+          "land_val": "5 0 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "Anne Rafferty",
+          "lessor": "Same",
+          "desc": "H&G",
+          "area": "0 0 25",
+          "land_val": "0 3 0",
+          "building_val": "0 12 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "John Cinnamond",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 1 0",
+          "land_val": "4 5 0",
+          "building_val": "1 0 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "44",
+          "occupier": "James Gribbin",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "3 1 10",
+          "land_val": "2 5 0",
+          "building_val": "1 0 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "45",
+          "occupier": "Mary Small",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "4 2 20",
+          "land_val": "3 0 0",
+          "building_val": "0 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "Margaret Drought",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "3 1 10",
+          "land_val": "2 5 0",
+          "building_val": "0 15 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "47",
+          "occupier": "Catherine Fitzpatrick",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "6 3 0",
+          "land_val": "5 0 0",
+          "building_val": "1 5 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "48",
+          "occupier": "Jane Madole",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "4 0 10",
+          "land_val": "3 0 0",
+          "building_val": "1 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "49",
+          "occupier": "John Small",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "5 1 30",
+          "land_val": "3 10 0",
+          "building_val": "0 15 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "50",
+          "occupier": "Patrick Fitzpatrick",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "7 2 10",
+          "land_val": "5 10 0",
+          "building_val": "1 5 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "51",
+          "occupier": "Patrick M'Elroy",
+          "lessor": "William Madole",
+          "desc": "L",
+          "area": "8 0 10",
+          "land_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "52",
+          "occupier": "Jane Smith",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L",
+          "area": "1 2 10",
+          "land_val": "1 5 0",
+          "building_val": "1 5 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "53 a",
+          "occupier": "Elizabeth King",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "15 3 5",
+          "land_val": "12 0 0",
+          "building_val": "1 5 0",
+          "total_val": "13 5 0"
+        },
+        {
+          "mr": "53 b",
+          "occupier": "John Flynn",
+          "lessor": "Elizabeth King",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "54",
+          "occupier": "James Smith",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L",
+          "area": "4 0 5",
+          "land_val": "3 0 0",
+          "building_val": "1 15 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "55",
+          "occupier": "Alexander Priestly",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "41 2 25",
+          "land_val": "27 15 0",
+          "building_val": "4 0 0",
+          "total_val": "31 15 0"
+        },
+        {
+          "mr": "56",
+          "occupier": "John Ward",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "12 1 5",
+          "land_val": "8 10 0",
+          "building_val": "1 0 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "57",
+          "occupier": "Susannah Rice",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "9 3 35",
+          "land_val": "8 0 0",
+          "building_val": "1 5 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "58 a",
+          "occupier": "John Rice",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "2 3 30",
+          "land_val": "2 5 0",
+          "building_val": "0 15 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "58 b",
+          "occupier": "Unoccupied",
+          "lessor": "John Rice",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "59 a",
+          "occupier": "William Smart",
+          "lessor": "Earl Annesley",
+          "desc": "H,O,&L",
+          "area": "6 1 30",
+          "land_val": "5 0 0",
+          "building_val": "1 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "59 b",
+          "occupier": "Margaret Murray",
+          "lessor": "Saml. & Chas. Murland",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "59 A a",
+          "sublocation_1": "(Annsboro'.)",
+          "occupier": "Saml. & Chas. Murland",
+          "lessor": "Earl Annesley",
+          "desc": "H,O, flax spinning-mill, bleaching concerns, &L",
+          "area": "113 3 35",
+          "land_val": "124 0 0",
+          "building_val": "430 0 0",
+          "total_val": "561 0 0"
+        },
+        {
+          "mr": "59 A b",
+          "sublocation_1": "(Annsboro'.)",
+          "occupier": "Unoccupied",
+          "lessor": "Saml. & Chas. Murland",
+          "desc": "H&O",
+          "building_val": "40 0 0",
+          "total_val": "40 0 0"
+        },
+        {
+          "mr": "- c",
+          "sublocation_1": "(Annsboro'.)",
+          "occupier": "George Lindsay",
+          "lessor": "Same",
+          "desc": "H&O",
+          "building_val": "14 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "- d",
+          "sublocation_1": "(Annsboro'.)",
+          "lessor": "Same",
+          "desc": "Twelve hos. (in progress)"
+        },
+        {
+          "mr": "- e",
+          "sublocation_1": "(Annsboro'.)",
+          "occupier": "David Patterson",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "- f",
+          "sublocation_1": "(Annsboro'.)",
+          "occupier": "James Hamilton",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "- g",
+          "sublocation_1": "(Annsboro'.)",
+          "occupier": "Christopher Walsh",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- h",
+          "sublocation_1": "(Annsboro'.)",
+          "occupier": "John Boyd",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- i",
+          "sublocation_1": "(Annsboro'.)",
+          "occupier": "Samuel M'Kee",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- j",
+          "sublocation_1": "(Annsboro'.)",
+          "occupier": "Unoccupied",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "- k",
+          "sublocation_1": "(Annsboro'.)",
+          "occupier": "John Mulholland",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- l",
+          "sublocation_1": "(Annsboro'.)",
+          "occupier": "David Savage",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- m",
+          "sublocation_1": "(Annsboro'.)",
+          "occupier": "George Hamilton",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- n",
+          "sublocation_1": "(Annsboro'.)",
+          "occupier": "Patrick M'Glave",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- o",
+          "sublocation_1": "(Annsboro'.)",
+          "occupier": "Patrick Killen",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- p",
+          "sublocation_1": "(Annsboro'.)",
+          "occupier": "Margaret Murphy",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- q",
+          "sublocation_1": "(Annsboro'.)",
+          "occupier": "William Killen",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- r",
+          "sublocation_1": "(Annsboro'.)",
+          "occupier": "James Keenan",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "- s",
+          "sublocation_1": "(Annsboro'.)",
+          "occupier": "Samuel M'Mahon",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "- t",
+          "sublocation_1": "(Annsboro'.)",
+          "occupier": "John Mulholland",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "- u",
+          "sublocation_1": "(Annsboro'.)",
+          "occupier": "George Keith",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "60",
+          "occupier": "James Hanna",
+          "lessor": "Same",
+          "desc": "Corn-mill, flax-mill, &L",
+          "area": "0 2 10",
+          "land_val": "0 10 0",
+          "building_val": "20 0 0",
+          "total_val": "20 10 0"
+        },
+        {
+          "mr": "61 A",
+          "sublocation_1": "(Castlewellan Castle.)",
+          "occupier": "Earl Annesley",
+          "lessor": "In fee",
+          "desc": "Castle &L",
+          "area": "594 3 10",
+          "land_val": "327 0 0",
+          "building_val": "270 0 0",
+          "total_val": "705 0 0"
+        },
+        {
+          "mr": "61 B",
+          "sublocation_1": "(Castlewellan Castle.)",
+          "occupier": "Earl Annesley",
+          "lessor": "In fee",
+          "desc": "H&L",
+          "area": "292 3 20",
+          "land_val": "106 0 0",
+          "building_val": "2 0 0"
+        },
+        {
+          "mr": "- a",
+          "sublocation_1": "(Castlewellan Castle.)",
+          "occupier": "Charles Palmer",
+          "lessor": "Earl Annesley",
+          "desc": "H",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- b",
+          "sublocation_1": "(Castlewellan Castle.)",
+          "occupier": "George Cinnamond",
+          "lessor": "Same",
+          "desc": "H&O",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "- c",
+          "sublocation_1": "(Castlewellan Castle.)",
+          "occupier": "William Cinnamond",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- d",
+          "sublocation_1": "(Castlewellan Castle.)",
+          "occupier": "John Cinnamond",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "62",
+          "desc": "Water",
+          "area": "102 0 13"
+        }
+      ]
+    }
+  ]
+}

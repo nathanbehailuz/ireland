@@ -1,0 +1,582 @@
+{
+  "parishes": [
+    {
+      "parish": "TEMPLEFORT",
+      "entries": [
+        {
+          "mr": "1 A",
+          "townland": "DRUMBEAGH",
+          "os": "9",
+          "occupier": "Hugh Mullamphy",
+          "lessor": "Right Hon. and Most Rev. Lord John G. Beresford",
+          "desc": "L",
+          "area": "2 0 19",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "8 0 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "- B",
+          "occupier": "Hugh Mullamphy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 1 37",
+          "land_val": "0 12 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- C",
+          "occupier": "Hugh Mullamphy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "15 3 7",
+          "land_val": "6 13 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "2 A",
+          "occupier": "James M'Govern",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 2 38",
+          "land_val": "0 12 0",
+          "building_val": "",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Philip M'Govern",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 12 0",
+          "building_val": "",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Patrick M'Govern",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "0 4 0",
+          "building_val": "",
+          "total_val": "0 4 0"
+        },
+        {
+          "mr": "- B a",
+          "occupier": "James M'Govern",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "31 0 21",
+          "land_val": "0 0 0",
+          "building_val": "0 15 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Patrick M'Govern",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Philip M'Govern",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "0 0 0",
+          "building_val": "0 15 0",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Hugh Mullamphy",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 1 0",
+          "land_val": "0 3 0",
+          "building_val": "1 2 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "1",
+          "occupier": "Charles M'Manus",
+          "lessor": "Same",
+          "desc": "H,O,&G",
+          "area": "0 0 20",
+          "land_val": "0 2 0",
+          "building_val": "1 3 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Patrick Clarke",
+          "lessor": "James M'Govern",
+          "desc": "H&G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Charles M'Manus",
+          "lessor": "Right Hon. and Most Rev. Lord John G. Beresford",
+          "desc": "L",
+          "area": "18 0 31",
+          "land_val": "7 5 0",
+          "building_val": "",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Catherine Scarlett",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "8 3 14",
+          "land_val": "3 15 0",
+          "building_val": "0 10 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "5 A",
+          "occupier": "John M'Spirit",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 2 16",
+          "land_val": "4 10 0",
+          "building_val": "1 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "John M'Spirit",
+          "lessor": "Same",
+          "desc": "B",
+          "area": "17 2 0",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- B",
+          "occupier": "John M'Spirit",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 23",
+          "land_val": "0 14 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "6",
+          "occupier": "William Montgomery",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "11 3 12",
+          "land_val": "2 5 0",
+          "building_val": "0 15 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "7 A",
+          "occupier": "Edward Williams",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "1 0 22",
+          "land_val": "0 11 0",
+          "building_val": "0 10 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Edward Williams",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 2 8",
+          "land_val": "2 1 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- C",
+          "occupier": "Edward Williams",
+          "lessor": "Same",
+          "desc": "L (B)",
+          "area": "8 0 10",
+          "land_val": "0 3 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "8 A",
+          "occupier": "William Williams",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "4 1 7",
+          "land_val": "2 0 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "William Williams",
+          "lessor": "Same",
+          "desc": "L (B)",
+          "area": "7 2 30",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "9",
+          "occupier": "James M'Veety",
+          "lessor": "William Williams",
+          "desc": "L",
+          "area": "2 2 10",
+          "land_val": "1 5 0",
+          "building_val": "",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "10 A",
+          "occupier": "James M'Veety",
+          "lessor": "Right Hon. and Most Rev. Lord John G. Beresford",
+          "desc": "H,O,&L",
+          "area": "9 1 1",
+          "land_val": "3 0 0",
+          "building_val": "1 0 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "James M'Veety",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "5 1 20",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "11",
+          "occupier": "John Montgomery",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "10 1 30",
+          "land_val": "1 15 0",
+          "building_val": "0 10 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Margaret Gibson",
+          "lessor": "James M'Veety",
+          "desc": "H&L",
+          "area": "0 2 4",
+          "land_val": "0 5 0",
+          "building_val": "0 5 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Robert Gibson",
+          "lessor": "Margaret Gibson",
+          "desc": "H&G",
+          "area": "0 0 18",
+          "land_val": "0 1 0",
+          "building_val": "0 4 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Peter Curran",
+          "lessor": "Right Hon. and Most Rev. Lord John G. Beresford",
+          "desc": "L",
+          "area": "3 2 35",
+          "land_val": "1 2 0",
+          "building_val": "",
+          "total_val": "1 2 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "John M'Golrick",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 34",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "-",
+          "desc": "Total",
+          "area": "188 1 26",
+          "land_val": "57 6 0",
+          "building_val": "9 4 0",
+          "total_val": "66 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "DRUMLAYDAN",
+          "os": "9",
+          "occupier": "Nathaniel Maguire",
+          "lessor": "Eleanor O'Brien",
+          "desc": "H,O,&L",
+          "area": "83 2 12",
+          "land_val": "45 10 0",
+          "building_val": "4 10 0",
+          "total_val": "50 0 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "2",
+          "occupier": "James Kelleher",
+          "lessor": "Same",
+          "desc": "O&L",
+          "area": "39 2 32",
+          "land_val": "16 15 0",
+          "building_val": "0 5 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "-",
+          "desc": "Total",
+          "area": "123 1 4",
+          "land_val": "62 5 0",
+          "building_val": "4 15 0",
+          "total_val": "67 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "DRUMLOUGHER",
+          "os": "9",
+          "occupier": "John Baxter",
+          "lessor": "Hugh Harren",
+          "desc": "L",
+          "area": "6 3 30",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0",
+          "n_shared": 2,
+          "is_continued": 0
+        },
+        {
+          "mr": "1 A",
+          "occupier": "Thomas Baxter",
+          "lessor": "Hugh Harren",
+          "desc": "L",
+          "area": "6 3 30",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "1 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "-",
+          "occupier": "John Baxter",
+          "lessor": "Same",
+          "desc": "B (no value)",
+          "area": "20 0 0",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "-",
+          "occupier": "Thomas Baxter",
+          "lessor": "Same",
+          "desc": "B (no value)",
+          "area": "20 0 0",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "John Baxter",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "12 1 18",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- B",
+          "occupier": "Thomas Baxter",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "12 1 18",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- C a",
+          "occupier": "John Baxter",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "13 3 20",
+          "land_val": "2 15 0",
+          "building_val": "1 10 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Thomas Baxter",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "",
+          "land_val": "2 15 0",
+          "building_val": "1 10 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "- D",
+          "occupier": "John Baxter",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 3 22",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Thomas Baxter",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "- A a",
+          "occupier": "James Dolan (Young)",
+          "lessor": "John & Thos. Baxter",
+          "desc": "H&G",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "John Magee",
+          "lessor": "Hugh Harren",
+          "desc": "L",
+          "area": "5 3 18",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "John Magee",
+          "lessor": "Hugh Harren",
+          "desc": "L",
+          "area": "9 1 30",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "-",
+          "occupier": "John Magee",
+          "lessor": "Hugh Harren",
+          "desc": "B",
+          "area": "14 0 0",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- C",
+          "occupier": "John Magee",
+          "lessor": "Hugh Harren",
+          "desc": "H,O,&L",
+          "area": "2 3 13",
+          "land_val": "1 3 0",
+          "building_val": "1 0 0",
+          "total_val": ""
+        },
+        {
+          "mr": "- D",
+          "occupier": "John Magee",
+          "lessor": "Hugh Harren",
+          "desc": "L",
+          "area": "0 2 10",
+          "land_val": "0 12 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "B a",
+          "occupier": "John Grimes",
+          "lessor": "John Magee",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Dolan, jun.",
+          "lessor": "John & Thos. Baxter",
+          "desc": "L",
+          "area": "1 0 15",
+          "land_val": "0 5 0",
+          "building_val": "",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "4 A",
+          "occupier": "Michael Dolan, sen.",
+          "lessor": "Hugh Harren",
+          "desc": "L",
+          "area": "3 0 15",
+          "land_val": "0 17 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Michael Dolan, sen.",
+          "lessor": "Hugh Harren",
+          "desc": "L",
+          "area": "2 2 11",
+          "land_val": "0 18 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- A a",
+          "occupier": "Bernard Miles",
+          "lessor": "Michael Dolan, sen.",
+          "desc": "H&G",
+          "area": "0 1 20",
+          "land_val": "0 3 0",
+          "building_val": "0 5 0",
+          "total_val": "0 8 0"
+        }
+      ]
+    }
+  ]
+}

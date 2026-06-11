@@ -1,0 +1,417 @@
+{
+  "parishes": [
+    {
+      "entries": [
+        {
+          "mr": "4",
+          "townland": "BORRIS, GREAT",
+          "os": "",
+          "occupier": "William Hyland,",
+          "lessor": "Reps. of the late Lady Jane Coote,",
+          "desc": "L",
+          "area": "3 3 39",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": "3 0 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "5 A B C",
+          "occupier": "Patrick Brennan,",
+          "lessor": "Reps. of the late Lady Jane Coote,",
+          "desc": "H,O,&L",
+          "area": "23 1 7",
+          "land_val": "17 15 0",
+          "building_val": "0 15 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "6 C a",
+          "occupier": "Catherine Farrell,",
+          "lessor": "Patrick Brennan,",
+          "desc": "H&G",
+          "area": "0 0 24",
+          "land_val": "0 2 0",
+          "building_val": "0 15 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "John M'Evoy, sen.",
+          "lessor": "Reps. of the late Lady Jane Coote,",
+          "desc": "H,O,&L",
+          "area": "21 2 9",
+          "land_val": "16 5 0",
+          "building_val": "1 10 0",
+          "total_val": "17 15 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "Margaret Gray,",
+          "lessor": "Reps. of the late Lady Jane Coote,",
+          "desc": "H&L",
+          "area": "4 2 33",
+          "land_val": "3 10 0",
+          "building_val": "0 15 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Great Southern and Western Railway Company,",
+          "lessor": "In fee,",
+          "desc": "Railway, 265 lineal perches,",
+          "area": "9 3 38",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Charles Dunne,",
+          "lessor": "Reps. of the late Lady Jane Coote,",
+          "desc": "L",
+          "area": "4 0 13",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "William Moore,",
+          "lessor": "Reps. of the late Lady Jane Coote,",
+          "desc": "L",
+          "area": "4 1 35",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Sarah Gray,",
+          "lessor": "Reps. of the late Lady Jane Coote,",
+          "desc": "H&L",
+          "area": "4 2 20",
+          "land_val": "2 10 0",
+          "building_val": "0 15 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "13 A B a C",
+          "occupier": "Mary Lalor,",
+          "lessor": "Reps. of the late Lady Jane Coote,",
+          "desc": "H,O,&L",
+          "area": "8 0 30",
+          "land_val": "3 15 0",
+          "building_val": "0 10 0",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Mrs. Eliz. Broomfield,",
+          "lessor": "Reps. of the late Lady Jane Coote,",
+          "desc": "H,O,&L",
+          "area": "93 3 30",
+          "land_val": "85 0 0",
+          "building_val": "8 0 0",
+          "total_val": "93 0 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "William Clarke, Esq., and others,",
+          "lessor": "Reps. of the late Lady Jane Coote,",
+          "desc": "Limestone quarry & L",
+          "area": "4 2 29",
+          "land_val": "0 10 0",
+          "building_val": "",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "John Farrell,",
+          "lessor": "Reps. of the late Lady Jane Coote,",
+          "desc": "H&L",
+          "area": "3 1 36",
+          "land_val": "3 0 0",
+          "building_val": "0 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "17 A B",
+          "occupier": "Judith Kelly,",
+          "lessor": "Reps. of the late Lady Jane Coote,",
+          "desc": "H,O,&L",
+          "area": "7 1 33",
+          "land_val": "6 5 0",
+          "building_val": "1 0 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Thomas Pilsworth, Esq.",
+          "lessor": "Reps. of the late Lady Jane Coote,",
+          "desc": "L",
+          "area": "38 1 18",
+          "land_val": "32 10 0",
+          "building_val": "",
+          "total_val": "32 10 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "William Perkinson,",
+          "lessor": "Reps. of the late Lady Jane Coote,",
+          "desc": "H,O,&L",
+          "area": "17 1 8",
+          "land_val": "11 0 0",
+          "building_val": "1 10 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "20 { a",
+          "occupier": "Mary Hennessy,",
+          "lessor": "Reps. of the late Lady Jane Coote,",
+          "desc": "H&L",
+          "area": "5 0 31",
+          "land_val": "2 15 0",
+          "building_val": "1 0 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "20 { b",
+          "occupier": "Thomas Hennessy,",
+          "lessor": "Reps. of the late Lady Jane Coote,",
+          "desc": "H,O,&L",
+          "area": "14 0 21",
+          "land_val": "5 10 0",
+          "building_val": "1 5 0",
+          "total_val": "6 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "21 A a B",
+          "occupier": "Patrick M'Evoy,",
+          "lessor": "Reps. of the late Lady Jane Coote,",
+          "desc": "H&L",
+          "area": "14 0 21",
+          "land_val": "5 10 0",
+          "building_val": "0 10 0",
+          "total_val": "6 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "22",
+          "occupier": "John Jacob, Esq.",
+          "lessor": "Reps. of the late Lady Jane Coote,",
+          "desc": "H,O,&L",
+          "area": "15 1 11",
+          "land_val": "7 5 0",
+          "building_val": "0 15 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "John Dannaher,",
+          "lessor": "Reps. of the late Lady Jane Coote,",
+          "desc": "L",
+          "area": "7 2 27",
+          "land_val": "6 5 0",
+          "building_val": "",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "Reps. of the late Lady Jane Coote,",
+          "desc": "H,O,&L",
+          "area": "14 2 7",
+          "land_val": "6 5 0",
+          "building_val": "1 0 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Total,",
+          "area": "529 3 20",
+          "land_val": "356 1 0",
+          "building_val": "22 11 0",
+          "total_val": "387 7 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BORRIS, LITTLE",
+          "os": "13",
+          "occupier": "Wm. Clarke, jun. Esq.",
+          "lessor": "Reps. of the late Lady Jane Coote,",
+          "desc": "H,O,&L",
+          "area": "95 1 32",
+          "land_val": "84 0 0",
+          "building_val": "11 5 0",
+          "total_val": "95 5 0",
+          "is_continued": 0
+        },
+        {
+          "mr": "2",
+          "occupier": "John Gaze,",
+          "lessor": "Wm. Clarke, jun., Esq.",
+          "desc": "L",
+          "area": "18 3 8",
+          "land_val": "9 0 0",
+          "building_val": "",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John Gaze,",
+          "lessor": "Wm. Clarke, sen., Esq.",
+          "desc": "L",
+          "area": "2 3 30",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "David M'Evoy,",
+          "lessor": "Wm. Clarke, jun., Esq.",
+          "desc": "L",
+          "area": "4 2 20",
+          "land_val": "3 5 0",
+          "building_val": "",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "John O'Brien,",
+          "lessor": "Wm. Clarke, jun., Esq.",
+          "desc": "L",
+          "area": "3 2 27",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "6 A B C",
+          "occupier": "John Martin,",
+          "lessor": "Reps. of the late Lady Jane Coote,",
+          "desc": "O&L",
+          "area": "28 0 2",
+          "land_val": "25 0 0",
+          "building_val": "0 10 0",
+          "total_val": "25 10 0"
+        },
+        {
+          "mr": "7 A a",
+          "occupier": "Michael Ellard,",
+          "lessor": "John Martin,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "William Lawler,",
+          "lessor": "Reps. of late Peter Brennan,",
+          "desc": "H,O,&L",
+          "area": "10 2 21",
+          "land_val": "7 15 0",
+          "building_val": "0 15 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "John Reilly,",
+          "lessor": "Reps. of late Rd. Dowd,",
+          "desc": "L",
+          "area": "9 0 28",
+          "land_val": "9 15 0",
+          "building_val": "",
+          "total_val": "9 15 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Margaret M'Hugh,",
+          "lessor": "Reps. of late Rd. Dowd,",
+          "desc": "H&yard",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "10 A B C",
+          "occupier": "Thos. Pilsworth, Esq.",
+          "lessor": "Reps. of late Lady Jane Coote,",
+          "desc": "H,O,&L",
+          "area": "5 2 34",
+          "land_val": "5 10 0",
+          "building_val": "1 15 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "11 A B",
+          "occupier": "John M'Evoy,",
+          "lessor": "G. S. & W. Railway Co.",
+          "desc": "L",
+          "area": "5 1 33",
+          "land_val": "6 10 0",
+          "building_val": "",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Martin Dowling,",
+          "lessor": "Arthur M. Moss, Esq.",
+          "desc": "L",
+          "area": "3 1 1",
+          "land_val": "3 15 0",
+          "building_val": "",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "James Brennan,",
+          "lessor": "Arthur M. Moss, Esq.",
+          "desc": "L",
+          "area": "1 2 33",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "William Kelly,",
+          "lessor": "Arthur M. Moss, Esq.",
+          "desc": "L",
+          "area": "3 1 12",
+          "land_val": "3 15 0",
+          "building_val": "",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "William Kelly,",
+          "lessor": "Reps. of the late Robt. Onions,",
+          "desc": "L",
+          "area": "3 1 24",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "Daniel Farrell,",
+          "lessor": "Reps. of the late Peter Brennan,",
+          "desc": "L",
+          "area": "18 1 37",
+          "land_val": "16 0 0",
+          "building_val": "",
+          "total_val": "16 0 0"
+        }
+      ]
+    }
+  ]
+}

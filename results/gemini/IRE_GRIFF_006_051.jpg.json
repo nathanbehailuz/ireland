@@ -1,0 +1,481 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF BILLY",
+      "entries": [
+        {
+          "mr": "5",
+          "townland": "CLOGHER, SOUTH",
+          "os": "3 & 7",
+          "occupier": "Sir Edmund C. W. Macnaghten, Bart.,",
+          "lessor": "Hugh O. Lecky,",
+          "desc": "Land (part plantation),",
+          "area": "36 0 0",
+          "land_val": "24 5 0",
+          "building_val": "",
+          "total_val": "24 5 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Alexander Twaddle,",
+          "lessor": "Same,",
+          "desc": "House,offices,and land,",
+          "area": "21 1 20",
+          "land_val": "9 10 0",
+          "building_val": "",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 b",
+          "occupier": "Alexander Twaddle,",
+          "lessor": "Same,",
+          "desc": "Old quarry (no value),",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "10 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "",
+          "occupier": "Daniel Boyd,",
+          "lessor": "Alexander Twaddle,",
+          "desc": "House,",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "William Haughey,",
+          "lessor": "Hugh O. Lecky,",
+          "desc": "House,offices,and land,",
+          "area": "23 3 20",
+          "land_val": "10 5 0",
+          "building_val": "1 5 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "John Reid,",
+          "lessor": "Same,",
+          "desc": "House,offices,and land,",
+          "area": "20 3 20",
+          "land_val": "13 15 0",
+          "building_val": "1 0 0",
+          "total_val": "14 15 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "John Lafferty,",
+          "lessor": "Same,",
+          "desc": "House,offices,and land,",
+          "area": "17 0 20",
+          "land_val": "10 0 0",
+          "building_val": "0 15 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Alexander Hanna, sen.,",
+          "lessor": "Same,",
+          "desc": "House,offices,and land,",
+          "area": "27 1 10",
+          "land_val": "10 0 0",
+          "building_val": "0 15 0",
+          "total_val": "10 15 0"
+        },
+        {
+          "mr": "10 b",
+          "occupier": "Alexander Hanna, jun.,",
+          "lessor": "Alexander Hanna, sen.,",
+          "desc": "House,",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Andrew Alexander,",
+          "lessor": "Hugh O. Lecky,",
+          "desc": "House,offices,and land,",
+          "area": "70 0 30",
+          "land_val": "13 0 0",
+          "building_val": "0 15 0",
+          "total_val": "13 15 0"
+        },
+        {
+          "mr": "11 b",
+          "occupier": "Matthew Connell,",
+          "lessor": "Andrew Alexander,",
+          "desc": "House,",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Alexander Hatty,",
+          "lessor": "Hugh O. Lecky,",
+          "desc": "House,offices,and land,",
+          "area": "22 3 0",
+          "land_val": "14 5 0",
+          "building_val": "1 5 0",
+          "total_val": "15 10 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "James Cooke,",
+          "lessor": "Same,",
+          "desc": "House,offices,and land,",
+          "area": "23 0 25",
+          "land_val": "11 10 0",
+          "building_val": "0 15 0",
+          "total_val": "12 5 0"
+        },
+        {
+          "mr": "13 b",
+          "occupier": "Eliza Boyd,",
+          "lessor": "James Cooke,",
+          "desc": "House,",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total,",
+          "area": "301 0 24",
+          "land_val": "151 15 0",
+          "building_val": "9 10 0",
+          "total_val": "161 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CLOGHER ANDERSON.",
+          "os": "3 & 7",
+          "occupier": "Elizabeth Anderson,",
+          "lessor": "John C. Anderson,",
+          "desc": "Land (part plantation),",
+          "area": "43 2 15",
+          "land_val": "56 0 0",
+          "building_val": "",
+          "total_val": "56 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Arthur M'Loughlin,",
+          "lessor": "Same,",
+          "desc": "House,offices,and land,",
+          "area": "3 2 34",
+          "land_val": "5 10 0",
+          "building_val": "0 15 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "",
+          "desc": "Total,",
+          "area": "47 1 9",
+          "land_val": "61 10 0",
+          "building_val": "0 15 0",
+          "total_val": "62 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "CLOGHER, NORTH.",
+          "os": "3",
+          "occupier": "Sir Edmund C. W. Macnaghten, Bart.,",
+          "lessor": "In fee,",
+          "desc": "Ho.,offs.,gate-lodge,&ld.",
+          "area": "201 0 0",
+          "land_val": "195 0 0",
+          "building_val": "140 0 0",
+          "total_val": "",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Daniel Molloy,",
+          "lessor": "Sir Edmund C. W. Macnaghten, Bart.,",
+          "desc": "Farm-house, & offices,",
+          "area": "",
+          "land_val": "",
+          "building_val": "10 0 0",
+          "total_val": "345 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2",
+          "occupier": "Felix M'Cotter,",
+          "lessor": "Daniel Molloy,",
+          "desc": "House,offices,and land,",
+          "area": "21 3 0",
+          "land_val": "18 5 0",
+          "building_val": "1 5 0",
+          "total_val": "19 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Kane,",
+          "lessor": "Sir Edmund C. W. Macnaghten, Bart.,",
+          "desc": "House,",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "James M'Coy,",
+          "lessor": "Same,",
+          "desc": "House,offices,and land,",
+          "area": "21 0 30",
+          "land_val": "15 10 0",
+          "building_val": "0 15 0",
+          "total_val": "16 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "",
+          "lessor": "",
+          "desc": "House,offices,and land,",
+          "area": "7 0 25",
+          "land_val": "4 5 0",
+          "building_val": "0 10 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "",
+          "lessor": "",
+          "desc": "Water,",
+          "area": "1 1 0",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "6",
+          "sublocation_1": "TOWN OF BUSHMILLS.",
+          "sublocation_2": "MAIN-STREET.",
+          "occupier": "John Woods,",
+          "lessor": "Margaret Crawford,",
+          "desc": "Ho., offs., spade foundry, yd., & garden,",
+          "area": "4 2 0",
+          "land_val": "6 10 0",
+          "building_val": "26 0 0",
+          "total_val": "32 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Andrew Dinsmore,",
+          "lessor": "Sir Edmund C. W. Macnaghten, Bart.,",
+          "desc": "Ho., off., yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Mary Dixon,",
+          "lessor": "Same,",
+          "desc": "Ho., off., yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Margaret King,",
+          "lessor": "Same,",
+          "desc": "Ho., off., yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "John Cooke,",
+          "lessor": "Same,",
+          "desc": "Ho., off., yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "William Carnegie,",
+          "lessor": "Same,",
+          "desc": "Ho., off., yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Joseph Dinsmore,",
+          "lessor": "Same,",
+          "desc": "Ho.,offs.,yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Archibald Stewart,",
+          "lessor": "Same,",
+          "desc": "Ho., off., yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Alexander Corry,",
+          "lessor": "Same,",
+          "desc": "Ho., off., yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Robert Bittle,",
+          "lessor": "John Hall,",
+          "desc": "House & small garden,",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Thomas Miller,",
+          "lessor": "Sir Edmund C. W. Macnaghten, Bart.,",
+          "desc": "House & small garden,",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "William Doherty,",
+          "lessor": "Same,",
+          "desc": "Hotel, offs., yd., & gar.,",
+          "area": "0 1 15",
+          "land_val": "1 0 0",
+          "building_val": "27 0 0",
+          "total_val": "28 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Dispensary and Committee room,",
+          "lessor": "(See Exemptions.)",
+          "desc": "",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "",
+          "is_exemption": 1
+        },
+        {
+          "mr": "",
+          "occupier": "Sir Edmund C. W. Macnaghten, Bart.,",
+          "lessor": "",
+          "desc": "Half annual rent,",
+          "area": "",
+          "land_val": "",
+          "building_val": "",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Alexander S. Warke,",
+          "lessor": "Sir Edmund C. W. Macnaghten, Bart.,",
+          "desc": "Ho., offs., yd., & garden,",
+          "area": "0 0 23",
+          "land_val": "0 10 0",
+          "building_val": "11 10 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Mary Gault,",
+          "lessor": "John Kilpatrick,",
+          "desc": "Ho., off., yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "6 10 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Barbara Huey,",
+          "lessor": "Same,",
+          "desc": "Ho., off., yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Matthew Alexander,",
+          "lessor": "Sir Edmund C. W. Macnaghten, Bart.,",
+          "desc": "Ho., off., yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Patrick M'Ininch,",
+          "lessor": "Same,",
+          "desc": "Ho., off., yd., & garden,",
+          "area": "0 0 25",
+          "land_val": "0 10 0",
+          "building_val": "8 10 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "John Hill,",
+          "lessor": "Same,",
+          "desc": "Ho., off., yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Robert Hopkin,",
+          "lessor": "Same,",
+          "desc": "Ho., offs.,yd., & sm. gar.",
+          "area": "",
+          "land_val": "",
+          "building_val": "11 0 0",
+          "total_val": "11 0 0"
+        }
+      ]
+    }
+  ]
+}

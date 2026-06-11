@@ -1,0 +1,589 @@
+{
+  "parishes": [
+    {
+      "parish": "PARISH OF BURNCHURCH",
+      "entries": [
+        {
+          "mr": "1 a & 1 c b",
+          "townland": "BURNCHURCH",
+          "os": "",
+          "occupier": "Wm. L. Flood, Esq.,",
+          "lessor": "In fee,",
+          "desc": "O and L",
+          "area": "261 3 9",
+          "land_val": "250 0 0",
+          "building_val": "7 10 0",
+          "total_val": "257 10 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "Vacant,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H",
+          "building_val": "0 18 0",
+          "total_val": "0 18 0"
+        },
+        {
+          "mr": "—",
+          "occupier": "Nicholas Pierce,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "L",
+          "area": "1 1 10",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Thomas Rice,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "L & unfinished ho.",
+          "area": "19 0 3",
+          "land_val": "16 10 0",
+          "total_val": "16 10 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Jeremiah Bryan,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H, O, and L",
+          "area": "17 2 12",
+          "land_val": "13 9 0",
+          "building_val": "1 11 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "4 & 3 b",
+          "occupier": "Elizabeth Bryan,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H and L",
+          "area": "2 2 35",
+          "land_val": "2 4 0",
+          "building_val": "1 1 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "5 & 1 d",
+          "occupier": "John Barden,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H and L",
+          "area": "6 2 12",
+          "land_val": "5 11 0",
+          "building_val": "1 9 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "6 A B a",
+          "occupier": "Henry Shirley,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H, O, and L",
+          "area": "79 2 38",
+          "land_val": "82 15 0",
+          "building_val": "4 15 0",
+          "total_val": "87 10 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Richard Shirley,",
+          "lessor": "Henry Shirley,",
+          "desc": "H and G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "3 14 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "7 A B a",
+          "occupier": "Richard Ireland,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H, O, and L",
+          "area": "18 1 18",
+          "land_val": "17 0 0",
+          "building_val": "3 15 0",
+          "total_val": "20 15 0"
+        },
+        {
+          "mr": "8 A a B",
+          "occupier": "Charles Tallis,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H, O, and L",
+          "area": "3 3 31",
+          "land_val": "4 17 0",
+          "building_val": "1 8 0",
+          "total_val": "6 5 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Pierce Rogers,",
+          "lessor": "Patrick Rogers,",
+          "desc": "H, O, & G",
+          "area": "0 1 4",
+          "land_val": "0 6 0",
+          "building_val": "1 4 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "— c",
+          "occupier": "John Slattery,",
+          "lessor": "Patrick Rogers,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "9 {",
+          "occupier": "Edward Nolan,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "L",
+          "area": "6 0 31",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "— {",
+          "occupier": "Thomas Nolan,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "L",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "10 & 8 A d",
+          "occupier": "Patrick Rogers,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H, O, and L",
+          "area": "20 2 22",
+          "land_val": "18 12 0",
+          "building_val": "2 3 0",
+          "total_val": "20 15 0"
+        },
+        {
+          "mr": "11",
+          "occupier": "James Hughes,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "L",
+          "area": "6 1 15",
+          "land_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "12",
+          "occupier": "Patrick Murphy,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "L",
+          "area": "3 3 20",
+          "land_val": "2 10 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "13 { a",
+          "occupier": "Patrick Howard,",
+          "lessor": "Wm. L. Flood, Esq.",
+          "desc": "H, O, & L",
+          "area": "11 1 12",
+          "land_val": "6 14 0",
+          "building_val": "1 1 0",
+          "total_val": "7 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "{ b",
+          "occupier": "Thomas Rice,",
+          "lessor": "Wm. L. Flood, Esq.",
+          "desc": "H, O, & L",
+          "land_val": "6 14 0",
+          "building_val": "1 1 0",
+          "total_val": "7 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "13 c",
+          "occupier": "Mary Rogers,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "14 & 13 d",
+          "occupier": "George Roberts,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H, O, and L",
+          "area": "2 2 3",
+          "land_val": "3 1 0",
+          "building_val": "0 14 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Patrick Murphy,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H, O, and L",
+          "area": "4 2 38",
+          "land_val": "5 14 0",
+          "building_val": "0 16 0",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "16 a",
+          "occupier": "Sarah Tallis,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H, O, & L",
+          "area": "7 0 10",
+          "land_val": "8 0 0",
+          "building_val": "2 0 0",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "Patrick Dayle,",
+          "lessor": "Rev. Thos. S. Townsend,",
+          "desc": "L",
+          "area": "18 2 7",
+          "land_val": "22 10 0",
+          "total_val": "22 10 0"
+        },
+        {
+          "mr": "18 a",
+          "occupier": "Nicholas Pierce,",
+          "lessor": "Rev. Thos. S. Townsend,",
+          "desc": "H and L",
+          "area": "1 2 2",
+          "land_val": "1 9 0",
+          "building_val": "1 1 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Church,",
+          "lessor": "Ecclesiastical Commisrs.",
+          "desc": "Church and grave-yard,",
+          "area": "0 3 0",
+          "land_val": "0 16 0",
+          "building_val": "8 10 0",
+          "total_val": "9 6 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "— c",
+          "occupier": "Richard Shirley,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "L (orchard)",
+          "area": "0 1 33",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "— d",
+          "occupier": "Thomas Maher,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H and O",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "— e",
+          "occupier": "John Lacy,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H, O, & G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "1 4 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "— f",
+          "occupier": "Robert Doran,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H and O",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "— g",
+          "occupier": "Michael Fanning,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H and O",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "— h",
+          "occupier": "Schoolhouse,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "Schoolhouse,",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "19 a",
+          "occupier": "Nicholas M'Gee,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H, O, and L",
+          "area": "37 0 16",
+          "land_val": "42 10 0",
+          "building_val": "4 10 0",
+          "total_val": "47 0 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Bridget Whelan,",
+          "lessor": "Nicholas M'Gee,",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Patrick Ring,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H, O, and L",
+          "area": "15 3 0",
+          "land_val": "16 6 0",
+          "building_val": "0 19 0",
+          "total_val": "17 5 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Thomas Brophy,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H, O, and L",
+          "area": "39 3 21",
+          "land_val": "36 5 0",
+          "building_val": "5 0 0",
+          "total_val": "41 5 0"
+        },
+        {
+          "desc": "Total,",
+          "area": "588 0 22",
+          "land_val": "575 5 0",
+          "building_val": "64 14 0",
+          "total_val": "639 19 0",
+          "is_total": 1
+        },
+        {
+          "desc": "Church and grave-yard,",
+          "area": "0 3 0",
+          "land_val": "0 16 0",
+          "building_val": "8 10 0",
+          "total_val": "9 6 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Schoolhouse,",
+          "building_val": "2 10 0",
+          "total_val": "2 10 0",
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total of Exemptions,",
+          "area": "0 3 0",
+          "land_val": "0 16 0",
+          "building_val": "11 0 0",
+          "total_val": "11 16 0",
+          "is_total": 1,
+          "is_exemption": 1
+        },
+        {
+          "desc": "Total exclusive of Exemptions,",
+          "area": "587 1 22",
+          "land_val": "574 9 0",
+          "building_val": "53 14 0",
+          "total_val": "623 3 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BURNCHURCH VIPER",
+          "os": "",
+          "occupier": "Denis Bryan,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "L",
+          "area": "7 2 22",
+          "land_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Richard Wallace,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H, O, and L",
+          "area": "45 1 15",
+          "land_val": "35 0 0",
+          "building_val": "4 5 0",
+          "total_val": "39 5 0"
+        },
+        {
+          "mr": "3 A B a",
+          "occupier": "Bridget Holden,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H, O, and L",
+          "area": "86 1 15",
+          "land_val": "65 15 0",
+          "building_val": "5 10 0",
+          "total_val": "71 5 0"
+        },
+        {
+          "mr": "— A a",
+          "occupier": "Mary Delahunty,",
+          "lessor": "Bridget Holden,",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "— B b",
+          "occupier": "Vacant,",
+          "lessor": "Bridget Holden,",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "John Downey,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H, O, and L",
+          "area": "55 1 4",
+          "land_val": "42 5 0",
+          "building_val": "4 5 0",
+          "total_val": "46 10 0"
+        },
+        {
+          "mr": "5 { a",
+          "occupier": "Denis Dunne,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "L",
+          "area": "32 3 20",
+          "land_val": "14 5 0",
+          "total_val": "14 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "{ b",
+          "occupier": "William Dunne,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "L",
+          "land_val": "14 5 0",
+          "total_val": "14 5 0",
+          "n_shared": 2
+        },
+        {
+          "desc": "Total,",
+          "area": "227 1 36",
+          "land_val": "177 10 0",
+          "building_val": "16 5 0",
+          "total_val": "193 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "COALSFARM",
+          "os": "",
+          "occupier": "John Stack,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H, O, and L",
+          "area": "72 1 26",
+          "land_val": "74 3 0",
+          "building_val": "1 17 0",
+          "total_val": "76 0 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Garret Fleming,",
+          "lessor": "John Stack,",
+          "desc": "H",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "2 A a B C",
+          "occupier": "John Carthy,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H, O, and L",
+          "area": "27 3 24",
+          "land_val": "27 8 0",
+          "building_val": "2 17 0",
+          "total_val": "30 5 0"
+        },
+        {
+          "mr": "— b",
+          "occupier": "Catherine Hogan,",
+          "lessor": "Edmund Carthy,",
+          "desc": "H",
+          "building_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3 A B C D E & 2 A c {",
+          "occupier": "Edmund Carthy,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H, O, and L",
+          "area": "25 0 37",
+          "land_val": "25 0 0",
+          "building_val": "3 0 0",
+          "total_val": "28 0 0"
+        },
+        {
+          "mr": "4 {",
+          "occupier": "James Carthy,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "H, O, and L",
+          "area": "16 3 38",
+          "land_val": "16 11 0",
+          "building_val": "1 19 0",
+          "total_val": "18 10 0"
+        },
+        {
+          "mr": "5 {",
+          "occupier": "Edmund Carthy,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "L",
+          "area": "8 3 5",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "{",
+          "occupier": "John Carthy,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "L",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "6 {",
+          "occupier": "Denis Bryan,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "L",
+          "area": "45 3 16",
+          "land_val": "12 10 0",
+          "total_val": "12 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "{",
+          "occupier": "James Bryan,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "L",
+          "land_val": "12 10 0",
+          "total_val": "12 10 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "{",
+          "occupier": "John Bryan,",
+          "lessor": "William L. Flood, Esq.",
+          "desc": "L",
+          "land_val": "12 10 0",
+          "total_val": "12 10 0",
+          "n_shared": 3
+        }
+      ]
+    }
+  ]
+}

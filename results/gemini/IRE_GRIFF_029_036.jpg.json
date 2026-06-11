@@ -1,0 +1,596 @@
+{
+  "parishes": [
+    {
+      "parish": "DRUMGOON",
+      "entries": [
+        {
+          "mr": "17 a",
+          "townland": "MAGHERANURE",
+          "is_continued": 1,
+          "occupier": "John Foy",
+          "lessor": "Richard Coote (minor)",
+          "desc": "Caretaker's H & L",
+          "area": "1 1 38",
+          "land_val": "2 5 0",
+          "building_val": "0 5 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "b",
+          "occupier": "Bernard Smith",
+          "lessor": "Daniel Logan",
+          "desc": "G",
+          "area": "0 1 0",
+          "land_val": "0 10 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "c",
+          "occupier": "John M'Cracken",
+          "lessor": "Richard Coote (minor)",
+          "desc": "G",
+          "area": "0 1 3",
+          "land_val": "0 8 0",
+          "total_val": "0 8 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "John Foy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 0 32",
+          "land_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "Cornelius Reilly",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "0 2 11",
+          "land_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Peter Murphy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "7 1 15",
+          "land_val": "11 10 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "John Foy",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 1 15",
+          "land_val": "0 12 0",
+          "total_val": "0 12 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Philip Barnes",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 22",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "John Wilderidge",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 14",
+          "land_val": "0 3 0",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Richard Magee",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 0 15",
+          "land_val": "0 3 0",
+          "total_val": "0 3 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Robert Campbell",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 1 21",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Ellen Woods",
+          "lessor": "Same",
+          "desc": "H & G",
+          "area": "0 1 14",
+          "land_val": "0 10 0",
+          "building_val": "1 10 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "William Jameson",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 1 30",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "John M'Fadden",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 2 30",
+          "land_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Thomas Leary",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 0 9",
+          "land_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "John Sheera",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 1 26",
+          "land_val": "3 10 0",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "Mary M'Dade",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 0 23",
+          "land_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Patrick Carolan",
+          "lessor": "Same",
+          "desc": "G",
+          "area": "0 1 20",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Margt. Higginbotham",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 2 14",
+          "land_val": "2 5 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "James Woods",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 0 27",
+          "land_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "John Wilderidge",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 2 37",
+          "land_val": "4 0 0",
+          "total_val": "4 0 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Samuel Fisher",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "2 1 16",
+          "land_val": "3 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Roger Morrisson",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "3 2 9",
+          "land_val": "5 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "31 a",
+          "occupier": "John Shannon",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "7 2 37",
+          "land_val": "10 15 0",
+          "building_val": "1 10 0",
+          "total_val": "12 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "b",
+          "occupier": "John Shannon",
+          "lessor": "Same",
+          "desc": "Cottier's H",
+          "building_val": "0 5 0",
+          "total_val": "12 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "c",
+          "occupier": "John Shannon",
+          "lessor": "Same",
+          "desc": "Cottier's H",
+          "building_val": "0 5 0",
+          "total_val": "12 15 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "32",
+          "occupier": "Francis Finlay",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "2 3 27",
+          "land_val": "3 15 0",
+          "building_val": "1 15 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "33",
+          "occupier": "Allen Egan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "6 2 25",
+          "land_val": "9 15 0",
+          "total_val": "15 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "34",
+          "occupier": "Allen Egan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "4 1 1",
+          "land_val": "6 0 0",
+          "total_val": "15 15 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "35",
+          "occupier": "John Magan",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "8 2 21",
+          "land_val": "11 5 0",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Edward Mackintosh",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "1 3 14",
+          "land_val": "3 0 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "Robert M'Parlan",
+          "lessor": "Peter Morgan",
+          "desc": "L",
+          "area": "2 1 6",
+          "land_val": "3 15 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "38 1",
+          "sublocation_1": "TOWN OF COOTEHILL",
+          "sublocation_2": "MARKET-STREET",
+          "occupier": "Vacant",
+          "lessor": "Epaphroditus Young",
+          "desc": "H & O",
+          "building_val": "11 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Samuel Fisher",
+          "lessor": "Same",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 23",
+          "land_val": "0 15 0",
+          "building_val": "17 5 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "John M'Cabe",
+          "lessor": "Charles Murphy",
+          "desc": "H,O,&yard",
+          "building_val": "15 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Jane Corry",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Crimny",
+          "lessor": "Samuel Fisher",
+          "desc": "H,O,&yard",
+          "building_val": "11 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Jane Corry",
+          "lessor": "Same",
+          "desc": "O (in rere)",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Sarah Sullivan",
+          "lessor": "John Dunn",
+          "desc": "H & G",
+          "area": "0 0 22",
+          "land_val": "0 10 0",
+          "building_val": "9 0 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "John Swift",
+          "lessor": "John M'Fadden",
+          "desc": "H,O,&yard",
+          "building_val": "15 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "Joseph Adams",
+          "lessor": "Richard Atkinson",
+          "desc": "H,O,&yard",
+          "building_val": "23 0 0",
+          "total_val": "23 0 0"
+        },
+        {
+          "mr": "10",
+          "occupier": "Edward Brown",
+          "lessor": "John George",
+          "desc": "H,O,&yard",
+          "building_val": "21 0 0",
+          "total_val": "26 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "11",
+          "occupier": "Edward Brown",
+          "lessor": "John George",
+          "desc": "H,O,&yard",
+          "building_val": "5 10 0",
+          "total_val": "26 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "12",
+          "occupier": "Isabella Cooney",
+          "lessor": "Sarah Clendenning",
+          "desc": "H,O,&yard",
+          "building_val": "28 0 0",
+          "total_val": "28 0 0"
+        },
+        {
+          "mr": "13",
+          "occupier": "Thomas Fay",
+          "lessor": "Reps. Garrett Leadbeater",
+          "desc": "H,O,yard,&G",
+          "area": "0 2 25",
+          "land_val": "1 10 0",
+          "building_val": "30 10 0",
+          "total_val": "32 0 0"
+        },
+        {
+          "mr": "14",
+          "occupier": "Mark Moore",
+          "lessor": "Same",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 16",
+          "land_val": "0 10 0",
+          "building_val": "14 10 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "15",
+          "occupier": "Ambrose Hartly",
+          "lessor": "Same",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 12",
+          "land_val": "0 10 0",
+          "building_val": "13 10 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "16",
+          "occupier": "John Rice",
+          "lessor": "James Sargeant",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 25",
+          "land_val": "0 15 0",
+          "building_val": "10 15 0",
+          "total_val": "11 10 0"
+        },
+        {
+          "mr": "17",
+          "occupier": "James M'Kenna",
+          "lessor": "Same",
+          "desc": "H,O,yard,&G",
+          "area": "0 1 0",
+          "land_val": "0 15 0",
+          "building_val": "8 15 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "18",
+          "occupier": "Richard Brown",
+          "lessor": "Richard Clarke",
+          "desc": "H,O,yard,&G",
+          "area": "0 1 0",
+          "land_val": "1 0 0",
+          "building_val": "33 0 0",
+          "total_val": "34 0 0"
+        },
+        {
+          "mr": "19",
+          "occupier": "James M'Cabe",
+          "lessor": "Samuel Fisher",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 30",
+          "land_val": "0 15 0",
+          "building_val": "8 15 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "20",
+          "occupier": "Bernard M'Cabe",
+          "lessor": "Same",
+          "desc": "H,O,yard,&G",
+          "area": "0 0 23",
+          "land_val": "0 15 0",
+          "building_val": "7 15 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "21",
+          "occupier": "Bernard M'Cabe",
+          "lessor": "John Wm. Henry",
+          "desc": "H,O,&yard",
+          "building_val": "9 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "22",
+          "occupier": "Eleanor M'Cabe",
+          "lessor": "Same",
+          "desc": "H,O,yard,&G",
+          "area": "0 2 12",
+          "land_val": "1 10 0",
+          "building_val": "22 10 0",
+          "total_val": "24 0 0"
+        },
+        {
+          "mr": "23",
+          "occupier": "Peter Gartland",
+          "lessor": "Edward Mackintosh",
+          "desc": "H,O,yard,&G",
+          "area": "0 1 15",
+          "land_val": "1 0 0",
+          "building_val": "20 0 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "24",
+          "occupier": "Edward Cooney",
+          "lessor": "Richard Coote (minor)",
+          "desc": "H,O,yard,&G",
+          "area": "0 1 30",
+          "land_val": "1 10 0",
+          "building_val": "17 10 0",
+          "total_val": "19 0 0"
+        },
+        {
+          "mr": "25",
+          "occupier": "John M'Gahan",
+          "lessor": "Same",
+          "desc": "H,O,yd,&sm.G",
+          "building_val": "18 0 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "26",
+          "occupier": "Edward Cooney",
+          "lessor": "Same",
+          "desc": "O & tan-yd. (in rere)",
+          "building_val": "17 0 0",
+          "total_val": "17 0 0"
+        },
+        {
+          "mr": "27",
+          "occupier": "Isabella Cooney",
+          "lessor": "Edward Cooney",
+          "desc": "G (in rere)",
+          "area": "0 0 30",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "28",
+          "occupier": "Isabella Cooney",
+          "lessor": "Richard Coote (minor)",
+          "desc": "G (in rere)",
+          "area": "0 0 30",
+          "land_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "29",
+          "occupier": "Edward Cooney, jun.",
+          "lessor": "Edward Cooney",
+          "desc": "H & yard",
+          "building_val": "12 0 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "30",
+          "occupier": "Thomas Halpin",
+          "lessor": "Isabella Cooney",
+          "desc": "H,O,&yard",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "31",
+          "occupier": "Denis Lennon",
+          "lessor": "Robert Boden",
+          "desc": "H,O,yd,&sm.G",
+          "building_val": "13 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "32",
+          "occupier": "Charles Cosby",
+          "lessor": "Richard Coote (minor)",
+          "desc": "H (dilapd.),O,yard,&G",
+          "area": "0 1 0",
+          "land_val": "1 0 0",
+          "building_val": "8 10 0",
+          "total_val": "9 10 0"
+        }
+      ]
+    }
+  ]
+}

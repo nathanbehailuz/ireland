@@ -1,0 +1,450 @@
+{
+  "parishes": [
+    {
+      "parish": "TIPPER",
+      "entries": [
+        {
+          "mr": "4 a",
+          "townland": "TIPPER, NORTH",
+          "os": "",
+          "occupier": "Moses Byrne",
+          "lessor": "Robert Revell",
+          "desc": "O&L",
+          "area": "131 3 29",
+          "land_val": "115 0 0",
+          "building_val": "0 15 0",
+          "total_val": "115 15 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "4 b",
+          "occupier": "Margaret Moran",
+          "lessor": "Moses Byrne",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "5 a",
+          "occupier": "William Ardagh",
+          "lessor": "Robert Revell",
+          "desc": "H&L",
+          "area": "2 1 3",
+          "land_val": "1 15 0",
+          "building_val": "0 10 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "5 b",
+          "occupier": "William Murran",
+          "lessor": "Same",
+          "desc": "H&sm.G",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "6",
+          "occupier": "Richard Whittaker",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "1 3 13",
+          "land_val": "1 10 0",
+          "building_val": "0 5 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Michael Hoey",
+          "lessor": "Same",
+          "desc": "H&L",
+          "area": "3 3 32",
+          "land_val": "3 0 0",
+          "building_val": "0 5 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "desc": "Total",
+          "area": "176 0 17",
+          "land_val": "142 15 0",
+          "building_val": "3 5 0",
+          "total_val": "146 0 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "TIPPER, SOUTH",
+          "os": "19 & 24",
+          "occupier": "Margaret Byrne",
+          "lessor": "Earl of Carysfort",
+          "desc": "H,O,&L",
+          "area": "261 0 14",
+          "land_val": "212 10 0",
+          "building_val": "8 0 0",
+          "total_val": "220 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Earl of Carysfort",
+          "lessor": "In fee",
+          "desc": "H&L",
+          "area": "6 0 0",
+          "land_val": "4 0 0",
+          "building_val": "1 5 0",
+          "total_val": "5 5 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "James Jones",
+          "lessor": "Earl of Carysfort",
+          "desc": "H,O,&L",
+          "area": "23 2 12",
+          "land_val": "14 10 0",
+          "building_val": "0 10 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Michael Geraghty",
+          "lessor": "Margaret Byrne",
+          "desc": "H&L",
+          "area": "4 1 34",
+          "land_val": "2 5 0",
+          "building_val": "0 5 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Andrew Harold",
+          "lessor": "Earl of Carysfort",
+          "desc": "H&L",
+          "area": "45 2 30",
+          "land_val": "26 0 0",
+          "building_val": "0 15 0",
+          "total_val": "26 15 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Thomas Tyrrell",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "77 2 28",
+          "land_val": "52 15 0",
+          "building_val": "1 0 0",
+          "total_val": "53 15 0"
+        },
+        {
+          "mr": "6 b",
+          "occupier": "Thomas Caffrey",
+          "lessor": "Thomas Tyrrell",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Michael Dodd",
+          "lessor": "Earl of Carysfort",
+          "desc": "H&L",
+          "area": "14 2 15",
+          "land_val": "10 0 0",
+          "building_val": "1 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "desc": "Total",
+          "area": "433 0 13",
+          "land_val": "322 0 0",
+          "building_val": "13 0 0",
+          "total_val": "335 0 0",
+          "is_total": 1
+        }
+      ]
+    },
+    {
+      "parish": "WHITECHURCH",
+      "entries": [
+        {
+          "mr": "1",
+          "townland": "BALLYHAYS",
+          "os": "14",
+          "occupier": "Arthur Henry",
+          "lessor": "Hugh Barton",
+          "desc": "L",
+          "area": "22 3 5",
+          "land_val": "22 0 0",
+          "total_val": "22 0 0"
+        },
+        {
+          "mr": "1 a",
+          "occupier": "Francis R. Wright",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "110 0 31",
+          "land_val": "94 0 0",
+          "building_val": "24 0 0",
+          "total_val": "118 0 0"
+        },
+        {
+          "mr": "1 -",
+          "occupier": "Nicholas Singleton",
+          "lessor": "Francis R. Wright",
+          "desc": "H",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "desc": "River Liffey",
+          "area": "3 1 33"
+        },
+        {
+          "desc": "Total",
+          "area": "136 1 29",
+          "land_val": "116 0 0",
+          "building_val": "24 15 0",
+          "total_val": "140 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BARANRATH",
+          "os": "14",
+          "occupier": "Christopher Maguire",
+          "lessor": "Hugh Barton",
+          "desc": "H,O,&L",
+          "area": "39 0 0",
+          "land_val": "28 0 0",
+          "building_val": "1 0 0",
+          "total_val": "29 0 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "Michael Doyle",
+          "lessor": "Grand Canal Co.",
+          "desc": "L (canal banks)",
+          "area": "3 1 17",
+          "land_val": "1 17 0",
+          "total_val": "3 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "2 B",
+          "occupier": "Michael Doyle",
+          "lessor": "Grand Canal Co.",
+          "desc": "L (canal banks)",
+          "area": "0 2 20",
+          "land_val": "0 5 0",
+          "total_val": "3 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "2 C",
+          "occupier": "Michael Doyle",
+          "lessor": "Grand Canal Co.",
+          "desc": "L (canal banks)",
+          "area": "1 3 8",
+          "land_val": "1 3 0",
+          "total_val": "3 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "- B a",
+          "occupier": "James Darley",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Christopher Leonard",
+          "lessor": "Hugh Barton",
+          "desc": "H&G",
+          "area": "0 3 0",
+          "land_val": "0 7 0",
+          "building_val": "0 10 0",
+          "total_val": "0 17 0"
+        },
+        {
+          "mr": "- C a",
+          "occupier": "Thomas Murray",
+          "lessor": "Grand Canal Company",
+          "desc": "H",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "John Conlan",
+          "lessor": "Same",
+          "desc": "H",
+          "building_val": "0 5 0",
+          "total_val": "0 5 0"
+        },
+        {
+          "mr": "3 A",
+          "occupier": "James M'Creary",
+          "lessor": "Same",
+          "desc": "L (canal banks)",
+          "area": "2 2 10",
+          "land_val": "1 4 0",
+          "total_val": "2 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 B",
+          "occupier": "James M'Creary",
+          "lessor": "Same",
+          "desc": "L (canal banks)",
+          "area": "2 3 23",
+          "land_val": "1 6 0",
+          "total_val": "2 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4",
+          "occupier": "Grand Canal Company",
+          "lessor": "In fee",
+          "desc": "Canal and towing path (276 lineal perches)",
+          "area": "4 3 9",
+          "total_val": "27 12 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Grand Canal Company",
+          "lessor": "In fee",
+          "desc": "Store",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Richard Rainsford",
+          "lessor": "Hugh Barton",
+          "desc": "L",
+          "area": "4 3 25",
+          "land_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "6 A",
+          "occupier": "Robert Kennedy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "89 0 15",
+          "land_val": "86 0 0",
+          "total_val": "296 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "6 B",
+          "occupier": "Robert Kennedy",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "123 0 37",
+          "land_val": "125 0 0",
+          "building_val": "35 0 0",
+          "total_val": "296 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "6 C",
+          "occupier": "Robert Kennedy",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "47 2 28",
+          "land_val": "50 0 0",
+          "total_val": "296 0 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "7",
+          "occupier": "Thomas Murray",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "27 0 36",
+          "land_val": "24 0 0",
+          "total_val": "24 0 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "James Buggie",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "15 3 33",
+          "land_val": "14 0 0",
+          "building_val": "1 0 0",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "9",
+          "occupier": "G. S. & W. Railway Co.",
+          "lessor": "In fee",
+          "desc": "Railway (247 lin. perches)",
+          "area": "8 2 34",
+          "total_val": "404 10 0"
+        },
+        {
+          "desc": "Total",
+          "area": "372 2 15",
+          "land_val": "338 2 0",
+          "building_val": "40 5 0",
+          "total_val": "810 9 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "CLOWNINGS",
+          "os": "14",
+          "occupier": "Benjamin Rende",
+          "lessor": "Hugh Barton",
+          "desc": "H,O,&L",
+          "area": "91 2 3",
+          "land_val": "80 0 0",
+          "building_val": "2 10 0",
+          "total_val": "88 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 B",
+          "occupier": "Benjamin Rende",
+          "lessor": "Hugh Barton",
+          "desc": "L",
+          "area": "5 1 28",
+          "land_val": "6 0 0",
+          "total_val": "88 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2",
+          "occupier": "Francis R. Wright",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "53 0 8",
+          "land_val": "47 0 0",
+          "total_val": "47 0 0"
+        },
+        {
+          "mr": "3 A",
+          "occupier": "Peter Turner",
+          "lessor": "Same",
+          "desc": "H,O,&L",
+          "area": "79 1 3",
+          "land_val": "59 0 0",
+          "building_val": "7 0 0",
+          "total_val": "80 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3 B",
+          "occupier": "Peter Turner",
+          "lessor": "Same",
+          "desc": "L",
+          "area": "16 2 10",
+          "land_val": "14 10 0",
+          "total_val": "80 10 0",
+          "n_shared": 2
+        }
+      ]
+    }
+  ]
+}

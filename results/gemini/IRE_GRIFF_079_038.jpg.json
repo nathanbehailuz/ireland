@@ -1,0 +1,678 @@
+{
+  "parishes": [
+    {
+      "parish": "SEAPATRICK",
+      "entries": [
+        {
+          "mr": "43",
+          "townland": "BALLYVALLY",
+          "is_continued": 1,
+          "occupier": "John Dickson",
+          "lessor": "David Rogers",
+          "desc": "L",
+          "area": "6 1 0",
+          "land_val": "16 10 0",
+          "building_val": "",
+          "total_val": "5 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "43",
+          "occupier": "William Cromie, (Daisy-Hill.)",
+          "lessor": "James Carde",
+          "desc": "L",
+          "area": "6 1 0",
+          "land_val": "16 10 0",
+          "building_val": "",
+          "total_val": "5 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "44",
+          "occupier": "Rev. Wm. Sloan Eccles,",
+          "lessor": "Thomas Ervin,",
+          "desc": "H,O,&L",
+          "area": "1 3 30",
+          "land_val": "3 10 0",
+          "building_val": "12 10 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "45",
+          "occupier": "Thomas Ervin,",
+          "lessor": "Marquis of Downshire,",
+          "desc": "L",
+          "area": "5 1 20",
+          "land_val": "9 0 0",
+          "building_val": "",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "George Linn,",
+          "lessor": "Thomas Ervin,",
+          "desc": "L",
+          "area": "2 3 10",
+          "land_val": "3 15 0",
+          "building_val": "",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "47",
+          "occupier": "George Linn,",
+          "lessor": "Thomas Ervin,",
+          "desc": "L",
+          "area": "1 3 35",
+          "land_val": "2 0 0",
+          "building_val": "",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "48",
+          "occupier": "John Nelson,",
+          "lessor": "Reps. James Ridley.",
+          "desc": "L",
+          "area": "2 1 20",
+          "land_val": "3 10 0",
+          "building_val": "",
+          "total_val": "3 10 0"
+        },
+        {
+          "mr": "49",
+          "occupier": "John Nelson,",
+          "lessor": "Reps. James Ridley.",
+          "desc": "L",
+          "area": "3 0 30",
+          "land_val": "4 10 0",
+          "building_val": "",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "48 a",
+          "occupier": "James Shanks,",
+          "lessor": "John Nelson,",
+          "desc": "Ho. (dilapidated), & gar.",
+          "area": "0 1 20",
+          "land_val": "1 0 0",
+          "building_val": "1 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "50",
+          "occupier": "The Misses Lindsay,",
+          "lessor": "Marquis of Downshire,",
+          "desc": "House, offices, gate-lodges, and land",
+          "area": "8 3 30",
+          "land_val": "14 10 0",
+          "building_val": "21 10 0",
+          "total_val": "36 0 0"
+        },
+        {
+          "mr": "51",
+          "occupier": "Richard Malcomson,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "0 2 20",
+          "land_val": "1 0 0",
+          "building_val": "",
+          "total_val": "5 15 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "52",
+          "occupier": "Richard Malcomson,",
+          "lessor": "In fee,",
+          "desc": "L",
+          "area": "3 0 25",
+          "land_val": "4 15 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "53",
+          "occupier": "Hamilton Moore,",
+          "lessor": "Thomas Ervin,",
+          "desc": "L",
+          "area": "7 0 0",
+          "land_val": "11 0 0",
+          "building_val": "",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Thomas Stenson,",
+          "lessor": "Marquis of Downshire,",
+          "desc": "House and garden",
+          "area": "0 0 20",
+          "land_val": "0 5 0",
+          "building_val": "3 0 0",
+          "total_val": "3 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Robert Finlay,",
+          "lessor": "Free (in Chancery),",
+          "desc": "House and sm. garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Unoccupied,",
+          "lessor": "Thomas Ervin,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Unoccupied,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "- e",
+          "occupier": "George Boddle,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "- f",
+          "occupier": "William Boddle,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 15 0",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "54",
+          "occupier": "Thomas Crothers,",
+          "lessor": "Thomas Crozier,",
+          "desc": "Offices and land",
+          "area": "4 0 35",
+          "land_val": "6 10 0",
+          "building_val": "1 10 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "John Campbell,",
+          "lessor": "Thomas Crothers,",
+          "desc": "House and sm. garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 10 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "55",
+          "occupier": "Robert Matier,",
+          "lessor": "Marquis of Downshire,",
+          "desc": "L",
+          "area": "9 3 1",
+          "land_val": "14 10 0",
+          "building_val": "",
+          "total_val": "14 10 0"
+        },
+        {
+          "mr": "56",
+          "occupier": "William Ardery,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "9 3 0",
+          "land_val": "15 0 0",
+          "building_val": "",
+          "total_val": "15 0 0"
+        },
+        {
+          "mr": "57",
+          "occupier": "Henry Close,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "4 3 30",
+          "land_val": "6 10 0",
+          "building_val": "",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "James Forsythe,",
+          "lessor": "Same,",
+          "desc": "House and garden",
+          "area": "0 1 5",
+          "land_val": "0 10 0",
+          "building_val": "1 0 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "58",
+          "occupier": "Andrew Morton,",
+          "lessor": "Same,",
+          "desc": "House, office, and land",
+          "area": "9 1 15",
+          "land_val": "12 0 0",
+          "building_val": "4 0 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "59",
+          "occupier": "Samuel Woods,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "7 2 0",
+          "land_val": "8 5 0",
+          "building_val": "",
+          "total_val": "8 5 0"
+        },
+        {
+          "mr": "60 A",
+          "occupier": "Andrew Morton, jun.,",
+          "lessor": "Samuel Woods,",
+          "desc": "L",
+          "area": "9 0 20",
+          "land_val": "10 5 0",
+          "building_val": "",
+          "total_val": "13 5 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "60 B",
+          "occupier": "Andrew Morton, jun.,",
+          "lessor": "Samuel Woods,",
+          "desc": "L",
+          "area": "2 0 30",
+          "land_val": "3 0 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- A a",
+          "occupier": "Robert M'Cullagh,",
+          "lessor": "Andrew Morton, jun.,",
+          "desc": "House and sm. garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Thomas Kinkade,",
+          "lessor": "Same,",
+          "desc": "House and sm. garden",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "61",
+          "occupier": "Alexander Morton,",
+          "lessor": "Marquis of Downshire,",
+          "desc": "L",
+          "area": "6 2 35",
+          "land_val": "7 5 0",
+          "building_val": "",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "62",
+          "occupier": "John Morton, jun.,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "6 1 25",
+          "land_val": "6 10 0",
+          "building_val": "",
+          "total_val": "6 10 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "James Bell,",
+          "lessor": "John Morton, jun.,",
+          "desc": "House and garden",
+          "area": "0 0 30",
+          "land_val": "0 10 0",
+          "building_val": "1 15 0",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Unoccupied,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 5 0",
+          "total_val": "1 5 0"
+        },
+        {
+          "mr": "63",
+          "occupier": "John Morton, sen.,",
+          "lessor": "John M'Clelland,",
+          "desc": "House and land",
+          "area": "10 1 0",
+          "land_val": "11 10 0",
+          "building_val": "0 5 0",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "James Moorhead,",
+          "lessor": "John Morton, sen.,",
+          "desc": "House and garden",
+          "area": "0 1 10",
+          "land_val": "0 10 0",
+          "building_val": "1 0 0",
+          "total_val": "1 10 0"
+        },
+        {
+          "mr": "64",
+          "occupier": "John Woods,",
+          "lessor": "Marquis of Downshire,",
+          "desc": "Caretaker's ho. & land",
+          "area": "25 0 20",
+          "land_val": "28 10 0",
+          "building_val": "1 0 0",
+          "total_val": "29 10 0"
+        },
+        {
+          "mr": "65",
+          "occupier": "Robert Riddles,",
+          "lessor": "Same,",
+          "desc": "H&L",
+          "area": "2 0 10",
+          "land_val": "2 5 0",
+          "building_val": "0 15 0",
+          "total_val": "3 0 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "66",
+          "occupier": "Robert Riddles,",
+          "lessor": "John H. Crothers,",
+          "desc": "L",
+          "area": "1 3 10",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "67",
+          "occupier": "Samuel Hill,",
+          "lessor": "Marquis of Downshire,",
+          "desc": "L",
+          "area": "1 3 30",
+          "land_val": "2 5 0",
+          "building_val": "",
+          "total_val": "2 5 0"
+        },
+        {
+          "mr": "68",
+          "occupier": "Thomas Maxwell,",
+          "lessor": "John H. Crothers,",
+          "desc": "House and land",
+          "area": "2 0 20",
+          "land_val": "2 10 0",
+          "building_val": "0 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "69 A",
+          "occupier": "John Morton,",
+          "lessor": "Marquis of Downshire,",
+          "desc": "H,O,&L",
+          "area": "2 1 20",
+          "land_val": "3 0 0",
+          "building_val": "1 0 0",
+          "total_val": "4 15 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "69 B",
+          "occupier": "John Morton,",
+          "lessor": "Marquis of Downshire,",
+          "desc": "L",
+          "area": "0 3 0",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "70",
+          "occupier": "John Morton, sen.,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "7 1 15",
+          "land_val": "8 10 0",
+          "building_val": "",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "71",
+          "occupier": "James Brown,",
+          "lessor": "Same,",
+          "desc": "House, office, and land",
+          "area": "6 3 5",
+          "land_val": "8 5 0",
+          "building_val": "1 5 0",
+          "total_val": "9 10 0"
+        },
+        {
+          "mr": "72",
+          "occupier": "Francis Bell,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "3 1 30",
+          "land_val": "4 5 0",
+          "building_val": "",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "73",
+          "occupier": "James Bell,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "2 3 5",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "74",
+          "occupier": "Hugh M'Kee,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "6 2 25",
+          "land_val": "8 15 0",
+          "building_val": "",
+          "total_val": "8 15 0"
+        },
+        {
+          "mr": "75",
+          "occupier": "William Friar,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "5 3 5",
+          "land_val": "6 15 0",
+          "building_val": "",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "76",
+          "occupier": "John M'Cammon,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "8 0 25",
+          "land_val": "11 15 0",
+          "building_val": "",
+          "total_val": "11 15 0"
+        },
+        {
+          "mr": "77",
+          "occupier": "John M'Cullagh,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "3 0 20",
+          "land_val": "4 5 0",
+          "building_val": "",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "78",
+          "occupier": "John M'Cullagh,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "2 1 5",
+          "land_val": "2 15 0",
+          "building_val": "",
+          "total_val": "2 15 0"
+        },
+        {
+          "mr": "79",
+          "occupier": "Richard Malcomson,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "6 2 25",
+          "land_val": "10 0 0",
+          "building_val": "",
+          "total_val": "10 0 0"
+        },
+        {
+          "mr": "80",
+          "occupier": "Richard Malcomson,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "3 0 0",
+          "land_val": "4 5 0",
+          "building_val": "",
+          "total_val": "4 5 0"
+        },
+        {
+          "mr": "79 a",
+          "occupier": "John Gedgool,",
+          "lessor": "Richard Malcomson,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Thomas Hanlan,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "- c",
+          "occupier": "Joseph Gibson,",
+          "lessor": "Same,",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 15 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "81",
+          "occupier": "John Woods,",
+          "lessor": "Thomas Crozier,",
+          "desc": "L",
+          "area": "3 0 35",
+          "land_val": "4 15 0",
+          "building_val": "",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "82",
+          "occupier": "Samuel Russell,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "3 0 15",
+          "land_val": "4 10 0",
+          "building_val": "",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "83",
+          "occupier": "James Thompson,",
+          "lessor": "John O'Flaherty,",
+          "desc": "L",
+          "area": "6 1 25",
+          "land_val": "10 10 0",
+          "building_val": "",
+          "total_val": "10 10 0"
+        },
+        {
+          "mr": "84",
+          "occupier": "John Woods,",
+          "lessor": "Marquis of Downshire,",
+          "desc": "Office and land",
+          "area": "6 0 25",
+          "land_val": "10 10 0",
+          "building_val": "2 10 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "85 A",
+          "occupier": "William Ardery,",
+          "lessor": "Same,",
+          "desc": "H,O,&L",
+          "area": "9 0 20",
+          "land_val": "14 10 0",
+          "building_val": "9 0 0",
+          "total_val": "23 10 0",
+          "n_shared": 1
+        },
+        {
+          "mr": "85 B",
+          "occupier": "William Ardery,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "7 2 0",
+          "land_val": "6 10 0",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "86",
+          "occupier": "James Young,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "32 3 10",
+          "land_val": "50 0 0",
+          "building_val": "",
+          "total_val": "50 0 0"
+        },
+        {
+          "mr": "87",
+          "occupier": "Joseph Smith,",
+          "lessor": "Same,",
+          "desc": "L",
+          "area": "4 0 25",
+          "land_val": "5 10 0",
+          "building_val": "",
+          "total_val": "5 10 0"
+        }
+      ]
+    }
+  ]
+}

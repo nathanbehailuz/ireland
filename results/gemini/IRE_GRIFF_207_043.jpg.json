@@ -1,0 +1,458 @@
+{
+  "parishes": [
+    {
+      "parish": "BALLYSAKEERY",
+      "entries": [
+        {
+          "mr": "1 a",
+          "townland": "CLOONFADDA",
+          "os": "21 & 22",
+          "occupier": "Edward Sweeny,",
+          "lessor": "Sir Wm. R. Palmer, Bt.",
+          "desc": "L, H, & O",
+          "area": "202 3 12",
+          "land_val": "35 0 0",
+          "building_val": "2 0 0",
+          "total_val": "37 0 0",
+          "n_shared": 6
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Patrick Clarke, .",
+          "lessor": "Same,",
+          "desc": "L, H, & O",
+          "land_val": "4 8 0",
+          "building_val": "1 0 0",
+          "total_val": "5 8 0",
+          "n_shared": 6
+        },
+        {
+          "mr": "1 c",
+          "occupier": "Richard Sweeny,",
+          "lessor": "Same,",
+          "desc": "L, H, & O",
+          "land_val": "8 15 0",
+          "building_val": "1 0 0",
+          "total_val": "9 15 0",
+          "n_shared": 6
+        },
+        {
+          "mr": "1 d",
+          "occupier": "Patrick M'Cavock,",
+          "lessor": "Same,",
+          "desc": "L, H, & O",
+          "land_val": "8 15 0",
+          "building_val": "1 0 0",
+          "total_val": "9 15 0",
+          "n_shared": 6
+        },
+        {
+          "mr": "1 e",
+          "occupier": "Patrick Scott, .",
+          "lessor": "Same,",
+          "desc": "L, H, & O",
+          "land_val": "8 15 0",
+          "building_val": "0 10 0",
+          "total_val": "9 5 0",
+          "n_shared": 6
+        },
+        {
+          "mr": "1 f",
+          "occupier": "Richard M'Cavock,",
+          "lessor": "Same,",
+          "desc": "L, H, & O",
+          "land_val": "4 8 0",
+          "building_val": "0 14 0",
+          "total_val": "5 2 0",
+          "n_shared": 6
+        },
+        {
+          "desc": "Total, .",
+          "area": "202 3 12",
+          "land_val": "70 1 0",
+          "building_val": "6 4 0",
+          "total_val": "76 5 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "CLOONMAAN",
+          "os": "21 & 22",
+          "occupier": "Hector Sutherland, .",
+          "lessor": "Sir Wm R. Palmer, Bt.",
+          "desc": "L",
+          "area": "23 0 11",
+          "land_val": "15 10 0",
+          "total_val": "15 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Edward Sweeny,",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "18 3 10",
+          "land_val": "13 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "desc": "Total, .",
+          "area": "41 3 21",
+          "land_val": "28 10 0",
+          "total_val": "28 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "FARRAGH",
+          "os": "21 & 22",
+          "occupier": "Hector Sutherland, .",
+          "lessor": "Sir Wm. R. Palmer, Bt.",
+          "desc": "L, H, & O",
+          "area": "186 2 18",
+          "land_val": "140 0 0",
+          "building_val": "7 10 0",
+          "total_val": "147 10 0"
+        },
+        {
+          "desc": "Total, .",
+          "area": "186 2 18",
+          "land_val": "140 0 0",
+          "building_val": "7 10 0",
+          "total_val": "147 10 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "RAHEENS",
+          "os": "21 & 22",
+          "occupier": "Earl of Arran, .",
+          "lessor": "In fee,",
+          "desc": "L, H, & O",
+          "area": "67 1 22",
+          "land_val": "15 0 0",
+          "building_val": "5 0 0",
+          "total_val": "20 8 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "1 b",
+          "occupier": "Earl of Arran, .",
+          "lessor": "In fee,",
+          "desc": "Caretaker's H",
+          "building_val": "0 8 0",
+          "total_val": "20 8 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- c",
+          "occupier": "Richard M'Andrew, .",
+          "lessor": "Cap. Richard Knox, .",
+          "desc": "L",
+          "area": "1 0 35",
+          "land_val": "0 1 0",
+          "total_val": "0 1 0"
+        },
+        {
+          "mr": "- d",
+          "occupier": "Michael M'Cavock, .",
+          "lessor": "J. Townsend Kirkwood,",
+          "desc": "G",
+          "area": "0 3 20",
+          "land_val": "0 2 0",
+          "total_val": "0 2 0"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Thomas Holmes,",
+          "lessor": "Earl of Arran, .",
+          "desc": "L, H, & O",
+          "area": "20 2 20",
+          "land_val": "5 10 0",
+          "building_val": "0 10 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Earl of Arran, .",
+          "lessor": "In fee,",
+          "desc": "G",
+          "area": "0 0 20"
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Holmes,",
+          "lessor": "Earl of Arran, .",
+          "desc": "L",
+          "area": "14 3 13",
+          "land_val": "4 10 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "4 a",
+          "occupier": "William Farrell,",
+          "lessor": "Same, .",
+          "desc": "L, H, & O",
+          "area": "9 3 24",
+          "land_val": "0 12 0",
+          "building_val": "0 4 0",
+          "total_val": "0 16 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Thomas Holmes,",
+          "lessor": "Same, .",
+          "desc": "L",
+          "area": "31 1 13",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "5",
+          "occupier": "Patrick Holmes,",
+          "lessor": "Same, .",
+          "desc": "L",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 3
+        },
+        {
+          "mr": "5",
+          "occupier": "William Farrell,",
+          "lessor": "Same, .",
+          "desc": "L",
+          "land_val": "0 5 0",
+          "total_val": "0 5 0",
+          "n_shared": 3
+        },
+        {
+          "desc": "Total, .",
+          "area": "146 1 7",
+          "land_val": "26 10 0",
+          "building_val": "6 2 0",
+          "total_val": "32 12 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 a",
+          "townland": "BALLOUGHADALLA",
+          "os": "21, 22, 29, & 30",
+          "occupier": "Richard M'Andrew, .",
+          "lessor": "Capt. Richard Knox, .",
+          "desc": "L, H, & O",
+          "area": "24 3 38",
+          "land_val": "6 10 0",
+          "building_val": "0 15 0",
+          "total_val": "7 5 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "Earl of Arran, .",
+          "lessor": "In fee, .",
+          "desc": "Small G",
+          "area": "0 0 5"
+        },
+        {
+          "mr": "2 a",
+          "occupier": "Thomas Knight,",
+          "lessor": "Capt. Richard Knox, .",
+          "desc": "L, H, & O",
+          "area": "12 2 7",
+          "land_val": "8 5 0",
+          "building_val": "1 0 0",
+          "total_val": "9 5 0"
+        },
+        {
+          "mr": "3 a",
+          "occupier": "Patrick Flynn, .",
+          "lessor": "Same, .",
+          "desc": "L, H, & O",
+          "area": "29 3 4",
+          "land_val": "22 15 0",
+          "building_val": "1 0 0",
+          "total_val": "24 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- b",
+          "occupier": "Patrick Flynn, .",
+          "lessor": "Same, .",
+          "desc": "One cottage, .",
+          "building_val": "0 5 0",
+          "total_val": "24 0 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Capt. Richard Knox, .",
+          "lessor": "In fee, .",
+          "desc": "L & herd's-H",
+          "area": "567 0 3",
+          "land_val": "160 0 0",
+          "building_val": "0 10 0",
+          "total_val": "161 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "- b",
+          "occupier": "Capt. Richard Knox, .",
+          "lessor": "In fee, .",
+          "desc": "One cottage, .",
+          "building_val": "0 15 0",
+          "total_val": "161 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5",
+          "occupier": "Earl of Arran, .",
+          "lessor": "In fee, .",
+          "desc": "L",
+          "area": "1 2 1",
+          "land_val": "0 1 0",
+          "total_val": "0 1 0"
+        },
+        {
+          "desc": "Total, .",
+          "area": "635 3 18",
+          "land_val": "197 11 0",
+          "building_val": "4 5 0",
+          "total_val": "201 16 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BALLYMACKEEHOLA",
+          "os": "21 & 29",
+          "occupier": "Earl of Arran, .",
+          "lessor": "In fee, .",
+          "desc": "L",
+          "area": "339 0 27",
+          "land_val": "12 5 0",
+          "total_val": "15 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "2",
+          "occupier": "Earl of Arran, .",
+          "lessor": "In fee, .",
+          "desc": "L",
+          "area": "246 2 21",
+          "land_val": "3 5 0",
+          "total_val": "15 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "3",
+          "occupier": "Patrick Bilbow, .",
+          "lessor": "Earl of Arran, .",
+          "desc": "L",
+          "area": "19 3 39",
+          "land_val": "8 5 0",
+          "total_val": "10 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "4 a",
+          "occupier": "Patrick Bilbow, .",
+          "lessor": "Same, .",
+          "desc": "L, H, & O",
+          "area": "2 3 12",
+          "land_val": "1 8 0",
+          "building_val": "0 12 0",
+          "total_val": "10 5 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "5 a",
+          "occupier": "Thomas Walsh, .",
+          "lessor": "Same, .",
+          "desc": "L, H, & O",
+          "area": "25 1 5",
+          "land_val": "12 12 0",
+          "building_val": "1 4 0",
+          "total_val": "13 16 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Patrick M'Hale, .",
+          "lessor": "Same, .",
+          "desc": "L, H, & O",
+          "area": "32 1 11",
+          "land_val": "13 0 0",
+          "building_val": "1 0 0",
+          "total_val": "14 0 0"
+        },
+        {
+          "mr": "7 a",
+          "occupier": "Patrick M'Andrew, .",
+          "lessor": "Same, .",
+          "desc": "L & H",
+          "area": "8 3 8",
+          "land_val": "0 6 0",
+          "building_val": "0 4 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "8 a",
+          "occupier": "John Bilbow, .",
+          "lessor": "Same, .",
+          "desc": "L, H, & O",
+          "area": "10 1 21",
+          "land_val": "3 5 0",
+          "building_val": "0 9 0",
+          "total_val": "3 14 0"
+        },
+        {
+          "mr": "9 a",
+          "occupier": "Mary Kearney, .",
+          "lessor": "Same, .",
+          "desc": "L, H, & O",
+          "area": "11 1 32",
+          "land_val": "3 18 0",
+          "building_val": "0 10 0",
+          "total_val": "4 8 0"
+        },
+        {
+          "mr": "10 a",
+          "occupier": "Michael Kearney,",
+          "lessor": "Same, .",
+          "desc": "L, H, & O",
+          "area": "13 0 7",
+          "land_val": "5 0 0",
+          "building_val": "0 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "11 a",
+          "occupier": "Patrick Cavish, .",
+          "lessor": "Same, .",
+          "desc": "L, H, & O",
+          "area": "22 2 13",
+          "land_val": "7 10 0",
+          "building_val": "1 0 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "12 a",
+          "occupier": "Martin Walsh, .",
+          "lessor": "Same, .",
+          "desc": "L, H, & O",
+          "area": "3 2 3",
+          "land_val": "1 4 0",
+          "building_val": "0 8 0",
+          "total_val": "1 12 0"
+        },
+        {
+          "mr": "13 a",
+          "occupier": "Patrick Mayock, .",
+          "lessor": "Same, .",
+          "desc": "L, H, & O",
+          "area": "15 3 15",
+          "land_val": "4 10 0",
+          "building_val": "0 15 0",
+          "total_val": "5 5 0"
+        }
+      ]
+    }
+  ]
+}

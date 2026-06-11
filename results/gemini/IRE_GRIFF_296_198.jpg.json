@@ -1,0 +1,491 @@
+{
+  "parishes": [
+    {
+      "parish": "TIPPERARY",
+      "entries": [
+        {
+          "mr": "33",
+          "townland": "BALLYNILARD",
+          "os": "",
+          "occupier": "Peter Ryan",
+          "lessor": "Timothy Hanly",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0",
+          "is_continued": 1
+        },
+        {
+          "mr": "34",
+          "occupier": "Edmond Elligott",
+          "lessor": "Jas. H. S. Barry, Esq.",
+          "desc": "H,O,&L",
+          "area": "16 1 18",
+          "land_val": "21 15 0",
+          "building_val": "1 10 0",
+          "total_val": "23 5 0"
+        },
+        {
+          "mr": "35",
+          "occupier": "Peter Smithwick, Esq. M.D.",
+          "lessor": "Robt. Smithwick, Esq.",
+          "desc": "L",
+          "area": "5 3 32",
+          "land_val": "8 0 0",
+          "building_val": "",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "Robert Smithwick, Esq.",
+          "lessor": "Jas. H. S. Barry, Esq.",
+          "desc": "H,O,&L",
+          "area": "28 3 12",
+          "land_val": "35 15 0",
+          "building_val": "9 5 0",
+          "total_val": "45 0 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "Michael Maher",
+          "lessor": "Jas. H. S. Barry, Esq.",
+          "desc": "H,O,&L",
+          "area": "14 2 2",
+          "land_val": "19 0 0",
+          "building_val": "1 5 0",
+          "total_val": "20 5 0"
+        },
+        {
+          "mr": "38 a",
+          "occupier": "John Holway",
+          "lessor": "Thos. T. Adams, Esq.",
+          "desc": "H&L",
+          "area": "16 1 28",
+          "land_val": "22 0 0",
+          "building_val": "1 5 0",
+          "total_val": "23 5 0"
+        },
+        {
+          "mr": "38 b",
+          "occupier": "Vacant",
+          "lessor": "John Holway",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Nicholas Delany",
+          "lessor": "Thos. T. Adams, Esq.",
+          "desc": "H,O,&L",
+          "area": "10 1 36",
+          "land_val": "14 0 0",
+          "building_val": "1 15 0",
+          "total_val": "15 15 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Nicholas Delany",
+          "lessor": "Thos. T. Adams, Esq.",
+          "desc": "Office and land",
+          "area": "8 3 11",
+          "land_val": "11 15 0",
+          "building_val": "0 15 0",
+          "total_val": "12 10 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "Mary Ryan",
+          "lessor": "Nicholas Delany",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Michael Molony",
+          "lessor": "Thos. T. Adams, Esq.",
+          "desc": "L",
+          "area": "5 2 0",
+          "land_val": "7 10 0",
+          "building_val": "",
+          "total_val": "7 10 0"
+        },
+        {
+          "mr": "40",
+          "occupier": "Mary Brien",
+          "lessor": "Michael Molony",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 7 0",
+          "total_val": "0 7 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "Bridget Ryan",
+          "lessor": "Thos. T. Adams, Esq.",
+          "desc": "H,O,&L",
+          "area": "18 2 25",
+          "land_val": "24 15 0",
+          "building_val": "2 5 0",
+          "total_val": "27 0 0"
+        },
+        {
+          "mr": "- a",
+          "occupier": "Daniel Delany",
+          "lessor": "Jas. H. S. Barry, Esq.",
+          "desc": "H&L",
+          "area": "21 2 17",
+          "land_val": "27 15 0",
+          "building_val": "1 0 0",
+          "total_val": "28 15 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Mary Delany",
+          "lessor": "Daniel Delany",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "1 0 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "42",
+          "occupier": "Jas. H. S. Barry, Esq.",
+          "lessor": "In fee",
+          "desc": "Quarry (in common)",
+          "area": "2 2 34",
+          "land_val": "",
+          "building_val": "",
+          "total_val": ""
+        },
+        {
+          "mr": "- a",
+          "occupier": "Laurence Gleeson",
+          "lessor": "Jas. H. S. Barry, Esq.",
+          "desc": "H&G",
+          "area": "0 0 10",
+          "land_val": "0 1 0",
+          "building_val": "0 19 0",
+          "total_val": "1 0 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "Jeremiah Ryan",
+          "lessor": "Jas. H. S. Barry, Esq.",
+          "desc": "H,O,&L",
+          "area": "19 0 39",
+          "land_val": "27 10 0",
+          "building_val": "2 15 0",
+          "total_val": "30 5 0"
+        },
+        {
+          "mr": "44 a",
+          "occupier": "Cornelius Ryan",
+          "lessor": "Jas. H. S. Barry, Esq.",
+          "desc": "H,O,&L",
+          "area": "15 1 25",
+          "land_val": "22 5 0",
+          "building_val": "2 0 0",
+          "total_val": "24 5 0"
+        },
+        {
+          "mr": "44 b",
+          "occupier": "Edmond Guinan",
+          "lessor": "Cornelius Ryan",
+          "desc": "H",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Total",
+          "lessor": "",
+          "desc": "",
+          "area": "702 0 35",
+          "land_val": "919 4 0",
+          "building_val": "105 8 0",
+          "total_val": "1036 12 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1 A",
+          "townland": "BARRONSTOWN (LAFFAN)",
+          "os": "58",
+          "occupier": "Mary Frewen",
+          "lessor": "Lord Stanley",
+          "desc": "L",
+          "area": "13 1 3",
+          "land_val": "16 0 0",
+          "building_val": "",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Mary Frewen",
+          "lessor": "Lord Stanley",
+          "desc": "H,O,&L",
+          "area": "13 0 23",
+          "land_val": "16 0 0",
+          "building_val": "5 15 0",
+          "total_val": "21 15 0"
+        },
+        {
+          "mr": "- C",
+          "occupier": "Mary Frewen",
+          "lessor": "Lord Stanley",
+          "desc": "H&L",
+          "area": "16 2 24",
+          "land_val": "14 15 0",
+          "building_val": "",
+          "total_val": "14 15 0"
+        },
+        {
+          "mr": "- D",
+          "occupier": "Mary Frewen",
+          "lessor": "Lord Stanley",
+          "desc": "L",
+          "area": "49 0 8",
+          "land_val": "51 15 0",
+          "building_val": "",
+          "total_val": "51 15 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "William Heffernan",
+          "lessor": "Lord Stanley",
+          "desc": "H,O,&L",
+          "area": "3 0 10",
+          "land_val": "2 15 0",
+          "building_val": "1 0 0",
+          "total_val": "3 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "David Walsh",
+          "lessor": "Lord Stanley",
+          "desc": "H&L",
+          "area": "1 1 2",
+          "land_val": "1 5 0",
+          "building_val": "0 10 0",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "4",
+          "occupier": "Thomas Heffernan",
+          "lessor": "Lord Stanley",
+          "desc": "H&L",
+          "area": "4 1 14",
+          "land_val": "4 5 0",
+          "building_val": "0 10 0",
+          "total_val": "4 15 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "Samuel Hewston, Esq.",
+          "lessor": "Lord Stanley",
+          "desc": "H,O,&L",
+          "area": "53 3 24",
+          "land_val": "64 10 0",
+          "building_val": "2 0 0",
+          "total_val": "66 10 0"
+        },
+        {
+          "mr": "6 A",
+          "occupier": "Ellen Neill",
+          "lessor": "Lord Stanley",
+          "desc": "L",
+          "area": "1 3 5",
+          "land_val": "1 15 0",
+          "building_val": "",
+          "total_val": "1 15 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "Ellen Neill",
+          "lessor": "Lord Stanley",
+          "desc": "H,O,&L",
+          "area": "37 1 31",
+          "land_val": "45 15 0",
+          "building_val": "3 0 0",
+          "total_val": "48 15 0"
+        },
+        {
+          "mr": "7",
+          "occupier": "Malachi Neill",
+          "lessor": "Lord Stanley",
+          "desc": "H,O,&L",
+          "area": "26 0 34",
+          "land_val": "28 10 0",
+          "building_val": "3 5 0",
+          "total_val": "31 15 0"
+        },
+        {
+          "mr": "8",
+          "occupier": "G.S.&W. Railway Co.",
+          "lessor": "In fee",
+          "desc": "Land and railway",
+          "area": "14 2 38",
+          "land_val": "13 10 0",
+          "building_val": "",
+          "total_val": "13 10 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Total",
+          "lessor": "",
+          "desc": "",
+          "area": "234 3 17",
+          "land_val": "260 15 0",
+          "building_val": "16 0 0",
+          "total_val": "276 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BARRONSTOWN (ORMOND)",
+          "os": "58 & 66",
+          "occupier": "Mary Frewen",
+          "lessor": "Mrs. Mary Sadlier",
+          "desc": "H,O,&L",
+          "area": "74 2 32",
+          "land_val": "92 5 0",
+          "building_val": "3 5 0",
+          "total_val": "95 10 0"
+        },
+        {
+          "mr": "2",
+          "occupier": "Samuel Hewston, Esq.",
+          "lessor": "Mrs. Mary Sadlier",
+          "desc": "L",
+          "area": "50 1 6",
+          "land_val": "65 15 0",
+          "building_val": "",
+          "total_val": "65 15 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Robert Frewen",
+          "lessor": "Mrs. Mary Sadlier",
+          "desc": "L",
+          "area": "31 1 37",
+          "land_val": "37 15 0",
+          "building_val": "",
+          "total_val": "37 15 0"
+        },
+        {
+          "mr": "-",
+          "occupier": "George Roe, Esq.",
+          "lessor": "In fee",
+          "desc": "G",
+          "area": "0 2 12",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "",
+          "occupier": "Total",
+          "lessor": "",
+          "desc": "",
+          "area": "157 0 7",
+          "land_val": "196 10 0",
+          "building_val": "3 5 0",
+          "total_val": "199 15 0",
+          "is_total": 1
+        },
+        {
+          "mr": "1",
+          "townland": "BOHERAVENDRUM",
+          "os": "59",
+          "occupier": "Daniel Hogan",
+          "lessor": "Richard S. Mansergh, Esq.",
+          "desc": "L",
+          "area": "15 1 30",
+          "land_val": "14 10 0",
+          "building_val": "",
+          "total_val": "14 10 0"
+        },
+        {
+          "mr": "2 A",
+          "occupier": "John Neill",
+          "lessor": "Richard S. Mansergh, Esq.",
+          "desc": "H,O,&L",
+          "area": "7 2 0",
+          "land_val": "8 0 0",
+          "building_val": "1 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "- b",
+          "occupier": "Edward English",
+          "lessor": "Denis O'Brien",
+          "desc": "H&G",
+          "area": "0 0 29",
+          "land_val": "0 3 0",
+          "building_val": "0 7 0",
+          "total_val": "0 10 0"
+        },
+        {
+          "mr": "3",
+          "occupier": "Denis O'Brien",
+          "lessor": "Richard S. Mansergh, Esq.",
+          "desc": "H&L",
+          "area": "1 3 8",
+          "land_val": "1 15 0",
+          "building_val": "0 15 0",
+          "total_val": "2 10 0"
+        },
+        {
+          "mr": "4 A",
+          "occupier": "George Bradshaw",
+          "lessor": "Richard S. Mansergh, Esq.",
+          "desc": "L",
+          "area": "6 1 23",
+          "land_val": "6 15 0",
+          "building_val": "",
+          "total_val": "6 15 0"
+        },
+        {
+          "mr": "- B",
+          "occupier": "George Bradshaw",
+          "lessor": "Richard S. Mansergh, Esq.",
+          "desc": "L",
+          "area": "8 1 13",
+          "land_val": "11 5 0",
+          "building_val": "",
+          "total_val": "11 5 0"
+        },
+        {
+          "mr": "5",
+          "occupier": "William Godfrey",
+          "lessor": "Richard S. Mansergh, Esq.",
+          "desc": "H,O,&L",
+          "area": "8 0 11",
+          "land_val": "8 15 0",
+          "building_val": "1 0 0",
+          "total_val": "9 15 0"
+        },
+        {
+          "mr": "6 a",
+          "occupier": "Thomas Burke",
+          "lessor": "Richard S. Mansergh, Esq.",
+          "desc": "H,O,&L",
+          "area": "16 1 26",
+          "land_val": "17 15 0",
+          "building_val": "1 10 0",
+          "total_val": "19 5 0"
+        }
+      ]
+    }
+  ]
+}

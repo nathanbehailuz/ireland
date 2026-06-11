@@ -1,0 +1,481 @@
+{
+  "parishes": [
+    {
+      "parish": "KILCOO",
+      "entries": [
+        {
+          "mr": "34",
+          "townland": "BALLAGHBEG",
+          "sublocation_1": "TOWN OF NEWCASTLE",
+          "sublocation_2": "SHORE-ROAD",
+          "occupier": "Methodist Chapel & yd. (See Exemptions.)",
+          "lessor": "(See Exemptions.)",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 18",
+          "land_val": "0 10 0",
+          "building_val": "16 10 0",
+          "total_val": "17 0 0",
+          "is_exemption": 1,
+          "is_continued": 1
+        },
+        {
+          "mr": "35",
+          "occupier": "William Fletcher, (Belview.)",
+          "lessor": "Reps. John M'Ilwaine,",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 21",
+          "land_val": "0 10 0",
+          "building_val": "15 0 0",
+          "total_val": "15 10 0"
+        },
+        {
+          "mr": "36",
+          "occupier": "John Bell, .",
+          "lessor": "Earl Annesley, .",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 21",
+          "land_val": "0 10 0",
+          "building_val": "11 10 0",
+          "total_val": "12 0 0"
+        },
+        {
+          "mr": "37",
+          "occupier": "William M'Cully, .",
+          "lessor": "William Bailey, .",
+          "desc": "G (in rear),",
+          "area": "0 1 17",
+          "land_val": "0 15 0",
+          "building_val": "",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "38",
+          "occupier": "Hugh Russell, .",
+          "lessor": "Earl Annesley, .",
+          "desc": "H (in rear),",
+          "area": "",
+          "land_val": "",
+          "building_val": "0 15 0",
+          "total_val": "0 15 0"
+        },
+        {
+          "mr": "39",
+          "occupier": "John Thomson, .",
+          "lessor": "Same, .",
+          "desc": "H,O,and small G (in rear),",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "40ab",
+          "occupier": "Patrick M'Anally, .",
+          "lessor": "Hugh Russell, .",
+          "desc": "H (in rear),",
+          "area": "",
+          "land_val": "",
+          "building_val": "2 0 0",
+          "total_val": "2 0 0"
+        },
+        {
+          "mr": "41",
+          "occupier": "Unoccupied, .",
+          "lessor": "Same, .",
+          "desc": "H,O,yd,&G",
+          "area": "",
+          "land_val": "",
+          "building_val": "16 0 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "42ab",
+          "occupier": "Andrew Hanna, .",
+          "lessor": "Same, .",
+          "desc": "H,O,yd,&G",
+          "area": "0 1 35",
+          "land_val": "1 0 0",
+          "building_val": "20 0 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "43",
+          "occupier": "Charlotte Ardagh, (Havelock House.)",
+          "lessor": "Elizabeth H. Walker,",
+          "desc": "H,O,yd,&G",
+          "area": "0 1 30",
+          "land_val": "1 0 0",
+          "building_val": "22 0 0",
+          "total_val": "23 0 0"
+        },
+        {
+          "mr": "44",
+          "occupier": "Allan Gilmore, .",
+          "lessor": "Earl Annesley, .",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 26",
+          "land_val": "0 10 0",
+          "building_val": "35 10 0",
+          "total_val": "36 0 0"
+        },
+        {
+          "mr": "45",
+          "sublocation_2": "ANNESLEY-TERRACE",
+          "occupier": "Earl Annesley, .",
+          "lessor": "In fee, .",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 26",
+          "land_val": "0 10 0",
+          "building_val": "35 10 0",
+          "total_val": "36 0 0"
+        },
+        {
+          "mr": "46",
+          "occupier": "Vesey Knox, .",
+          "lessor": "Earl Annesley, .",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 28",
+          "land_val": "0 10 0",
+          "building_val": "35 10 0",
+          "total_val": "36 0 0"
+        },
+        {
+          "mr": "47",
+          "occupier": "Sinclair H. Decluzeau,",
+          "lessor": "Rev. William Slacke, .",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 22",
+          "land_val": "0 10 0",
+          "building_val": "29 10 0",
+          "total_val": "30 0 0"
+        },
+        {
+          "mr": "48",
+          "occupier": "Dorah Cheyne (lodgers),",
+          "lessor": "Earl Annesley, .",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 21",
+          "land_val": "0 10 0",
+          "building_val": "31 10 0",
+          "total_val": "32 0 0"
+        },
+        {
+          "mr": "49",
+          "occupier": "Dorah Cheyne, .",
+          "lessor": "Same, .",
+          "desc": "H,O,yd,and G (post-office),",
+          "area": "0 0 20",
+          "land_val": "0 10 0",
+          "building_val": "21 10 0",
+          "total_val": "22 0 0"
+        },
+        {
+          "mr": "50",
+          "sublocation_2": "SHORE-ROAD",
+          "occupier": "John Hyland, (Hyland Lodge.)",
+          "lessor": "Same, .",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 24",
+          "land_val": "0 10 0",
+          "building_val": "17 10 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "51",
+          "occupier": "John Hyland,",
+          "lessor": "Same, .",
+          "desc": "H,O,yd., & sm. G.",
+          "area": "",
+          "land_val": "",
+          "building_val": "21 0 0",
+          "total_val": "21 0 0"
+        },
+        {
+          "mr": "52",
+          "occupier": "Rev. Samuel J. Smith,",
+          "lessor": "Same, .",
+          "desc": "H,O,yd., & sm. G.",
+          "area": "",
+          "land_val": "",
+          "building_val": "28 0 0",
+          "total_val": "28 0 0"
+        },
+        {
+          "mr": "53",
+          "occupier": "William Mateer, .",
+          "lessor": "Same, .",
+          "desc": "H,O,yd., & sm. G.",
+          "area": "",
+          "land_val": "",
+          "building_val": "24 0 0",
+          "total_val": "24 0 0"
+        },
+        {
+          "mr": "54",
+          "occupier": "Matilda Johnson, .",
+          "lessor": "Same, .",
+          "desc": "H and yd.,",
+          "area": "",
+          "land_val": "",
+          "building_val": "9 0 0",
+          "total_val": "9 0 0"
+        },
+        {
+          "mr": "55",
+          "occupier": "Margaret M'Neill, .",
+          "lessor": "Same, .",
+          "desc": "H,sheds,yd.,&sm.G.",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 0 0",
+          "total_val": "5 0 0"
+        },
+        {
+          "mr": "56ab",
+          "occupier": "John O'Neill, .",
+          "lessor": "Same, .",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 21",
+          "land_val": "0 10 0",
+          "building_val": "7 10 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "57",
+          "occupier": "Catherine Hyland, .",
+          "lessor": "Same, .",
+          "desc": "H,O,yd, and G,",
+          "area": "",
+          "land_val": "",
+          "building_val": "26 0 0",
+          "total_val": "26 0 0"
+        },
+        {
+          "mr": "58",
+          "sublocation_2": "BERESFORD-PLACE",
+          "occupier": "Jane M. Shallow, .",
+          "lessor": "Same, .",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 24",
+          "land_val": "0 10 0",
+          "building_val": "17 10 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "59",
+          "occupier": "William Henry Goslin,",
+          "lessor": "Same, .",
+          "desc": "H,O,yd., & sm. G.",
+          "area": "",
+          "land_val": "",
+          "building_val": "42 0 0",
+          "total_val": "42 0 0"
+        },
+        {
+          "mr": "60",
+          "sublocation_2": "SHORE-ROAD",
+          "occupier": "Rev. William Slacke, (Eglantine House.)",
+          "lessor": "Same, .",
+          "desc": "H,O,yd., & sm. G.",
+          "area": "",
+          "land_val": "",
+          "building_val": "30 0 0",
+          "total_val": "30 0 0"
+        },
+        {
+          "mr": "61",
+          "occupier": "Henry Stuart, .",
+          "lessor": "William Campbell,",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 22",
+          "land_val": "0 10 0",
+          "building_val": "24 10 0",
+          "total_val": "25 0 0"
+        },
+        {
+          "mr": "62",
+          "occupier": "William Law, (River House.)",
+          "lessor": "Earl Annesley, .",
+          "desc": "H,O,yd., & sm. G.",
+          "area": "0 0 35",
+          "land_val": "1 0 0",
+          "building_val": "17 0 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "63",
+          "occupier": "Charles Creery, .",
+          "lessor": "Same, .",
+          "desc": "H,O,yd., & sm. G.",
+          "area": "",
+          "land_val": "",
+          "building_val": "13 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "64",
+          "occupier": "Charles Creery, .",
+          "lessor": "Same, .",
+          "desc": "H,O,yd., & sm. G.",
+          "area": "",
+          "land_val": "",
+          "building_val": "5 10 0",
+          "total_val": "5 10 0"
+        },
+        {
+          "mr": "65",
+          "occupier": "Mary Smith, .",
+          "lessor": "Same, .",
+          "desc": "H,O,yd., & sm. G.",
+          "area": "",
+          "land_val": "",
+          "building_val": "8 0 0",
+          "total_val": "8 0 0"
+        },
+        {
+          "mr": "66",
+          "occupier": "Robert Thornton, .",
+          "lessor": "Same, .",
+          "desc": "H,O,yd., & sm. G.",
+          "area": "",
+          "land_val": "",
+          "building_val": "8 10 0",
+          "total_val": "8 10 0"
+        },
+        {
+          "mr": "67",
+          "occupier": "John Lowey, .",
+          "lessor": "Same, .",
+          "desc": "H and G,",
+          "area": "0 0 20",
+          "land_val": "0 10 0",
+          "building_val": "2 10 0",
+          "total_val": "3 0 0"
+        },
+        {
+          "mr": "68",
+          "occupier": "Rose King, (Rock-side.)",
+          "lessor": "Same, .",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 24",
+          "land_val": "0 10 0",
+          "building_val": "37 10 0",
+          "total_val": "38 0 0"
+        },
+        {
+          "mr": "69",
+          "occupier": "George Mulligan, .",
+          "lessor": "Same, .",
+          "desc": "H,O,yd., & sm. G.",
+          "area": "",
+          "land_val": "",
+          "building_val": "7 0 0",
+          "total_val": "7 0 0"
+        },
+        {
+          "mr": "70",
+          "occupier": "Alexander Douglas,",
+          "lessor": "Same, .",
+          "desc": "H,O,yd., & sm. G.",
+          "area": "",
+          "land_val": "",
+          "building_val": "6 0 0",
+          "total_val": "6 0 0"
+        },
+        {
+          "mr": "71",
+          "occupier": "William Barry, (Strand-view Cottage.)",
+          "lessor": "Same, .",
+          "desc": "H,O,yd., & sm. G.",
+          "area": "",
+          "land_val": "",
+          "building_val": "16 0 0",
+          "total_val": "16 0 0"
+        },
+        {
+          "mr": "72",
+          "occupier": "Elizabeth H. Walker,",
+          "lessor": "Joseph Maxwell,",
+          "desc": "H,O,yd., & sm. G.",
+          "area": "",
+          "land_val": "",
+          "building_val": "11 0 0",
+          "total_val": "11 0 0"
+        },
+        {
+          "mr": "73",
+          "occupier": "Edward Coulter, .",
+          "lessor": "Earl Annesley, .",
+          "desc": "H,O,yd,&G",
+          "area": "0 0 37",
+          "land_val": "1 0 0",
+          "building_val": "17 0 0",
+          "total_val": "18 0 0"
+        },
+        {
+          "mr": "74",
+          "occupier": "Church and yard, .",
+          "lessor": "(See Exemptions.)",
+          "desc": "H,O,and yd,",
+          "area": "",
+          "land_val": "",
+          "building_val": "16 0 0",
+          "total_val": "16 0 0",
+          "is_exemption": 1
+        },
+        {
+          "mr": "75",
+          "occupier": "William Steele, .",
+          "lessor": "Earl Annesley, .",
+          "desc": "H,O,yd., & sm. G.",
+          "area": "",
+          "land_val": "",
+          "building_val": "13 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "76",
+          "occupier": "Rev. William Burland and Harriet Crawley, (Hill-side.)",
+          "lessor": "Same, .",
+          "desc": "H,yd,&G",
+          "area": "0 0 20",
+          "land_val": "0 10 0",
+          "building_val": "4 0 0",
+          "total_val": "4 10 0",
+          "n_shared": 2
+        },
+        {
+          "mr": "77",
+          "occupier": "David Mahood, .",
+          "lessor": "Same, .",
+          "desc": "H,O,yd., & sm. G.",
+          "area": "",
+          "land_val": "",
+          "building_val": "13 0 0",
+          "total_val": "13 0 0"
+        },
+        {
+          "mr": "78",
+          "occupier": "Anne Lowey, .",
+          "lessor": "Same, .",
+          "desc": "H,yd,&G",
+          "area": "0 0 20",
+          "land_val": "0 10 0",
+          "building_val": "4 0 0",
+          "total_val": "4 10 0"
+        },
+        {
+          "mr": "79",
+          "occupier": "Infant School-ho. & gar.",
+          "lessor": "(See Exemptions.)",
+          "desc": "H,O,yd., & sm. G.",
+          "area": "",
+          "land_val": "",
+          "building_val": "13 0 0",
+          "total_val": "13 0 0",
+          "is_exemption": 1
+        }
+      ]
+    }
+  ]
+}
